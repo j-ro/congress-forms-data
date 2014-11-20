@@ -1,0 +1,103 @@
+[
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/cd:13": {
+	   "name": "Florida's 13th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives FL-13",
+	   "divisionId": "ocd-division/country:us/state:fl/cd:13",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Jolly",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:13",
+	   "overwrite_name": "VACANT"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/cd:19": {
+	   "name": "Florida's 19th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives FL-19",
+	   "divisionId": "ocd-division/country:us/state:fl/cd:19",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Curt Clawson",
+	   "party": "Republican",
+	   "overwrite_name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:19"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/cd:7": {
+	   "name": "Virginia's 7th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives VA-07",
+	   "divisionId": "ocd-division/country:us/state:va/cd:7",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Eric Cantor",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/cd:7"
+	  }
+	 ]
+	}
+]

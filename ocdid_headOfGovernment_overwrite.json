@@ -1,0 +1,249 @@
+[
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi": {
+	   "name": "Hawaii",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:hi",
+	   "levels": [
+	    "administrativeArea1"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Neil Abercrombie",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi",
+	   "overwrite_name": "Neil Abercrombie",
+	   "emails": [
+	    "gov@gov.state.hi.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id": {
+	   "name": "Idaho",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:id",
+	   "levels": [
+	    "administrativeArea1"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "C.L. \"Butch\" Otter",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id",
+	   "overwrite_name": "C.L. \"Butch\" Otter",
+	   "emails": [
+	    "Governor@gov.idaho.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks": {
+	   "name": "Idaho",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:ks",
+	   "levels": [
+	    "administrativeArea1"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sam Brownback",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks",
+	   "overwrite_name": "Sam Brownback",
+	   "emails": [
+	    "governor@ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj": {
+	   "name": "New Jersey",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:nj",
+	   "levels": [
+	    "administrativeArea1"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Christie",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj",
+	   "overwrite_name": "Chris Christie",
+	   "emails": [
+	    "chris.christie@gov.state.nj.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh": {
+	   "name": "Ohio",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:oh",
+	   "levels": [
+	    "administrativeArea1"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Kasich",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh",
+	   "overwrite_name": "John Kasich",
+	   "emails": [
+	    "John.Kasich@governor.ohio.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa": {
+	   "name": "Washington",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:wa",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Inslee",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa",
+	   "overwrite_name": "Jay Inslee",
+	   "emails": [
+	    "aisling.kerins@gov.wa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nm": {
+	   "name": "New Mexico",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:nm",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susana Martinez",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nm",
+	   "overwrite_name": "Susana Martinez",
+	   "emails": [
+	    "gardners90@yahoo.com"
+	   ]
+	  }
+	 ]
+	}
+]

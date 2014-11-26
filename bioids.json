@@ -15524,5 +15524,35 @@
         "type": "Rep",
         "ocd_id": "ocd-division/country:us/state:fl/sldl:44",
         "state": "FL"
+    },
+    "A000370": {
+        "example_address": "1230 W. Morehead St.",
+        "example_city": "Charlotte",
+        "example_state": "NC",
+        "zip5": "28208",
+        "zip4": "5205",
+        "example_district": "12",
+        "type": "Rep",
+        "name": "Alma Adams"
+    },
+    "B001290": {
+        "example_address": "4201 Dominion Blvd",
+        "example_city": "Glen Allen",
+        "example_state": "VA",
+        "zip5": "23060",
+        "zip4": "6743",
+        "example_district": "7",
+        "type": "Rep",
+        "name": "Dave Brat"
+    },
+    "N000188": {
+        "example_address": "515 Grove Street",
+        "example_city": "Haddon Heights",
+        "example_state": "NJ",
+        "zip5": "08035",
+        "zip4": "1734",
+        "example_district": "1",
+        "type": "Rep",
+        "name": "Donald Norcross"
     }
 }

@@ -20890,5 +20890,59 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:5": {
+	   "name": "New Jersey State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State Senate District 5",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
+	   "overwrite_name": "Donald Norcross"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nc/sldl:58": {
+	   "name": "North Carolina State House district 58",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NC State House District 58",
+	   "divisionId": "ocd-division/country:us/state:nc/sldl:58",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:58",
+	   "overwrite_name": "Alma Adams"
+	  }
+	 ]
 	}
 ]

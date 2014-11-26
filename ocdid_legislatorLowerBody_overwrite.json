@@ -94,9 +94,78 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Dave Brat",
+	   "party": "Republican",
 	   "overwrite_name": "Eric Cantor",
 	   "overwrite_ocdid": "ocd-division/country:us/state:va/cd:7"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/cd:1": {
+	   "name": "New Jersey's 1st congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NJ-01",
+	   "divisionId": "ocd-division/country:us/state:nj/cd:1",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Donald Norcross",
+	   "party": "Democratic",
+	   "overwrite_name": "VACANT",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:1"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nc/cd:12": {
+	   "name": "North Carolina's 12th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NC-12",
+	   "divisionId": "ocd-division/country:us/state:nc/cd:12",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alma Adams",
+	   "party": "Democratic",
+	   "overwrite_name": "VACANT",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:12"
 	  }
 	 ]
 	}

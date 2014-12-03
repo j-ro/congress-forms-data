@@ -168,5 +168,38 @@
 	   "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:12"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:cl/cd:2": {
+	   "name": "Florida's 2nd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives FL-02",
+	   "divisionId": "ocd-division/country:us/state:fl/cd:2",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Steve Southerland",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:2"
+	  }
+	 ]
 	}
 ]

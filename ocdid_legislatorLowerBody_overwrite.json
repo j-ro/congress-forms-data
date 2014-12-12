@@ -171,7 +171,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:cl/cd:2": {
+	  "ocd-division/country:us/state:fl/cd:2": {
 	   "name": "Florida's 2nd congressional district",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -199,6 +199,237 @@
 	   "name": "Vacant",
 	   "overwrite_name": "Steve Southerland",
 	   "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:2"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:33": {
+	   "name": "California's 33rd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-33",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:33",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Henry Waxman",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:33"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:31": {
+	   "name": "California's 31st congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-31",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:31",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Gary Miller",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:31"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ma/cd:6": {
+	   "name": "Massachusetts's 6th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives MA-06",
+	   "divisionId": "ocd-division/country:us/state:ma/cd:6",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "John Tierney",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/cd:6"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/cd:6": {
+	   "name": "Pennsylvania's 6th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives PA-06",
+	   "divisionId": "ocd-division/country:us/state:pa/cd:6",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Jim Gerlach",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:6"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:11": {
+	   "name": "California's 11th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-11",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:11",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "George Miller",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:11"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wi/cd:6": {
+	   "name": "Wisconsin's 6th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives WI-06",
+	   "divisionId": "ocd-division/country:us/state:wi/cd:6",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "Thomas Petri",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/cd:6"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/cd:12": {
+	   "name": "Illinois's 12th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives IL-12",
+	   "divisionId": "ocd-division/country:us/state:il/cd:12",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_name": "William Enyart",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/cd:12"
 	  }
 	 ]
 	}

@@ -440,5 +440,38 @@
 	   "overwrite_name": "Barbara Comstock"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/cd:11": {
+	   "name": "New York's 11th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NY-11",
+	   "divisionId": "ocd-division/country:us/state:ny/cd:11",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:11",
+	   "overwrite_name": "Michael G. Grimm"
+	  }
+	 ]
 	}
 ]

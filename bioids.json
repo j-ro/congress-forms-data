@@ -5016,7 +5016,7 @@
         "mark": "true",
         "name": "Daniel Coats"
     },
-    "C000560": {
+    "L000575": {
         "example_address": "1800 South Baltimore",
         "example_city": "Tulsa",
         "example_state": "OK",
@@ -5025,7 +5025,7 @@
         "example_district": "",
         "type": "Sen",        
         "mark": "true",
-        "name": "Thomas Coburn"
+        "name": "James Lankford"
     },
     "C000567": {
         "example_address": "190 East Capitol Street",
@@ -16218,7 +16218,7 @@
         "mark": "true",
         "name": "Andy Vidak",
         "type": "Sen",
-        "ocd_id": "ocd-division/country:us/state:ca/sldu:16",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:14",
         "state": "CA"
     },
     "SLe000517": {        
@@ -16273,8 +16273,8 @@
     "SLe000450": {        
         "mark": "true",
         "name": "Bob Wieckowski",
-        "type": "Rep",
-        "ocd_id": "ocd-division/country:us/state:ca/sldl:25",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:10",
         "state": "CA"
     },
     "SLe000495": {        
@@ -16426,9 +16426,9 @@
     },
     "SLe000531": {        
         "mark": "true",
-        "name": "Holly Mitchell",
+        "name": "Holly J. Mitchell",
         "type": "Sen",
-        "ocd_id": "ocd-division/country:us/state:ca/sldu:26",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:30",
         "state": "CA"
     },
     "SLe000482": {        
@@ -16441,8 +16441,8 @@
     "SLe000489": {        
         "mark": "true",
         "name": "Isadore Hall III",
-        "type": "Rep",
-        "ocd_id": "ocd-division/country:us/state:ca/sldl:64",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:35",
         "state": "CA"
     },
     "SLe000523": {        
@@ -16533,7 +16533,7 @@
         "mark": "true",
         "name": "Kevin de Leon",
         "type": "Sen",
-        "ocd_id": "ocd-division/country:us/state:ca/sldu:22",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:24",
         "state": "CA"
     },
     "SLe000447": {        
@@ -16707,8 +16707,8 @@
     "SLe000434": {        
         "mark": "true",
         "name": "Richard Pan",
-        "type": "Rep",
-        "ocd_id": "ocd-division/country:us/state:ca/sldl:9",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:6",
         "state": "CA"
     },
     "SLe000449": {        
@@ -17608,8 +17608,57 @@
     "state_ca_sldu_2_state_sen_mike_mcguire": {        
         "mark": "true",
         "name": "Mike McGuire",
-        "type": "Rep",
+        "type": "Sen",
         "ocd_id": "ocd-division/country:us/state:ca/sldu:2",
+        "state": "CA"
+    },
+    "state_ca_sldu_18_state_sen_robert_m_hertzberg": {        
+        "mark": "true",
+        "name": "Robert M. Hertzberg",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:18",
+        "state": "CA"
+    },
+    "state_ca_sldu_20_state_sen_connie_m_leyva": {        
+        "mark": "true",
+        "name": "Connie M. Leyva",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:20",
+        "state": "CA"
+    },
+    "state_ca_sldu_26_state_sen_benjamin_allen": {        
+        "mark": "true",
+        "name": "Benjamin Allen",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:26",
+        "state": "CA"
+    },
+    "state_ca_sldu_28_state_sen_jeff_stone": {        
+        "mark": "true",
+        "name": "Jeff Stone",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:28",
+        "state": "CA"
+    },
+    "state_ca_sldu_32_state_sen_tony_mendoza": {        
+        "mark": "true",
+        "name": "Tony Mendoza",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:32",
+        "state": "CA"
+    },
+    "state_ca_sldu_34_state_sen_janet_nguyen": {        
+        "mark": "true",
+        "name": "Janet Nguyen",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:34",
+        "state": "CA"
+    },
+    "state_ca_sldu_36_state_sen_patricia_c_bates": {        
+        "mark": "true",
+        "name": "Patricia C. Bates",
+        "type": "Sen",
+        "ocd_id": "ocd-division/country:us/state:ca/sldu:36",
         "state": "CA"
     }
 }

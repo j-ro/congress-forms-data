@@ -1120,5 +1120,311 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:1": {
+	   "name": "Colorado State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 1",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:1",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jerry Sonnenberg",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:1",
+	   "overwrite_name": "Jerry Sonenberg",
+	   "emails": [
+	   		"senatorsonnenberg@gmail.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:5": {
+	   "name": "Colorado State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 5",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:5",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kerry Donovan",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:5",
+	   "overwrite_name": "Kerry Donovan",
+	   "emails": [
+	   		"kerry.donovan.senate@state.co.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:13": {
+	   "name": "Colorado State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 13",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:13",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Cooke",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:13",
+	   "overwrite_name": "John Cooke",
+	   "emails": [
+	   		"john.cooke.senate@state.co.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:19": {
+	   "name": "Colorado State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 19",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:19",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Laura J. Woods",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:19",
+	   "overwrite_name": "Laura J. Woods",
+	   "emails": [
+	   		"laura.woods.senate@state.co.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:24": {
+	   "name": "Colorado State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 24",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:24",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Beth Martinez Humenik",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:24",
+	   "overwrite_name": "Beth Martinez Humenik",
+	   "emails": [
+	   		"beth.martinezhumenik.senate@state.co.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:12": {
+	   "name": "Connecticut State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 12",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:12",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ted Kennedy Jr",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:12",
+	   "overwrite_name": "Ted Kennedy Jr",
+	   "emails": [
+	   		"kennedy@senatedems.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:22": {
+	   "name": "Connecticut State Senate district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 22",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:22",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marilyn V. Moore",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:22",
+	   "overwrite_name": "Marilyn V. Moore",
+	   "emails": [
+	   		"moore@senatedems.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:28": {
+	   "name": "Connecticut State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 28",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:28",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anthony Hwang",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:28",
+	   "overwrite_name": "Anthony Hwang",
+	   "emails": [
+	   		"anthony.hwang@cga.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:de/sldu:21": {
+	   "name": "Delaware State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "DE State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:de/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bryant L. Richardson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:21",
+	   "overwrite_name": "Bryant L. Richardson",
+	   "emails": [
+	   		"Bryant.Richardson@state.de.us"
+	   ]
+	  }
+	 ]
 	}
 ]

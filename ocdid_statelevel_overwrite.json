@@ -4248,5 +4248,3235 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable": {
+	   "name": "Massachusetts Plymouth & Barnstable district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MA State Senate District Plymouth and Barnstable",
+	   "divisionId": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vinny DeMacedo",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+	   "overwrite_name": "Vinny DeMacedo",
+	   "emails": [
+	   		"Vinny.deMacedo@masenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:5": {
+	   "name": "Michigan State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 5",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:5",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Knezek",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:5",
+	   "overwrite_name": "David Knezek",
+	   "emails": [
+	   		"sendknezek@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:6": {
+	   "name": "Michigan State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:6",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Hoon-Yung Hopgood",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:6",
+	   "overwrite_name": "Hoon-Yung Hopgood",
+	   "emails": [
+	   		"senhhopgood@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:8": {
+	   "name": "Michigan State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jack Brandenburg",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:8",
+	   "overwrite_name": "Jack Brandenburg",
+	   "emails": [
+	   		"SenJBrandenburg@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:11": {
+	   "name": "Michigan State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 11",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:11",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vincent Gregory",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:11",
+	   "overwrite_name": "Vincent Gregory",
+	   "emails": [
+	   		"senvgregory@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:13": {
+	   "name": "Michigan State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 13",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:13",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marty Knollenberg",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:13",
+	   "overwrite_name": "Marty Knollenberg",
+	   "emails": [
+	   		"SenMKnollenberg@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:14": {
+	   "name": "Michigan State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 14",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:14",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Robertson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:14",
+	   "overwrite_name": "David Robertson",
+	   "emails": [
+	   		"SenDRobertson@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:16": {
+	   "name": "Michigan State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 16",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:16",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Shirkey",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:16",
+	   "overwrite_name": "Mike Shirkey",
+	   "emails": [
+	   		"SenMShirkey@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:17": {
+	   "name": "Michigan State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 17",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:17",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dale Zorn",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:17",
+	   "overwrite_name": "Dale Zorn",
+	   "emails": [
+	   		"SenDZorn@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:20": {
+	   "name": "Michigan State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 20",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:20",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Margaret O'Brien",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:20",
+	   "overwrite_name": "Margaret O'Brien",
+	   "emails": [
+	   		"SenMOBrien@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:23": {
+	   "name": "Michigan State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 23",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:23",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Curtis Hertel",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:23",
+	   "overwrite_name": "Curtis Hertel",
+	   "emails": [
+	   		"senchertel@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:26": {
+	   "name": "Michigan State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 26",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:26",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tonya Schuitmaker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:26",
+	   "overwrite_name": "Tonya Schuitmaker",
+	   "emails": [
+	   		"senTSchuitmaker@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:28": {
+	   "name": "Michigan State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 28",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:28",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Peter MacGregor",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:28",
+	   "overwrite_name": "Peter MacGregor",
+	   "emails": [
+	   		"SenPMacGregor@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:32": {
+	   "name": "Michigan State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ken Horn",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:32",
+	   "overwrite_name": "Ken Horn",
+	   "emails": [
+	   		"SenKHorn@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:36": {
+	   "name": "Michigan State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 36",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:36",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Stamas",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:36",
+	   "overwrite_name": "Jim Stamas",
+	   "emails": [
+	   		"SenJStamas@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:37": {
+	   "name": "Michigan State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 37",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:37",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wayne Schmidt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:37",
+	   "overwrite_name": "Wayne Schmidt",
+	   "emails": [
+	   		"SenWSchmidt@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:3": {
+	   "name": "Nebraska State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tommy Garrett",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:3",
+	   "overwrite_name": "Tommy Garrett",
+	   "emails": [
+	   		"tgarrett@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:4": {
+	   "name": "Nebraska State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 4",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:4",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert Hilkemann",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:4",
+	   "overwrite_name": "Robert Hilkemann",
+	   "emails": [
+	   		"rhilkemann@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:6": {
+	   "name": "Nebraska State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:6",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joni Craighead",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:6",
+	   "overwrite_name": "Joni Craighead",
+	   "emails": [
+	   		"jcraighead@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:12": {
+	   "name": "Nebraska State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 12",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:12",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Merv Riepe",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:12",
+	   "overwrite_name": "Merv Riepe",
+	   "emails": [
+	   		"mriepe@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:15": {
+	   "name": "Nebraska State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 15",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:15",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David A. Schnoor",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:15",
+	   "overwrite_name": "David A. Schnoor",
+	   "emails": [
+	   		"dschnoor@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:18": {
+	   "name": "Nebraska State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 18",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:18",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brett Lindstrom",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:18",
+	   "overwrite_name": "Brett Lindstrom",
+	   "emails": [
+	   		"blindstrom@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:20": {
+	   "name": "Nebraska State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 20",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:20",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John S. McCollister",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:20",
+	   "overwrite_name": "John S. McCollister",
+	   "emails": [
+	   		"jmccollister@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:24": {
+	   "name": "Nebraska State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 24",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:24",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark A. Kolterman",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:24",
+	   "overwrite_name": "Mark A. Kolterman",
+	   "emails": [
+	   		"mkolterman@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:26": {
+	   "name": "Nebraska State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 26",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:26",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matt Hansen",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:26",
+	   "overwrite_name": "Matt Hansen",
+	   "emails": [
+	   		"mhansen@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:28": {
+	   "name": "Nebraska State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 28",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:28",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patty Pansing Brooks",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:28",
+	   "overwrite_name": "Patty Pansing Brooks",
+	   "emails": [
+	   		"ppansingbrooks@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:30": {
+	   "name": "Nebraska State Senate district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 30",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:30",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Roy E. Baker",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:30",
+	   "overwrite_name": "Roy E. Baker",
+	   "emails": [
+	   		"rbaker@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:32": {
+	   "name": "Nebraska State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Laura Ebke",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:32",
+	   "overwrite_name": "Laura Ebke",
+	   "emails": [
+	   		"lebke@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:34": {
+	   "name": "Nebraska State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 34",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:34",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Curt Friesen",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:34",
+	   "overwrite_name": "Curt Friesen",
+	   "emails": [
+	   		"cfriesen@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:36": {
+	   "name": "Nebraska State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 36",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:36",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matt Williams",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:36",
+	   "overwrite_name": "Matt Williams",
+	   "emails": [
+	   		"mwilliams@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:38": {
+	   "name": "Nebraska State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 38",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:38",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John L. Kuehn",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:38",
+	   "overwrite_name": "John L. Kuehn",
+	   "emails": [
+	   		"jkuehn@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:42": {
+	   "name": "Nebraska State Senate district 42",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 42",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:42",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Groene",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:42",
+	   "overwrite_name": "Mike Groene",
+	   "emails": [
+	   		"mgroene@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:44": {
+	   "name": "Nebraska State Senate district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 44",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:44",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan Hughes",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:44",
+	   "overwrite_name": "Dan Hughes",
+	   "emails": [
+	   		"dhughes@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:46": {
+	   "name": "Nebraska State Senate district 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 46",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:46",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adam Morfeld",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:46",
+	   "overwrite_name": "Adam Morfeld",
+	   "emails": [
+	   		"amorfeld@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ne/sldu:48": {
+	   "name": "Nebraska State Senate district 48",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NE State Senate District 48",
+	   "divisionId": "ocd-division/country:us/state:ne/sldu:48",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John P. Stinner",
+	   "party": "Nonpartisan",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:48",
+	   "overwrite_name": "John P. Stinner",
+	   "emails": [
+	   		"jstinner@leg.ne.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nv/sldu:6": {
+	   "name": "Nevada State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NV State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:nv/sldu:6",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Lipparelli",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:6",
+	   "overwrite_name": "Mark Lipparelli",
+	   "emails": [
+	   		"Mark.Lipparelli@sen.state.nv.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nv/sldu:8": {
+	   "name": "Nevada State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NV State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:nv/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patricia Farley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:8",
+	   "overwrite_name": "Patricia Farley",
+	   "emails": [
+	   		"Patricia.Farley@sen.state.nv.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nv/sldu:9": {
+	   "name": "Nevada State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NV State Senate District 9",
+	   "divisionId": "ocd-division/country:us/state:nv/sldu:9",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Becky Harris",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:9",
+	   "overwrite_name": "Becky Harris",
+	   "emails": [
+	   		"Becky.Harris@sen.state.nv.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:5": {
+	   "name": "New Jersey State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State Senate District 5",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nilsa Cruz-Perez",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
+	   "overwrite_name": "Nilsa Cruz-Perez",
+	   "emails": [
+	   		"SenCruzPerez@njleg.org@sen.state.nv.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:17": {
+	   "name": "New Jersey State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 17",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Danielsen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:17",
+	   "overwrite_name": "Joe Danielsen",
+	   "emails": [
+	   		"AsmDanielsen@njleg.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:2": {
+	   "name": "North Dakota State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 2",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bert Anderson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:2",
+	   "overwrite_name": "Bert Anderson",
+	   "emails": [
+	   		"bertanderson@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:11": {
+	   "name": "North Dakota State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 11",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kris Wallman",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:11",
+	   "overwrite_name": "Kris Wallman",
+	   "emails": [
+	   		"kwallman@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:13": {
+	   "name": "North Dakota State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 13",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christopher D. Olson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:13",
+	   "overwrite_name": "Christopher D. Olson",
+	   "emails": [
+	   		"cdolson@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:21": {
+	   "name": "North Dakota State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 21",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Schneider",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:21",
+	   "overwrite_name": "Mary Schneider",
+	   "emails": [
+	   		"mschneider@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:25": {
+	   "name": "North Dakota State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 25",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cynthia Schreiber Beck",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:25",
+	   "overwrite_name": "Cynthia Schreiber Beck",
+	   "emails": [
+	   		"cschreiberbeck@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:25": {
+	   "name": "North Dakota State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 25",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alisa Mitskog",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:25",
+	   "overwrite_name": "Alisa Mitskog",
+	   "emails": [
+	   		"amitskog@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:27": {
+	   "name": "North Dakota State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 27",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:27",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jonathan Casper",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:27",
+	   "overwrite_name": "Jonathan Casper",
+	   "emails": [
+	   		"jcasper@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:33": {
+	   "name": "North Dakota State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 33",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Seibel",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:33",
+	   "overwrite_name": "Jay Seibel",
+	   "emails": [
+	   		"jayseibel@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:35": {
+	   "name": "North Dakota State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 35",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:35",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Erin Oban",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:35",
+	   "overwrite_name": "Erin Oban",
+	   "emails": [
+	   		"eoban@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:37": {
+	   "name": "North Dakota State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 37",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:37",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Lefor",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:37",
+	   "overwrite_name": "Mike Lefor",
+	   "emails": [
+	   		"mlefor@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:39": {
+	   "name": "North Dakota State Senate district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 39",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Denton Zubke",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:39",
+	   "overwrite_name": "Denton Zubke",
+	   "emails": [
+	   		"dzubke@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:41": {
+	   "name": "North Dakota State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 41",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Al Carlson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:41",
+	   "overwrite_name": "Al Carlson",
+	   "emails": [
+	   		"acarlson@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:41": {
+	   "name": "North Dakota State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 41",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pamela Anderson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:41",
+	   "overwrite_name": "Pamela Anderson",
+	   "emails": [
+	   		"pkanderson@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:41": {
+	   "name": "North Dakota State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 41",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:41",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kyle R Davison",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:41",
+	   "overwrite_name": "Kyle R Davison",
+	   "emails": [
+	   		"kdavison@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:43": {
+	   "name": "North Dakota State Senate district 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 43",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lois Delmore",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:43",
+	   "overwrite_name": "Lois Delmore",
+	   "emails": [
+	   		"ldelmore@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:43": {
+	   "name": "North Dakota State Senate district 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 43",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rich S. Becker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:43",
+	   "overwrite_name": "Rich S. Becker",
+	   "emails": [
+	   		"rsbecker@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:45": {
+	   "name": "North Dakota State Senate district 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 45",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary C. Johnson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:45",
+	   "overwrite_name": "Mary C. Johnson",
+	   "emails": [
+	   		"marycjohnson@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:45": {
+	   "name": "North Dakota State Senate district 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 45",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tom Kading",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:45",
+	   "overwrite_name": "Tom Kading",
+	   "emails": [
+	   		"tkading@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldu:9": {
+	   "name": "Ohio State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State Senate District 9",
+	   "divisionId": "ocd-division/country:us/state:oh/sldu:9",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cecil Thomas",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:9",
+	   "overwrite_name": "Cecil Thomas",
+	   "emails": [
+	   		"sd09@senate.state.oh.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldu:21": {
+	   "name": "Ohio State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:oh/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sandra Williams",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:21",
+	   "overwrite_name": "Sandra Williams",
+	   "emails": [
+	   		"sd21@senate.state.oh.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldu:25": {
+	   "name": "Ohio State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State Senate District 25",
+	   "divisionId": "ocd-division/country:us/state:oh/sldu:25",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kenny Yuko",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:25",
+	   "overwrite_name": "Kenny Yuko",
+	   "emails": [
+	   		"sd25@senate.state.oh.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldu:31": {
+	   "name": "Ohio State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State Senate District 31",
+	   "divisionId": "ocd-division/country:us/state:oh/sldu:31",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Hottinger",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:31",
+	   "overwrite_name": "Jay Hottinger",
+	   "emails": [
+	   		"sd31@senate.state.oh.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:or/sldu:8": {
+	   "name": "Oregon State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OR State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:or/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sara A Gelser",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:8",
+	   "overwrite_name": "Sara A Gesler",
+	   "emails": [
+	   		"Sen.SaraGelser@state.or.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:4": {
+	   "name": "Pennsylvania State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 4",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:4",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Arthur Haywood",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:4",
+	   "overwrite_name": "Arthur Haywood",
+	   "emails": [
+	   		"senatorhaywood@pasenate.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:38": {
+	   "name": "Pennsylvania State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 38",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:38",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Randy Vulakovich",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:38",
+	   "overwrite_name": "Randy Vulakovich",
+	   "emails": [
+	   		"rvulakovich@pasen.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:46": {
+	   "name": "Pennsylvania State Senate district 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 46",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:46",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Camera Bartolotta",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:46",
+	   "overwrite_name": "Camera Bartolotta",
+	   "emails": [
+	   		"cbartolotta@pasen.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:1": {
+	   "name": "South Dakota State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 1",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven McCleerey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:1",
+	   "overwrite_name": "Steven McCleery",
+	   "emails": [
+	   		"rep.mccleerey@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:2": {
+	   "name": "South Dakota State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 2",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lana Greenfield",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:2",
+	   "overwrite_name": "Lana Greenfield",
+	   "emails": [
+	   		"rep.greenfield@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:2": {
+	   "name": "South Dakota State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 2",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:2",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brock L Greenfield",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:2",
+	   "overwrite_name": "Brock L Greenfield",
+	   "emails": [
+	   		"sen.greenfield@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Al Novstrup",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "Al Novstrup",
+	   "emails": [
+	   		"rep.novstrup@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:4": {
+	   "name": "South Dakota State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 4",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John J Wiik",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:4",
+	   "overwrite_name": "John J Wiik",
+	   "emails": [
+	   		"rep.wiik@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:4": {
+	   "name": "South Dakota State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 4",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Fred E Deutsch",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:4",
+	   "overwrite_name": "Fred E Deutsch",
+	   "emails": [
+	   		"rep.deutsch@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:4": {
+	   "name": "South Dakota State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 4",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:4",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Peterson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:4",
+	   "overwrite_name": "Jim Peterson",
+	   "emails": [
+	   		"sen.peterson@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:5": {
+	   "name": "South Dakota State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 5",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lee Schoenbeck",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:5",
+	   "overwrite_name": "Lee Schoenbeck",
+	   "emails": [
+	   		"rep.schoenbeck@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:8": {
+	   "name": "South Dakota State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 8",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mathew J Wollmann",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:8",
+	   "overwrite_name": "Mathew J Wollmann",
+	   "emails": [
+	   		"rep.wollmann@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:8": {
+	   "name": "South Dakota State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scott Parsley",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:8",
+	   "overwrite_name": "Scott Parsley",
+	   "emails": [
+	   		"sen.parsley@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:10": {
+	   "name": "South Dakota State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 10",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven Haugaard",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:10",
+	   "overwrite_name": "Steven Haugaar",
+	   "emails": [
+	   		"rep.haugaard@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:10": {
+	   "name": "South Dakota State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 10",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:10",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jenna Haggar",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:10",
+	   "overwrite_name": "Jenna Haggar",
+	   "emails": [
+	   		"sen.haggar@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:12": {
+	   "name": "South Dakota State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 12",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alex P Jensen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:12",
+	   "overwrite_name": "Alex P Jensen",
+	   "emails": [
+	   		"rep.jensen@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:12": {
+	   "name": "South Dakota State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 12",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Arch Beal",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:12",
+	   "overwrite_name": "Arch Beal",
+	   "emails": [
+	   		"rep.beal@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:14": {
+	   "name": "South Dakota State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Holmes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:14",
+	   "overwrite_name": "Thomas Holmes",
+	   "emails": [
+	   		"rep.holmes@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:14": {
+	   "name": "South Dakota State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Larry P Zikmund",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:14",
+	   "overwrite_name": "Larry P Zikmund",
+	   "emails": [
+	   		"rep.zikmund@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:17": {
+	   "name": "South Dakota State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 17",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:17",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Arthur Rusch",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:17",
+	   "overwrite_name": "Arthur Rusch",
+	   "emails": [
+	   		"sen.rusch@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:18": {
+	   "name": "South Dakota State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 18",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:18",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bernie Hunhoff",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:18",
+	   "overwrite_name": "Bernie Hunhoff",
+	   "emails": [
+	   		"sen.hunhoff@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:19": {
+	   "name": "South Dakota State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kent Peterson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:19",
+	   "overwrite_name": "Kent Peterson",
+	   "emails": [
+	   		"rep.peterson@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:20": {
+	   "name": "South Dakota State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 20",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joshua Klumb",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:20",
+	   "overwrite_name": "Joshua Klumb",
+	   "emails": [
+	   		"rep.klumb@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:23": {
+	   "name": "South Dakota State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 23",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:23",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michele K Harrison",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:23",
+	   "overwrite_name": "Michele K Harrison",
+	   "emails": [
+	   		"rep.harrison@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:25": {
+	   "name": "South Dakota State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 25",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Roger Hunt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:25",
+	   "overwrite_name": "Roger Hunt",
+	   "emails": [
+	   		"rep.hunt@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:26": {
+	   "name": "South Dakota State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 26",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:26",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Troy Heinert",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:26",
+	   "overwrite_name": "Troy Heinert",
+	   "emails": [
+	   		"sen.heinert@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:28": {
+	   "name": "South Dakota State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 28",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:28",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Betty Olson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:28",
+	   "overwrite_name": "Betty Olson",
+	   "emails": [
+	   		"sen.olson@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:29": {
+	   "name": "South Dakota State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 29",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:29",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary Cammack",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:29",
+	   "overwrite_name": "Gary Cammack",
+	   "emails": [
+	   		"sen.cammack@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:29": {
+	   "name": "South Dakota State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 29",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Brunner",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:29",
+	   "overwrite_name": "Thomas Brunner",
+	   "emails": [
+	   		"rep.brunner@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:34": {
+	   "name": "South Dakota State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 34",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeffrey Partridge",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:34",
+	   "overwrite_name": "Jeffrey Partridge",
+	   "emails": [
+	   		"rep.partridge@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:35": {
+	   "name": "South Dakota State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 35",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lynne DiSanto",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:35",
+	   "overwrite_name": "Lynne DiSanto",
+	   "emails": [
+	   		"rep.disanto@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:35": {
+	   "name": "South Dakota State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 35",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:35",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terri Haverly",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:35",
+	   "overwrite_name": "Terri Haverly",
+	   "emails": [
+	   		"sen.haverly@state.sd.us"
+	   ]
+	  }
+	 ]
 	}
 ]

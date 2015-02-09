@@ -11252,5 +11252,1841 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:22": {
+	   "name": "Georgia State House district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 22",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wesley Cantrell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:22",
+	   "overwrite_name": "Wesley Cantrell",
+	   "emails": [
+	   		"wesley.cantrell@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:34": {
+	   "name": "Georgia State House district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 34",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Albert Reeves",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:34",
+	   "overwrite_name": "Albert Reeves",
+	   "emails": [
+	   		"bert.reeves@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:39": {
+	   "name": "Georgia State House district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 39",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Erica Thomas",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:39",
+	   "overwrite_name": "Eric Thomas",
+	   "emails": [
+	   		"erica.thomas@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:98": {
+	   "name": "Georgia State House district 98",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 98",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:98",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Clark",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:98",
+	   "overwrite_name": "David Clark",
+	   "emails": [
+	   		"david.clark@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:112": {
+	   "name": "Georgia State House district 112",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 112",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:112",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "D.C. Belton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:112",
+	   "overwrite_name": "D.C. Belton",
+	   "emails": [
+	   		"dave.belton@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:132": {
+	   "name": "Georgia State House district 132",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 132",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:132",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert Trammell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:132",
+	   "overwrite_name": "Robert Trammell",
+	   "emails": [
+	   		"bob.trammell@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:147": {
+	   "name": "Georgia State House district 147",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 147",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:147",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Heath Clark",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:147",
+	   "overwrite_name": "Heath Clark",
+	   "emails": [
+	   		"heath.clark@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:153": {
+	   "name": "Georgia State House district 153",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 153",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:153",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Darrel Ealum",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:153",
+	   "overwrite_name": "Darrel Ealum",
+	   "emails": [
+	   		"darrel.ealum@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:157": {
+	   "name": "Georgia State House district 157",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 157",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:157",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "William Werkheiser",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:157",
+	   "overwrite_name": "William Werkheiser",
+	   "emails": [
+	   		"bill.werkheiser@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:166": {
+	   "name": "Georgia State House district 166",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 166",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:166",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jesse Petrea",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:166",
+	   "overwrite_name": "Jesse Petrea",
+	   "emails": [
+	   		"jesse.petrea@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:167": {
+	   "name": "Georgia State House district 167",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 167",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:167",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "J.B. Jones",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:167",
+	   "overwrite_name": "J.B. Jones",
+	   "emails": [
+	   		"jb.jones@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:169": {
+	   "name": "Georgia State House district 169",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 169",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:169",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dominic Lariccia",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:169",
+	   "overwrite_name": "Dominic Lariccia",
+	   "emails": [
+	   		"dominic.lariccia@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:174": {
+	   "name": "Georgia State House district 174",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 174",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:174",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Corbett",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:174",
+	   "overwrite_name": "John Corbett",
+	   "emails": [
+	   		"john.corbett@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:4": {
+	   "name": "Hawaii State House district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 4",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joy A. San Buenaventura",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:4",
+	   "overwrite_name": "Joy A. San Buenaventura",
+	   "emails": [
+	   		"repsanbuenaventura@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:33": {
+	   "name": "Hawaii State House district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 33",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sam Satoru Kong",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:33",
+	   "overwrite_name": "Sam Satoru Kong",
+	   "emails": [
+	   		"repkong@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:41": {
+	   "name": "Hawaii State House district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 41",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matthew S. LoPresti",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:41",
+	   "overwrite_name": "Matthew S. LoPresti",
+	   "emails": [
+	   		"replopresti@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:43": {
+	   "name": "Hawaii State House district 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 43",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Andria P.L. Tupola",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:43",
+	   "overwrite_name": "Andria P.L. Tupola",
+	   "emails": [
+	   		"reptupola@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:47": {
+	   "name": "Hawaii State House district 47",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 47",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:47",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Feki Pouha",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:47",
+	   "overwrite_name": "Feki Pouha",
+	   "emails": [
+	   		"reppouha@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldl:48": {
+	   "name": "Hawaii State House district 48",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State House District 48",
+	   "divisionId": "ocd-division/country:us/state:hi/sldl:48",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jarrett Keohokalole",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldl:48",
+	   "overwrite_name": "Jarrett Keohokalole",
+	   "emails": [
+	   		"repkeohokalole@Capitol.hawaii.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:10": {
+	   "name": "Illinois State House district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 10",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pamela Reaves-Harris",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:10",
+	   "overwrite_name": "Pamela Reaves-Harris",
+	   "emails": [
+	   		"repreavesharris@yahoo.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:39": {
+	   "name": "Illinois State House district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 39",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Will Guzzardi",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:39",
+	   "overwrite_name": "Will Guzzardi",
+	   "emails": [
+	   		"will@repguzzardi.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:50": {
+	   "name": "Illinois State House district 50",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 50",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:50",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Peter Breen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:50",
+	   "overwrite_name": "Peter Breen",
+	   "emails": [
+	   		"office@repkeithwheeler.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:67": {
+	   "name": "Illinois State House district 67",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 67",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:67",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Litesa E. Wallace",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:67",
+	   "overwrite_name": "Litesa E. Wallace",
+	   "emails": [
+	   		"Litesa@StateRepWallace.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:103": {
+	   "name": "Illinois State House district 103",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 103",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:103",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Carol Ammons",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:103",
+	   "overwrite_name": "Carol Ammons",
+	   "emails": [
+	   		"csrepammons@gmail.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:1": {
+	   "name": "Iowa State House district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 1",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John H. Wills",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:1",
+	   "overwrite_name": "John H. Wills",
+	   "emails": [
+	   		"John.Wills@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:8": {
+	   "name": "Iowa State House district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 8",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terry Baxter",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:8",
+	   "overwrite_name": "Terry Baxter",
+	   "emails": [
+	   		"Terry.Baxter@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:10": {
+	   "name": "Iowa State House district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 10",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Sexton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:10",
+	   "overwrite_name": "Mike Sexton",
+	   "emails": [
+	   		"Mike.Sexton@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:12": {
+	   "name": "Iowa State House district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 12",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brian Best",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:12",
+	   "overwrite_name": "Brian Best",
+	   "emails": [
+	   		"Brian.Best@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:15": {
+	   "name": "Iowa State House district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 15",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charlie McConkey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:15",
+	   "overwrite_name": "Charlie McConkey",
+	   "emails": [
+	   		"Charlie.McConkey@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:18": {
+	   "name": "Iowa State House district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 18",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Holt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:18",
+	   "overwrite_name": "Steve Holt",
+	   "emails": [
+	   		"Steven.Holt@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:30": {
+	   "name": "Iowa State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 30",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Zach Nunn",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:30",
+	   "overwrite_name": "Zach Nunn",
+	   "emails": [
+	   		"Zach.Nunn@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:55": {
+	   "name": "Iowa State House district 55",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 55",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:55",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Darrel Branhagen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:55",
+	   "overwrite_name": "Darrel Branhagen",
+	   "emails": [
+	   		"Darrel.Branhagen@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:61": {
+	   "name": "Iowa State House district 61",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 61",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:61",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Timi Brown-Powers",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:61",
+	   "overwrite_name": "Timi Brown-Powers",
+	   "emails": [
+	   		"Timi.Brown-Powers@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:65": {
+	   "name": "Iowa State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 65",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Liz Bennett",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:65",
+	   "overwrite_name": "Liz Bennett",
+	   "emails": [
+	   		"Liz.Bennett@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:68": {
+	   "name": "Iowa State House district 68",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 68",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:68",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ken Rizer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:68",
+	   "overwrite_name": "Ken Rizer",
+	   "emails": [
+	   		"Ken.Rizer@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:91": {
+	   "name": "Iowa State House district 91",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 91",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:91",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary Carlson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:91",
+	   "overwrite_name": "Gary Carlson",
+	   "emails": [
+	   		"Gary.Carlson@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:97": {
+	   "name": "Iowa State House district 97",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 97",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:97",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Norlin Mommsen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:97",
+	   "overwrite_name": "Norlin Mommsen",
+	   "emails": [
+	   		"Norlin.Mommsen@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ia/sldl:99": {
+	   "name": "Iowa State House district 99",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IA State House District 99",
+	   "divisionId": "ocd-division/country:us/state:ia/sldl:99",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Abby Finkenauer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:99",
+	   "overwrite_name": "Abby Finkenauer",
+	   "emails": [
+	   		"Abby.Finkenauer@legis.iowa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:3": {
+	   "name": "Kansas State House district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 3",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charles Smith",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:3",
+	   "overwrite_name": "Charles Smith",
+	   "emails": [
+	   		"chuck.smith@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:23": {
+	   "name": "Kansas State House district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 23",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:23",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Linda Gallagher",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:23",
+	   "overwrite_name": "Linda Gallagher",
+	   "emails": [
+	   		"linda.gallagher@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:24": {
+	   "name": "Kansas State House district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 24",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jarrod Ousley",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:24",
+	   "overwrite_name": "Jarrod Ousley",
+	   "emails": [
+	   		"jarrod.ousley@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:30": {
+	   "name": "Kansas State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 30",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Randy Powell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:30",
+	   "overwrite_name": "Randy Powell",
+	   "emails": [
+	   		"randy.powell@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:41": {
+	   "name": "Kansas State House district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 41",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tony Barton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:41",
+	   "overwrite_name": "Tony Barton",
+	   "emails": [
+	   		"tony.barton@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:46": {
+	   "name": "Kansas State House district 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 46",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dennis \"Boog\" Highberger",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:46",
+	   "overwrite_name": "Dennis \"Boog\" Highberger",
+	   "emails": [
+	   		"dennis.boog.highberger@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:52": {
+	   "name": "Kansas State House district 52",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 52",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:52",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dick Jones",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:52",
+	   "overwrite_name": "Dick Jones",
+	   "emails": [
+	   		"dick.jones@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:56": {
+	   "name": "Kansas State House district 56",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 56",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:56",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lane Hemsley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:56",
+	   "overwrite_name": "Lane Hemsley",
+	   "emails": [
+	   		"lane.hemsley@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:61": {
+	   "name": "Kansas State House district 61",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 61",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:61",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Becky J. Hutchins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:61",
+	   "overwrite_name": "Becky J. Hutchins",
+	   "emails": [
+	   		"becky.hutchins@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:64": {
+	   "name": "Kansas State House district 64",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 64",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:64",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susie Swanson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:64",
+	   "overwrite_name": "Susie Swanson",
+	   "emails": [
+	   		"susie.swanson@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:65": {
+	   "name": "Kansas State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 65",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lonnie G. Clark",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:65",
+	   "overwrite_name": "Lonnie G. Clark",
+	   "emails": [
+	   		"lonnie.clark@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:77": {
+	   "name": "Kansas State House district 77",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 77",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:77",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kristey S. Williams",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:77",
+	   "overwrite_name": "Kristey S. Williams",
+	   "emails": [
+	   		"kristey.williams@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:81": {
+	   "name": "Kansas State House district 81",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 81",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:81",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Blake Carpenter",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:81",
+	   "overwrite_name": "Blake Carpenter",
+	   "emails": [
+	   		"blake.carpenter@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:113": {
+	   "name": "Kansas State House district 113",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 113",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:113",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeremy \"Basil\" Dannebohm",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:113",
+	   "overwrite_name": "Jeremy \"Basil\" Dannebohm",
+	   "emails": [
+	   		"basil.dannebohm@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ks/sldl:125": {
+	   "name": "Kansas State House district 125",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KS State House District 125",
+	   "divisionId": "ocd-division/country:us/state:ks/sldl:125",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shannon G. Francis",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:125",
+	   "overwrite_name": "Shannon G. Francis",
+	   "emails": [
+	   		"shannon.francis@house.ks.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ky/sldl:10": {
+	   "name": "Kentucky State House district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KY State House District 10",
+	   "divisionId": "ocd-division/country:us/state:ky/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dean Schamore",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:10",
+	   "overwrite_name": "Dean Schamore",
+	   "emails": [
+	   		"dean.schamore@lrc.ky.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

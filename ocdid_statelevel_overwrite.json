@@ -5672,7 +5672,41 @@
 	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
 	   "overwrite_name": "Nilsa Cruz-Perez",
 	   "emails": [
-	   		"SenCruzPerez@njleg.org@sen.state.nv.us"
+	   		"sencruzperez@njleg.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:15": {
+	   "name": "New Jersey State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 15",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elizabeth Maher Muoio",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:15",
+	   "overwrite_name": "Bonnie Watson Coleman",
+	   "emails": [
+	   		"asmmahermuoio@njleg.org"
 	   ]
 	  }
 	 ]
@@ -8929,11 +8963,41 @@
 	  {
 	   "name": "Devin LeMahieu",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:17",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
 	   "overwrite_name": "Devin LeMahieu",
 	   "emails": [
 	   		"Sen.LeMahieu@legis.wisconsin.gov"
 	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wi/sldu:20": {
+	   "name": "Wisconsin State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WI State Senate District 20",
+	   "divisionId": "ocd-division/country:us/state:wi/sldu:20",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:20",
+	   "overwrite_name": "Glenn Grothman"
 	  }
 	 ]
 	},
@@ -10532,6 +10596,97 @@
 	   "emails": [
 	   		"nelda@neldaspeaks.com"
 	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldl:11": {
+	   "name": "California State House district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State House District 11",
+	   "divisionId": "ocd-division/country:us/state:ca/sldl:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Frazier",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:11",
+	   "overwrite_name": "Mark DeSaulnier"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:37": {
+	   "name": "California State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 37",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:37",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:37",
+	   "overwrite_name": "Mimi Walters"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:21": {
+	   "name": "California State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:21",
+	   "overwrite_name": "Steve Knight"
 	  }
 	 ]
 	},
@@ -19776,6 +19931,36 @@
 	   "emails": [
 	   		"kklunk@pahousegop.com"
 	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:170": {
+	   "name": "Pennsylvania State House district 170",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 170",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:170",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:170",
+	   "overwrite_name": "Brendan F. Boyle"
 	  }
 	 ]
 	},

@@ -35,6 +35,74 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:al/sldu:1": {
+	   "name": "Alabama State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State Senate District 1",
+	   "divisionId": "ocd-division/country:us/state:al/sldu:1",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Melson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldu:1",
+	   "overwrite_name": "Tim Melson",
+	   "emails": [
+	   		"tim.melson@alsenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:al/sldu:23": {
+	   "name": "Alabama State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State Senate District 23",
+	   "divisionId": "ocd-division/country:us/state:al/sldu:23",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Hank Sanders",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldu:23",
+	   "overwrite_name": "Hank Sanders",
+	   "emails": [
+	   		"hank.sanders@alsenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:al/sldu:8": {
 	   "name": "Alabama State Senate district 8",
 	   "overwrite": "true",
@@ -2879,10 +2947,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "G. William Diamond",
+	   "name": "Michael Hough",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:4",
-	   "overwrite_name": "G. William Diamond",
+	   "overwrite_name": "Michael Hough",
 	   "emails": [
 	   		"michael.hough@senate.state.md.us"
 	   ]
@@ -3697,7 +3765,7 @@
 	  {
 	   "name": "Tony Knotts",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:25",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:26",
 	   "overwrite_name": "Tony Kontts",
 	   "emails": [
 	   		"Tony.Knotts@house.state.md.us"
@@ -4789,6 +4857,40 @@
 	   "overwrite_name": "Wayne Schmidt",
 	   "emails": [
 	   		"SenWSchmidt@senate.michigan.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mo/sldu:2": {
+	   "name": "Missouric State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MO State Senate District 2",
+	   "divisionId": "ocd-division/country:us/state:mo/sldu:2",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Onder",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:2",
+	   "overwrite_name": "Bob Onder",
+	   "emails": [
+	   		"Bob.Onder@senate.mo.gov"
 	   ]
 	  }
 	 ]
@@ -6359,6 +6461,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ok/sldu:11": {
+	   "name": "Oklahoma State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OK State Senate District 11",
+	   "divisionId": "ocd-division/country:us/state:ok/sldu:11",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:11",
+	   "overwrite_name": "Jabar Shumate"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:or/sldu:8": {
 	   "name": "Oregon State Senate district 8",
 	   "overwrite": "true",
@@ -6421,6 +6553,74 @@
 	   "overwrite_name": "Arthur Haywood",
 	   "emails": [
 	   		"senatorhaywood@pasenate.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:26": {
+	   "name": "Pennsylvania State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 26",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:26",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas McGarrigle",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:26",
+	   "overwrite_name": "Thomas McGarrigle",
+	   "emails": [
+	   		"tmcgarrigle@pasenate.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:32": {
+	   "name": "Pennsylvania State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick Stefano",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:32",
+	   "overwrite_name": "Patrick Stefano",
+	   "emails": [
+	   		"pstefano@pasenate.com"
 	   ]
 	  }
 	 ]
@@ -8359,6 +8559,40 @@
 	   "overwrite_name": "Cyrus Habib",
 	   "emails": [
 	   		"cyrus.habib@leg.wa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wi/sldu:9": {
+	   "name": "Wisconsin State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WI State Senate District 9",
+	   "divisionId": "ocd-division/country:us/state:wi/sldu:9",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Devin Lemahieu",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
+	   "overwrite_name": "Devin Lemahieu",
+	   "emails": [
+	   		"Sen.LeMahieu@legis.wisconsin.gov"
 	   ]
 	  }
 	 ]
@@ -10971,10 +11205,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "John Becker",
+	   "name": "J.P. Sredinski",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:112",
-	   "overwrite_name": "John Becker",
+	   "overwrite_name": "J.P. Sredinski",
 	   "emails": [
 	   		"jp.sredinski@housegop.ct.gov"
 	   ]
@@ -11935,6 +12169,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:37": {
+	   "name": "Illinois State House district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 37",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:37",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Margo McDermed",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:37",
+	   "overwrite_name": "Margo McDermed",
+	   "emails": [
+	   		"mem1210@comcast.net"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:il/sldl:39": {
 	   "name": "Illinois State House district 39",
 	   "overwrite": "true",
@@ -11969,6 +12237,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:45": {
+	   "name": "Illinois State House district 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 45",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christine Jennifer Winger",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:45",
+	   "overwrite_name": "Christine Jennifer Winger",
+	   "emails": [
+	   		"winger@ilhousegop.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:il/sldl:50": {
 	   "name": "Illinois State House district 50",
 	   "overwrite": "true",
@@ -11991,10 +12293,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Peter Breen",
+	   "name": "Keith R. Wheeler",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:50",
-	   "overwrite_name": "Peter Breen",
+	   "overwrite_name": "Keith R. Wheeler",
 	   "emails": [
 	   		"office@repkeithwheeler.org"
 	   ]
@@ -12065,6 +12367,40 @@
 	   "overwrite_name": "Carol Ammons",
 	   "emails": [
 	   		"csrepammons@gmail.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:115": {
+	   "name": "Illinois State House district 115",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 115",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:115",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terri Bryant",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:115",
+	   "overwrite_name": "Terri Bryant",
+	   "emails": [
+	   		"staterepterribryant@gmail.com"
 	   ]
 	  }
 	 ]
@@ -13363,6 +13699,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:me/sldl:21": {
+	   "name": "Maine State House district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State House District 21",
+	   "divisionId": "ocd-division/country:us/state:me/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James J. Campbell, Sr.",
+	   "party": "Independent"
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:21",
+	   "overwrite_name": "James J. Campbell, Sr.",
+	   "emails": [
+	   		"james.campbell@legislature.maine.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:me/sldl:93": {
 	   "name": "Maine State House district 93",
 	   "overwrite": "true",
@@ -14271,6 +14641,40 @@
 	   "overwrite_name": "David Muradian Jr",
 	   "emails": [
 	   		"David.Muradian@mahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldl:36": {
+	   "name": "Michigan State House district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State House District 36",
+	   "divisionId": "ocd-division/country:us/state:mi/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Peter Lucido",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:36",
+	   "overwrite_name": "Peter Lucido",
+	   "emails": [
+	   		"PeterLucido@house.mi.gov"
 	   ]
 	  }
 	 ]
@@ -16410,7 +16814,7 @@
 	   "name": "Sarah Maestas Barnes",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:15",
-	   "overwrite_name": "Sarah Maestas Barnesa",
+	   "overwrite_name": "Sarah Maestas Barnes",
 	   "emails": [
 	   		"sarah.maestasbarnes@nmlegis.gov"
 	   ]

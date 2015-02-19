@@ -23227,5 +23227,73 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:65": {
+	   "name": "New York State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 65",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sheldon Silver",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:65",
+	   "overwrite_name": "Sheldon Silver",
+	   "emails": [
+	   		"Silver@assembly.state.ny.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:83": {
+	   "name": "New York State House district 83",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 83",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:83",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Carl Heastie",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:83",
+	   "overwrite_name": "Carl Heastie",
+	   "emails": [
+	   		"Speaker@assembly.state.ny.us"
+	   ]
+	  }
+	 ]
 	}
 ]

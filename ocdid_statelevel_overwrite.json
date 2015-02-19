@@ -23193,5 +23193,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:116": {
+	   "name": "New York State House district 116",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 116",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:116",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Addie Russell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:116",
+	   "overwrite_name": "John L. Byrne III",
+	   "emails": [
+	   		"RussellA@assembly.state.ny.us"
+	   ]
+	  }
+	 ]
 	}
 ]

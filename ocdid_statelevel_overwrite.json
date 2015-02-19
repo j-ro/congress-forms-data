@@ -23295,5 +23295,141 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldu:60": {
+	   "name": "New York State Senate district 60",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State Senate District 60",
+	   "divisionId": "ocd-division/country:us/state:ny/sldu:60",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marc C. Panepinto",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:60",
+	   "overwrite_name": "Marc C. Panepinto",
+	   "emails": [
+	   		"Panepinto@nysenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldu:40": {
+	   "name": "New York State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State Senate District 40",
+	   "divisionId": "ocd-division/country:us/state:ny/sldu:40",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terrence P. Murphy",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:40",
+	   "overwrite_name": "Terrence P. Murphy",
+	   "emails": [
+	   		"murphy@nysenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldu:41": {
+	   "name": "New York State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State Senate District 41",
+	   "divisionId": "ocd-division/country:us/state:ny/sldu:41",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sue Serino",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:41",
+	   "overwrite_name": "Terry Gipson",
+	   "emails": [
+	   		"Serino@nysenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldu:62": {
+	   "name": "New York State Senate district 62",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State Senate District 62",
+	   "divisionId": "ocd-division/country:us/state:ny/sldu:62",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert G. Ortt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:62",
+	   "overwrite_name": "Robert G. Ort",
+	   "emails": [
+	   		"Ortt@nysenate.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

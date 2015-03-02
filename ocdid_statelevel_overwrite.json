@@ -10601,37 +10601,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ca/sldl:11": {
-	   "name": "California State House district 11",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "CA State House District 11",
-	   "divisionId": "ocd-division/country:us/state:ca/sldl:11",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jim Frazier",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:11",
-	   "overwrite_name": "Mark DeSaulnier"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldu:37": {
 	   "name": "California State Senate district 37",
 	   "overwrite": "true",
@@ -10657,6 +10626,36 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:37",
 	   "overwrite_name": "Mimi Walters"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:7": {
+	   "name": "California State Senate district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 7",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:7",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:7",
+	   "overwrite_name": "Mark DeSaulnier"
 	  }
 	 ]
 	},

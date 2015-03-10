@@ -134,5 +134,39 @@
 	   "overwrite_name": "Kirsten E. Gillibrand"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co": {
+	   "name": "Colorado",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:co",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael F. Bennet",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co",
+	   "overwrite_name": "Michael F. Bennet"
+	  }
+	 ]
 	}
 ]

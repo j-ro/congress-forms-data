@@ -10623,7 +10623,8 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "John M. W. Moorlach",
+	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:37",
 	   "overwrite_name": "Mimi Walters"
 	  }
@@ -10683,7 +10684,8 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Sharon Runner",
+	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:21",
 	   "overwrite_name": "Steve Knight"
 	  }
@@ -13909,9 +13911,13 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Pinny Beebe-Center",
+	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:93",
-	   "overwrite_name": "Elizabeth E. Dickerson"
+	   "overwrite_name": "Elizabeth E. Dickerson",
+	   "emails": [
+	   		"Pinny.Beebe-Center@legislature.maine.gov"
+	   ]
 	  }
 	 ]
 	},
@@ -19935,36 +19941,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldl:170": {
-	   "name": "Pennsylvania State House district 170",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State House District 170",
-	   "divisionId": "ocd-division/country:us/state:pa/sldl:170",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:170",
-	   "overwrite_name": "Brendan F. Boyle"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:173": {
 	   "name": "Pennsylvania State House district 173",
 	   "overwrite": "true",
@@ -23427,6 +23403,390 @@
 	   "overwrite_name": "Robert G. Ort",
 	   "emails": [
 	   		"Ortt@nysenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:95": {
+	   "name": "Illinois State House district 95",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 95",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:95",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Avery Bourne",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:95",
+	   "overwrite_name": "Wayne Rosenthal",
+	   "emails": [
+	   		"bourne@ilhousegop.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:1": {
+	   "name": "District of Columbia Ward 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 1",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:1",
+	   "overwrite_name": "Brianne Nadeau"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:2": {
+	   "name": "District of Columbia Ward 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 2",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:2",
+	   "overwrite_name": "Jack Evans"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:3": {
+	   "name": "District of Columbia Ward 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 3",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:3",
+	   "overwrite_name": "Mary Cheh"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:5": {
+	   "name": "District of Columbia Ward 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 5",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:5",
+	   "overwrite_name": "Kenyan McDuffie"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:6": {
+	   "name": "District of Columbia Ward 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 6",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:6",
+	   "overwrite_name": "Charles Allen"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:7": {
+	   "name": "District of Columbia Ward 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 7",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:7",
+	   "overwrite_name": "Yvette Alexander"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:13": {
+	   "name": "Florida State House district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 13",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Reggie Fullwood",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:13",
+	   "overwrite_name": "Vacant (Pending Special Election)",
+	   "emails": [
+	   		"reggie.fullwood@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:41": {
+	   "name": "Illinois State House district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 41",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Grant Wehrli",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:41",
+	   "overwrite_name": "Grant Wehrli",
+	   "emails": [
+	   		"41districtdirector@gmail.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:94": {
+	   "name": "Illinois State House district 94",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 94",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:94",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Randy E. Frese",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:94",
+	   "overwrite_name": "Randy E. Frese",
+	   "emails": [
+	   		"repfrese@adams.net"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:la/sldl:26": {
+	   "name": "Louisiana State House district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "LA State House District 26",
+	   "divisionId": "ocd-division/country:us/state:la/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeffrey Hall",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:26",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"hallj@legis.la.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:170": {
+	   "name": "Pennsylvania State House district 170",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 170",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:170",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Martina A. White",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:170",
+	   "overwrite_name": "Brendan F. Boyle",
+	   "emails": [
+	   		"mwhite@pahousegop.com"
 	   ]
 	  }
 	 ]

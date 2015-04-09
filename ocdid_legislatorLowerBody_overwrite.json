@@ -539,5 +539,38 @@
 	   "overwrite_name": "Alan Nunnelee"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/cd:18": {
+	   "name": "Illinois's 18th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives IL-18",
+	   "divisionId": "ocd-division/country:us/state:il/cd:18",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/cd:18",
+	   "overwrite_name": "Aaron Schock"
+	  }
+	 ]
 	}
 ]

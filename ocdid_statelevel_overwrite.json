@@ -23443,6 +23443,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:102": {
+	   "name": "Illinois State House district 102",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 102",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:102",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adam Brown",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:102",
+	   "overwrite_name": "Adam Brown",
+	   "emails": [
+	   		"abrown@ilhousegop.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:1": {
 	   "name": "District of Columbia Ward 1",
 	   "overwrite": "true",

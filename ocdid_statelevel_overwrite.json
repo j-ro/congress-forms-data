@@ -23824,5 +23824,141 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldl:107": {
+	   "name": "Connecticut State House district 107",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State House District 107",
+	   "divisionId": "ocd-division/country:us/state:ct/sldl:107",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Stephen G. Harding",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:107",
+	   "overwrite_name": "David A. Scribner",
+	   "emails": [
+	   		"stephen.harding@housegop.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldl:129": {
+	   "name": "Connecticut State House district 129",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State House District 129",
+	   "divisionId": "ocd-division/country:us/state:ct/sldl:129",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven Stafstrom",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:129",
+	   "overwrite_name": "Auden Grogins",
+	   "emails": [
+	   		"Steve.Stafstrom@cga.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:23": {
+	   "name": "Connecticut State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 23",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:23",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Edwin A. Gomes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:23",
+	   "overwrite_name": "Andres Ayala",
+	   "emails": [
+	   		"gomes@senatedems.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:29": {
+	   "name": "Connecticut State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 29",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:29",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mae Flexer",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:29",
+	   "overwrite_name": "Maw M.E. Flexer",
+	   "emails": [
+	   		"Mae.Flexer@cga.ct.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

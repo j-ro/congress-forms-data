@@ -23960,5 +23960,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldu:10": {
+	   "name": "Connecticut State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State Senate District 10",
+	   "divisionId": "ocd-division/country:us/state:ct/sldu:10",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary A. Holder-Winfield",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:10",
+	   "overwrite_name": "Gary A. Holder-Winfield",
+	   "emails": [
+	   		"winfield@senatedems.ct.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

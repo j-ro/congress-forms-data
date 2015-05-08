@@ -8497,6 +8497,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:42": {
+	   "name": "Washington State Senate district 42",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 42",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:42",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vincent Buys",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:42",
+	   "overwrite_name": "Jason Overstreet",
+	   "emails": [
+	   		"vincent.buys@leg.wa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:44": {
 	   "name": "Washington State Senate district 44",
 	   "overwrite": "true",

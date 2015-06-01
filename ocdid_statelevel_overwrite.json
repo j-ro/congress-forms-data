@@ -6517,9 +6517,13 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Kevin Matthews",
+	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:11",
-	   "overwrite_name": "Jabar Shumate"
+	   "overwrite_name": "Jabar Shumate",
+	   "emails": [
+	   		"Matthews@oksenate.gov"
+	   ]
 	  }
 	 ]
 	},
@@ -9029,9 +9033,13 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Duey Stroebel",
+	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:20",
-	   "overwrite_name": "Glenn Grothman"
+	   "overwrite_name": "Glenn Grothman",
+	   "emails": [
+	   		"Sen.Stroebel@legis.wisconsin.gov"
+	   ]
 	  }
 	 ]
 	},
@@ -10688,7 +10696,8 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Steven M. Glazer",
+	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:7",
 	   "overwrite_name": "Mark DeSaulnier"
 	  }
@@ -24025,6 +24034,890 @@
 	   "overwrite_name": "Gary A. Holder-Winfield",
 	   "emails": [
 	   		"winfield@senatedems.ct.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:43": {
+	   "name": "New York State House district 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 43",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Diana C. Richardson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:43",
+	   "overwrite_name": "Karim Camara",
+	   "emails": [
+	   		"richardsond@assembly.state.ny.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:52": {
+	   "name": "New York State House district 52",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 52",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:52",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jo Anne Simon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:52",
+	   "overwrite_name": "Joan Millman",
+	   "emails": [
+	   		"simonj@assembly.state.ny.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldu:6": {
+	   "name": "Florida State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:fl/sldu:6",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Travis Hutson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:6",
+	   "overwrite_name": "Vacant (Pending Special Election)",
+	   "emails": [
+	   		"travis.hutson.web@flsenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mo/sldu:10": {
+	   "name": "Missouri State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MO State Senate District 10",
+	   "divisionId": "ocd-division/country:us/state:mo/sldu:10",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeanie Riddle",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:10",
+	   "overwrite_name": "Jeanie Riddle",
+	   "emails": [
+	   		"Jeanie.Riddle@senate.mo.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mo/sldu:24": {
+	   "name": "Missouri State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MO State Senate District 24",
+	   "divisionId": "ocd-division/country:us/state:mo/sldu:24",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jill Schupp",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:10",
+	   "overwrite_name": "Jill Schupp",
+	   "emails": [
+	   		"Jill.Schupp@senate.mo.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:5": {
+	   "name": "Florida State House district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 5",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brad Drake",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:5",
+	   "overwrite_name": "Brad Drake",
+	   "emails": [
+	   		"brad.drake@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:6": {
+	   "name": "Florida State House district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 6",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Trumbull",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:6",
+	   "overwrite_name": "Jay Trumbull",
+	   "emails": [
+	   		"jay.trumbull@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:15": {
+	   "name": "Florida State House district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 15",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Fant",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:15",
+	   "overwrite_name": "Jay Fant",
+	   "emails": [
+	   		"jay.fant@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:25": {
+	   "name": "Florida State House district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 25",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Fred Costello",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:25",
+	   "overwrite_name": "Fred Costello",
+	   "emails": [
+	   		"fred.costello@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:29": {
+	   "name": "Florida State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 29",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scott Plakon",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:29",
+	   "overwrite_name": "Scott Plakon",
+	   "emails": [
+	   		"scott.plakon@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:30": {
+	   "name": "Florida State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 30",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert \"Bob\" Cortes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:30",
+	   "overwrite_name": "Robert \"Bob\" Cortes",
+	   "emails": [
+	   		"robert.cortes@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:31": {
+	   "name": "Florida State House district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 31",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jennifer Sullivan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:31",
+	   "overwrite_name": "Jennifer Sullivan",
+	   "emails": [
+	   		"jennifer.sullivan@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:35": {
+	   "name": "Florida State House district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 35",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Blaise Ingoglia",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:35",
+	   "overwrite_name": "Blaise Ingoglia",
+	   "emails": [
+	   		"blaise.ingoglia@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:40": {
+	   "name": "Florida State House district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 40",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Colleen Burton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:40",
+	   "overwrite_name": "Colleen Burton",
+	   "emails": [
+	   		"colleen.burton@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:43": {
+	   "name": "Florida State House district 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 43",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Cortes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:43",
+	   "overwrite_name": "John Cortes",
+	   "emails": [
+	   		"john.cortes@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:47": {
+	   "name": "Florida State House district 47",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 47",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:47",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Miller",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:47",
+	   "overwrite_name": "Mike Miller",
+	   "emails": [
+	   		"mike.miller@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:49": {
+	   "name": "Florida State House district 49",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 49",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:49",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rene \"Coach P\" Plasencia",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:49",
+	   "overwrite_name": "Rene \"Coach P\" Plasencia",
+	   "emails": [
+	   		"rene.plasencia@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:61": {
+	   "name": "Florida State House district 61",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 61",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:61",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Edwin Narain",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:61",
+	   "overwrite_name": "Edwin Narain",
+	   "emails": [
+	   		"edwin.narain@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:63": {
+	   "name": "Florida State House district 63",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 63",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:63",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shawn Harrison",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:63",
+	   "overwrite_name": "Shawn Harrison",
+	   "emails": [
+	   		"shawn.harrison@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:64": {
+	   "name": "Florida State House district 64",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 64",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:64",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James W. \"J.W.\" Grant",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:64",
+	   "overwrite_name": "Vacant (Pending Special Election)",
+	   "emails": [
+	   		"james.grant@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:67": {
+	   "name": "Florida State House district 67",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 67",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:67",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Latvala",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:67",
+	   "overwrite_name": "Chris Latvala",
+	   "emails": [
+	   		"chris.latvala@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:74": {
+	   "name": "Florida State House district 74",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 74",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:74",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Julio Gonzalez",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:74",
+	   "overwrite_name": "Julio Gonzalez",
+	   "emails": [
+	   		"julio.gonzalez@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:94": {
+	   "name": "Florida State House district 94",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 94",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:94",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bobby B. DuBose",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:94",
+	   "overwrite_name": "Bobby B. DuBose",
+	   "emails": [
+	   		"bobby.dubose@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:96": {
+	   "name": "Florida State House district 96",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 96",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:96",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kristin Jacobs",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:96",
+	   "overwrite_name": "Kristin Jacobs",
+	   "emails": [
+	   		"kristin.jacobs@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:99": {
+	   "name": "Florida State House district 99",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 99",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:99",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Evan Jenne",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:99",
+	   "overwrite_name": "Evan Jenne",
+	   "emails": [
+	   		"evan.jenne@myfloridahouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:fl/sldl:111": {
+	   "name": "Florida State House district 111",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "FL State House District 111",
+	   "divisionId": "ocd-division/country:us/state:fl/sldl:111",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bryan Avila",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:111",
+	   "overwrite_name": "Bryan Avila",
+	   "emails": [
+	   		"bryan.avila@myfloridahouse.gov"
 	   ]
 	  }
 	 ]

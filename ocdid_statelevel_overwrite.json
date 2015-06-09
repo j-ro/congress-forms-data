@@ -25253,5 +25253,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:5": {
+	   "name": "Pennsylvania State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 5",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:5",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John P. Sabatina Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:5",
+	   "overwrite_name": "Michael J. Stack",
+	   "emails": [
+	   		"jsabatina@pasenate.com"
+	   ]
+	  }
+	 ]
 	}
 ]

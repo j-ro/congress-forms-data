@@ -25287,5 +25287,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:25": {
+	   "name": "Washington State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 25",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Melanie Stambaugh ",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:25",
+	   "overwrite_name": "Dawn Morrell",
+	   "emails": [
+	   		"melanie.stambaugh@leg.wa.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

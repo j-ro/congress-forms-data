@@ -25312,13 +25312,43 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Melanie Stambaugh ",
+	   "name": "Melanie Stambaugh",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:25",
 	   "overwrite_name": "Dawn Morrell",
 	   "emails": [
 	   		"melanie.stambaugh@leg.wa.gov"
 	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:174": {
+	   "name": "Pennsylvania State House district 174",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 174",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:174",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:174",
+	   "overwrite_name": "John P. Sabatina"
 	  }
 	 ]
 	}

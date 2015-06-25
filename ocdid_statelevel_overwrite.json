@@ -25351,5 +25351,39 @@
 	   "overwrite_name": "John P. Sabatina"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:172": {
+	   "name": "Pennsylvania State House district 172",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 172",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:172",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin J. Boyle",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:172",
+	   "overwrite_name": "Kevin J. Boyle",
+	   "emails": [
+	   		"kboylw@pahouse.net"
+	   ]
+	  }
+	 ]
 	}
 ]

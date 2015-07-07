@@ -25385,5 +25385,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:87": {
+	   "name": "Illinois State House district 87",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 87",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:87",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Butler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:87",
+	   "overwrite_name": "Rich Brauer",
+	   "emails": [
+	   		"butler@ilhousegop.org"
+	   ]
+	  }
+	 ]
 	}
 ]

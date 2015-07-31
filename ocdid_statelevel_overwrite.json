@@ -25419,5 +25419,39 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:20": {
+	   "name": "New Jersey State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 20",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jamel C. Holley",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:20",
+	   "overwrite_name": "Joseph Cryan",
+	   "emails": [
+	   		"asmholley@njleg.org"
+	   ]
+	  }
+	 ]
 	}
 ]

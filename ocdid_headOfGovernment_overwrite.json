@@ -291,5 +291,39 @@
 	   "overwrite_name": "John Kitzhaber"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Mayor",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Muriel Bowser",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Vincent C. Gray",
+	   "emails": [
+	   		"eom@dc.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

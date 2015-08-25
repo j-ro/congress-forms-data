@@ -23610,6 +23610,74 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:4": {
+	   "name": "District of Columbia Ward 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 4",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brandon T. Todd",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:4",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"btodd@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:8": {
+	   "name": "District of Columbia Ward 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 8",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "LaRuby May",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:8",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"LMay@DCCOUNCIL.US"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:5": {
 	   "name": "District of Columbia Ward 5",
 	   "overwrite": "true",

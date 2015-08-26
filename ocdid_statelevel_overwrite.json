@@ -35,6 +35,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:al/sldu:10": {
+	   "name": "Alabama State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State Senate District 10",
+	   "divisionId": "ocd-division/country:us/state:al/sldu:10",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phil W. Williams",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldu:10",
+	   "overwrite_name": "Phil Williams",
+	   "emails": [
+	   		"philw.williams@alsenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:al/sldu:1": {
 	   "name": "Alabama State Senate district 1",
 	   "overwrite": "true",
@@ -2981,10 +3015,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
+	   "overwrite_name": "Ric Metzgar"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:6": {
+	   "name": "Maryland State Legislative Subdistrict 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 6",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Ric Metzgar",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
-	   "overwrite_name": "Ric Metzgar",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:6",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Ric.Metzgar@house.state.md.us"
 	   ]
@@ -3015,10 +3079,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
+	   "overwrite_name": "Bob Long"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:6": {
+	   "name": "Maryland State Legislative Subdistrict 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 6",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Bob Long",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
-	   "overwrite_name": "Bob Long",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:6",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Bob.Long@house.state.md.us"
 	   ]
@@ -3049,10 +3143,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
+	   "overwrite_name": "Robin L. Grammer Jr."
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:6": {
+	   "name": "Maryland State Legislative Subdistrict 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 6",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Robin L. Grammer Jr.",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
-	   "overwrite_name": "Robin L. Grammer Jr.",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:6",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Robin.Grammer@house.state.md.us"
 	   ]
@@ -3117,20 +3241,16 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Christian Miele",
-	   "party": "Republican",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:8",
-	   "overwrite_name": "Christian Miele",
-	   "emails": [
-	   		"Christian.Miele@house.state.md.us"
-	   ]
+	   "overwrite_name": "Christian Miele"
 	  }
 	 ]
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:8": {
-	   "name": "Maryland State Senate district 8",
+	  "ocd-division/country:us/state:md/sldl:8": {
+	   "name": "Maryland State Legislative Subdistrict 8",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -3140,7 +3260,7 @@
 	 "offices": [
 	  {
 	   "name": "MD State House District 8",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:8",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:8",
 	   "roles": [
 	    "legislatorLowerBody"
 	   ],
@@ -3151,12 +3271,12 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Mary Beth Carozza",
+	   "name": "Christian Miele",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:8",
-	   "overwrite_name": "Mary Beth Carozza",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:8",
+	   "overwrite_name": "",
 	   "emails": [
-	   		"MaryBeth.Carozza@house.state.md.us"
+	   		"Christian.Miele@house.state.md.us"
 	   ]
 	  }
 	 ]
@@ -3185,10 +3305,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:10",
+	   "overwrite_name": "Benjamin Brooks"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:10": {
+	   "name": "Maryland State Legislative Subdistrict 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 10",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Benjamin Brooks",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:10",
-	   "overwrite_name": "Benjamin Brooks",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:10",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Benjamin.Brooks@house.state.md.us"
 	   ]
@@ -3219,10 +3369,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:10",
+	   "overwrite_name": "Jay Jalisi"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:10": {
+	   "name": "Maryland State Legislative Subdistrict 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 10",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Jay Jalisi",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:10",
-	   "overwrite_name": "Jay Jalisi",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:10",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Jay.Jalisi@house.state.md.us"
 	   ]
@@ -3253,10 +3433,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:11",
+	   "overwrite_name": "Shelly Hettleman"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:11": {
+	   "name": "Maryland State Legislative Subdistrict 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 11",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Shelly Hettleman",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:11",
-	   "overwrite_name": "Shelly Hettleman",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:11",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Shelly.Hettleman@house.state.md.us"
 	   ]
@@ -3287,10 +3497,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:13",
+	   "overwrite_name": "Vanessa Atterbeary"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:13": {
+	   "name": "Maryland State Legislative Subdistrict 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 13",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Vanessa Atterbeary",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:13",
-	   "overwrite_name": "Vanessa Atterbeary",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:13",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Vanessa.Atterbeary@house.state.md.us"
 	   ]
@@ -3389,10 +3629,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:16",
+	   "overwrite_name": "Marc Korman"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:16": {
+	   "name": "Maryland State Legislative Subdistrict 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 16",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Marc Korman",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:16",
-	   "overwrite_name": "Marc Korman",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:16",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Marc.Korman@house.state.md.us"
 	   ]
@@ -3423,10 +3693,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:17",
+	   "overwrite_name": "Andrew Platt"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:17": {
+	   "name": "Maryland State Legislative Subdistrict 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 17",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Andrew Platt",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:17",
-	   "overwrite_name": "Andrew Platt",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:17",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Andrew.Platt@house.state.md.us"
 	   ]
@@ -3491,10 +3791,40 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Marice I Morales",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:19",
-	   "overwrite_name": "Marice I Morales",
+	   "overwrite_name": "Marice I Morales"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:19": {
+	   "name": "Maryland State Legislative Subdistrict 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marice Morales",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:19",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Marice.Morales@house.state.md.us"
 	   ]
@@ -3525,13 +3855,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "David Moon",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:20",
-	   "overwrite_name": "David Moon",
-	   "emails": [
-	   		"David.Moon@house.state.md.us"
-	   ]
+	   "overwrite_name": "David Moon"
 	  }
 	 ]
 	},
@@ -3559,13 +3885,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Will Smith",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:20",
-	   "overwrite_name": "Will Smith",
-	   "emails": [
-	   		"Will.Smith@house.state.md.us"
-	   ]
+	   "overwrite_name": "Will Smith"
 	  }
 	 ]
 	},
@@ -3593,13 +3915,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Erek Barron",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:24",
-	   "overwrite_name": "Erek Barron",
-	   "emails": [
-	   		"Erek.Barron@house.state.md.us"
-	   ]
+	   "overwrite_name": "Erek Barron"
 	  }
 	 ]
 	},
@@ -3627,13 +3945,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Susan Krebs",
-	   "party": "Republican",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:25",
-	   "overwrite_name": "Susan Krebs",
-	   "emails": [
-	   		"susan.krebs@house.state.md.us"
-	   ]
+	   "overwrite_name": "Susan Krebs"
 	  }
 	 ]
 	},
@@ -3661,13 +3975,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Haven Shoemaker",
-	   "party": "Republican",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:25",
-	   "overwrite_name": "Haven Shoemaker",
-	   "emails": [
-	   		"Haven.Shoemaker@house.state.md.us"
-	   ]
+	   "overwrite_name": "Haven Shoemaker"
 	  }
 	 ]
 	},
@@ -3695,13 +4005,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Angela Angel",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:25",
-	   "overwrite_name": "Angela Angel",
-	   "emails": [
-	   		"Angela.Angel@house.state.md.us"
-	   ]
+	   "overwrite_name": "Angela Angel"
 	  }
 	 ]
 	},
@@ -3729,13 +4035,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Darryl Barnes",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:25",
-	   "overwrite_name": "Darryl Barnes",
-	   "emails": [
-	   		"Darryl.Barnes@house.state.md.us"
-	   ]
+	   "overwrite_name": "Darryl Barnes"
 	  }
 	 ]
 	},
@@ -3763,13 +4065,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Tony Knotts",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:26",
-	   "overwrite_name": "Tony Kontts",
-	   "emails": [
-	   		"Tony.Knotts@house.state.md.us"
-	   ]
+	   "overwrite_name": "Tony Kontts"
 	  }
 	 ]
 	},
@@ -3797,13 +4095,9 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Edith J. Patterson",
-	   "party": "Democratic",
+	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:28",
-	   "overwrite_name": "Edith J. Patterson",
-	   "emails": [
-	   		"Edith.Patterson@house.state.md.us"
-	   ]
+	   "overwrite_name": "Edith J. Patterson"
 	  }
 	 ]
 	},
@@ -3843,74 +4137,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:31": {
-	   "name": "Maryland State Senate district 31",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 31",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:31",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Ned Carey",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:31",
-	   "overwrite_name": "Ned Carey",
-	   "emails": [
-	   		"Ned.Carey@house.state.md.us"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:31": {
-	   "name": "Maryland State Senate district 31",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 31",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:31",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Meagan C. Simonaire",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:31",
-	   "overwrite_name": "Meagan C. Simonaire",
-	   "emails": [
-	   		"Meagan.Simonaire@house.state.md.us"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:32": {
 	   "name": "Maryland State Senate district 32",
 	   "overwrite": "true",
@@ -3933,10 +4159,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:32",
+	   "overwrite_name": "Mark S. Chang"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:32": {
+	   "name": "Maryland State Legislative Subdistrict 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 32",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Mark S. Chang",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:32",
-	   "overwrite_name": "Mark S. Chang",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:32",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Mark.Chang@house.state.md.us"
 	   ]
@@ -4035,10 +4291,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:36",
+	   "overwrite_name": "Jeff Ghrist"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:36": {
+	   "name": "Maryland State Legislative Subdistrict 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 36",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Jeff Ghrist",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:36",
-	   "overwrite_name": "Jeff Ghrist",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:36",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Jeff.Ghrist@house.state.md.us"
 	   ]
@@ -4069,80 +4355,42 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:40",
+	   "overwrite_name": "Antonio Hayes"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:40": {
+	   "name": "Maryland State Legislative Subdistrict 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 40",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Antonio Hayes",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:40",
-	   "overwrite_name": "Antonio Hayes",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:40",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Antonio.Hayes@house.state.md.us"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:44": {
-	   "name": "Maryland State Senate district 44",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 44",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:44",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Pat Young",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:44",
-	   "overwrite_name": "Pat Young",
-	   "emails": [
-	   		"pat.young@house.state.md.us"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:44": {
-	   "name": "Maryland State Senate district 44",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 44",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:44",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Charles E. Sydnor III",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:44",
-	   "overwrite_name": "Charles E. Sydnor III",
-	   "emails": [
-	   		"Charles.Sydnor@house.state.md.us"
 	   ]
 	  }
 	 ]
@@ -4171,10 +4419,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:45",
+	   "overwrite_name": "Cory V. McCray"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:45": {
+	   "name": "Maryland State Legislative Subdistrict 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 45",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Cory V. McCray",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:45",
-	   "overwrite_name": "Cory V. McCray",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:45",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Cory.McCray@house.state.md.us"
 	   ]
@@ -4205,10 +4483,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:46",
+	   "overwrite_name": "Brooke Elizabeth Lierman"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:46": {
+	   "name": "Maryland State Legislative Subdistrict 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 46",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Brooke Elizabeth Lierman",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:46",
-	   "overwrite_name": "Brooke Elizabeth Lierman",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:46",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Brooke.Lierman@house.state.md.us"
 	   ]
@@ -4239,10 +4547,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
+	   "overwrite_name": "Jimmy Tarlau"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:47a": {
+	   "name": "Maryland State Legislative Subdistrict 47A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 47A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:47a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Jimmy Tarlau",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
-	   "overwrite_name": "Jimmy Tarlau",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47a",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Jimmy.Tarlau@house.state.md.us"
 	   ]
@@ -4273,10 +4611,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
+	   "overwrite_name": "Diana M. Fennell"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:47a": {
+	   "name": "Maryland State Legislative Subdistrict 47A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 47A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:47a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Diana M. Fennell",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
-	   "overwrite_name": "Diana M. Fennell",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47a",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Diana.Fennell@house.state.md.us"
 	   ]
@@ -4307,10 +4675,40 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
+	   "overwrite_name": "Will Campos"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:47b": {
+	   "name": "Maryland State Legislative Subdistrict 47B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 47B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:47b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Will Campos",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
-	   "overwrite_name": "Will Campos",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47b",
+	   "overwrite_name": "",
 	   "emails": [
 	   		"Will.Campos@house.state.md.us"
 	   ]
@@ -8637,40 +9035,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wi/sldu:9": {
-	   "name": "Wisconsin State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WI State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:wi/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Devin Lemahieu",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
-	   "overwrite_name": "Devin Lemahieu",
-	   "emails": [
-	   		"Sen.LeMahieu@legis.wisconsin.gov"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wv/sldu:2": {
 	   "name": "West Virginia State Senate district 2",
 	   "overwrite": "true",
@@ -8971,40 +9335,6 @@
 	   "overwrite_name": "Tom Takubo",
 	   "emails": [
 	   		"drtomtakubo@gmail.com"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wi/sldu:9": {
-	   "name": "Wisconsin State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WI State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:wi/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Devin LeMahieu",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
-	   "overwrite_name": "Devin LeMahieu",
-	   "emails": [
-	   		"Sen.LeMahieu@legis.wisconsin.gov"
 	   ]
 	  }
 	 ]
@@ -11608,12 +11938,12 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Travis Hutson",
+	   "name": "Paul Renner",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:24",
 	   "overwrite_name": "Vacant (Pending Special Election)",
 	   "emails": [
-	   		"travis.hutson@myfloridahouse.gov"
+	   		"paul.renner@myfloridahouse.gov"
 	   ]
 	  }
 	 ]
@@ -14034,6 +14364,104 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:2a": {
+	   "name": "Maryland State Legislative Subdistrict 2A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 2A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:2a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "William J. Wivell",
+	   "party":"Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:2a",
+	   "overwrite_name": "Stephen W. Lafferty",
+	   "emails": [
+	   		"william.wivell@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:42a": {
+	   "name": "Maryland State Legislative Subdistrict 42A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 42A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:42a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Stephen W. Lafferty",
+	   "party":"Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:42a",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"stephen.lafferty@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:2a": {
+	   "name": "Maryland State Legislative Subdistrict 2A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 2A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:2a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:2a",
+	   "overwrite_name": "Andrew A. Serafini"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldl:2b": {
 	   "name": "Maryland State Legislative Subdistrict 2B",
 	   "overwrite": "true",
@@ -14062,6 +14490,70 @@
 	   "overwrite_name": "Brett Wilson",
 	   "emails": [
 	   		"brett.wilson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:2b": {
+	   "name": "Maryland State Legislative Subdistrict 2B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 2B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:2b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:2b",
+	   "overwrite_name": "Susan L. M. Aumann"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:42b": {
+	   "name": "Maryland State Legislative Subdistrict 42B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 42B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:42b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susan L. M. Aumann",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:42b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"susan.aumann@house.state.md.us"
 	   ]
 	  }
 	 ]
@@ -14442,6 +14934,2374 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:4": {
+	   "name": "Maryland State Legislative Subdistrict 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 4",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kathryn L. Afzali",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:4",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kathy.afzali@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:34a": {
+	   "name": "Maryland State Legislative Subdistrict 34A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 34A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:34a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:34a",
+	   "overwrite_name": "Kathryn L. Afzali"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:4": {
+	   "name": "Maryland State Legislative Subdistrict 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 4",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Barrie S. Ciliberti",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:4",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"barrie.ciliberti@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:5": {
+	   "name": "Maryland State Legislative Subdistrict 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 5",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susan W. Krebs",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:5",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"susan.krebs@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:5": {
+	   "name": "Maryland State Legislative Subdistrict 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 5",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Haven N. Shoemaker, Jr. ",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:5",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"haven.shoemaker@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:5": {
+	   "name": "Maryland State Legislative Subdistrict 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 5",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "April R. Rose",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:5",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"april.rose@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:7": {
+	   "name": "Maryland State Legislative Subdistrict 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 7",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Richard K. Impallaria",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:7",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"rick.impallaria@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:7": {
+	   "name": "Maryland State Legislative Subdistrict 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 7",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick L. McDonough",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:7",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"pat.mcdonough@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:7": {
+	   "name": "Maryland State Legislative Subdistrict 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 7",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kathy Szeliga",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:7",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kathy.szeliga@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:8": {
+	   "name": "Maryland State Legislative Subdistrict 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 8",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric M. Bromwell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:8",
+	   "overwrite_name": "Mary Beth Carozza",
+	   "emails": [
+	   		"eric.bromwell@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:8": {
+	   "name": "Maryland State Legislative Subdistrict 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 8",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John W. E. Cluster, Jr.",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:8",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"john.cluster@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:10": {
+	   "name": "Maryland State Legislative Subdistrict 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 10",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adrienne A. Jones",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:10",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"adrienne.jones@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:11": {
+	   "name": "Maryland State Legislative Subdistrict 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 11",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan K. Morhaim",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:11",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"dan.morhaim@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:11": {
+	   "name": "Maryland State Legislative Subdistrict 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 11",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dana M. Stein",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:11",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"dana.stein@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:12": {
+	   "name": "Maryland State Legislative Subdistrict 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 12",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric D. Ebersole",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:12",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"eric.ebersole@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:12": {
+	   "name": "Maryland State Legislative Subdistrict 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 12",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terri L. Hill",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:12",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"terri.hill@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:12": {
+	   "name": "Maryland State Legislative Subdistrict 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 12",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Clarence K. Lam",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:12",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"clarence.lam@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:13": {
+	   "name": "Maryland State Legislative Subdistrict 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 13",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shane E. Pendergrass",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:13",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"shane.pendergrass@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:13": {
+	   "name": "Maryland State Legislative Subdistrict 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 13",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Frank S. Turner",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:13",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"frank.turner@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:14": {
+	   "name": "Maryland State Legislative Subdistrict 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anne R. Kaiser",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:14",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"anne.kaiser@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:14": {
+	   "name": "Maryland State Legislative Subdistrict 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric G. Luedtke",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:14",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"eric.luedtke@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:14": {
+	   "name": "Maryland State Legislative Subdistrict 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Craig J. Zucker",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:14",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"craig.zucker@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:15": {
+	   "name": "Maryland State Legislative Subdistrict 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 15",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kathleen M. Dumais",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:15",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kathleen.dumais@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:15": {
+	   "name": "Maryland State Legislative Subdistrict 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 15",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Fraser-Hidalgo",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:15",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"david.fraser.hidalgo@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:15": {
+	   "name": "Maryland State Legislative Subdistrict 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 15",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Aruna Miller",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:15",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"aruna.miller@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:16": {
+	   "name": "Maryland State Legislative Subdistrict 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 16",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "C. William Frick",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:16",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"bill.frick@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:16": {
+	   "name": "Maryland State Legislative Subdistrict 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 16",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ariana B. Kelly",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:16",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ariana.kelly@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:17": {
+	   "name": "Maryland State Legislative Subdistrict 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 17",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kumar P. Barve",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:17",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kumar.barve@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:17": {
+	   "name": "Maryland State Legislative Subdistrict 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 17",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James W. Gilchrist",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:17",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"jim.gilchrist@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:18": {
+	   "name": "Maryland State Legislative Subdistrict 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 18",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alfred C. Carr, Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:18",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"alfred.carr@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:18": {
+	   "name": "Maryland State Legislative Subdistrict 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 18",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ana Sol Gutierrez",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:18",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ana.gutierrez@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:18": {
+	   "name": "Maryland State Legislative Subdistrict 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 18",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeffrey D. Waldstreicher",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:18",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"jeff.waldstreicher@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:19": {
+	   "name": "Maryland State Legislative Subdistrict 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bonnie L. Cullison",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:19",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"bonnie.cullison@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:19": {
+	   "name": "Maryland State Legislative Subdistrict 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Benjamin F. Kramer",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:19",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"benjamin.kramer@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:19": {
+	   "name": "Maryland State Legislative Subdistrict 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marice L. Morales",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:19",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"marice.morales@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:20": {
+	   "name": "Maryland State Legislative Subdistrict 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 20",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sheila E. Hixson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:20",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"sheila.hixson.annapolis@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:20": {
+	   "name": "Maryland State Legislative Subdistrict 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 20",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Moon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:20",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"david.moon@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:20": {
+	   "name": "Maryland State Legislative Subdistrict 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 20",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "William C. Smith, Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:20",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"will.smith@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:21": {
+	   "name": "Maryland State Legislative Subdistrict 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 21",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Benjamin S. Barnes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:21",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ben.barnes@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:21": {
+	   "name": "Maryland State Legislative Subdistrict 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 21",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Barbara A. Frush",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:21",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"barbara.frush@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:21": {
+	   "name": "Maryland State Legislative Subdistrict 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 21",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joseline A. Pena-Melnyk",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:21",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"joseline.pena.melnyk@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:22": {
+	   "name": "Maryland State Legislative Subdistrict 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 22",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tawanna P. Gaines",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:22",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"tawanna.gaines@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:22": {
+	   "name": "Maryland State Legislative Subdistrict 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 22",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anne Healey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:22",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"anne.healey@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:22": {
+	   "name": "Maryland State Legislative Subdistrict 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 22",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alonzo T. Washington",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:22",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"alonzo.washington@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:24": {
+	   "name": "Maryland State Legislative Subdistrict 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Erek L. Barron",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:24",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"erek.barron@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:24": {
+	   "name": "Maryland State Legislative Subdistrict 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Carolyn J. B. Howard",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:24",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"carolyn.howard@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:24": {
+	   "name": "Maryland State Legislative Subdistrict 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael L. Vaughn",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:24",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"michael.vaughn@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:25": {
+	   "name": "Maryland State Legislative Subdistrict 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 25",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Angela M. Angel",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"angela.angel@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:25": {
+	   "name": "Maryland State Legislative Subdistrict 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 25",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Darryl Barnes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"darryl.barnes@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:25": {
+	   "name": "Maryland State Legislative Subdistrict 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 25",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dereck E. Davis",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"dereck.davis@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:26": {
+	   "name": "Maryland State Legislative Subdistrict 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 26",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tony Knotts",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:26",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"tony.knotts@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:26": {
+	   "name": "Maryland State Legislative Subdistrict 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 26",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kriselda Valderrama",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:26",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kris.valderrama@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:26": {
+	   "name": "Maryland State Legislative Subdistrict 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 26",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Walker",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:26",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"jay.walker@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:27c": {
+	   "name": "Maryland State Legislative Subdistrict 27C",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 27C",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:27c",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark N. Fisher",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:27c",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"mark.fisher@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:28": {
+	   "name": "Maryland State Legislative Subdistrict 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 28",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sally Y. Jameson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:28",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"sally.jameson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:28": {
+	   "name": "Maryland State Legislative Subdistrict 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 28",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Edith J. Patterson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:28",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ct.edith.patterson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:28": {
+	   "name": "Maryland State Legislative Subdistrict 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 28",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "C. T. Wilson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:28",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ct.wilson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:30a": {
+	   "name": "Maryland State Legislative Subdistrict 30A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 30A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:30a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael E. Busch",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:30a",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"michael.busch@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:30a": {
+	   "name": "Maryland State Legislative Subdistrict 30A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 30A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:30a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Herbert H. McMillan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:30a",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"herb.mcmillan@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:30b": {
+	   "name": "Maryland State Legislative Subdistrict 30B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 30B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:30b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Seth A. Howard",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:30b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"seth.howard@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:31": {
+	   "name": "Maryland State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 31",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:31",
+	   "overwrite_name": "Ned Carey"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:31a": {
+	   "name": "Maryland State Legislative Subdistrict 31A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 31A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:31a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ned Carey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:31a",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"Ned.Carey@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:31": {
+	   "name": "Maryland State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 31",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:31",
+	   "overwrite_name": "Meagan C. Simonaire"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:31b": {
+	   "name": "Maryland State Legislative Subdistrict 31B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 31B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:31b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Meagan C. Simonaire",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:31b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"meagan.simonaire@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:31b": {
+	   "name": "Maryland State Legislative Subdistrict 31B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 31B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:31b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nicholaus R. Kipke",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:31b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"nicholaus.kipke@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:32": {
+	   "name": "Maryland State Legislative Subdistrict 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 32",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pamela G. Beidle",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:32",
+	   "overwrite_name": "",
+	   "emails": [
+	   		" pamela.beidle@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:32": {
+	   "name": "Maryland State Legislative Subdistrict 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 32",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Theodore J. Sophocleus",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:32",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"ted.sophocleus@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:33": {
+	   "name": "Maryland State Legislative Subdistrict 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 33",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael E. Malone",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:33",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"michael.malone@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:33": {
+	   "name": "Maryland State Legislative Subdistrict 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 33",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tony McConkey",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:33",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"tony.mcconkey@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:33": {
+	   "name": "Maryland State Legislative Subdistrict 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 33",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sid A. Saab",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:33",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"sid.saab@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldl:34a": {
 	   "name": "Maryland State Legislative Subdistrict 34A",
 	   "overwrite": "true",
@@ -14612,6 +17472,74 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:36": {
+	   "name": "Maryland State Legislative Subdistrict 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 36",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven J. Arentz",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:36",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"steven.arentz@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:36": {
+	   "name": "Maryland State Legislative Subdistrict 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 36",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay A. Jacobs",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:36",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"jay.jacobs@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldl:37a": {
 	   "name": "Maryland State Legislative Subdistrict 37A",
 	   "overwrite": "true",
@@ -14742,6 +17670,678 @@
 	   "overwrite_name": "Carl Anderton Jr",
 	   "emails": [
 	   		"Carl.Anderton@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:38c": {
+	   "name": "Maryland State Legislative Subdistrict 38C",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 38C",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:38c",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Beth Carozza",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:38c",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"marybeth.carozza@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:39": {
+	   "name": "Maryland State Legislative Subdistrict 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 39",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charles E. Barkley",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:39",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"charles.barkley@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:39": {
+	   "name": "Maryland State Legislative Subdistrict 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 39",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kirill Reznik",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:39",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"kirill.reznik@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:39": {
+	   "name": "Maryland State Legislative Subdistrict 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 39",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "A. Shane Robinson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:39",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"shane.robinson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:40": {
+	   "name": "Maryland State Legislative Subdistrict 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 40",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Frank M. Conaway, Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:40",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"frank.conaway@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:40": {
+	   "name": "Maryland State Legislative Subdistrict 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 40",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Barbara A. Robinson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:40",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"barbara.robinson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:41": {
+	   "name": "Maryland State Legislative Subdistrict 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 41",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jill P. Carter",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:41",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"jill.carter@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:41": {
+	   "name": "Maryland State Legislative Subdistrict 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 41",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nathaniel T. Oaks",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:41",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"nathaniel.oaks@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:41": {
+	   "name": "Maryland State Legislative Subdistrict 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 41",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Samuel I. Rosenberg",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:41",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"samuel.rosenberg@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:43": {
+	   "name": "Maryland State Legislative Subdistrict 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 43",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Curtis S. (Curt) Anderson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:43",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"curt.anderson@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:43": {
+	   "name": "Maryland State Legislative Subdistrict 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 43",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Maggie McIntosh",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:43",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"maggie.mcintosh@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:43": {
+	   "name": "Maryland State Legislative Subdistrict 43",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 43",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:43",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary L. Washington",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:43",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"mary.washington@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:44b": {
+	   "name": "Maryland State Legislative Subdistrict 44B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 44B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:44b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charles E. Sydnor III",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:44b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"charles.sydnor@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:44": {
+	   "name": "Maryland State Senate district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 44",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:44",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:44",
+	   "overwrite_name": "Charles E. Sydnor III"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:44b": {
+	   "name": "Maryland State Legislative Subdistrict 44B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 44B",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:44b",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick G. Young. Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:44b",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"pat.young@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:44": {
+	   "name": "Maryland State Senate district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 44",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:44",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:44",
+	   "overwrite_name": "Pat Young"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:45": {
+	   "name": "Maryland State Legislative Subdistrict 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 45",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cheryl D. Glenn",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:45",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"cheryl.glenn@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:45": {
+	   "name": "Maryland State Legislative Subdistrict 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 45",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Talmadge Branch",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:45",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"talmadge.branch@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:46": {
+	   "name": "Maryland State Legislative Subdistrict 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 46",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Luke Clippinger",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:46",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"luke.clippinger@house.state.md.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:46": {
+	   "name": "Maryland State Legislative Subdistrict 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 46",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Peter A. Hammen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:46",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"peter.hammen@house.state.md.us"
 	   ]
 	  }
 	 ]
@@ -20794,6 +24394,198 @@
 	   "overwrite_name": "Jeffrey A. \"Jeff\" Bradley",
 	   "emails": [
 	   		"bradleyj@schouse.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "Al Novstrup"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "Dan Kaiser"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Novstrup",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"sen.novstrup@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldl:3": {
+	   "name": "South Dakota State House district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
+	   "overwrite_name": "David Novstrup"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldl:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan Kaiser",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"rep.kaiser@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldl:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Al Novstrup",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"rep.novstrup@state.sd.us"
 	   ]
 	  }
 	 ]

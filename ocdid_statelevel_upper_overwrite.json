@@ -3911,6 +3911,100 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "Al Novstrup"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "Dan Kaiser"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:3": {
+	   "name": "South Dakota State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 3",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Novstrup",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
+	   "overwrite_name": "",
+	   "emails": [
+	   		"sen.novstrup@state.sd.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldu:4": {
 	   "name": "South Dakota State Senate district 4",
 	   "overwrite": "true",
@@ -4693,40 +4787,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wi/sldu:9": {
-	   "name": "Wisconsin State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WI State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:wi/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Devin Lemahieu",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
-	   "overwrite_name": "Devin Lemahieu",
-	   "emails": [
-	   		"Sen.LeMahieu@legis.wisconsin.gov"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wv/sldu:2": {
 	   "name": "West Virginia State Senate district 2",
 	   "overwrite": "true",
@@ -5027,40 +5087,6 @@
 	   "overwrite_name": "Tom Takubo",
 	   "emails": [
 	   		"drtomtakubo@gmail.com"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wi/sldu:9": {
-	   "name": "Wisconsin State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WI State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:wi/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Devin LeMahieu",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:9",
-	   "overwrite_name": "Devin LeMahieu",
-	   "emails": [
-	   		"Sen.LeMahieu@legis.wisconsin.gov"
 	   ]
 	  }
 	 ]

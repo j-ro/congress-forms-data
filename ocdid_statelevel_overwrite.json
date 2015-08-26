@@ -14992,7 +14992,37 @@
 	  {
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:34a",
-	   "overwrite_name": "Kathryn L. Afzali"
+	   "overwrite_name": "Kathy Afzali"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldl:34a": {
+	   "name": "Maryland State Legislative Subdistrict 34A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 34A",
+	   "divisionId": "ocd-division/country:us/state:md/sldl:34a",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:34a",
+	   "overwrite_name": "Kelly Schulz"
 	  }
 	 ]
 	},

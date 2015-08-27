@@ -27342,6 +27342,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:1": {
+	   "name": "District of Columbia Ward 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 1",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brianne Nadeau",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:1",
+	   "overwrite_name": "Brianne Nadeau",
+	   "emails": [
+	   		"bnadeau@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:4": {
 	   "name": "District of Columbia Ward 4",
 	   "overwrite": "true",
@@ -27370,6 +27404,74 @@
 	   "overwrite_name": "Vacant",
 	   "emails": [
 	   		"btodd@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:5": {
+	   "name": "District of Columbia Ward 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 5",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kenyan McDuffie",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:5",
+	   "overwrite_name": "Kenyan McDuffie",
+	   "emails": [
+	   		"kmcduffie@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:6": {
+	   "name": "District of Columbia Ward 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 6",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charles Allen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:6",
+	   "overwrite_name": "Charles Allen",
+	   "emails": [
+	   		"callen@dccouncil.us"
 	   ]
 	  }
 	 ]
@@ -27420,6 +27522,40 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "County Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elissa Silverman",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "David Catania",
+	   "emails": [
+	   		"esilverman@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "Mayor",
 	   "divisionId": "ocd-division/country:us/district:dc",
 	   "officialIndices": [
@@ -27430,7 +27566,6 @@
 	 "officials": [
 	  {
 	   "name": "Vacant",
-	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
 	   "overwrite_name": "Vincent C. Gray"
 	  }

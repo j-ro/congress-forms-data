@@ -5626,7 +5626,143 @@
 	{
 	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia County Council, District At-Large",
+	   "name": "District of Columbia City Council, At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anita Bonds",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Anita Bonds",
+	   "emails": [
+	   		"abonds@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council, At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Grosso",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "David Grosso",
+	   "emails": [
+	   		"dgrosso@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council, At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phil Mendelson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Phil Mendelson",
+	   "emails": [
+	   		"pmendelson@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council, At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vincent Orange",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Vincent Orange",
+	   "emails": [
+	   		"vorange@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -5648,7 +5784,7 @@
 	 "officials": [
 	  {
 	   "name": "Elissa Silverman",
-	   "party": "Independent",
+	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
 	   "overwrite_name": "David Catania",
 	   "emails": [

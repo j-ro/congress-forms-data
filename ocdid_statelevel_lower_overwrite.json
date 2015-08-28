@@ -23505,7 +23505,7 @@
 	{
 	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:1": {
-	   "name": "District of Columbia Ward 1",
+	   "name": "District of Columbia City Council Ward 1",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -23538,8 +23538,76 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:2": {
+	   "name": "District of Columbia City Council Ward 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 2",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jack Evans",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:2",
+	   "overwrite_name": "Jack Evans",
+	   "emails": [
+	   		"jevans@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:3": {
+	   "name": "District of Columbia City Council Ward 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 3",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Cheh",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:3",
+	   "overwrite_name": "Mary Cheh",
+	   "emails": [
+	   		"mcheh@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:4": {
-	   "name": "District of Columbia Ward 4",
+	   "name": "District of Columbia Ward City Council Ward 4",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -23573,7 +23641,7 @@
 	{
 	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:5": {
-	   "name": "District of Columbia Ward 5",
+	   "name": "District of Columbia City Council Ward 5",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -23607,7 +23675,7 @@
 	{
 	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:6": {
-	   "name": "District of Columbia Ward 6",
+	   "name": "District of Columbia City Council Ward 6",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -23640,8 +23708,42 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc/ward:7": {
+	   "name": "District of Columbia City Council Ward 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "County Council, District 7",
+	   "divisionId": "ocd-division/country:us/district:dc/ward:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Yvette Alexander",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:7",
+	   "overwrite_name": "Yvette Alexander",
+	   "emails": [
+	   		"yalexander@dccouncil.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc/ward:8": {
-	   "name": "District of Columbia Ward 8",
+	   "name": "District of Columbia City Council Ward 8",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0

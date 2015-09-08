@@ -27614,7 +27614,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia City Council, At-Large",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27625,7 +27625,7 @@
 	 "offices": [
 	  {
 	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorUpperBody"
 	   ],
@@ -27648,7 +27648,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia City Council, At-Large",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27659,7 +27659,7 @@
 	 "offices": [
 	  {
 	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorUpperBody"
 	   ],
@@ -27682,7 +27682,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia City Council, At-Large",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27693,7 +27693,7 @@
 	 "offices": [
 	  {
 	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorUpperBody"
 	   ],
@@ -27716,7 +27716,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia City Council, At-Large",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27727,7 +27727,7 @@
 	 "offices": [
 	  {
 	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorUpperBody"
 	   ],
@@ -27750,7 +27750,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27761,7 +27761,7 @@
 	 "offices": [
 	  {
 	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorUpperBody"
 	   ],
@@ -27784,7 +27784,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27795,7 +27795,7 @@
 	 "offices": [
 	  {
 	   "name": "Mayor",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "officialIndices": [
 	    0
 	   ]
@@ -27811,7 +27811,7 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
+	  "ocd-division/country:us/state:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",
 	   "officeIndices": [
@@ -27822,7 +27822,7 @@
 	 "offices": [
 	  {
 	   "name": "United States House of Representatives DC",
-	   "divisionId": "ocd-division/country:us/district:dc",
+	   "divisionId": "ocd-division/country:us/state:dc",
 	   "roles": [
 	    "legislatorLowerBody"
 	   ],

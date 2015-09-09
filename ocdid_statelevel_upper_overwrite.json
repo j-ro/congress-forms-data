@@ -3333,6 +3333,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:2": {
+	   "name": "North Dakota State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 2",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:2",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David S. Rust",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:2",
+	   "overwrite_name": "David S. Rust",
+	   "emails": [
+	   		"drust@nd.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nv/sldu:9": {
 	   "name": "Nevada State Senate district 9",
 	   "overwrite": "true",

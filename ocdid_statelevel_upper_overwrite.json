@@ -5161,6 +5161,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wi/sldu:33": {
+	   "name": "Wisconsin State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WI State Senate District 33",
+	   "divisionId": "ocd-division/country:us/state:wi/sldu:33",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Kapenga",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:33",
+	   "overwrite_name": "Paul Farrow",
+	   "emails": [
+	   		"Sen.Kapenga@legis.wisconsin.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldu:37": {
 	   "name": "California State Senate district 37",
 	   "overwrite": "true",

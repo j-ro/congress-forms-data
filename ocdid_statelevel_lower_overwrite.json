@@ -2339,6 +2339,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:3": {
+	   "name": "New Jersey State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 3",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adam J. Taliaferro",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:3",
+	   "overwrite_name": "Celeste M. Riley",
+	   "emails": [
+	   		"asmtaliaferro@njleg.org"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:15": {
 	   "name": "New Jersey State Senate district 15",
 	   "overwrite": "true",

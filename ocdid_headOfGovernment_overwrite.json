@@ -223,43 +223,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa": {
-	   "name": "Washington",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:wa",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jay Inslee",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa",
-	   "overwrite_name": "Jay Inslee",
-	   "emails": [
-	   		"aisling.kerins@gov.wa.gov"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:or": {
 	   "name": "Oregon",
 	   "overwrite": "true",

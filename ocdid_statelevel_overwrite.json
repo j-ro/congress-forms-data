@@ -23716,6 +23716,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:174": {
+	   "name": "Pennsylvania State House district 174",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 174",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:174",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ed Neilson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:174",
+	   "overwrite_name": "John P. Sabatina",
+	   "emails": [
+	   		"eneilson@pahouse.net"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:176": {
 	   "name": "Pennsylvania State House district 176",
 	   "overwrite": "true",
@@ -23778,6 +23812,74 @@
 	   "overwrite_name": "Jason Dawkins",
 	   "emails": [
 	   		"jdawkins@pahouse.net"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:191": {
+	   "name": "Pennsylvania State House district 191",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 191",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:191",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joanna E. McClinton",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:191",
+	   "overwrite_name": "Ronald G. Waters",
+	   "emails": [
+	   		"jmcclinton@pahouse.net"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:195": {
+	   "name": "Pennsylvania State House district 195",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 195",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:195",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Donna Bullock",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:195",
+	   "overwrite_name": "Michelle F. Brownlee",
+	   "emails": [
+	   		"rbullock@pahouse.net"
 	   ]
 	  }
 	 ]

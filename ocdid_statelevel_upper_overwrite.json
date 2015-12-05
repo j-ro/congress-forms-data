@@ -3843,6 +3843,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:37": {
+	   "name": "Pennsylvania State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 37",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:37",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Guy Reschenthaler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
+	   "overwrite_name": "Matt Smith",
+	   "emails": [
+	   		"greschenthaler@pasen.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldu:38": {
 	   "name": "Pennsylvania State Senate district 38",
 	   "overwrite": "true",

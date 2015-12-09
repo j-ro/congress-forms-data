@@ -8185,6 +8185,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldu:7": {
+	   "name": "Texas State Senate district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State Senate District 7",
+	   "divisionId": "ocd-division/country:us/state:tx/sldu:7",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul Bettencourt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:7",
+	   "overwrite_name": "Pat Bettencourt",
+	   "emails": [
+	   		"paul.bettencourt@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldu:8": {
 	   "name": "Texas State Senate district 8",
 	   "overwrite": "true",
@@ -8281,6 +8315,40 @@
 	   "overwrite_name": "Don Huffines",
 	   "emails": [
 	   		"donald.huffines@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldu:18": {
+	   "name": "Texas State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State Senate District 18",
+	   "divisionId": "ocd-division/country:us/state:tx/sldu:18",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lois W. Kolkhorst",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:18",
+	   "overwrite_name": "Glenn Hegar",
+	   "emails": [
+	   		"lois.kolkhorst@house.state.tx.us"
 	   ]
 	  }
 	 ]
@@ -25064,6 +25132,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:13": {
+	   "name": "Texas State House district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 13",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Leighton Schubert",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:13",
+	   "overwrite_name": "Lois Kolkhorst",
+	   "emails": [
+	   		"leighton.schubert@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldl:16": {
 	   "name": "Texas State House district 16",
 	   "overwrite": "true",
@@ -25092,6 +25194,40 @@
 	   "overwrite_name": "Will Metcalf",
 	   "emails": [
 	   		"info@willmetcalf.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:17": {
+	   "name": "Texas State House district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 17",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Cyrier",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:17",
+	   "overwrite_name": "Tim Kleinschmidt",
+	   "emails": [
+	   		"john.cyrier@house.state.tx.us"
 	   ]
 	  }
 	 ]
@@ -25574,6 +25710,138 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:117": {
+	   "name": "Texas State House district 117",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 117",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:117",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick Galindo",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:117",
+	   "overwrite_name": "Philip Cortez",
+	   "emails": [
+	   		"rick.galindo@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:118": {
+	   "name": "Texas State House district 118",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 118",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:118",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:118",
+	   "overwrite_name": "Joe Farias"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:123": {
+	   "name": "Texas State House district 123",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 123",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:123",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Diego Bernal",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:123",
+	   "overwrite_name": "Mike Villarreal",
+	   "emails": [
+	   		"diego.bernal@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:124": {
+	   "name": "Texas State House district 124",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 124",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:124",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ina Minjarez",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:124",
+	   "overwrite_name": "Jose Menendez",
+	   "emails": [
+	   		"ina.minjarez@house.state.tx.us"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldl:129": {
 	   "name": "Texas State House district 129",
 	   "overwrite": "true",
@@ -25630,12 +25898,46 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Mike Scholfiel",
+	   "name": "Mike Schofield",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:132",
 	   "overwrite_name": "Mike Scholfiel",
 	   "emails": [
 	   		"campaign@mikeschofield.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:144": {
+	   "name": "Texas State House district 144",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 144",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:144",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gilbert Pena",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:144",
+	   "overwrite_name": "Mary Ann Perez",
+	   "emails": [
+	   		"gilbert.pena@house.state.tx.us"
 	   ]
 	  }
 	 ]

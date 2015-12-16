@@ -186,43 +186,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:oh": {
-	   "name": "Ohio",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:oh",
-	   "levels": [
-	    "administrativeArea1"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "John R. Kasich",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:oh",
-	   "overwrite_name": "John R. Kasich",
-	   "emails": [
-	   		"John.Kasich@governor.ohio.gov"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:or": {
 	   "name": "Oregon",
 	   "overwrite": "true",

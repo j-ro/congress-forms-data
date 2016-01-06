@@ -20622,6 +20622,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nm/sldu:39": {
+	   "name": "New Mexico State Senate district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NM State Senate District 39",
+	   "divisionId": "ocd-division/country:us/state:nm/sldu:39",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ted Barela",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:39",
+	   "overwrite_name": "Phil A. Griego",
+	   "emails": [
+	   		"ted.barela@nmlegis.gov "
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nm/sldl:1": {
 	   "name": "New Mexico State House district 1",
 	   "overwrite": "true",
@@ -20888,6 +20922,40 @@
 	   "overwrite_name": "James Michael Dines",
 	   "emails": [
 	   		"jim.dines@nmlegis.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nm/sldl:21": {
+	   "name": "New Mexico State House district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NM State House District 21",
+	   "divisionId": "ocd-division/country:us/state:nm/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Idalia Lechuga-Tena",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:21",
+	   "overwrite_name": "Mimi Stewart",
+	   "emails": [
+	   		"idalia.lechuga-tena@nmlegis.gov"
 	   ]
 	  }
 	 ]
@@ -30196,6 +30264,1808 @@
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:52",
 	   "overwrite_name": "Michael W. Frerichs"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:a": {
+	   "name": "Alaska State Senate district A",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District A",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:a",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pete Kelley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:a",
+	   "overwrite_name": "John Coghill",
+	   "emails": [
+	   		"Senator.Pete.Kelly@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:b": {
+	   "name": "Alaska State Senate district B",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District B",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:b",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Coghill",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:b",
+	   "overwrite_name": "Pete Kelley",
+	   "emails": [
+	   		"Senator.John.Coghill@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:d": {
+	   "name": "Alaska State Senate district D",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District D",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:d",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charlie Huggins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:d",
+	   "overwrite_name": "Mike Dunleavy",
+	   "emails": [
+	   		"Senator.Charlie.Huggins@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:e": {
+	   "name": "Alaska State Senate district E",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District E",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:e",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Dunleavy",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:e",
+	   "overwrite_name": "Charlie Huggins",
+	   "emails": [
+	   		"Senator.Mike.Dunleavy@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:f": {
+	   "name": "Alaska State Senate district F",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District F",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:f",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bill Stoltze",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:f",
+	   "overwrite_name": "Fred Dyson",
+	   "emails": [
+	   		"Senator.Bill.Stoltze@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:g": {
+	   "name": "Alaska State Senate district G",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District G",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:g",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anna MacKinnon",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:g",
+	   "overwrite_name": "Bill Wielechowski",
+	   "emails": [
+	   		"Senator.Anna.MacKinnon@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:h": {
+	   "name": "Alaska State Senate district H",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District H",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:h",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bill Wielechowski",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:h",
+	   "overwrite_name": "Berta Gardner",
+	   "emails": [
+	   		"Senator.Bill.Wielechowski@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:i": {
+	   "name": "Alaska State Senate district I",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District I",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:i",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Berta Gardner",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:i",
+	   "overwrite_name": "Johnny Ellis",
+	   "emails": [
+	   		"Senator.Berta.Gardner@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:j": {
+	   "name": "Alaska State Senate district J",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District J",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:j",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Johnny Ellis",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:j",
+	   "overwrite_name": "Hollis French",
+	   "emails": [
+	   		"Senator.Johnny.Ellis@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:k": {
+	   "name": "Alaska State Senate district K",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District K",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:k",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mia Costello",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:k",
+	   "overwrite_name": "Lesil McGuire",
+	   "emails": [
+	   		"Senator.Mia.Costello@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:l": {
+	   "name": "Alaska State Senate district L",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District L",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:l",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lesil McGuire",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:l",
+	   "overwrite_name": "Kevin Meyer",
+	   "emails": [
+	   		"Senator.Lesil.McGuire@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:m": {
+	   "name": "Alaska State Senate district M",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District M",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:m",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin Meyer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:m",
+	   "overwrite_name": "Anna Fairclough",
+	   "emails": [
+	   		"Senator.Kevin.Meyer@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:p": {
+	   "name": "Alaska State Senate district P",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District P",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:p",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary Stevens",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:p",
+	   "overwrite_name": "Dennis Egan",
+	   "emails": [
+	   		"Senator.Gary.Stevens@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:q": {
+	   "name": "Alaska State Senate district Q",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District Q",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:q",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dennis Egan",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:q",
+	   "overwrite_name": "Bert Stedman",
+	   "emails": [
+	   		"Senator.Dennis.Egan@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldu:r": {
+	   "name": "Alaska State Senate district R",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State Senate District R",
+	   "divisionId": "ocd-division/country:us/state:ak/sldu:r",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bert Stedman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:r",
+	   "overwrite_name": "Gary Stevens",
+	   "emails": [
+	   		"Senator.Bert.Stedman@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:1": {
+	   "name": "Alaska State House district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 1",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scott Kawasaki",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:1",
+	   "overwrite_name": "Doug Isaacson",
+	   "emails": [
+	   		"Representative.Scott.Kawasaki@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:2": {
+	   "name": "Alaska State House district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 2",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Thompson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:2",
+	   "overwrite_name": "Tammie Wilson",
+	   "emails": [
+	   		"Representative.Steve.Thompson@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:3": {
+	   "name": "Alaska State House district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 3",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tammie Wilson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:3",
+	   "overwrite_name": "Steve Thompson",
+	   "emails": [
+	   		"Representative.Tammie.Wilson@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:4": {
+	   "name": "Alaska State House district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 4",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Guttenberg",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:4",
+	   "overwrite_name": "Scott Kawasaki",
+	   "emails": [
+	   		"Representative.David.Guttenberg@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:5": {
+	   "name": "Alaska State House district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 5",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adam Wool",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:5",
+	   "overwrite_name": "Pete Higgins",
+	   "emails": [
+	   		"Representative.Adam.Wool@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:6": {
+	   "name": "Alaska State House district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 6",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dave Talerico",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:6",
+	   "overwrite_name": "Eric Feige",
+	   "emails": [
+	   		"Representative.Dave.Talerico@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:7": {
+	   "name": "Alaska State House district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 7",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lynn Gattis",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:7",
+	   "overwrite_name": "Wes Keller",
+	   "emails": [
+	   		"Representative.Lynn.Gattis@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:8": {
+	   "name": "Alaska State House district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 8",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Neuman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:8",
+	   "overwrite_name": "Shelley Hughes",
+	   "emails": [
+	   		"Representative.Mark.Neuman@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:9": {
+	   "name": "Alaska State House district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 9",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Colver",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:9",
+	   "overwrite_name": "Lynn Gattis",
+	   "emails": [
+	   		"Representative.Jim.Colver@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:10": {
+	   "name": "Alaska State House district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 10",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wes Keller",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:10",
+	   "overwrite_name": "Mark Neuman",
+	   "emails": [
+	   		"Representative.Wes.Keller@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:11": {
+	   "name": "Alaska State House district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 11",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shelley Hughes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:11",
+	   "overwrite_name": "Bill Stoltze",
+	   "emails": [
+	   		"Rep.Shelley.Hughes@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:12": {
+	   "name": "Alaska State House district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 12",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cathy Tilton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:12",
+	   "overwrite_name": "Dan Saddler",
+	   "emails": [
+	   		"Representative.Cathy.Tilton@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:13": {
+	   "name": "Alaska State House district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 13",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan Saddler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:13",
+	   "overwrite_name": "Gabrielle LeDoux",
+	   "emails": [
+	   		"Representative.Dan.Saddler@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:14": {
+	   "name": "Alaska State House district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 14",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lora Reinbold",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:14",
+	   "overwrite_name": "Max Gruenberg",
+	   "emails": [
+	   		"Representative.Lora.Reinbold@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:15": {
+	   "name": "Alaska State House district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 15",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gabrielle LaDoux",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:15",
+	   "overwrite_name": "Andy Josephson",
+	   "emails": [
+	   		"Representative.Gabrielle.LeDoux@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:16": {
+	   "name": "Alaska State House district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 16",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Max Gruenberg",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:16",
+	   "overwrite_name": "Harriet Drummond",
+	   "emails": [
+	   		"Representative.Max.Gruenberg@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:17": {
+	   "name": "Alaska State House district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 17",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Andy Josephson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:17",
+	   "overwrite_name": "Geran Tarr",
+	   "emails": [
+	   		"Representative.Andy.Josephson@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:18": {
+	   "name": "Alaska State House district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 18",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Harriet Drummond",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:18",
+	   "overwrite_name": "Les Gara",
+	   "emails": [
+	   		"Representative.Harriet.Drummond@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:19": {
+	   "name": "Alaska State House district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 19",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Geran Tarr",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:19",
+	   "overwrite_name": "Lindsey Holmes",
+	   "emails": [
+	   		"Representative.Geran.Tarr@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:20": {
+	   "name": "Alaska State House district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 20",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Les Gara",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:20",
+	   "overwrite_name": "Mia Costello",
+	   "emails": [
+	   		"Representative.Les.Gara@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:21": {
+	   "name": "Alaska State House district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 21",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matt Claman",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:21",
+	   "overwrite_name": "Craig Johnson",
+	   "emails": [
+	   		"Representative.Matt.Claman@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:22": {
+	   "name": "Alaska State House district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 22",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Liz Vazquez",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:22",
+	   "overwrite_name": "Chris Tuck",
+	   "emails": [
+	   		"Representative.Liz.Vazquez@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:23": {
+	   "name": "Alaska State House district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 23",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:23",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Tuck",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:23",
+	   "overwrite_name": "Bob Lynn",
+	   "emails": [
+	   		"Representative.Chris.Tuck@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:24": {
+	   "name": "Alaska State House district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 24",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Craig Johnson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:24",
+	   "overwrite_name": "Charisse Millett",
+	   "emails": [
+	   		"Representative.Craig.Johnson@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:25": {
+	   "name": "Alaska State House district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 25",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charisse Millett",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:25",
+	   "overwrite_name": "Lance Pruitt",
+	   "emails": [
+	   		"Representative.Charisse.Millett@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:26": {
+	   "name": "Alaska State House district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 26",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Lynn",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:26",
+	   "overwrite_name": "Lora Reinbold",
+	   "emails": [
+	   		"Representative.Bob.Lynn@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:27": {
+	   "name": "Alaska State House district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 27",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lance Pruitt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:27",
+	   "overwrite_name": "Mike Hawker",
+	   "emails": [
+	   		"Representative.Lance.Pruitt@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:28": {
+	   "name": "Alaska State House district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 28",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Hawker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:28",
+	   "overwrite_name": "Mike Chenault",
+	   "emails": [
+	   		"Representative.Mike.Hawker@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:29": {
+	   "name": "Alaska State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 29",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Chenault",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:29",
+	   "overwrite_name": "Kurt Olson",
+	   "emails": [
+	   		"Representative.Mike.Chenault@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:30": {
+	   "name": "Alaska State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 30",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kurt Olson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:30",
+	   "overwrite_name": "Paul Seaton",
+	   "emails": [
+	   		"Representative.Kurt.Olson@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:31": {
+	   "name": "Alaska State House district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 31",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul Seaton",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:31",
+	   "overwrite_name": "Cathy Munoz",
+	   "emails": [
+	   		"Representative.Paul.Seaton@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:32": {
+	   "name": "Alaska State House district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 32",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Louise Stutes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:32",
+	   "overwrite_name": "Sam Kito III",
+	   "emails": [
+	   		"Representative.Louise.Stutes@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:33": {
+	   "name": "Alaska State House district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 33",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sam Kito III",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:33",
+	   "overwrite_name": "Peggy Wilson",
+	   "emails": [
+	   		"Representative.Sam.Kito.III@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:34": {
+	   "name": "Alaska State House district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 34",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cathy Munoz",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:34",
+	   "overwrite_name": "Jonathan Kreiss-Tomkins",
+	   "emails": [
+	   		"Representative.Cathy.Munoz@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:35": {
+	   "name": "Alaska State House district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 35",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jonathan Kreiss-Tomkins",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:35",
+	   "overwrite_name": "Alan Austerman",
+	   "emails": [
+	   		"Representative.Jonathan.Kreiss-Tomkins@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:36": {
+	   "name": "Alaska State House district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 36",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan Ortiz",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:36",
+	   "overwrite_name": "Bryce Edgmon",
+	   "emails": [
+	   		"Representative.Dan.Ortiz@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:37": {
+	   "name": "Alaska State House district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 37",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:37",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bryce Edgmon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:37",
+	   "overwrite_name": "Bob Herron",
+	   "emails": [
+	   		"Representative.Bryce.Edgmon@akleg.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ak/sldl:38": {
+	   "name": "Alaska State House district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AK State House District 38",
+	   "divisionId": "ocd-division/country:us/state:ak/sldl:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Herron",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:38",
+	   "overwrite_name": "David Guttenberg",
+	   "emails": [
+	   		"Representative.Bob.Herron@akleg.gov"
+	   ]
 	  }
 	 ]
 	}

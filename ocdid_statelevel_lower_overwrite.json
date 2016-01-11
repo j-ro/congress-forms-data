@@ -18727,6 +18727,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:192": {
+	   "name": "Pennsylvania State House district 192",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 192",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:192",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:192",
+	   "overwrite_name": "Louise Williams Bishop"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:195": {
 	   "name": "Pennsylvania State House district 195",
 	   "overwrite": "true",
@@ -18790,6 +18820,36 @@
 	   "emails": [
 	   		"lacosta@pahouse.net"
 	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:200": {
+	   "name": "Pennsylvania State House district 200",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 200",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:200",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:200",
+	   "overwrite_name": "Cherelle L. Parker"
 	  }
 	 ]
 	},

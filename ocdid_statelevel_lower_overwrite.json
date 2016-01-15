@@ -21193,6 +21193,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:2": {
+	   "name": "Virginia State House district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 2",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Dudenhefer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:2",
+	   "overwrite_name": "Michael T. Futrell",
+	   "emails": [
+	   		"DelMDudenhefer@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:va/sldl:4": {
 	   "name": "Virginia State House district 4",
 	   "overwrite": "true",
@@ -21227,6 +21261,142 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:29": {
+	   "name": "Virginia State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 29",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christopher Collins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:29",
+	   "overwrite_name": "Mark J. Berg",
+	   "emails": [
+	   		"DelCCollins@senate.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:30": {
+	   "name": "Virginia State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 30",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nick Freitas",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:30",
+	   "overwrite_name": "Edward T. Scott",
+	   "emails": [
+	   		"DelNFreitas@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:44": {
+	   "name": "Virginia State House district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 44",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:44",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul Krizek",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:44",
+	   "overwrite_name": "Scott A. Surovell",
+	   "emails": [
+	   		"DelPKrizek@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:45": {
+	   "name": "Virginia State House district 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 45",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:45",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Levine",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:45",
+	   "overwrite_name": "K. Robert Krupicka Jr.",
+	   "emails": [
+	   		"DelMLevine@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:va/sldl:63": {
 	   "name": "Virginia State House district 63",
 	   "overwrite": "true",
@@ -21249,12 +21419,182 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Joseph E. Preston",
+	   "name": "Lashrecse Aird",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:63",
 	   "overwrite_name": "Vacant",
 	   "emails": [
-	   		"DelJPreston@house.virginia.gov"
+	   		"DelLAird@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:79": {
+	   "name": "Virginia State House district 79",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 79",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:79",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Heretick",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:79",
+	   "overwrite_name": "Johnny S. Joannou",
+	   "emails": [
+	   		"DelSHeretick@senate.virginia.gov "
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:82": {
+	   "name": "Virginia State House district 82",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 82",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:82",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jason Miyares",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:82",
+	   "overwrite_name": "William R. DeSteph Jr.",
+	   "emails": [
+	   		"DelJMiyares@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:86": {
+	   "name": "Virginia State House district 86",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 86",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:86",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jennifer Boysko",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:86",
+	   "overwrite_name": "Thomas Davis Rust",
+	   "emails": [
+	   		"DelJBoysko@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:87": {
+	   "name": "Virginia State House district 87",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 87",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:87",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Bell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:87",
+	   "overwrite_name": "David I. Ramadan",
+	   "emails": [
+	   		"DelJBell@house.virginia.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va/sldl:95": {
+	   "name": "Virginia State House district 95",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VA State House District 95",
+	   "divisionId": "ocd-division/country:us/state:va/sldl:95",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marcia Price",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:95",
+	   "overwrite_name": "Mamye E. BaCote",
+	   "emails": [
+	   		"DelMPrice@house.virginia.gov"
 	   ]
 	  }
 	 ]

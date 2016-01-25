@@ -69,6 +69,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:al/sldu:10": {
+	   "name": "Alabama State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State Senate District 10",
+	   "divisionId": "ocd-division/country:us/state:al/sldu:10",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phil W. Williams",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldu:10",
+	   "overwrite_name": "Phil Williams",
+	   "emails": [
+	   		"philw.williams@alsenate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:al/sldu:23": {
 	   "name": "Alabama State Senate district 23",
 	   "overwrite": "true",

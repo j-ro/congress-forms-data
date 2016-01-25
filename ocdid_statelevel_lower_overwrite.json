@@ -22383,6 +22383,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wi/sldl:74": {
+	   "name": "Wisconsin State House district 74",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WI State House District 74",
+	   "divisionId": "ocd-division/country:us/state:wi/sldl:74",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Beth Meyers",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldl:74",
+	   "overwrite_name": "Janet Bewley",
+	   "emails": [
+	   		"Rep.Meyers@legis.wisconsin.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wi/sldl:75": {
 	   "name": "Wisconsin State House district 75",
 	   "overwrite": "true",
@@ -22615,6 +22649,40 @@
 	   "overwrite_name": "Scott Allen",
 	   "emails": [
 	   		"Rep.Allen@legis.wisconsin.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wi/sldl:99": {
+	   "name": "Wisconsin State House district 99",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WI State House District 99",
+	   "divisionId": "ocd-division/country:us/state:wi/sldl:99",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cindi Duchow",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldl:99",
+	   "overwrite_name": "Chris Kapenga",
+	   "emails": [
+	   		"Rep.Duchow@legis.wisconsin.gov"
 	   ]
 	  }
 	 ]

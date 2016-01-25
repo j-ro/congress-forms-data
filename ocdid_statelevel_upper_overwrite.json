@@ -4889,6 +4889,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:36": {
+	   "name": "Washington State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 36",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Reuven Carlyle",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
+	   "overwrite_name": "Jeanne Kohl-Welles",
+	   "emails": [
+	   		"reuven.carlyle@leg.wa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:37": {
 	   "name": "Washington State Senate district 37",
 	   "overwrite": "true",

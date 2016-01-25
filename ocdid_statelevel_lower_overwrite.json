@@ -24245,6 +24245,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:36": {
+	   "name": "Washington State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 36",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Noel Frame",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
+	   "overwrite_name": "Reuven Carlyle",
+	   "emails": [
+	   		"noel.frame@leg.wa.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:174": {
 	   "name": "Pennsylvania State House district 174",
 	   "overwrite": "true",

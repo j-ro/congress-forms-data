@@ -32,6 +32,9 @@
 	   "overwrite_name": "David Ige",
 	   "emails": [
 	   		"gov@gov.state.hi.us"
+	   ],
+	   "phones": [
+	   		"(808) 586-0034"
 	   ]
 	  }
 	 ]
@@ -69,6 +72,9 @@
 	   "overwrite_name": "C.L. \"Butch\" Otter",
 	   "emails": [
 	   		"Governor@gov.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 334-2100"
 	   ]
 	  }
 	 ]
@@ -106,6 +112,46 @@
 	   "overwrite_name": "Sam Brownback",
 	   "emails": [
 	   		"governor@ks.gov"
+	   ],
+	   "phones": [
+	   		"(785) 296-3232"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:la": {
+	   "name": "Louisiana",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:la",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Bel Edwards",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:la",
+	   "overwrite_name": "Bobby Jindal",
+	   "phones": [
+	   		"(225) 342-7015"
 	   ]
 	  }
 	 ]
@@ -143,6 +189,9 @@
 	   "overwrite_name": "Chris Christie",
 	   "emails": [
 	   		"chris.christie@gov.state.nj.us"
+	   ],
+	   "phones": [
+	   		"(609) 292-6000"
 	   ]
 	  }
 	 ]
@@ -180,6 +229,9 @@
 	   "overwrite_name": "Susana Martinez",
 	   "emails": [
 	   		"gardners90@yahoo.com"
+	   ],
+	   "phones": [
+	   		"(505) 476-2200"
 	   ]
 	  }
 	 ]
@@ -214,7 +266,10 @@
 	   "name": "Kate Brown",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:or",
-	   "overwrite_name": "John Kitzhaber"
+	   "overwrite_name": "John Kitzhaber",
+	   "phones": [
+	   		"(503) 378-4582"
+	   ]
 	  }
 	 ]
 	},
@@ -248,6 +303,9 @@
 	   "overwrite_name": "Vincent C. Gray",
 	   "emails": [
 	   		"eom@dc.gov"
+	   ],
+	   "phones": [
+	   		"(202) 727-2643"
 	   ]
 	  }
 	 ]
@@ -278,7 +336,10 @@
 	  {
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Eleanor Holmes Norton"
+	   "overwrite_name": "Eleanor Holmes Norton",
+	   "phones": [
+	   		"(202) 225-8050"
+	   ]
 	  }
 	 ]
 	},

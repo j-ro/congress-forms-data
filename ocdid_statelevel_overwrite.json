@@ -12358,6 +12358,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:54": {
+	   "name": "Georgia State House district 54",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 54",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:54",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Beth Beskin",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:54",
+	   "overwrite_name": "Edward Lindsey",
+	   "emails": [
+	   		"beth.beskin@house.ga.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ga/sldl:98": {
 	   "name": "Georgia State House district 98",
 	   "overwrite": "true",

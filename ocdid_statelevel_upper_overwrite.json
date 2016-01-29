@@ -5278,6 +5278,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:19": {
+	   "name": "Washington State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State Senate District 19",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:19",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dean Takko",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
+	   "overwrite_name": "Brian Hatfield",
+	   "emails": [
+	   		"dean.takko@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7636"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:30": {
 	   "name": "Washington State Senate district 30",
 	   "overwrite": "true",

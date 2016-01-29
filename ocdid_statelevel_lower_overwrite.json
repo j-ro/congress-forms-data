@@ -3975,6 +3975,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:19": {
+	   "name": "Washington State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 19",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "J D Rossetti",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
+	   "overwrite_name": "Dean Takko",
+	   "emails": [
+	   		"jd.rossetti@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7806"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:21": {
 	   "name": "Washington State Senate district 21",
 	   "overwrite": "true",
@@ -11173,6 +11210,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"anne.kaiser@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3036"
 	   ]
 	  }
 	 ]
@@ -11207,6 +11247,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"eric.luedtke@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3110"
 	   ]
 	  }
 	 ]
@@ -11241,6 +11284,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"craig.zucker@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3380"
 	   ]
 	  }
 	 ]
@@ -11275,6 +11321,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"kathleen.dumais@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3052"
 	   ]
 	  }
 	 ]
@@ -11309,6 +11358,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"david.fraser.hidalgo@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3186"
 	   ]
 	  }
 	 ]
@@ -11343,6 +11395,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"aruna.miller@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3090"
 	   ]
 	  }
 	 ]
@@ -11377,6 +11432,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"bill.frick@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3454"
 	   ]
 	  }
 	 ]
@@ -11411,6 +11469,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ariana.kelly@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3642"
 	   ]
 	  }
 	 ]
@@ -11445,6 +11506,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"kumar.barve@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3464"
 	   ]
 	  }
 	 ]
@@ -11479,6 +11543,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"jim.gilchrist@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3744"
 	   ]
 	  }
 	 ]
@@ -11513,6 +11580,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"alfred.carr@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3638"
 	   ]
 	  }
 	 ]
@@ -11547,6 +11617,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ana.gutierrez@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3181"
 	   ]
 	  }
 	 ]
@@ -11581,6 +11654,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"jeff.waldstreicher@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3130"
 	   ]
 	  }
 	 ]
@@ -11615,6 +11691,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"bonnie.cullison@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3883"
 	   ]
 	  }
 	 ]
@@ -11649,6 +11728,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"benjamin.kramer@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3485"
 	   ]
 	  }
 	 ]
@@ -11713,6 +11795,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"Marice.Morales@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3528"
 	   ]
 	  }
 	 ]
@@ -11747,6 +11832,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"sheila.hixson.annapolis@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3469"
 	   ]
 	  }
 	 ]
@@ -11781,6 +11869,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"david.moon@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3474"
 	   ]
 	  }
 	 ]
@@ -11845,6 +11936,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"will.smith@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3493"
 	   ]
 	  }
 	 ]
@@ -11909,6 +12003,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ben.barnes@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3046"
 	   ]
 	  }
 	 ]
@@ -11943,6 +12040,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"barbara.frush@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3114"
 	   ]
 	  }
 	 ]
@@ -11977,6 +12077,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"joseline.pena.melnyk@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3502"
 	   ]
 	  }
 	 ]
@@ -12011,6 +12114,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"tawanna.gaines@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3058"
 	   ]
 	  }
 	 ]
@@ -12045,6 +12151,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"anne.healey@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3961"
 	   ]
 	  }
 	 ]
@@ -12079,6 +12188,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"alonzo.washington@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3652"
 	   ]
 	  }
 	 ]
@@ -12113,6 +12225,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"erek.barron@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3692"
 	   ]
 	  }
 	 ]
@@ -12177,6 +12292,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"carolyn.howard@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3919"
 	   ]
 	  }
 	 ]
@@ -12211,6 +12329,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"michael.vaughn@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3691"
 	   ]
 	  }
 	 ]
@@ -12245,6 +12366,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"angela.angel@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3707"
 	   ]
 	  }
 	 ]
@@ -12309,6 +12433,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"darryl.barnes@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3557"
 	   ]
 	  }
 	 ]
@@ -12373,6 +12500,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"dereck.davis@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3519"
 	   ]
 	  }
 	 ]
@@ -12407,6 +12537,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"tony.knotts@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3212"
 	   ]
 	  }
 	 ]
@@ -12471,6 +12604,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"kris.valderrama@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3210"
 	   ]
 	  }
 	 ]
@@ -12505,6 +12641,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"jay.walker@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3581"
 	   ]
 	  }
 	 ]
@@ -12539,6 +12678,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"mark.fisher@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3231"
 	   ]
 	  }
 	 ]
@@ -12573,6 +12715,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"sally.jameson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3337"
 	   ]
 	  }
 	 ]
@@ -12607,6 +12752,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ct.edith.patterson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3247"
 	   ]
 	  }
 	 ]
@@ -12671,6 +12819,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ct.wilson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3325"
 	   ]
 	  }
 	 ]
@@ -12705,6 +12856,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"michael.busch@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3800"
 	   ]
 	  }
 	 ]
@@ -12739,6 +12893,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"herb.mcmillan@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3211"
 	   ]
 	  }
 	 ]
@@ -12773,6 +12930,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"seth.howard@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3439"
 	   ]
 	  }
 	 ]
@@ -12837,6 +12997,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"Ned.Carey@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3047"
 	   ]
 	  }
 	 ]
@@ -12901,6 +13064,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"meagan.simonaire@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3206"
 	   ]
 	  }
 	 ]
@@ -12935,6 +13101,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"nicholaus.kipke@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3421"
 	   ]
 	  }
 	 ]
@@ -12969,6 +13138,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		" pamela.beidle@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3370"
 	   ]
 	  }
 	 ]
@@ -13003,6 +13175,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"ted.sophocleus@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3372"
 	   ]
 	  }
 	 ]
@@ -13037,6 +13212,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"michael.malone@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3510"
 	   ]
 	  }
 	 ]
@@ -13071,6 +13249,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"tony.mcconkey@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3406"
 	   ]
 	  }
 	 ]
@@ -13105,6 +13286,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"sid.saab@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3551"
 	   ]
 	  }
 	 ]
@@ -13139,6 +13323,9 @@
 	   "overwrite_name": "Mary Ann Lisanti",
 	   "emails": [
 	   		"MaryAnn.Lisanti@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3331"
 	   ]
 	  }
 	 ]
@@ -13173,6 +13360,9 @@
 	   "overwrite_name": "Susan K. McComas",
 	   "emails": [
 	   		"susan.mccomas@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3272"
 	   ]
 	  }
 	 ]
@@ -13207,6 +13397,9 @@
 	   "overwrite_name": "Kevin Bailey Hornberger",
 	   "emails": [
 	   		"Kevin.Hornberger@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3284"
 	   ]
 	  }
 	 ]
@@ -13241,6 +13434,9 @@
 	   "overwrite_name": "Teresa Reilly",
 	   "emails": [
 	   		"Teresa.Reilly@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3278"
 	   ]
 	  }
 	 ]
@@ -13275,6 +13471,9 @@
 	   "overwrite_name": "Andrew Cassilly",
 	   "emails": [
 	   		"Andrew.Cassilly@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3444"
 	   ]
 	  }
 	 ]
@@ -13309,6 +13508,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"steven.arentz@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3543"
 	   ]
 	  }
 	 ]
@@ -13343,6 +13545,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"jay.jacobs@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3449"
 	   ]
 	  }
 	 ]
@@ -13377,6 +13582,9 @@
 	   "overwrite_name": "Sheree Sample-Hughes",
 	   "emails": [
 	   		"Sheree.Sample.Hughes@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3427"
 	   ]
 	  }
 	 ]
@@ -13411,6 +13619,9 @@
 	   "overwrite_name": "Johnny Mautz",
 	   "emails": [
 	   		"Johnny.Mautz@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3429"
 	   ]
 	  }
 	 ]
@@ -13445,6 +13656,9 @@
 	   "overwrite_name": "Christopher T. Adams",
 	   "emails": [
 	   		"Christopher.Adams@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3343"
 	   ]
 	  }
 	 ]
@@ -13479,6 +13693,9 @@
 	   "overwrite_name": "Carl Anderton Jr",
 	   "emails": [
 	   		"Carl.Anderton@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3431"
 	   ]
 	  }
 	 ]
@@ -13513,6 +13730,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"marybeth.carozza@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3356"
 	   ]
 	  }
 	 ]
@@ -13547,6 +13767,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"charles.barkley@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3001"
 	   ]
 	  }
 	 ]
@@ -13581,6 +13804,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"kirill.reznik@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3039"
 	   ]
 	  }
 	 ]
@@ -13615,6 +13841,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"shane.robinson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3021"
 	   ]
 	  }
 	 ]
@@ -13649,6 +13878,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"frank.conaway@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3189"
 	   ]
 	  }
 	 ]
@@ -13683,6 +13915,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"barbara.robinson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3520"
 	   ]
 	  }
 	 ]
@@ -13717,6 +13952,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"jill.carter@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3268"
 	   ]
 	  }
 	 ]
@@ -13751,6 +13989,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"nathaniel.oaks@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3283"
 	   ]
 	  }
 	 ]
@@ -13785,6 +14026,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"samuel.rosenberg@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3297"
 	   ]
 	  }
 	 ]
@@ -13819,6 +14063,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"curt.anderson@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3291"
 	   ]
 	  }
 	 ]
@@ -13853,6 +14100,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"maggie.mcintosh@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3407"
 	   ]
 	  }
 	 ]
@@ -13887,6 +14137,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"mary.washington@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3476"
 	   ]
 	  }
 	 ]
@@ -13921,6 +14174,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"keith.haynes@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3801"
 	   ]
 	  }
 	 ]
@@ -13955,6 +14211,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"charles.sydnor@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3802"
 	   ]
 	  }
 	 ]
@@ -13989,6 +14248,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"pat.young@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3544"
 	   ]
 	  }
 	 ]
@@ -14053,6 +14315,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"cheryl.glenn@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3257"
 	   ]
 	  }
 	 ]
@@ -14087,6 +14352,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"talmadge.branch@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3398"
 	   ]
 	  }
 	 ]
@@ -14121,6 +14389,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"luke.clippinger@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3303"
 	   ]
 	  }
 	 ]
@@ -14155,6 +14426,9 @@
 	   "overwrite_name": "",
 	   "emails": [
 	   		"peter.hammen@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3772"
 	   ]
 	  }
 	 ]
@@ -14189,6 +14463,9 @@
 	   "overwrite_name": "Brendan Crighton",
 	   "emails": [
 	   		"brendan.crighton@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2130"
 	   ]
 	  }
 	 ]
@@ -14223,6 +14500,9 @@
 	   "overwrite_name": "Michael DuBois",
 	   "emails": [
 	   		"michelle.dubois@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2011"
 	   ]
 	  }
 	 ]
@@ -14257,6 +14537,9 @@
 	   "overwrite_name": "David Muradian Jr",
 	   "emails": [
 	   		"David.Muradian@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2240"
 	   ]
 	  }
 	 ]
@@ -14291,6 +14574,9 @@
 	   "overwrite_name": "Peter Lucido",
 	   "emails": [
 	   		"PeterLucido@house.mi.gov"
+	   ],
+	   "phones": [
+	   		"517.373.0843"
 	   ]
 	  }
 	 ]
@@ -14325,6 +14611,9 @@
 	   "overwrite_name": "Edwin Canfield",
 	   "emails": [
 	   		"EdwardCanfield@house.mi.gov"
+	   ],
+	   "phones": [
+	   		"517.373.0476"
 	   ]
 	  }
 	 ]
@@ -14359,6 +14648,9 @@
 	   "overwrite_name": "Daniela Garcia",
 	   "emails": [
 	   		"DanielaGarcia@house.mi.gov"
+	   ],
+	   "phones": [
+	   		"517.373.0830"
 	   ]
 	  }
 	 ]
@@ -14393,6 +14685,9 @@
 	   "overwrite_name": "Jack Considine",
 	   "emails": [
 	   		"rep.jack.considine@house.mn"
+	   ],
+	   "phones": [
+	   		"651-296-3248"
 	   ]
 	  }
 	 ]
@@ -14427,6 +14722,9 @@
 	   "overwrite_name": "Abagail Whelan",
 	   "emails": [
 	   		"rep.abigail.whelan@house.mn"
+	   ],
+	   "phones": [
+	   		"651-296-1729"
 	   ]
 	  }
 	 ]
@@ -14461,6 +14759,9 @@
 	   "overwrite_name": "Allen Andrews",
 	   "emails": [
 	   		"Allen.Andrews@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-9465"
 	   ]
 	  }
 	 ]
@@ -14495,6 +14796,9 @@
 	   "overwrite_name": "J. Eggleston",
 	   "emails": [
 	   		"J.Eggleston@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4285"
 	   ]
 	  }
 	 ]
@@ -14529,6 +14833,9 @@
 	   "overwrite_name": "Kevin Corlew",
 	   "emails": [
 	   		"Kevin.Corlew@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3618"
 	   ]
 	  }
 	 ]
@@ -14563,6 +14870,9 @@
 	   "overwrite_name": "Nick King",
 	   "emails": [
 	   		"Nick.King@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-1218"
 	   ]
 	  }
 	 ]
@@ -14597,6 +14907,9 @@
 	   "overwrite_name": "Lauren Arthur",
 	   "emails": [
 	   		"Lauren.Arthur@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-2199"
 	   ]
 	  }
 	 ]
@@ -14631,6 +14944,9 @@
 	   "overwrite_name": "Bill E. Kidd",
 	   "emails": [
 	   		"Bill.Kidd@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3674"
 	   ]
 	  }
 	 ]
@@ -14665,6 +14981,9 @@
 	   "overwrite_name": "Rebecca Roeber",
 	   "emails": [
 	   		"Rebecca.Roeber@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-1456"
 	   ]
 	  }
 	 ]
@@ -14699,6 +15018,9 @@
 	   "overwrite_name": "Randy Pietzman",
 	   "emails": [
 	   		"Randy.Pietzman@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-9459"
 	   ]
 	  }
 	 ]
@@ -14733,6 +15055,9 @@
 	   "overwrite_name": "Kip Kendrick",
 	   "emails": [
 	   		"Kip.Kendrick@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4189"
 	   ]
 	  }
 	 ]
@@ -14767,6 +15092,9 @@
 	   "overwrite_name": "Chuck Basye",
 	   "emails": [
 	   		"Chuck.Basye@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-1501"
 	   ]
 	  }
 	 ]
@@ -14801,6 +15129,9 @@
 	   "overwrite_name": "Travis Fitzwater",
 	   "emails": [
 	   		"Travis.Fitzwater@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-5226"
 	   ]
 	  }
 	 ]
@@ -14835,6 +15166,9 @@
 	   "overwrite_name": "Nathan Beard",
 	   "emails": [
 	   		"Nathan.Beard@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-9774"
 	   ]
 	  }
 	 ]
@@ -14869,6 +15203,9 @@
 	   "overwrite_name": "Jack Bondon",
 	   "emails": [
 	   		"Jack.Bondon@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-2175"
 	   ]
 	  }
 	 ]
@@ -14903,6 +15240,9 @@
 	   "overwrite_name": "Justin Alferman",
 	   "emails": [
 	   		"Justin.Alferman@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-6668"
 	   ]
 	  }
 	 ]
@@ -14937,6 +15277,9 @@
 	   "overwrite_name": "Joe Adams",
 	   "emails": [
 	   		"Joe.Adams@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4265"
 	   ]
 	  }
 	 ]
@@ -14971,6 +15314,9 @@
 	   "overwrite_name": "Deb Lavender",
 	   "emails": [
 	   		"Deb.Lavender@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4069"
 	   ]
 	  }
 	 ]
@@ -15005,6 +15351,9 @@
 	   "overwrite_name": "Shamed Dogan",
 	   "emails": [
 	   		"Shamed.Dogan@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4392"
 	   ]
 	  }
 	 ]
@@ -15039,6 +15388,9 @@
 	   "overwrite_name": "John Wiemann",
 	   "emails": [
 	   		"John.Wiemann@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-2176"
 	   ]
 	  }
 	 ]
@@ -15073,6 +15425,9 @@
 	   "overwrite_name": "Justin Hill",
 	   "emails": [
 	   		"Justin.Hill@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3572"
 	   ]
 	  }
 	 ]
@@ -15107,6 +15462,9 @@
 	   "overwrite_name": "Kirk Mathews",
 	   "emails": [
 	   		"Kirk.Mathews@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-0562"
 	   ]
 	  }
 	 ]
@@ -15141,6 +15499,9 @@
 	   "overwrite_name": "Shane Roden",
 	   "emails": [
 	   		"Shane.Roden@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4567"
 	   ]
 	  }
 	 ]
@@ -15175,6 +15536,9 @@
 	   "overwrite_name": "Rob Vescovo",
 	   "emails": [
 	   		"Rob.Vescovo@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3607"
 	   ]
 	  }
 	 ]
@@ -15209,6 +15573,9 @@
 	   "overwrite_name": "Dan Shaul",
 	   "emails": [
 	   		"Dan.Shaul@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-2504"
 	   ]
 	  }
 	 ]
@@ -15243,6 +15610,9 @@
 	   "overwrite_name": "Becky Ruth",
 	   "emails": [
 	   		"Becky.Ruth@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4451"
 	   ]
 	  }
 	 ]
@@ -15277,6 +15647,9 @@
 	   "overwrite_name": "Jason Chipman",
 	   "emails": [
 	   		"Jason.Chipman@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-1688"
 	   ]
 	  }
 	 ]
@@ -15311,6 +15684,9 @@
 	   "overwrite_name": "Patricia Pike",
 	   "emails": [
 	   		"Patricia.Pike@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-5388"
 	   ]
 	  }
 	 ]
@@ -15345,6 +15721,9 @@
 	   "overwrite_name": "Jered Taylor",
 	   "emails": [
 	   		"Jered.Taylor@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3833"
 	   ]
 	  }
 	 ]
@@ -15379,6 +15758,9 @@
 	   "overwrite_name": "Donald Rone",
 	   "emails": [
 	   		"Don.Rone@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-4085"
 	   ]
 	  }
 	 ]
@@ -15413,6 +15795,9 @@
 	   "overwrite_name": "Andrew McDaniel",
 	   "emails": [
 	   		"Andrew.McDaniel@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"573-751-3629"
 	   ]
 	  }
 	 ]
@@ -15447,6 +15832,9 @@
 	   "overwrite_name": "Frank Garner",
 	   "emails": [
 	   		"Rep.Frank.Garner@mt.gov"
+	   ],
+	   "phones": [
+	   		"(406) 471-7197"
 	   ]
 	  }
 	 ]
@@ -15481,6 +15869,9 @@
 	   "overwrite_name": "Dale Mortensen",
 	   "emails": [
 	   		"Rep.Dale.Mortensen@mt.gov"
+	   ],
+	   "phones": [
+	   		"(406) 855-1424"
 	   ]
 	  }
 	 ]
@@ -15515,6 +15906,9 @@
 	   "overwrite_name": "Kathy Kelker",
 	   "emails": [
 	   		"Rep.Kathy.Kelker@mt.gov"
+	   ],
+	   "phones": [
+	   		"(406) 652-6716"
 	   ]
 	  }
 	 ]
@@ -15549,6 +15943,9 @@
 	   "overwrite_name": "Jessica Karjala",
 	   "emails": [
 	   		"Rep.Jessica.Karjala@mt.gov"
+	   ],
+	   "phones": [
+	   		"(406) 672-8681"
 	   ]
 	  }
 	 ]

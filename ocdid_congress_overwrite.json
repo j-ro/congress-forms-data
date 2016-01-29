@@ -186,6 +186,80 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd": {
+	   "name": "South Dakota",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:sd",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Rounds",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd",
+	   "overwrite_name": "Mike Rounds",
+	   "phones": [
+	   		"(202) 224-5842"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/territory:as": {
+	   "name": "American Samoa",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives AS",
+	   "divisionId": "ocd-division/country:us/territory:as",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anmua Amata Radewagen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/territory:as",
+	   "overwrite_name": "Anmua Amata Radewagen",
+	   "phones": [
+	   		"(202) 225-8577"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ny/cd:1": {
 	   "name": "New York's 1st congressional district",
 	   "overwrite": "true",

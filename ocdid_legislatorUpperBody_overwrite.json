@@ -183,5 +183,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd": {
+	   "name": "South Dakota",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:sd",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Rounds",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd",
+	   "overwrite_name": "Mike Rounds",
+	   "phones": [
+	   		"(202) 224-5842"
+	   ]
+	  }
+	 ]
 	}
 ]

@@ -14435,6 +14435,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ma/sldl:28th_middlesex": {
+	   "name": "Massachusetts 11th Middlesex district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MA State House District 11th Middlesex",
+	   "divisionId": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joseph W. McGonagle Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
+	   "overwrite_name": "Joseph W. McGonagle Jr.",
+	   "emails": [
+	   		"Joseph.McGonagle@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2400"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ma/sldl:11th_essex": {
 	   "name": "Massachusetts 11th Essex district",
 	   "overwrite": "true",
@@ -14540,6 +14577,43 @@
 	   ],
 	   "phones": [
 	   		"617-722-2240"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ma/sldl:5th_worcester": {
+	   "name": "Massachusetts 5th Worcester district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MA State House District 5th Worcester",
+	   "divisionId": "ocd-division/country:us/state:ma/sldl:5th_worcester",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Donald B. Berthiaume Jr.",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:5th_worcester",
+	   "overwrite_name": "Donald B. Berthiaume Jr.",
+	   "emails": [
+	   		"Donald.Berthiaume@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2090"
 	   ]
 	  }
 	 ]
@@ -26492,6 +26566,80 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:hillsborough_3": {
+	   "name": "New Hampshire State House district Hillsborough County No. 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Hillsborough 3",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kris E. Roberts",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
+	   "overwrite_name": "Kris E. Roberts"
+	   "emails": [
+	   		"kriseroberts@icloud.com"
+	   ],
+	   "phones": [
+	   		"(603) 352-1105"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:hillsborough_4": {
+	   "name": "New Hampshire State House district Hillsborough County No. 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Hillsborough 4",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin G. Maes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_4",
+	   "overwrite_name": "Kevin G. Maes"
+	   "emails": [
+	   		"Kevin.Maes@leg.state.nh.us"
+	   ],
+	   "phones": [
+	   		"(603) 786-9705"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nh/sldl:hillsborough_6": {
 	   "name": "New Hampshire State House district Hillsborough County No. 6",
 	   "overwrite": "true",
@@ -26517,11 +26665,197 @@
 	   "name": "Nick Zaricki",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_6",
+	   "overwrite_name": "Mary C. Freitas"
 	   "emails": [
 	   		"nick.zaricki@leg.state.nh.us"
 	   ],
 	   "phones": [
 	   		"(603) 660-3872"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:hillsborough_12": {
+	   "name": "New Hampshire State House district Hillsborough County No. 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Hillsborough 12",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alan Cohen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
+	   "overwrite_name": "Alan Cohen"
+	   "emails": [
+	   		"Alan.Cohen@leg.state.nh.us"
+	   ],
+	   "phones": [
+	   		"(603) 889-0965"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:belknap_6": {
+	   "name": "New Hampshire State House district Belknap County No. 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Belknap 6",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert M. Walsh",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_6",
+	   "overwrite_name": "Robert M. Walsh"
+	   "emails": [
+	   		"bobwalsh2@comcast.net"
+	   ],
+	   "phones": [
+	   		"(603) 622-1023"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:carroll_1": {
+	   "name": "New Hampshire State House district Carroll County No. 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Carroll 6",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:carroll_1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Raymond Howard, Jr.",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:carroll_1",
+	   "overwrite_name": "Raymond Howard, Jr."
+	   "emails": [
+	   		"brhowardjr@yahoo.com"
+	   ],
+	   "phones": [
+	   		"(603) 875-4115"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:cheshire_11": {
+	   "name": "New Hampshire State House district Cheshire County No. 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Cheshire 11",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Claire A. Rouillard",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_11",
+	   "overwrite_name": "Claire A. Rouillard"
+	   "emails": [
+	   		"Claire.Rouillard@leg.state.nh.us"
+	   ],
+	   "phones": [
+	   		"(603) 494-6144"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nh/sldl:cheshire_16": {
+	   "name": "New Hampshire State House district Cheshire County No. 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NH State House District Cheshire 16",
+	   "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Deborah H. Wheeler",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_16",
+	   "overwrite_name": "Deborah H. Wheeler"
+	   "emails": [
+	   		"Deborah.Wheeler@leg.state.nh.us"
+	   ],
+	   "phones": [
+	   		"(603) 286-8212"
 	   ]
 	  }
 	 ]

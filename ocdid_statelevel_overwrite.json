@@ -3220,6 +3220,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:me/sldu:32": {
+	   "name": "Maine State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:me/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
+	   "overwrite_name": "Geoffrey M. Gratwick"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:4": {
 	   "name": "Maryland State Senate district 4",
 	   "overwrite": "true",
@@ -20346,6 +20376,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ma/sldl:28th_middlesex": {
+	   "name": "Massachusetts 11th Middlesex district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MA State House District 11th Middlesex",
+	   "divisionId": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joseph W. McGonagle Jr.",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
+	   "overwrite_name": "Joseph W. McGonagle Jr.",
+	   "emails": [
+	   		"Joseph.McGonagle@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2400"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ma/sldl:11th_essex": {
 	   "name": "Massachusetts 11th Essex district",
 	   "overwrite": "true",
@@ -20451,6 +20518,43 @@
 	   ],
 	   "phones": [
 	   		"617-722-2240"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ma/sldl:5th_worcester": {
+	   "name": "Massachusetts 5th Worcester district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MA State House District 5th Worcester",
+	   "divisionId": "ocd-division/country:us/state:ma/sldl:5th_worcester",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Donald B. Berthiaume Jr.",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:5th_worcester",
+	   "overwrite_name": "Donald B. Berthiaume Jr.",
+	   "emails": [
+	   		"Donald.Berthiaume@mahouse.gov"
+	   ],
+	   "phones": [
+	   		"617-722-2090"
 	   ]
 	  }
 	 ]
@@ -20568,6 +20672,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mn/sldu:35": {
+	   "name": "Minnesota State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MN State Senate District 35",
+	   "divisionId": "ocd-division/country:us/state:mn/sldu:35",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Branden Petersen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:35",
+	   "overwrite_name": "Branden Petersen",
+	   "emails": [
+	   		"sen.branden.petersen@senate.mn"
+	   ],
+	   "phones": [
+	   		"(651) 296-3733"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mn/sldl:19a": {
 	   "name": "Minnesota State House district 19A",
 	   "overwrite": "true",
@@ -20636,6 +20777,339 @@
 	   ],
 	   "phones": [
 	   		"651-296-1729"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:6": {
+	   "name": "Mississippi State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:6",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chad McMahan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:6",
+	   "overwrite_name": "Chad McMahan",
+	   "emails": [
+	   		"cmcmahan@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3244"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:18": {
+	   "name": "Mississippi State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 18",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:18",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jenifer B. Branning",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:18",
+	   "overwrite_name": "Jenifer B. Branning",
+	   "emails": [
+	   		"jbranning@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3246"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:19": {
+	   "name": "Mississippi State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 19",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:19",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin Blackwell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:19",
+	   "overwrite_name": "Kevin Blackwell",
+	   "emails": [
+	   		"kblackwell@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3234"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:21": {
+	   "name": "Mississippi State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Barbara Blackmon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:21",
+	   "overwrite_name": "Barbara Blackmon",
+	   "emails": [
+	   		"bblackmon@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3237"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:34": {
+	   "name": "Mississippi State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 34",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:34",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Juan Barnett",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:34",
+	   "overwrite_name": "Juan Barnett",
+	   "emails": [
+	   		"jbarnett@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3221"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:35": {
+	   "name": "Mississippi State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 35",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:35",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Caughman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:35",
+	   "overwrite_name": "Chris Caughman",
+	   "emails": [
+	   		"ccaughman@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3244"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:37": {
+	   "name": "Mississippi State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 37",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:37",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob M. Dearing",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:37",
+	   "overwrite_name": "Bob M. Dearing",
+	   "emails": [
+	   		"bdearing@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)369-3244"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:38": {
+	   "name": "Mississippi State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 38",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:38",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tammie Felder Witherspoon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:38",
+	   "overwrite_name": "Tammie Felder Witherspoon",
+	   "emails": [
+	   		"twitherspoon@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-3221"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldu:47": {
+	   "name": "Mississippi State Senate district 47",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State Senate District 47",
+	   "divisionId": "ocd-division/country:us/state:ms/sldu:47",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joseph M. Seymour",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:47",
+	   "overwrite_name": "Joseph M. Seymour",
+	   "emails": [
+	   		"jseymour@senate.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601)359-2886"
 	   ]
 	  }
 	 ]
@@ -23294,6 +23768,36 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:59",
 	   "overwrite_name": "Roxanne J. Persaud"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:62": {
+	   "name": "New York State House district 62",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 62",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:62",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:62",
+	   "overwrite_name": "Joseph Borelli"
 	  }
 	 ]
 	},
@@ -26467,6 +26971,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ri/sldu:32": {
+	   "name": "Rhode Island State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "RI State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:ri/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cynthia A. Coyne",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:32",
+	   "overwrite_name": "Cynthia A. Coyne",
+	   "emails": [
+	   		"sen-coyne@rilin.state.ri.us"
+	   ],
+	   "phones": [
+	   		"(401) 222-6655"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ri/sldl:4": {
 	   "name": "Rhode Island State House district 4",
 	   "overwrite": "true",
@@ -26979,6 +27520,43 @@
 	   ],
 	   "phones": [
 	   		"(401) 222-2466"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sc/sldu:45": {
+	   "name": "South Carolina State Senate district 45",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SC State Senate District 45",
+	   "divisionId": "ocd-division/country:us/state:sc/sldu:45",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Margie Bright Matthews",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:45",
+	   "overwrite_name": "Margie Bright Matthews",
+	   "emails": [
+	   		"matthewsmargie@scsenate.gov"
+	   ],
+	   "phones": [
+	   		"(803) 212-6056"
 	   ]
 	  }
 	 ]
@@ -33365,6 +33943,43 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-3350"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ok/sldl:65": {
+	   "name": "Oklahoma State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OK State House District 65",
+	   "divisionId": "ocd-division/country:us/state:ok/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scooter Park",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:65",
+	   "overwrite_name": "Scooter Park",
+	   "emails": [
+	   		"scooter.park@okhouse.gov"
+	   ],
+	   "phones": [
+	   		"(405) 557-7305"
 	   ]
 	  }
 	 ]

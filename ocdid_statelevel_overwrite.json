@@ -34356,42 +34356,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:hillsborough_6": {
-	   "name": "New Hampshire State House district Hillsborough County No. 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Hillsborough 6",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_6",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Nick Zaricki",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_6",
-	   "emails": [
-	   		"nick.zaricki@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 660-3872"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:il/sldu:52": {
 	   "name": "Illinois State Senate district 52",
 	   "overwrite": "true",

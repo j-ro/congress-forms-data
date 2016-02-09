@@ -7139,7 +7139,7 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Daniel Wright \Danny\" Burgess Jr.",
+	   "name": "Daniel Wright \"Danny\" Burgess Jr.",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:38",
 	   "overwrite_name": "Daniel Wright \"Danny\" Burgess Jr.",
@@ -17425,6 +17425,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ny/sldl:62": {
+	   "name": "New York State House district 62",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NY State House District 62",
+	   "divisionId": "ocd-division/country:us/state:ny/sldl:62",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:62",
+	   "overwrite_name": "Joseph Borelli"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ny/sldl:98": {
 	   "name": "New York State House district 98",
 	   "overwrite": "true",
@@ -26233,6 +26263,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ok/sldl:65": {
+	   "name": "Oklahoma State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OK State House District 65",
+	   "divisionId": "ocd-division/country:us/state:ok/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scooter Park",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:65",
+	   "overwrite_name": "Scooter Park",
+	   "emails": [
+	   		"scooter.park@okhouse.gov"
+	   ],
+	   "phones": [
+	   		"(405) 557-7305"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ok/sldl:73": {
 	   "name": "Oklahoma State House district 73",
 	   "overwrite": "true",
@@ -26560,302 +26627,6 @@
 	   ],
 	   "phones": [
 	   		"(908) 624-0880"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:hillsborough_3": {
-	   "name": "New Hampshire State House district Hillsborough County No. 3",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Hillsborough 3",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kris E. Roberts",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
-	   "overwrite_name": "Kris E. Roberts"
-	   "emails": [
-	   		"kriseroberts@icloud.com"
-	   ],
-	   "phones": [
-	   		"(603) 352-1105"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:hillsborough_4": {
-	   "name": "New Hampshire State House district Hillsborough County No. 4",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Hillsborough 4",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_4",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kevin G. Maes",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_4",
-	   "overwrite_name": "Kevin G. Maes"
-	   "emails": [
-	   		"Kevin.Maes@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 786-9705"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:hillsborough_6": {
-	   "name": "New Hampshire State House district Hillsborough County No. 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Hillsborough 6",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_6",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Nick Zaricki",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_6",
-	   "overwrite_name": "Mary C. Freitas"
-	   "emails": [
-	   		"nick.zaricki@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 660-3872"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:hillsborough_12": {
-	   "name": "New Hampshire State House district Hillsborough County No. 12",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Hillsborough 12",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Alan Cohen",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
-	   "overwrite_name": "Alan Cohen"
-	   "emails": [
-	   		"Alan.Cohen@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 889-0965"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:belknap_6": {
-	   "name": "New Hampshire State House district Belknap County No. 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Belknap 6",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_6",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Robert M. Walsh",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_6",
-	   "overwrite_name": "Robert M. Walsh"
-	   "emails": [
-	   		"bobwalsh2@comcast.net"
-	   ],
-	   "phones": [
-	   		"(603) 622-1023"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:carroll_1": {
-	   "name": "New Hampshire State House district Carroll County No. 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Carroll 6",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:carroll_1",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Raymond Howard, Jr.",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:carroll_1",
-	   "overwrite_name": "Raymond Howard, Jr."
-	   "emails": [
-	   		"brhowardjr@yahoo.com"
-	   ],
-	   "phones": [
-	   		"(603) 875-4115"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:cheshire_11": {
-	   "name": "New Hampshire State House district Cheshire County No. 11",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Cheshire 11",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_11",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Claire A. Rouillard",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_11",
-	   "overwrite_name": "Claire A. Rouillard"
-	   "emails": [
-	   		"Claire.Rouillard@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 494-6144"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nh/sldl:cheshire_16": {
-	   "name": "New Hampshire State House district Cheshire County No. 16",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NH State House District Cheshire 16",
-	   "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_16",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Deborah H. Wheeler",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_16",
-	   "overwrite_name": "Deborah H. Wheeler"
-	   "emails": [
-	   		"Deborah.Wheeler@leg.state.nh.us"
-	   ],
-	   "phones": [
-	   		"(603) 286-8212"
 	   ]
 	  }
 	 ]

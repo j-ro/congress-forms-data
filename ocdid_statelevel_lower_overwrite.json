@@ -171,6 +171,43 @@
 	 ],
 	 "officials": [
 	  {
+	   "name": "Matthew A. Kopec",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:9",
+	   "overwrite_name": "Matthew A. Kopec",
+	   "emails": [
+	   		"mkopec@azleg.gov"
+	   ],
+	   "phones": [
+	   		"(602) 926-5683"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:az/sldu:9": {
+	   "name": "Arizona State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AZ State House District 9",
+	   "divisionId": "ocd-division/country:us/state:az/sldu:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
 	   "name": "Randall \"Randy\" Friese",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:9",
@@ -556,6 +593,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:az/sldu:26": {
+	   "name": "Arizona State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AZ State House District 26",
+	   "divisionId": "ocd-division/country:us/state:az/sldu:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Celeste Plumlee",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:26",
+	   "overwrite_name": "Celeste Plumlee",
+	   "emails": [
+	   		"cplumlee@azleg.gov"
+	   ],
+	   "phones": [
+	   		"(602) 926-4334"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:az/sldu:27": {
 	   "name": "Arizona State Senate district 27",
 	   "overwrite": "true",
@@ -704,6 +778,74 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldl:17": {
+	   "name": "California State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State House District 17",
+	   "divisionId": "ocd-division/country:us/state:ca/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Chiu",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:17",
+	   "overwrite_name": "David Chu",
+	   "phones": [
+	   		"(916) 319-2017"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldl:73": {
+	   "name": "California State Senate district 73",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State House District 73",
+	   "divisionId": "ocd-division/country:us/state:ca/sldl:73",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "William P. Brough",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:73",
+	   "overwrite_name": "William P. Brough",
+	   "phones": [
+	   		"916-319-2073"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:1": {
 	   "name": "Idaho State Senate district 1",
 	   "overwrite": "true",
@@ -726,10 +868,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Sage Dixon",
+	   "name": "Sage G. Dixon",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:1",
-	   "overwrite_name": "Sage Dixon",
+	   "overwrite_name": "Sage G. Dixon",
 	   "emails": [
 	   		"sdixon@house.idaho.gov"
 	   ],
@@ -815,6 +957,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:2": {
+	   "name": "Idaho State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 2",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric M. Redman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:2",
+	   "overwrite_name": "Eric M. Redman",
+	   "emails": [
+	   		"eredman@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 623-6383"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:3": {
 	   "name": "Idaho State Senate district 3",
 	   "overwrite": "true",
@@ -846,6 +1025,117 @@
 	   ],
 	   "phones": [
 	   		"(208) 777-1894"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:3": {
+	   "name": "Idaho State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 3",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ron Mendive",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:3",
+	   "overwrite_name": "Ron Mendive",
+	   "emails": [
+	   		"rmendive@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 667-9330"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:4": {
+	   "name": "Idaho State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 4",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kathleen Sims",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:4",
+	   "overwrite_name": "Kathleen Sims",
+	   "emails": [
+	   		"ksims@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 640-1154"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:4": {
+	   "name": "Idaho State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 4",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Luke Malek",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:4",
+	   "overwrite_name": "Luke Malek",
+	   "emails": [
+	   		"lmalek@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 661-3881"
 	   ]
 	  }
 	 ]
@@ -911,10 +1201,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Paulette Jordan",
+	   "name": "Paulette E. Jordan",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:5",
-	   "overwrite_name": "Paulette Jordan",
+	   "overwrite_name": "Paulette E. Jordan",
 	   "emails": [
 	   		"pjordan@house.idaho.gov"
 	   ],
@@ -1074,6 +1364,339 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:10": {
+	   "name": "Idaho State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 10",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brandon A. Hixon",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:10",
+	   "overwrite_name": "Brandon A. Hixon",
+	   "emails": [
+	   		"bhixon@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 440-1074"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:11": {
+	   "name": "Idaho State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 11",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christy Perry",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:11",
+	   "overwrite_name": "Brandon A. Hixon",
+	   "emails": [
+	   		"cperry@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 880-9720"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:11": {
+	   "name": "Idaho State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 11",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gayle L. Batt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:11",
+	   "overwrite_name": "Gayle L. Batt",
+	   "emails": [
+	   		"gbatt@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 337-5600"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:12": {
+	   "name": "Idaho State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 12",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick D. Youngblood",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:12",
+	   "overwrite_name": "Rick D. Youngblood",
+	   "emails": [
+	   		"ryoungblood@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 412-5107"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:12": {
+	   "name": "Idaho State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 12",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert Anderst",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:12",
+	   "overwrite_name": "Robert Anderst",
+	   "emails": [
+	   		"randerst@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 440-6565"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:13": {
+	   "name": "Idaho State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 13",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary E. Collins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:13",
+	   "overwrite_name": "Gary E. Collins",
+	   "emails": [
+	   		"gcollins@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 466-5460"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:14": {
+	   "name": "Idaho State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 14",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Moyle",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:14",
+	   "overwrite_name": "Mike Moyle",
+	   "emails": [
+	   		"mmoyle@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"208-332-1120"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:14": {
+	   "name": "Idaho State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 14",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Reed DeMordaunt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:14",
+	   "overwrite_name": "Reed DeMordaunt",
+	   "emails": [
+	   		"reedd@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 938-4845"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:15": {
+	   "name": "Idaho State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 15",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick McDonald",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:15",
+	   "overwrite_name": "Patrick McDonald",
+	   "emails": [
+	   		"pmcdonald@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 938-1329"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:16": {
 	   "name": "Idaho State Senate district 16",
 	   "overwrite": "true",
@@ -1105,6 +1728,43 @@
 	   ],
 	   "phones": [
 	   		"(208) 440-8317"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:16": {
+	   "name": "Idaho State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 16",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Hy Kloc",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:16",
+	   "overwrite_name": "Hy Kloc",
+	   "emails": [
+	   		"hkloc@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 343-8465"
 	   ]
 	  }
 	 ]
@@ -4678,6 +5338,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:al/sldl:80": {
+	   "name": "Alabama State House district 80",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State House District 80",
+	   "divisionId": "ocd-division/country:us/state:al/sldl:80",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Blackshear",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldl:80",
+	   "overwrite_name": "Chris Blackshear",
+	   "emails": [
+	   		"chris.blackshear@alhouse.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ar/sldl:4": {
 	   "name": "Arkansas State House district 4",
 	   "overwrite": "true",
@@ -6858,6 +7552,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldl:44": {
+	   "name": "Connecticut State House district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State House District 44",
+	   "divisionId": "ocd-division/country:us/state:ct/sldl:44",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christine Randall",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:44",
+	   "overwrite_name": "Christine Randall",
+	   "emails": [
+	   		"Christine.Randall@cga.ct.gov"
+	   ],
+	   "phones": [
+	   		"(860) 240-8585"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldl:112": {
 	   "name": "Connecticut State House district 112",
 	   "overwrite": "true",
@@ -7370,6 +8101,43 @@
 	   ],
 	   "phones": [
 	   		"404.656.0325"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:100": {
+	   "name": "Georgia State House district 100",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 100",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:100",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dewey McClain",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:100",
+	   "overwrite_name": "Dewwy McClain",
+	   "emails": [
+	   		"dewey.mcclain@house.ga.gov"
+	   ],
+	   "phones": [
+	   		"404.656.0220"
 	   ]
 	  }
 	 ]
@@ -25190,6 +25958,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ct/sldl:121": {
+	   "name": "Connecticut State House district 121",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CT State House District 121",
+	   "divisionId": "ocd-division/country:us/state:ct/sldl:121",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Gresko",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:121",
+	   "overwrite_name": "Joe Gresko",
+	   "emails": [
+	   		"Joseph.Gresko@cga.ct.gov"
+	   ],
+	   "phones": [
+	   		"(860) 240-8585"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldl:129": {
 	   "name": "Connecticut State House district 129",
 	   "overwrite": "true",
@@ -26766,10 +27571,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Brandon T. Todd",
+	   "name": "Brandon Todd",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:4",
-	   "overwrite_name": "Vacant",
+	   "overwrite_name": "Brandon Todd",
 	   "emails": [
 	   		"btodd@dccouncil.us"
 	   ],
@@ -26917,7 +27722,7 @@
 	   "name": "LaRuby May",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc/ward:8",
-	   "overwrite_name": "Vacant",
+	   "overwrite_name": "LaRuby May",
 	   "emails": [
 	   		"LMay@DCCOUNCIL.US"
 	   ],

@@ -1,43 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ak": {
-	   "name": "Alaska",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States Senate",
-	   "divisionId": "ocd-division/country:us/state:ak",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Dan Sullivan",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ak",
-	   "overwrite_name": "Dan Sullivan",
-	   "phones": [
-	   		"(202)-224-3004"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ia": {
 	   "name": "Iowa",
 	   "overwrite": "true",
@@ -661,43 +624,6 @@
 	   "overwrite_name": "Alexander X. Mooney",
 	   "phones": [
 	   		"(202) 225-2711"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wv/cd:3": {
-	   "name": "West Virginia's 3rd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives WV-03",
-	   "divisionId": "ocd-division/country:us/state:wv/cd:3",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Evan Jenkins",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:3",
-	   "overwrite_name": "Evan Jenkins",
-	   "phones": [
-	   		"(202) 225-3452"
 	   ]
 	  }
 	 ]

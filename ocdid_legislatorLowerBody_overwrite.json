@@ -445,43 +445,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wv/cd:3": {
-	   "name": "West Virginia's 3rd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives WV-03",
-	   "divisionId": "ocd-division/country:us/state:wv/cd:3",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Evan Jenkins",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:3",
-	   "overwrite_name": "Evan Jenkins",
-	   "phones": [
-	   		"(202) 225-3452"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/cd:13": {
 	   "name": "Pennsylvania's 13th congressional district",
 	   "overwrite": "true",

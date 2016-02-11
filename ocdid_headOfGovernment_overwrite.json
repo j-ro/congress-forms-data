@@ -238,43 +238,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:or": {
-	   "name": "Oregon",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:or",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kate Brown",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:or",
-	   "overwrite_name": "John Kitzhaber",
-	   "phones": [
-	   		"(503) 378-4582"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",

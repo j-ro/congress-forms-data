@@ -2428,10 +2428,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Caroline Troy",
+	   "name": "Caroline Nilsson Troy",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:5",
-	   "overwrite_name": "Caroline Troy",
+	   "overwrite_name": "Caroline Nilsson Troy",
 	   "emails": [
 	   		"ctroy@house.idaho.gov"
 	   ],
@@ -2727,7 +2727,7 @@
 	   "name": "Christy Perry",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:11",
-	   "overwrite_name": "Brandon A. Hixon",
+	   "overwrite_name": "Christy Perry",
 	   "emails": [
 	   		"cperry@house.idaho.gov"
 	   ],
@@ -3082,6 +3082,43 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "ID State House District 17",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sue Chew",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:17",
+	   "overwrite_name": "Sue Chew",
+	   "emails": [
+	   		"schew@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 332-1049"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:17": {
+	   "name": "Idaho State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "ID State Senate District 17",
 	   "divisionId": "ocd-division/country:us/state:id/sldu:17",
 	   "roles": [
@@ -3146,6 +3183,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:18": {
+	   "name": "Idaho State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 18",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phylis K. King",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:18",
+	   "overwrite_name": "Phylis K. King",
+	   "emails": [
+	   		"pking@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 344-0202"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:19": {
 	   "name": "Idaho State Senate district 19",
 	   "overwrite": "true",
@@ -3177,6 +3251,117 @@
 	   ],
 	   "phones": [
 	   		"(208) 332-1076"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:19": {
+	   "name": "Idaho State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 19",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mathew W. \"Mat\" Erpelding",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:19",
+	   "overwrite_name": "Mathew W. \"Mat\" Erpelding",
+	   "emails": [
+	   		"merpelding@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 856-0291"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:20": {
+	   "name": "Idaho State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 20",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James Holtzclaw",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:20",
+	   "overwrite_name": "James Holtzclaw",
+	   "emails": [
+	   		"jholtzclaw@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 284-9542"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:21": {
+	   "name": "Idaho State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 21",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Dayley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:21",
+	   "overwrite_name": "Thomas Dayley",
+	   "emails": [
+	   		"tdayley@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 562-0276"
 	   ]
 	  }
 	 ]
@@ -3220,6 +3405,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:24": {
+	   "name": "Idaho State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 24",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lance Clow",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:24",
+	   "overwrite_name": "Lance Clow",
+	   "emails": [
+	   		"lclow@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 733-5767"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:25": {
+	   "name": "Idaho State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 25",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Maxine T. Bell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:25",
+	   "overwrite_name": "Maxine T. Bell",
+	   "emails": [
+	   		"mbell@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 324-4296"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:26": {
+	   "name": "Idaho State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 26",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Donna Pence",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:26",
+	   "overwrite_name": "Donna Pence",
+	   "emails": [
+	   		"dpence@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 934-5302"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:27": {
 	   "name": "Idaho State Senate district 27",
 	   "overwrite": "true",
@@ -3251,6 +3547,80 @@
 	   ],
 	   "phones": [
 	   		"(208) 654-4099"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:27": {
+	   "name": "Idaho State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State Senate District 27",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scott Bedke",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:27",
+	   "overwrite_name": "Scott Bedke",
+	   "emails": [
+	   		"sbedke@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 862-3619"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:28": {
+	   "name": "Idaho State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State Senate District 28",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ken Andrus",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:28",
+	   "overwrite_name": "Ken Andrus",
+	   "emails": [
+	   		"kandrus@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 776-5380"
 	   ]
 	  }
 	 ]
@@ -3294,6 +3664,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:29": {
+	   "name": "Idaho State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 29",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elaine Smith",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:29",
+	   "overwrite_name": "Elaine Smith",
+	   "emails": [
+	   		"esmith@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 237-1462"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:30": {
+	   "name": "Idaho State Senate district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 30",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wendy Horman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:30",
+	   "overwrite_name": "Wendy Horman",
+	   "emails": [
+	   		"WendyHorman@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 522-4387"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:31": {
+	   "name": "Idaho State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 31",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Neil A. Anderson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:31",
+	   "overwrite_name": "Neil A. Anderson",
+	   "emails": [
+	   		"nanderson@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 684-3723"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:32": {
 	   "name": "Idaho State Senate district 32",
 	   "overwrite": "true",
@@ -3325,6 +3806,43 @@
 	   ],
 	   "phones": [
 	   		"(208) 547-3360"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:33": {
+	   "name": "Idaho State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 33",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Janet Trujillo",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:33",
+	   "overwrite_name": "Janet Trujillo",
+	   "emails": [
+	   		"jtrujillo@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"208-332-1189"
 	   ]
 	  }
 	 ]
@@ -3368,6 +3886,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:34": {
+	   "name": "Idaho State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 34",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dell Raybould",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:34",
+	   "overwrite_name": "Dell Raybould",
+	   "emails": [
+	   		"draybould@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 356-6837"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:35": {
 	   "name": "Idaho State Senate district 35",
 	   "overwrite": "true",
@@ -3390,15 +3945,52 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Van Burtenshaw",
+	   "name": "Van T. Burtenshaw",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:35",
-	   "overwrite_name": "Van Burtenshaw",
+	   "overwrite_name": "Van T. Burtenshaw",
 	   "emails": [
 	   		"vburtenshaw@house.idaho.gov"
 	   ],
 	   "phones": [
 	   		"(208) 663-4607"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:35": {
+	   "name": "Idaho State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 35",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul Romrell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:35",
+	   "overwrite_name": "Paul Romrell",
+	   "emails": [
+	   		"promrell@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 624-4304"
 	   ]
 	  }
 	 ]
@@ -3436,6 +4028,43 @@
 	   ],
 	   "phones": [
 	   		"317-232-9400"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:in/sldl:62": {
+	   "name": "Indiana State House district 62",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IN State House District 62",
+	   "divisionId": "ocd-division/country:us/state:in/sldl:62",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeff Ellington",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:in/sldl:62",
+	   "overwrite_name": "Jeff Ellington",
+	   "emails": [
+	   		"h62@iga.in.gov"
+	   ],
+	   "phones": [
+	   		"317-232-9863"
 	   ]
 	  }
 	 ]
@@ -7531,6 +8160,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:1": {
+	   "name": "North Dakota State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 1",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick Hatlestad",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:1",
+	   "overwrite_name": "Patrick Hatlestad",
+	   "emails": [
+	   		"phatlestad@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-770-8899"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nd/sldu:2": {
 	   "name": "North Dakota State Senate district 2",
 	   "overwrite": "true",
@@ -7605,6 +8271,80 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:7": {
+	   "name": "North Dakota State Senate district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 7",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:7",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick Becker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:7",
+	   "overwrite_name": "Rick Becker",
+	   "emails": [
+	   		"rcbecker@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-530-3333"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:8": {
+	   "name": "North Dakota State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vernon R. Laning",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:8",
+	   "overwrite_name": "Vernon R. Laning",
+	   "emails": [
+	   		"vrlaning@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-442-5435"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nd/sldu:11": {
 	   "name": "North Dakota State Senate district 11",
 	   "overwrite": "true",
@@ -7673,6 +8413,117 @@
 	   ],
 	   "phones": [
 	   		"701-204-0424"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:14": {
+	   "name": "North Dakota State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 14",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jon Nelson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:14",
+	   "overwrite_name": "Jon Nelson",
+	   "emails": [
+	   		"jonelson@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-771-2193"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:17": {
+	   "name": "North Dakota State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 17",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Sanford",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:17",
+	   "overwrite_name": "Mark Sanford",
+	   "emails": [
+	   		"masanford@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-772-4236"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:20": {
+	   "name": "North Dakota State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 20",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick Holman",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:20",
+	   "overwrite_name": "Rick Holman",
+	   "emails": [
+	   		"rholman@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-238-1124"
 	   ]
 	  }
 	 ]
@@ -7901,6 +8752,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:35": {
+	   "name": "North Dakota State Senate district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 35",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Martinson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:35",
+	   "overwrite_name": "Bob Martinson",
+	   "emails": [
+	   		"bmartinson@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-223-0835"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nd/sldu:37": {
 	   "name": "North Dakota State Senate district 37",
 	   "overwrite": "true",
@@ -7969,6 +8857,43 @@
 	   ],
 	   "phones": [
 	   		"701-444-6484"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nd/sldu:40": {
+	   "name": "North Dakota State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ND State House District 40",
+	   "divisionId": "ocd-division/country:us/state:nd/sldu:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matthew M. Klein",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:40",
+	   "overwrite_name": "Matthew M. Klein",
+	   "emails": [
+	   		"mklein@nd.gov"
+	   ],
+	   "phones": [
+	   		"701-328-3373"
 	   ]
 	  }
 	 ]
@@ -9095,6 +10020,43 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "SD State House District 8",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Leslie J Heinemann",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:8",
+	   "overwrite_name": "Leslie J Heinemann",
+	   "emails": [
+	   		"rep.heinemann@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:8": {
+	   "name": "South Dakota State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "SD State Senate District 8",
 	   "divisionId": "ocd-division/country:us/state:sd/sldu:8",
 	   "roles": [
@@ -9116,6 +10078,80 @@
 	   ],
 	   "phones": [
 	   		"605-773-3821"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:9": {
+	   "name": "South Dakota State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 9",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paula Hawks",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:9",
+	   "overwrite_name": "Paula Hawks",
+	   "emails": [
+	   		"rep.hawks@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:9": {
+	   "name": "South Dakota State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 9",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wayne Steinhauer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:9",
+	   "overwrite_name": "Wayne Steinhauer",
+	   "emails": [
+	   		"rep.steinhauer@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
 	   ]
 	  }
 	 ]
@@ -9169,6 +10205,43 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "SD State House District 10",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Don Haggar",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:10",
+	   "overwrite_name": "Don Haggar",
+	   "emails": [
+	   		"rep.haggar@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:10": {
+	   "name": "South Dakota State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "SD State Senate District 10",
 	   "divisionId": "ocd-division/country:us/state:sd/sldu:10",
 	   "roles": [
@@ -9190,6 +10263,43 @@
 	   ],
 	   "phones": [
 	   		"605-773-3821"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:11": {
+	   "name": "South Dakota State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 11",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Stalzer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:11",
+	   "overwrite_name": "Jim Stalzer",
+	   "emails": [
+	   		"rep.stalzer@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
 	   ]
 	  }
 	 ]
@@ -9261,6 +10371,80 @@
 	   "overwrite_name": "Arch Beal",
 	   "emails": [
 	   		"rep.beal@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:13": {
+	   "name": "South Dakota State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 13",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "G. Mark Mickelson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:13",
+	   "overwrite_name": "G. Mark Mickelson",
+	   "emails": [
+	   		"rep.mickelson@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:13": {
+	   "name": "South Dakota State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 13",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven Westra",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:13",
+	   "overwrite_name": "Steven Westra",
+	   "emails": [
+	   		"rep.westra@state.sd.us"
 	   ],
 	   "phones": [
 	   		"605-773-3851"
@@ -9344,6 +10528,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:15": {
+	   "name": "South Dakota State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 15",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Karen L Soli",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:15",
+	   "overwrite_name": "Karen L Soli",
+	   "emails": [
+	   		"rep.soli@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldu:16": {
 	   "name": "South Dakota State Senate district 16",
 	   "overwrite": "true",
@@ -9381,6 +10602,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:16": {
+	   "name": "South Dakota State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 16",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David L Anderson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:16",
+	   "overwrite_name": "David L Anderson",
+	   "emails": [
+	   		"rep.anderson@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:17": {
+	   "name": "South Dakota State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 17",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nancy Rasmussen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:17",
+	   "overwrite_name": "Nancy Rasmussen",
+	   "emails": [
+	   		"rep.rasmussen@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:17": {
+	   "name": "South Dakota State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 17",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ray Ring",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:17",
+	   "overwrite_name": "Ray Ring",
+	   "emails": [
+	   		"rep.ring@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldu:17": {
 	   "name": "South Dakota State Senate district 17",
 	   "overwrite": "true",
@@ -9412,6 +10744,43 @@
 	   ],
 	   "phones": [
 	   		"605-773-3821"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:18": {
+	   "name": "South Dakota State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 18",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Stevens",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:18",
+	   "overwrite_name": "Mike Stevens",
+	   "emails": [
+	   		"rep.stevens@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
 	   ]
 	  }
 	 ]
@@ -9492,6 +10861,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:19": {
+	   "name": "South Dakota State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 19",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kyle Schoenfish",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:19",
+	   "overwrite_name": "Kyle Schoenfish",
+	   "emails": [
+	   		"rep.schoenfish@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldu:20": {
 	   "name": "South Dakota State Senate district 20",
 	   "overwrite": "true",
@@ -9520,6 +10926,80 @@
 	   "overwrite_name": "Joshua Klumb",
 	   "emails": [
 	   		"rep.klumb@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:21": {
+	   "name": "South Dakota State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 21",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Julie A Bartling",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:21",
+	   "overwrite_name": "Julie A Bartling",
+	   "emails": [
+	   		"rep.bartling@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:21": {
+	   "name": "South Dakota State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 21",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lee Qualm",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:21",
+	   "overwrite_name": "Lee Qualm",
+	   "emails": [
+	   		"rep.qualm@state.sd.us"
 	   ],
 	   "phones": [
 	   		"605-773-3851"
@@ -9566,6 +11046,80 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:24": {
+	   "name": "South Dakota State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Duvall",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:24",
+	   "overwrite_name": "Mary Duvall",
+	   "emails": [
+	   		"rep.duvall@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:24": {
+	   "name": "South Dakota State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Rounds",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:24",
+	   "overwrite_name": "Tim Rounds",
+	   "emails": [
+	   		"rep.rounds@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldu:25": {
 	   "name": "South Dakota State Senate district 25",
 	   "overwrite": "true",
@@ -9594,6 +11148,43 @@
 	   "overwrite_name": "Roger Hunt",
 	   "emails": [
 	   		"rep.hunt@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:25": {
+	   "name": "South Dakota State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 25",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kris Langer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:25",
+	   "overwrite_name": "Kris Langer",
+	   "emails": [
+	   		"rep.langer@state.sd.us"
 	   ],
 	   "phones": [
 	   		"605-773-3851"
@@ -9671,6 +11262,43 @@
 	   ],
 	   "phones": [
 	   		"605-773-3821"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:27": {
+	   "name": "South Dakota State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 27",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elizabeth May",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:27",
+	   "overwrite_name": "Elizabeth May",
+	   "emails": [
+	   		"rep.may@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
 	   ]
 	  }
 	 ]
@@ -9779,6 +11407,43 @@
 	   "overwrite_name": "Thomas Brunner",
 	   "emails": [
 	   		"rep.brunner@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:31": {
+	   "name": "South Dakota State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State House District 31",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Timothy R Johns",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:31",
+	   "overwrite_name": "Timothy R Johns",
+	   "emails": [
+	   		"rep.johns@state.sd.us"
 	   ],
 	   "phones": [
 	   		"605-773-3851"
@@ -10454,6 +12119,191 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:1": {
+	   "name": "Washington State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 1",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Luis Moscoso",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
+	   "overwrite_name": "Luis Moscoso",
+	   "emails": [
+	   		"luis.moscoso@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7900"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:1": {
+	   "name": "Washington State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 1",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Derek Stanford",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
+	   "overwrite_name": "Derek Stanford",
+	   "emails": [
+	   		"derek.stanford@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7928"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:2": {
+	   "name": "Washington State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 2",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "J.T. Wilcox",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:2",
+	   "overwrite_name": "J.T. Wilcox",
+	   "emails": [
+	   		"jt.wilcox@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7912"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:3": {
+	   "name": "Washington State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 3",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Timm Ormsby",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:3",
+	   "overwrite_name": "Timm Ormsby",
+	   "emails": [
+	   		"timm.ormsby@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7946"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:3": {
+	   "name": "Washington State Senate district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 3",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marcus Riccelli",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:3",
+	   "overwrite_name": "Marcus Riccelli",
+	   "emails": [
+	   		"marcus.riccelli@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7888"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:4": {
 	   "name": "Washington State Senate district 4",
 	   "overwrite": "true",
@@ -10491,6 +12341,635 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:4": {
+	   "name": "Washington State Senate district 4",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 4",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:4",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matt Shea",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:4",
+	   "overwrite_name": "Matt Shea",
+	   "emails": [
+	   		"matt.shea@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7984"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:5": {
+	   "name": "Washington State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 5",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jay Rodne",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:5",
+	   "overwrite_name": "Jay Rodne",
+	   "emails": [
+	   		"jay.rodne@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7852"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:5": {
+	   "name": "Washington State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 5",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chad Magendanz",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:5",
+	   "overwrite_name": "Chad Magendanz",
+	   "emails": [
+	   		"chad.magendanz@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7876"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:6": {
+	   "name": "Washington State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 6",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin Parker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:6",
+	   "overwrite_name": "Kevin Parker",
+	   "emails": [
+	   		"kevin.parker@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7922"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:6": {
+	   "name": "Washington State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 6",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeff Holy",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:6",
+	   "overwrite_name": "Jeff Holy",
+	   "emails": [
+	   		"jeff.holy@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7962"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:7": {
+	   "name": "Washington State Senate district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 7",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shelly Short",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
+	   "overwrite_name": "Shelly Short",
+	   "emails": [
+	   		"shelly.short@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7908"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:7": {
+	   "name": "Washington State Senate district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 7",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joel Kretz",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
+	   "overwrite_name": "Joel Kretz",
+	   "emails": [
+	   		"joel.kretz@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7988"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:8": {
+	   "name": "Washington State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 8",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brad Klippert",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:8",
+	   "overwrite_name": "Brad Klippert",
+	   "emails": [
+	   		"brad.klippert@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7882"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:8": {
+	   "name": "Washington State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 8",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Larry Haler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:8",
+	   "overwrite_name": "Larry Haler",
+	   "emails": [
+	   		"larry.haler@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7986"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:9": {
+	   "name": "Washington State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 9",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Dye",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:9",
+	   "overwrite_name": "Mary Dye",
+	   "emails": [
+	   		"mary.dye@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7942"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:9": {
+	   "name": "Washington State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 9",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Schmick",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:9",
+	   "overwrite_name": "Joe Schmick",
+	   "emails": [
+	   		"joe.schmick@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7844"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:10": {
+	   "name": "Washington State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 10",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Norma Smith",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:10",
+	   "overwrite_name": "Norma Smith",
+	   "emails": [
+	   		"norma.smith@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7884"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:10": {
+	   "name": "Washington State Senate district 10",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 10",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:10",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dave Hayes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:10",
+	   "overwrite_name": "Dave Hayes",
+	   "emails": [
+	   		"dave.hayes@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7914"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:11": {
+	   "name": "Washington State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 11",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Zack Hudgins",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:11",
+	   "overwrite_name": "Zack Hudgins",
+	   "emails": [
+	   		"zack.hudgins@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7956"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:11": {
+	   "name": "Washington State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 11",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Bergquist",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:11",
+	   "overwrite_name": "Steve Bergquist",
+	   "emails": [
+	   		"steve.bergquist@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7862"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:12": {
+	   "name": "Washington State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 12",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cary Condotta",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:12",
+	   "overwrite_name": "Cary Condotta",
+	   "emails": [
+	   		"cary.condotta@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7954"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:12": {
+	   "name": "Washington State Senate district 12",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 12",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:12",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brad Hawkins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:12",
+	   "overwrite_name": "Brad Hawkins",
+	   "emails": [
+	   		"brad.hawkins@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7832"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:13": {
 	   "name": "Washington State Senate district 13",
 	   "overwrite": "true",
@@ -10522,6 +13001,43 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7932"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:13": {
+	   "name": "Washington State Senate district 13",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 13",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:13",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matt Manweller",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:13",
+	   "overwrite_name": "Matt Manweller",
+	   "emails": [
+	   		"matt.manweller@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7808"
 	   ]
 	  }
 	 ]
@@ -10602,8 +13118,8 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:19": {
-	   "name": "Washington State Senate district 19",
+	  "ocd-division/country:us/state:wa/sldu:14": {
+	   "name": "Washington State Senate district 14",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -10612,8 +13128,8 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "WA State House District 19",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:19",
+	   "name": "WA State House District 14",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:14",
 	   "roles": [
 	    "legislatorLowerBody"
 	   ],
@@ -10624,15 +13140,311 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "J D Rossetti",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
-	   "overwrite_name": "Dean Takko",
+	   "name": "Norm Johnson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:14",
+	   "overwrite_name": "Norm Johnson",
 	   "emails": [
-	   		"jd.rossetti@leg.wa.gov"
+	   		"norm.johnson@leg.wa.gov"
 	   ],
 	   "phones": [
-	   		"(360) 786 - 7806"
+	   		"(360) 786 - 7810"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:15": {
+	   "name": "Washington State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 15",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bruce Chandler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:15",
+	   "overwrite_name": "Bruce Chandler",
+	   "emails": [
+	   		"bruce.chandler@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7960"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:15": {
+	   "name": "Washington State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 15",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Taylor",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:15",
+	   "overwrite_name": "David Taylor",
+	   "emails": [
+	   		"david.taylor@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7874"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:16": {
+	   "name": "Washington State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 16",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Terry Nealey",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:16",
+	   "overwrite_name": "Terry Nealey",
+	   "emails": [
+	   		"terry.nealey@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7828"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:16": {
+	   "name": "Washington State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 16",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Maureen Walsh",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:16",
+	   "overwrite_name": "Maureen Walsh",
+	   "emails": [
+	   		"maureen.walsh@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7836"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:17": {
+	   "name": "Washington State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 17",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lynda Wilson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:17",
+	   "overwrite_name": "Monica Stonier",
+	   "emails": [
+	   		"lynda.wilson@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7994"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:17": {
+	   "name": "Washington State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 17",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul Harris",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:17",
+	   "overwrite_name": "Paul Harris",
+	   "emails": [
+	   		"paul.harris@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7976"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:18": {
+	   "name": "Washington State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 18",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brandon Vick",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:18",
+	   "overwrite_name": "Brandon Vick",
+	   "emails": [
+	   		"brandon.vick@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7850"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:18": {
+	   "name": "Washington State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 18",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Liz Pike",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:18",
+	   "overwrite_name": "Liz Pike",
+	   "emails": [
+	   		"liz.pike@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7812"
 	   ]
 	  }
 	 ]
@@ -10670,6 +13482,80 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7636"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:20": {
+	   "name": "Washington State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 20",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Richard DeBolt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:20",
+	   "overwrite_name": "Richard DeBolt",
+	   "emails": [
+	   		"richard.debolt@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7896"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:20": {
+	   "name": "Washington State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 20",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ed Orcutt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:20",
+	   "overwrite_name": "Ed Orcutt",
+	   "emails": [
+	   		"ed.orcutt@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7990"
 	   ]
 	  }
 	 ]
@@ -10723,6 +13609,43 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "WA State House District 21",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lillian Ortiz-Self",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:21",
+	   "overwrite_name": "Lillian Ortiz-Self",
+	   "emails": [
+	   		"lillian.ortiz-self@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7972"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:21": {
+	   "name": "Washington State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "WA State Senate District 21",
 	   "divisionId": "ocd-division/country:us/state:wa/sldu:21",
 	   "roles": [
@@ -10744,6 +13667,302 @@
 	   ],
 	   "phones": [
 	   		"(360) 786-7640"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:22": {
+	   "name": "Washington State Senate district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 22",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Reykdal",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:22",
+	   "overwrite_name": "Chris Reykdal",
+	   "emails": [
+	   		"chris.reykdal@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7940"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:22": {
+	   "name": "Washington State Senate district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 22",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sam Hunt",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:22",
+	   "overwrite_name": "Sam Hunt",
+	   "emails": [
+	   		"sam.hunt@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7992"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:23": {
+	   "name": "Washington State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 23",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:23",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sherry Appleton",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:23",
+	   "overwrite_name": "Sherry Appleton",
+	   "emails": [
+	   		"sherry.appleton@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7934"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:23": {
+	   "name": "Washington State Senate district 23",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 23",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:23",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Drew Hansen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:23",
+	   "overwrite_name": "Drew Hansen",
+	   "emails": [
+	   		"drew.hansen@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7842"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:24": {
+	   "name": "Washington State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 24",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin Van De Wege",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:24",
+	   "overwrite_name": "Kevin Van De Wege",
+	   "emails": [
+	   		"kevin.vandewege@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7916"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:24": {
+	   "name": "Washington State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 24",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Tharinger",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:24",
+	   "overwrite_name": "Steve Tharinger",
+	   "emails": [
+	   		"steve.tharinger@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7904"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:25": {
+	   "name": "Washington State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 25",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Melanie Stambaugh",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:25",
+	   "overwrite_name": "Dawn Morrell",
+	   "emails": [
+	   		"melanie.stambaugh@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7948"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:25": {
+	   "name": "Washington State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 25",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Hans Zeiger",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:25",
+	   "overwrite_name": "Hans Zeiger",
+	   "emails": [
+	   		"hans.zeiger@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7968"
 	   ]
 	  }
 	 ]
@@ -10787,6 +14006,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:26": {
+	   "name": "Washington State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 26",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jesse Young",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:26",
+	   "overwrite_name": "Jesse Young",
+	   "emails": [
+	   		"jesse.young@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7964"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:27": {
+	   "name": "Washington State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 27",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Laurie Jinkins",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:27",
+	   "overwrite_name": "Laurie Jinkins",
+	   "emails": [
+	   		"laurie.jinkins@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7930"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:27": {
+	   "name": "Washington State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 27",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jake Fey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:27",
+	   "overwrite_name": "Jake Fey",
+	   "emails": [
+	   		"jake.fey@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7974"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:28": {
 	   "name": "Washington State Senate district 28",
 	   "overwrite": "true",
@@ -10824,6 +14154,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:28": {
+	   "name": "Washington State Senate district 28",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 28",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:28",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dick Muri",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:28",
+	   "overwrite_name": "Dick Muri",
+	   "emails": [
+	   		"dick.muri@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7890"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:29": {
+	   "name": "Washington State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 29",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steve Kirby",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:29",
+	   "overwrite_name": "Steve Kirby",
+	   "emails": [
+	   		"steve.kirby@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7996"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:29": {
+	   "name": "Washington State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 29",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Sawyer",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:29",
+	   "overwrite_name": "David Sawyer",
+	   "emails": [
+	   		"david.sawyer@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7906"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:30": {
 	   "name": "Washington State Senate district 30",
 	   "overwrite": "true",
@@ -10849,12 +14290,49 @@
 	   "name": "Teri Hickel",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:30",
-	   "overwrite_name": "VACANT",
+	   "overwrite_name": "Teri Hikel",
 	   "emails": [
 	   		"teri.hickel@leg.wa.gov"
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7830"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:30": {
+	   "name": "Washington State Senate district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 30",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Linda Kochmar",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:30",
+	   "overwrite_name": "Linda Kochmar",
+	   "emails": [
+	   		"linda.kochmar@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7898"
 	   ]
 	  }
 	 ]
@@ -10935,6 +14413,265 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:31": {
+	   "name": "Washington State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 31",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christopher Hurst",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:31",
+	   "overwrite_name": "Christopher Hurst",
+	   "emails": [
+	   		"christopher.hurst@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7866"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:32": {
+	   "name": "Washington State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 32",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ruth Kagi",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:32",
+	   "overwrite_name": "Ruth Kagi",
+	   "emails": [
+	   		"ruth.kagi@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7910"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:32": {
+	   "name": "Washington State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 32",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:32",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cindy Ryu",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:32",
+	   "overwrite_name": "Cindy Ryu",
+	   "emails": [
+	   		"cindy.ryu@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7880"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:33": {
+	   "name": "Washington State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 33",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tina Orwall",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:33",
+	   "overwrite_name": "Tina Orwall",
+	   "emails": [
+	   		"tina.orwall@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7834"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:33": {
+	   "name": "Washington State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 33",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mia Gregerson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:33",
+	   "overwrite_name": "Mia Gregerson",
+	   "emails": [
+	   		"mia.gregerson@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7868"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:34": {
+	   "name": "Washington State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 34",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Fitzgibbon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:34",
+	   "overwrite_name": "Joe Fitzgibbon",
+	   "emails": [
+	   		"joe.fitzgibbon@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7952"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:34": {
+	   "name": "Washington State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 34",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eileen Cody",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:34",
+	   "overwrite_name": "Eileen Cody",
+	   "emails": [
+	   		"eileen.cody@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7978"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:35": {
 	   "name": "Washington State Senate district 35",
 	   "overwrite": "true",
@@ -10972,8 +14709,8 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:36": {
-	   "name": "Washington State Senate district 36",
+	  "ocd-division/country:us/state:wa/sldu:35": {
+	   "name": "Washington State Senate district 35",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -10982,45 +14719,8 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "WA State House District 36",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Reuven Carlyle",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
-	   "overwrite_name": "Jeanne Kohl-Welles",
-	   "emails": [
-	   		"reuven.carlyle@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7670"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:36": {
-	   "name": "Washington State Senate district 36",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State House District 36",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
+	   "name": "WA State House District 35",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:35",
 	   "roles": [
 	    "legislatorLowerBody"
 	   ],
@@ -11031,15 +14731,15 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Noel Frame",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
-	   "overwrite_name": "Reuven Carlyle",
+	   "name": "Drew MacEwen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:35",
+	   "overwrite_name": "Drew MacEwen",
 	   "emails": [
-	   		"noel.frame@leg.wa.gov"
+	   		"drew.macewen@leg.wa.gov"
 	   ],
 	   "phones": [
-	   		"(360) 786 - 7814"
+	   		"(360) 786 - 7902"
 	   ]
 	  }
 	 ]
@@ -11077,6 +14777,376 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7688"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:37": {
+	   "name": "Washington State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 37",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:37",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sharon Tomiko Santos",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:37",
+	   "overwrite_name": "Sharon Tomiko Santos",
+	   "emails": [
+	   		"sharontomiko.santos@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7944"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:37": {
+	   "name": "Washington State Senate district 37",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 37",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:37",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric Pettigrew",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:37",
+	   "overwrite_name": "Eric Pettigrew",
+	   "emails": [
+	   		"eric.pettigrew@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7838"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:38": {
+	   "name": "Washington State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 38",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "June Robinson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:38",
+	   "overwrite_name": "June Robinson",
+	   "emails": [
+	   		"june.robinson@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7864"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:38": {
+	   "name": "Washington State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 38",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Sells",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:38",
+	   "overwrite_name": "Mike Sells",
+	   "emails": [
+	   		"mike.sells@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7840"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:39": {
+	   "name": "Washington State Senate district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 39",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan Kristiansen",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:39",
+	   "overwrite_name": "Dan Kristiansen",
+	   "emails": [
+	   		"dan.kristiansen@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7967"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:39": {
+	   "name": "Washington State Senate district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 39",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elizabeth Scott",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:39",
+	   "overwrite_name": "Elizabeth Scott",
+	   "emails": [
+	   		"elizabeth.scott@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7816"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:40": {
+	   "name": "Washington State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 40",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kristine Lytton",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:40",
+	   "overwrite_name": "Kristine Lytton",
+	   "emails": [
+	   		"kristine.lytton@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7800"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:40": {
+	   "name": "Washington State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 40",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeff Morris",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:40",
+	   "overwrite_name": "Jeff Morris",
+	   "emails": [
+	   		"jeff.morris@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7970"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:41": {
+	   "name": "Washington State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 41",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tana Senn",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:41",
+	   "overwrite_name": "Tana Senn",
+	   "emails": [
+	   		"tana.senn@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7894"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:41": {
+	   "name": "Washington State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 41",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:41",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Judy Clibborn",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:41",
+	   "overwrite_name": "Judy Clibborn",
+	   "emails": [
+	   		"judy.clibborn@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7926"
 	   ]
 	  }
 	 ]
@@ -11194,6 +15264,191 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:44": {
+	   "name": "Washington State Senate district 44",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 44",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:44",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Hans Dunshee",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:44",
+	   "overwrite_name": "Hans Dunshee",
+	   "emails": [
+	   		"hans.dunshee@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7804"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:46": {
+	   "name": "Washington State Senate district 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 46",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gerry Pollet",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:46",
+	   "overwrite_name": "Gerry Pollet",
+	   "emails": [
+	   		"gerry.pollet@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7886"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:46": {
+	   "name": "Washington State Senate district 46",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 46",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:46",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jessyn Farrell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:46",
+	   "overwrite_name": "Jessyn Farrell",
+	   "emails": [
+	   		"jessyn.farrell@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7818"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:47": {
+	   "name": "Washington State Senate district 47",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 47",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:47",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Hargrove",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:47",
+	   "overwrite_name": "Mark Hargrove",
+	   "emails": [
+	   		"mark.hargrove@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7918"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:47": {
+	   "name": "Washington State Senate district 47",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 47",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:47",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pat Sullivan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:47",
+	   "overwrite_name": "Pat Sullivan",
+	   "emails": [
+	   		"pat.sullivan@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7858"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:48": {
 	   "name": "Washington State Senate district 48",
 	   "overwrite": "true",
@@ -11256,7 +15511,7 @@
 	   "name": "Patty Kuderer",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:48",
-	   "overwrite_name": "Ross Hunter",
+	   "overwrite_name": "Patricia Kuderer",
 	   "emails": [
 	   		"patty.kuderer@leg.wa.gov"
 	   ],
@@ -11299,6 +15554,80 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7694"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:49": {
+	   "name": "Washington State Senate district 49",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 49",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:49",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jim Moeller",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:49",
+	   "overwrite_name": "Jim Moeller",
+	   "emails": [
+	   		"jim.moeller@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7872"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:49": {
+	   "name": "Washington State Senate district 49",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 49",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:49",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sharon Wylie",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:49",
+	   "overwrite_name": "Sharon Wylie",
+	   "emails": [
+	   		"sharon.wylie@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786 - 7924"
 	   ]
 	  }
 	 ]
@@ -15758,6 +20087,77 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:76": {
+	   "name": "Illinois State House district 76",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 76",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:76",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Andrew F Skoog",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:76",
+	   "overwrite_name": "Andrew F Skoog",
+	   "emails": [
+	   		"Repskoog@gmail.com"
+	   ],
+	   "phones": [
+	   		"(217) 782-0140"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:99": {
+	   "name": "Illinois State House district 99",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 99",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:99",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sara Wojcicki Jimenez",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:99",
+	   "overwrite_name": "Sara Wojcicki Jimenez",
+	   "emails": [
+	   		"Repskoog@gmail.com"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:il/sldl:103": {
 	   "name": "Illinois State House district 103",
 	   "overwrite": "true",
@@ -17238,6 +21638,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:me/sldl:19": {
+	   "name": "Maine State House district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State House District 19",
+	   "divisionId": "ocd-division/country:us/state:me/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Matthew Harrington",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:119",
+	   "overwrite_name": "William F. Noon",
+	   "emails": [
+	   		"Matthew.Harrington@legislature.maine.gov"
+	   ],
+	   "phones": [
+	   		"(800) 423-2900"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:me/sldl:21": {
 	   "name": "Maine State House district 21",
 	   "overwrite": "true",
@@ -17303,6 +21740,43 @@
 	   "overwrite_name": "Elizabeth E. Dickerson",
 	   "emails": [
 	   		"Pinny.Beebe-Center@legislature.maine.gov"
+	   ],
+	   "phones": [
+	   		"(800) 423-2900"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:me/sldl:119": {
+	   "name": "Maine State House district 119",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State House District 119",
+	   "divisionId": "ocd-division/country:us/state:me/sldl:119",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Paul A. Stearns",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:119",
+	   "overwrite_name": "Matthew Harrington",
+	   "emails": [
+	   		"Paul.Stearns@legislature.maine.gov"
 	   ],
 	   "phones": [
 	   		"(800) 423-2900"
@@ -21792,10 +26266,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Joseph W. McGonagle Jr.",
+	   "name": "Joseph McGonagle Jr",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
-	   "overwrite_name": "Joseph W. McGonagle Jr.",
+	   "overwrite_name": "Joseph McGonagle Jr",
 	   "emails": [
 	   		"Joseph.McGonagle@mahouse.gov"
 	   ],
@@ -21940,10 +26414,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Donald B. Berthiaume Jr.",
+	   "name": "Donald Berthiaume Jr",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:5th_worcester",
-	   "overwrite_name": "Donald B. Berthiaume Jr.",
+	   "overwrite_name": "Donald Berthiaume Jr",
 	   "emails": [
 	   		"Donald.Berthiaume@mahouse.gov"
 	   ],
@@ -22504,6 +26978,43 @@
 	   ],
 	   "phones": [
 	   		"(601)359-2886"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldl:79": {
+	   "name": "Mississippi State House district 79",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State House District 79",
+	   "divisionId": "ocd-division/country:us/state:ms/sldl:79",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Tullos",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:79",
+	   "overwrite_name": "Mark Tullos",
+	   "emails": [
+	   		"mtullos@house.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601) 782-9167"
 	   ]
 	  }
 	 ]
@@ -24866,12 +29377,49 @@
 	   "name": "Idalia Lechuga-Tena",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:21",
-	   "overwrite_name": "Mimi Stewart",
+	   "overwrite_name": "Idalia Lechuga-Tena",
 	   "emails": [
 	   		"idalia.lechuga-tena@nmlegis.gov"
 	   ],
 	   "phones": [
 	   		"(505) 750-7439"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nm/sldl:29": {
+	   "name": "New Mexico State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NM State House District 29",
+	   "divisionId": "ocd-division/country:us/state:nm/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David E. Atikins",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:29",
+	   "overwrite_name": "David E. Atikins",
+	   "emails": [
+	   		"david.adkins@nmlegis.gov"
+	   ],
+	   "phones": [
+	   		"(505) 289-3987"
 	   ]
 	  }
 	 ]
@@ -26196,6 +30744,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:58": {
+	   "name": "Ohio State House district 58",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 58",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:58",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michelle Lepore-Hagan",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:58",
+	   "overwrite_name": "Michelle Lepore-Hagan",
+	   "emails": [
+	   		"Rep58@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-9435"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:64": {
 	   "name": "Ohio State House district 64",
 	   "overwrite": "true",
@@ -26588,10 +31173,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Steven Kraus",
+	   "name": "Steven Arndt",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:89",
-	   "overwrite_name": "Steven Kraus",
+	   "overwrite_name": "Steven Arndt",
 	   "emails": [
 	   		"Rep89@ohiohouse.gov"
 	   ],
@@ -28145,12 +32730,12 @@
 	   "name": "Ed Neilson",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:174",
-	   "overwrite_name": "John P. Sabatina",
+	   "overwrite_name": "Ed Nelson",
 	   "emails": [
 	   		"Repneilson@pahouse.net"
 	   ],
 	   "phones": [
-	   		"(717) 772-4032"
+	   		"(215) 330-3714"
 	   ]
 	  }
 	 ]
@@ -29417,6 +34002,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sd/sldu:6": {
+	   "name": "South Dakota State Senate district 6",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SD State Senate District 6",
+	   "divisionId": "ocd-division/country:us/state:sd/sldu:6",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Isaac Latterell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:6",
+	   "overwrite_name": "Isaac Latterell",
+	   "emails": [
+	   		"rep.latterell@state.sd.us"
+	   ],
+	   "phones": [
+	   		"605-773-3851"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sd/sldl:26a": {
 	   "name": "South Dakota State House district 26A",
 	   "overwrite": "true",
@@ -29491,43 +34113,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:tn/sldl:51": {
-	   "name": "Tennessee State House district 51",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "TN State House District 51",
-	   "divisionId": "ocd-division/country:us/state:tn/sldl:51",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Carson W. (Bill) Beck",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:51",
-	   "overwrite_name": "Carson W. (Bill) Beck",
-	   "emails": [
-	   		"rep.bill.beck@capitol.tn.gov"
-	   ],
-	   "phones": [
-	   		"(615) 741-3229"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldl:2": {
 	   "name": "Texas State House district 2",
 	   "overwrite": "true",
@@ -29590,7 +34175,7 @@
 	   "name": "Gary VanDeaver",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:1",
-	   "overwrite_name": "Gary VanDeaver",
+	   "overwrite_name": "George Lavender",
 	   "emails": [
 	   		"gary.vandeaver@house.state.tx.us"
 	   ],
@@ -30434,7 +35019,7 @@
 	   "name": "Ina Minjarez",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:124",
-	   "overwrite_name": "Jose Menendez",
+	   "overwrite_name": "Ina Minjarez",
 	   "emails": [
 	   		"ina.minjarez@house.state.tx.us"
 	   ],
@@ -30514,6 +35099,43 @@
 	   ],
 	   "phones": [
 	   		"(512) 463-0528"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:143": {
+	   "name": "Texas State House district 143",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 143",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:143",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ana Hernandez Luna",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:143",
+	   "overwrite_name": "Ana Hernandez Luna",
+	   "emails": [
+	   		"ana.hernandez@house.state.tx.us"
+	   ],
+	   "phones": [
+	   		"(512) 463-0614"
 	   ]
 	  }
 	 ]
@@ -31926,6 +36548,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wv/sldl:25": {
+	   "name": "West Virginia State House district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WV State House District 25",
+	   "divisionId": "ocd-division/country:us/state:wv/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Frank Blackwell",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:25",
+	   "overwrite_name": "Frank Blackwell",
+	   "emails": [
+	   		"frank.blackwell@wvhouse.gov"
+	   ],
+	   "phones": [
+	   		"(304) 340-3163"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wv/sldl:30": {
 	   "name": "West Virginia State House district 30",
 	   "overwrite": "true",
@@ -32031,6 +36690,80 @@
 	   ],
 	   "phones": [
 	   		"(304) 340-3106"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wv/sldl:51": {
+	   "name": "West Virginia State House district 51",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WV State House District 51",
+	   "divisionId": "ocd-division/country:us/state:wv/sldl:51",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "William Flanigan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:51",
+	   "overwrite_name": "William Flanigan",
+	   "emails": [
+	   		"bill.flanigan@wvhouse.gov"
+	   ],
+	   "phones": [
+	   		"(304) 340-3153"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:wy/sldl:29": {
+	   "name": "Wyoming State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WY State House District 29",
+	   "divisionId": "ocd-division/country:us/state:wy/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark Kinner",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wy/sldl:29",
+	   "overwrite_name": "Mark Kinner",
+	   "emails": [
+	   		"Mark.Kinner@wyoleg.gov"
+	   ],
+	   "phones": [
+	   		"(307) 674-4777"
 	   ]
 	  }
 	 ]
@@ -35676,43 +40409,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:25": {
-	   "name": "Washington State Senate district 25",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State House District 25",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:25",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Melanie Stambaugh",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:25",
-	   "overwrite_name": "Dawn Morrell",
-	   "emails": [
-	   		"melanie.stambaugh@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7948"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:172": {
 	   "name": "Pennsylvania State House district 172",
 	   "overwrite": "true",
@@ -35787,6 +40483,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:8": {
+	   "name": "New Jersey State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 8",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Howarth",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:8",
+	   "overwrite_name": "Joe Howarth",
+	   "emails": [
+	   		"asmhowarth@njleg.org"
+	   ],
+	   "phones": [
+	   		"(609) 654-1498"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:20": {
 	   "name": "New Jersey State Senate district 20",
 	   "overwrite": "true",
@@ -35818,6 +40551,43 @@
 	   ],
 	   "phones": [
 	   		"(908) 624-0880"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:31": {
+	   "name": "New Jersey State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 31",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nicholas Chiaravalloti",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:31",
+	   "overwrite_name": "Nicholas Chiaravalloti",
+	   "emails": [
+	   		"asmchiaravalloti@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 471-2347"
 	   ]
 	  }
 	 ]

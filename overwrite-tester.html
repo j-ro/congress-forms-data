@@ -34,6 +34,12 @@
 			    color: #FFFFFF;
 			    background-color: #717171;
 			    font-weight: 700;
+			    margin-left: 0px;
+			}
+			
+			input[type="radio"] {
+				display: inline;
+				width: auto;
 			}
 		</style>
 	</head>
@@ -42,7 +48,14 @@
 		<label>Overwrite JSON file:</label>
 		<input type="text" id="overwrite_file" value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json" />
 		<label>Google Civic API key:</label>
-		<input type="text" id="google_api_key" value="AIzaSyCJIHXel7hqyAMA6ekcM0S8z8oxG1lvpIY" />
+		<input type="text" id="google_api_key" value="" />
+		
+		<label>Run which test?
+		<label>
+			<input name="type" class="type" value="overwrite_name_match" type="radio">
+			Overwrite name match (do overwrite names match Google Civic names)
+		</label>
+		
 		<input type="submit" id="submit" value="run" />
 		
 		

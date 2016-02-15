@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title></title>
+		<title>JSON Overwrite Tester</title>
 		<style>
 			body {
 				font-family: "Helvetica";
@@ -14,7 +14,7 @@
 				float: left;
 			}
 			
-			input, textarea {
+			input, textarea, select {
 				width: 80%;
 				text-decoration: none;
 			    font-size: 14px;
@@ -49,6 +49,10 @@
 			textarea {
 				height: 300px;
 			}
+			
+			select {
+				margin-bottom: 10px;
+			}
 		</style>
 	</head>
 	<body>
@@ -56,14 +60,24 @@
 		<div class="left">
 		
 			<label>Overwrite JSON file:</label>
-			<input type="text" id="overwrite_file" value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json" />
+			<select id="overwrite_file_select">
+				<option value="">[choose one]</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_legislatorUpperBody_overwrite.json">legislatorUpperBody</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_legislatorLowerBody_overwrite.json">legislatorLowerBody</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_congress_overwrite.json">congress</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json">headOfGovernment</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_upper_overwrite.json">statelevel_upper</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_lower_overwrite.json">statelevel_lower</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_overwrite.json">statelevel</option>
+			</select>
+			<input type="text" id="overwrite_file" value="" placeholder="...or enter a URL" />
 			<label>Google Civic API key:</label>
 			<input type="text" id="google_api_key" value="" />
 			
 			<label>Run which test?</label>
 			<label>
 				<input name="type" class="type" value="overwrite_name_match" type="radio">
-				Overwrite name match (do overwrite names match Google Civic names)
+				Name Match (Do overwrite names match Google Civic names?)
 			</label>
 			
 			<input type="submit" id="submit" value="run" />
@@ -84,53 +98,70 @@
 		$(document).ready(function() {
 			$('#submit').on('click', function() {
 				$('textarea').val('');
-				if ($('#overwrite_file').val() != '' && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined) {
-					$.getJSON($('#overwrite_file').val(), function(data) {
-						console.log('overwrite file loaded successfully');
-						$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
-						
-						$.each(data, function(index, value) {
-							var ocdid = value.officials[0].overwrite_ocdid;
-							var overwrite_name = value.officials[0].overwrite_name
+				if (($('#overwrite_file').val() != '' || $('#overwrite_file_select').val() != '') && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined) {
+					if ($('#overwrite_file_select').val() != '') {
+						var overwrite_file = $('#overwrite_file_select').val();
+					} else {
+						var overwrite_file = $('#overwrite_file').val()
+					}
+					$.getJSON(overwrite_file, function(data) {
+						if ($('.type:checked').val() == 'overwrite_name_match') {
+							$('textarea').val('starting overwrite name match test');
+							console.log('overwrite file loaded successfully');
+							$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
 							
-							console.log('getting ' + ocdid);
-							$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
-							
-							
-							$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
+							$.each(data, function(index, value) {
+								var ocdid = value.officials[0].overwrite_ocdid;
+								var overwrite_name = value.officials[0].overwrite_name
 								
-								var match = false;
-								$.each(data.officials, function(index, value) {
-									console.log(value.name + ' == ' + overwrite_name);
-									$('#log').val($('#log').val() + '\n' + value.name + ' == ' + overwrite_name);
-									if (value.name == overwrite_name) {
-										match = true;
+								console.log('getting ' + ocdid);
+								$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
+								
+								
+								$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
+									
+									var match = false;
+									
+									if (data.officials && data.officials.length) {
+										$.each(data.officials, function(index, value) {
+											//console.log(value.name + ' == ' + overwrite_name);
+											$('#log').val($('#log').val() + '\n' + value.name + ' == ' + overwrite_name);
+											if (value.name == overwrite_name) {
+												match = true;
+											}
+										});
+										
+										//console.log(match);
+										$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+									} else {
+										//console.log('no officials found for ' + ocdid);
+										$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
 									}
+									
+									if (match == false) {
+										//console.log(overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
+										$('#results').val($('#results').val() + '\n' + overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
+									}
+									
+								}).fail(function(jqXHR, textStatus, errorThrown) {
+									console.log('google api load failed');
+									$('#log').val($('#log').val() + '\n' + 'google api load failed');
+									
+									console.log('jqXHR: ');
+									console.log(jqXHR);
+									$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+									
+									console.log('textStatus: ' + textStatus);
+									$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+									
+									console.log('errorThrown: ' + errorThrown);
+									$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
 								});
-								
-								console.log(match);
-								$('#log').val($('#log').val() + '\n' + 'match? ' + match);
-								
-								if (match == false) {
-									console.log(overwrite_name + ' does not match!');
-									$('#results').val($('#results').val() + '\n' + overwrite_name + ' does not match!');
-								}
-								
-							}).fail(function(jqXHR, textStatus, errorThrown) {
-								console.log('google api load failed');
-								$('#log').val($('#log').val() + '\n' + 'google api load failed');
-								
-								console.log('jqXHR: ');
-								console.log(jqXHR);
-								$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
-								
-								console.log('textStatus: ' + textStatus);
-								$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
-								
-								console.log('errorThrown: ' + errorThrown);
-								$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
 							});
-						});
+							
+							//$('textarea').val($('textarea').val() + '\n' + 'finished overwrite name match test');
+						}
+							
 					}).fail(function(jqXHR, textStatus, errorThrown) {
 						console.log('overwrite file load failed');
 						$('#log').val($('#log').val() + '\n' + 'overwrite file load failed');
@@ -145,9 +176,10 @@
 						console.log('errorThrown: ' + errorThrown);
 						$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
 					});
+					
 				} else {
 					console.log('please fill in all required fields');
-					$('#log').val($('#log').val() + '\n' + 'please fill in all required fields');
+					$('textarea').val('please fill in all required fields');
 				}
 				
 			});

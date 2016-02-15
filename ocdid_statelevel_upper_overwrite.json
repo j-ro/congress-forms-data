@@ -1947,10 +1947,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "George \"Max\" Wise",
+	   "name": "Max Wise",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldu:16",
-	   "overwrite_name": "George \"Max\" Wise",
+	   "overwrite_name": "Max Wise",
 	   "emails": [
 	   		"max.wise@lrc.ky.gov"
 	   ],
@@ -2147,36 +2147,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:me/sldu:32": {
-	   "name": "Maine State Senate district 32",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ME State Senate District 32",
-	   "divisionId": "ocd-division/country:us/state:me/sldu:32",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
-	   "overwrite_name": "Geoffrey M. Gratwick"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:mn/sldu:35": {
 	   "name": "Minnesota State Senate district 35",
 	   "overwrite": "true",
@@ -2199,15 +2169,15 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Branden Petersen",
+	   "name": "Jim Abeler",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:35",
-	   "overwrite_name": "Branden Petersen",
+	   "overwrite_name": "Vacant",
 	   "emails": [
-	   		"sen.branden.petersen@senate.mn"
+	   		"sen.jim.abeler@senate.mn"
 	   ],
 	   "phones": [
-	   		"(651) 296-3733"
+	   		"651-296-3733"
 	   ]
 	  }
 	 ]
@@ -4767,43 +4737,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ok/sldu:11": {
-	   "name": "Oklahoma State Senate district 11",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "OK State Senate District 11",
-	   "divisionId": "ocd-division/country:us/state:ok/sldu:11",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kevin Matthews",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:11",
-	   "overwrite_name": "Jabar Shumate",
-	   "emails": [
-	   		"Matthews@oksenate.gov"
-	   ],
-	   "phones": [
-	   		"(405) 521-5598"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ok/sldu:34": {
 	   "name": "Oklahoma State Senate district 34",
 	   "overwrite": "true",
@@ -5088,7 +5021,7 @@
 	   "name": "Guy Reschenthaler",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
-	   "overwrite_name": "Matt Smith",
+	   "overwrite_name": "Guy Reschenthaler",
 	   "emails": [
 	   		"greschenthaler@pasen.gov"
 	   ],
@@ -5959,10 +5892,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Lois W. Kolkhorst",
+	   "name": "Lois Kolkhorst",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:18",
-	   "overwrite_name": "Glenn Hegar",
+	   "overwrite_name": "Lois Kolkhorst",
 	   "emails": [
 	   		"lois.kolkhorst@senate.state.tx.us"
 	   ],
@@ -6369,7 +6302,7 @@
 	   "name": "Dean Takko",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
-	   "overwrite_name": "Brian Hatfield",
+	   "overwrite_name": "Dean Takko",
 	   "emails": [
 	   		"dean.takko@leg.wa.gov"
 	   ],
@@ -6899,43 +6832,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wi/sldu:20": {
-	   "name": "Wisconsin State Senate district 20",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WI State Senate District 20",
-	   "divisionId": "ocd-division/country:us/state:wi/sldu:20",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Duey Stroebel",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:20",
-	   "overwrite_name": "Glenn Grothman",
-	   "emails": [
-	   		"Sen.Stroebel@legis.wisconsin.gov"
-	   ],
-	   "phones": [
-	   		"(608) 266-7513"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wi/sldu:33": {
 	   "name": "Wisconsin State Senate district 33",
 	   "overwrite": "true",
@@ -6967,40 +6863,6 @@
 	   ],
 	   "phones": [
 	   		"(608) 266-9174"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ca/sldu:37": {
-	   "name": "California State Senate district 37",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "CA State Senate District 37",
-	   "divisionId": "ocd-division/country:us/state:ca/sldu:37",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "John M. W. Moorlach",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:37",
-	   "overwrite_name": "Mimi Walters",
-	   "phones": [
-	   		"(916) 651-4037"
 	   ]
 	  }
 	 ]

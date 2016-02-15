@@ -8,11 +8,16 @@
 				font-size: 14px;
 				color: #2c2c2c;
 			}
-			input {
+			
+			.left, .right {
+				width: 50%;
+				float: left;
+			}
+			
+			input, textarea {
 				width: 80%;
 				text-decoration: none;
 			    font-size: 14px;
-			   
 			    border-radius: 3px;
 			    padding: 7px 10px;
 			    border: 1px solid black;
@@ -34,29 +39,43 @@
 			    color: #FFFFFF;
 			    background-color: #717171;
 			    font-weight: 700;
-			    margin-left: 0px;
 			}
 			
 			input[type="radio"] {
 				display: inline;
 				width: auto;
 			}
+			
+			textarea {
+				height: 300px;
+			}
 		</style>
 	</head>
 	<body>
 		
-		<label>Overwrite JSON file:</label>
-		<input type="text" id="overwrite_file" value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json" />
-		<label>Google Civic API key:</label>
-		<input type="text" id="google_api_key" value="" />
+		<div class="left">
 		
-		<label>Run which test?
-		<label>
-			<input name="type" class="type" value="overwrite_name_match" type="radio">
-			Overwrite name match (do overwrite names match Google Civic names)
-		</label>
+			<label>Overwrite JSON file:</label>
+			<input type="text" id="overwrite_file" value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json" />
+			<label>Google Civic API key:</label>
+			<input type="text" id="google_api_key" value="" />
+			
+			<label>Run which test?</label>
+			<label>
+				<input name="type" class="type" value="overwrite_name_match" type="radio">
+				Overwrite name match (do overwrite names match Google Civic names)
+			</label>
+			
+			<input type="submit" id="submit" value="run" />
+		</div>
 		
-		<input type="submit" id="submit" value="run" />
+		<div class="right">
+			<label>Results:</label>
+			<textarea id="results"></textarea>
+			
+			<label>Log:</label>
+			<textarea id="log"></textarea>
+		</div>
 		
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
@@ -64,14 +83,18 @@
 		<script type="text/javascript">
 		$(document).ready(function() {
 			$('#submit').on('click', function() {
-				if ($('#overwrite_file').val() != '' && $('#google_api_key').val() != '') {
+				$('textarea').val('');
+				if ($('#overwrite_file').val() != '' && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined) {
 					$.getJSON($('#overwrite_file').val(), function(data) {
 						console.log('overwrite file loaded successfully');
+						$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
+						
 						$.each(data, function(index, value) {
 							var ocdid = value.officials[0].overwrite_ocdid;
 							var overwrite_name = value.officials[0].overwrite_name
 							
 							console.log('getting ' + ocdid);
+							$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
 							
 							
 							$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
@@ -79,27 +102,52 @@
 								var match = false;
 								$.each(data.officials, function(index, value) {
 									console.log(value.name + ' == ' + overwrite_name);
+									$('#log').val($('#log').val() + '\n' + value.name + ' == ' + overwrite_name);
 									if (value.name == overwrite_name) {
 										match = true;
 									}
 								});
 								
 								console.log(match);
+								$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+								
+								if (match == false) {
+									console.log(overwrite_name + ' does not match!');
+									$('#results').val($('#results').val() + '\n' + overwrite_name + ' does not match!');
+								}
+								
 							}).fail(function(jqXHR, textStatus, errorThrown) {
 								console.log('google api load failed');
+								$('#log').val($('#log').val() + '\n' + 'google api load failed');
+								
 								console.log('jqXHR: ');
 								console.log(jqXHR);
+								$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+								
 								console.log('textStatus: ' + textStatus);
+								$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+								
 								console.log('errorThrown: ' + errorThrown);
+								$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
 							});
 						});
 					}).fail(function(jqXHR, textStatus, errorThrown) {
 						console.log('overwrite file load failed');
+						$('#log').val($('#log').val() + '\n' + 'overwrite file load failed');
+						
 						console.log('jqXHR: ');
 						console.log(jqXHR);
+						$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+						
 						console.log('textStatus: ' + textStatus);
+						$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+						
 						console.log('errorThrown: ' + errorThrown);
+						$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
 					});
+				} else {
+					console.log('please fill in all required fields');
+					$('#log').val($('#log').val() + '\n' + 'please fill in all required fields');
 				}
 				
 			});

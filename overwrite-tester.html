@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<style>
+			body {
+				font-family: "Helvetica";
+				font-size: 14px;
+				color: #2c2c2c;
+			}
+			input {
+				width: 80%;
+				text-decoration: none;
+			    font-size: 14px;
+			   
+			    border-radius: 3px;
+			    padding: 7px 10px;
+			    border: 1px solid black;
+			    min-height: 20px;
+			    line-height: 20px;
+			    box-sizing: border-box;
+			    white-space: normal;
+			    display: block;
+			    margin: 0px 20px 40px 20px;
+			}
+			
+			label {
+				margin: 20px 20px 10px 20px;
+				display: block;
+				
+			}
+			
+			input[type="submit"] {
+			    color: #FFFFFF;
+			    background-color: #717171;
+			    font-weight: 700;
+			}
+		</style>
+	</head>
+	<body>
+		
+		<label>Overwrite JSON file:</label>
+		<input type="text" id="overwrite_file" value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json" />
+		<label>Google Civic API key:</label>
+		<input type="text" id="google_api_key" value="AIzaSyCJIHXel7hqyAMA6ekcM0S8z8oxG1lvpIY" />
+		<input type="submit" id="submit" value="run" />
+		
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+		
+		<script type="text/javascript">
+		$(document).ready(function() {
+			$('#submit').on('click', function() {
+				if ($('#overwrite_file').val() != '' && $('#google_api_key').val() != '') {
+					$.getJSON($('#overwrite_file').val(), function(data) {
+						console.log('overwrite file loaded successfully');
+						$.each(data, function(index, value) {
+							var ocdid = value.officials[0].overwrite_ocdid;
+							var overwrite_name = value.officials[0].overwrite_name
+							
+							console.log('getting ' + ocdid);
+							
+							
+							$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
+								
+								var match = false;
+								$.each(data.officials, function(index, value) {
+									console.log(value.name + ' == ' + overwrite_name);
+									if (value.name == overwrite_name) {
+										match = true;
+									}
+								});
+								
+								console.log(match);
+							}).fail(function(jqXHR, textStatus, errorThrown) {
+								console.log('google api load failed');
+								console.log('jqXHR: ');
+								console.log(jqXHR);
+								console.log('textStatus: ' + textStatus);
+								console.log('errorThrown: ' + errorThrown);
+							});
+						});
+					}).fail(function(jqXHR, textStatus, errorThrown) {
+						console.log('overwrite file load failed');
+						console.log('jqXHR: ');
+						console.log(jqXHR);
+						console.log('textStatus: ' + textStatus);
+						console.log('errorThrown: ' + errorThrown);
+					});
+				}
+				
+			});
+		});
+		</script>
+	</body>
+</html>

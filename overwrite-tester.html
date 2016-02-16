@@ -39,11 +39,13 @@
 			    color: #FFFFFF;
 			    background-color: #717171;
 			    font-weight: 700;
+			    margin-top: 40px;
 			}
 			
 			input[type="radio"] {
 				display: inline;
 				width: auto;
+				margin-bottom: 10px;
 			}
 			
 			textarea {
@@ -52,6 +54,10 @@
 			
 			select {
 				margin-bottom: 10px;
+			}
+			
+			.disabled {
+				background-color: #d0d0d0 !important;
 			}
 		</style>
 	</head>
@@ -78,6 +84,10 @@
 			<label>
 				<input name="type" class="type" value="overwrite_name_match" type="radio">
 				Name Match (Do overwrite names match Google Civic names?)
+			</label>
+			<label>
+				<input name="type" class="type" value="overwrite_necessity" type="radio">
+				Necessity (Do we need overwrites to add emails/phones or change names?)
 			</label>
 			
 			<label>Ignore which states?</label>
@@ -154,6 +164,7 @@
 		<script type="text/javascript">
 		$(document).ready(function() {
 			$('#submit').on('click', function() {
+				$('#submit').val('running...').attr('disabled','disabled').addClass('disabled');
 				$('textarea').val('');
 				if (($('#overwrite_file').val() != '' || $('#overwrite_file_select').val() != '') && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined) {
 					if ($('#overwrite_file_select').val() != '') {
@@ -162,28 +173,39 @@
 						var overwrite_file = $('#overwrite_file').val()
 					}
 					$.getJSON(overwrite_file, function(data) {
+						$('textarea').val('start test');
+						
+						console.log('overwrite file loaded successfully');
+						$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
+						
 						if ($('.type:checked').val() == 'overwrite_name_match') {
-							$('textarea').val('starting overwrite name match test');
-							console.log('overwrite file loaded successfully');
-							$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
+							$('textarea').val($('textarea').val() + '\n' + 'starting overwrite name match test');
+						}	
+						
+						if ($('.type:checked').val() == 'overwrite_necessity') {
+							$('textarea').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
+						}		
 							
-							$.each(data, function(index, value) {
-								var ocdid = value.officials[0].overwrite_ocdid;
-								var overwrite_name = value.officials[0].overwrite_name
-								
-								console.log('getting ' + ocdid);
-								$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
-								
-								
-								$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
-									
+						$.each(data, function(index, value) {
+							var ocdid = value.officials[0].overwrite_ocdid;
+							var overwrite_name = value.officials[0].overwrite_name;
+							var name = value.officials[0].name;
+							
+							console.log('getting ' + ocdid);
+							$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
+							
+							
+							$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
+							
+								//overwrite name match test
+								if ($('.type:checked').val() == 'overwrite_name_match') {
 									var match = false;
 									
 									if (data.officials && data.officials.length) {
-										$.each(data.officials, function(index, value) {
+										$.each(data.officials, function(index1, value1) {
 											//console.log(value.name + ' == ' + overwrite_name);
-											$('#log').val($('#log').val() + '\n' + value.name + ' == ' + overwrite_name);
-											if (value.name == overwrite_name) {
+											$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
+											if (value1.name == overwrite_name) {
 												match = true;
 											}
 										});
@@ -207,35 +229,76 @@
 										}
 										
 										if (log_results) {
-											$('#results').val($('#results').val() + '\n' + overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
+											$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
 										}
+									}
+								}
+
+								//overwrite necessity test
+								if ($('.type:checked').val() == 'overwrite_necessity') {
+									var match = false;
+									var overwrite_object = {};
+									
+									if (data.officials && data.officials.length) {
+										$.each(data.officials, function(index1, value1) {
+											//console.log(value.name + ' == ' + overwrite_name);
+											$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
+											if (value1.name == overwrite_name && overwrite_name == name) {
+												match = true;
+												overwrite_object = value1;
+											}
+										});
 										
+										//console.log(match);
+										$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+									} else {
+										//console.log('no officials found for ' + ocdid);
+										$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
 									}
 									
-									if ($.active == 1) {
-										setTimeout(function() {
-											$('textarea').val($('textarea').val() + '\n' + 'finished overwrite name match test');
-										}, 1000);
+									if (match == true) {
+										var log_results = true;
+										
+										if (overwrite_object.phones != undefined && overwrite_object.emails != undefined && overwrite_object.phones.length > 0 && overwrite_object.emails.length > 0) {
+											if ($('#ignore_states option:selected').length) {
+												$('#ignore_states option:selected').each(function() {
+													if (ocdid.indexOf('state:' + $(this).val().toLowerCase()) != -1) {
+														log_results = false;
+													}
+												});
+											}
+											
+											if (log_results) {
+												$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' is not necessary! \n non-necessary ocdid: ' + ocdid);
+											}
+										}
 									}
-									
-								}).fail(function(jqXHR, textStatus, errorThrown) {
-									console.log('google api load failed');
-									$('#log').val($('#log').val() + '\n' + 'google api load failed');
-									
-									console.log('jqXHR: ');
-									console.log(jqXHR);
-									$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
-									
-									console.log('textStatus: ' + textStatus);
-									$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
-									
-									console.log('errorThrown: ' + errorThrown);
-									$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
-								});
+								}
+
+								
+								if ($.active == 1) {
+									setTimeout(function() {
+										$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+									}, 1000);
+								}
+								
+							}).fail(function(jqXHR, textStatus, errorThrown) {
+								console.log('google api load failed');
+								$('#log').val($('#log').val() + '\n' + 'google api load failed');
+								
+								console.log('jqXHR: ');
+								console.log(jqXHR);
+								$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+								
+								console.log('textStatus: ' + textStatus);
+								$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+								
+								console.log('errorThrown: ' + errorThrown);
+								$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+								
+								$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 							});
-							
-							//$('textarea').val($('textarea').val() + '\n' + 'finished overwrite name match test');
-						}
+						});
 							
 					}).fail(function(jqXHR, textStatus, errorThrown) {
 						console.log('overwrite file load failed');
@@ -250,11 +313,15 @@
 						
 						console.log('errorThrown: ' + errorThrown);
 						$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+						
+						$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 					});
 					
 				} else {
 					console.log('please fill in all required fields');
 					$('textarea').val('please fill in all required fields');
+					
+					$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 				}
 				
 			});

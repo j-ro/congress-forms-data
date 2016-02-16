@@ -9257,43 +9257,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:co/sldl:17": {
-	   "name": "Colorado State House district 17",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "CO State House District 17",
-	   "divisionId": "ocd-division/country:us/state:co/sldl:17",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Catherine \"Kit\" Roupe",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:17",
-	   "overwrite_name": "Catherine \"Kit\" Roupe",
-	   "emails": [
-	   		"kit.roupe.house@state.co.us"
-	   ],
-	   "phones": [
-	   		"303-866-3069"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:co/sldl:25": {
 	   "name": "Colorado State House district 25",
 	   "overwrite": "true",

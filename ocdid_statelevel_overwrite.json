@@ -2194,6 +2194,43 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "ID State House District 17",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Gannon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:17",
+	   "overwrite_name": "John Gannon",
+	   "emails": [
+	   		"jgannon@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 343-1608"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:17": {
+	   "name": "Idaho State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "ID State Senate District 17",
 	   "divisionId": "ocd-division/country:us/state:id/sldu:17",
 	   "roles": [
@@ -2289,6 +2326,43 @@
 	   ],
 	   "phones": [
 	   		"(208) 344-0202"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:18": {
+	   "name": "Idaho State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 18",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ilana Rubel",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:18",
+	   "overwrite_name": "Ilana Rubel",
+	   "emails": [
+	   		"irubel@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 866-4776"
 	   ]
 	  }
 	 ]
@@ -2400,6 +2474,43 @@
 	   ],
 	   "phones": [
 	   		"(208) 284-9542"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:20": {
+	   "name": "Idaho State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 20",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joe Palmer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:20",
+	   "overwrite_name": "Joe Palmer",
+	   "emails": [
+	   		"jpalmer@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 887-9488"
 	   ]
 	  }
 	 ]
@@ -2850,6 +2961,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:31": {
+	   "name": "Idaho State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 31",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Julie VanOrden",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:31",
+	   "overwrite_name": "Julie VanOrden",
+	   "emails": [
+	   		"jvanorden@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 684-4052"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:32": {
 	   "name": "Idaho State Senate district 32",
 	   "overwrite": "true",
@@ -2918,6 +3066,43 @@
 	   ],
 	   "phones": [
 	   		"208-332-1189"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:id/sldu:33": {
+	   "name": "Idaho State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ID State House District 33",
+	   "divisionId": "ocd-division/country:us/state:id/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Linden B. Bateman",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:33",
+	   "overwrite_name": "Linden B. Bateman",
+	   "emails": [
+	   		"lbateman@house.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 524-0927"
 	   ]
 	  }
 	 ]
@@ -9055,6 +9240,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:2": {
+	   "name": "Washington State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 2",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:2",
+	   "overwrite_name": "State House District 2"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:3": {
 	   "name": "Washington State Senate district 3",
 	   "overwrite": "true",
@@ -13474,6 +13689,9 @@
 	   "overwrite_name": "Sara Wojcicki Jimenez",
 	   "emails": [
 	   		"Repskoog@gmail.com"
+	   ],
+	   "phones": [
+	   		"(217) 782-0044"
 	   ]
 	  }
 	 ]
@@ -13776,6 +13994,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:tn/sldl:51": {
+	   "name": "Tennessee State House district 51",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TN State House District 51",
+	   "divisionId": "ocd-division/country:us/state:tn/sldl:51",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Carson W. (Bill) Beck",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:51",
+	   "overwrite_name": "Carson W. (Bill) Beck",
+	   "emails": [
+	   		"rep.bill.beck@capitol.tn.gov"
+	   ],
+	   "phones": [
+	   		"(615) 741-3229"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:me/sldl:19": {
 	   "name": "Maine State House district 19",
 	   "overwrite": "true",
@@ -13798,10 +14053,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Matthew Harrington",
+	   "name": "Matthew A. Harrington",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:119",
-	   "overwrite_name": "Matthew Harrington",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:19",
+	   "overwrite_name": "William F. Noon",
 	   "emails": [
 	   		"Matthew.Harrington@legislature.maine.gov"
 	   ],

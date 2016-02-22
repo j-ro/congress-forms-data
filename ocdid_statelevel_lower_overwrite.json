@@ -18596,6 +18596,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wv/sldl:19": {
+	   "name": "West Virginia State House district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WV State House District 19",
+	   "divisionId": "ocd-division/country:us/state:wv/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kenneth P. Hicks",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:19",
+	   "overwrite_name": "Tim Kinsey",
+	   "emails": [
+	   		"ken.hicks@wvhouse.gov"
+	   ],
+	   "phones": [
+	   		"(304) 340-3155"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wv/sldl:25": {
 	   "name": "West Virginia State House district 25",
 	   "overwrite": "true",

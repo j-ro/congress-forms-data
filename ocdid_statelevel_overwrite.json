@@ -1000,6 +1000,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:16": {
+	   "name": "Colorado State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 16",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:16",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Neville",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:16",
+	   "overwrite_name": "Tim Neville",
+	   "emails": [
+	   		"tim.neville.senate@state.co.us"
+	   ],
+	   "phones": [
+	   		"(303) 866-4873"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:12": {
 	   "name": "Connecticut State Senate district 12",
 	   "overwrite": "true",
@@ -13174,6 +13211,43 @@
 	   ],
 	   "phones": [
 	   		"303-866-5510"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldl:40": {
+	   "name": "Colorado State House district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State House District 40",
+	   "divisionId": "ocd-division/country:us/state:co/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Janet Buckner",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:40",
+	   "overwrite_name": "John W Buckner",
+	   "emails": [
+	   		"janet.buckner.house@state.co.us"
+	   ],
+	   "phones": [
+	   		"303-866-2944"
 	   ]
 	  }
 	 ]

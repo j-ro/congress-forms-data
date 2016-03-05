@@ -223,6 +223,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:16": {
+	   "name": "Colorado State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 16",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:16",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Neville",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:16",
+	   "overwrite_name": "Tim Neville",
+	   "emails": [
+	   		"tim.neville.senate@state.co.us"
+	   ],
+	   "phones": [
+	   		"(303) 866-4873"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:12": {
 	   "name": "Connecticut State Senate district 12",
 	   "overwrite": "true",

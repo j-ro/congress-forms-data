@@ -9546,6 +9546,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:co/sldl:40": {
+	   "name": "Colorado State House district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State House District 40",
+	   "divisionId": "ocd-division/country:us/state:co/sldl:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Janet Buckner",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:40",
+	   "overwrite_name": "John W Buckner",
+	   "emails": [
+	   		"janet.buckner.house@state.co.us"
+	   ],
+	   "phones": [
+	   		"303-866-2944"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:co/sldl:65": {
 	   "name": "Colorado State House district 65",
 	   "overwrite": "true",

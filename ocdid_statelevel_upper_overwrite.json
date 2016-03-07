@@ -260,6 +260,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:co/sldu:27": {
+	   "name": "Colorado State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State Senate District 27",
+	   "divisionId": "ocd-division/country:us/state:co/sldu:27",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jack Tate",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:27",
+	   "overwrite_name": "Jack Tate",
+	   "emails": [
+	   		"jack.tate.senate@state.co.us"
+	   ],
+	   "phones": [
+	   		"(303) 866-4883"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:12": {
 	   "name": "Connecticut State Senate district 12",
 	   "overwrite": "true",

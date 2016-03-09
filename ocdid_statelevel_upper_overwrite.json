@@ -1555,6 +1555,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:14": {
+	   "name": "Maryland State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State Senate District 14",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:14",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Craig J. Zucker",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:14",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"craig.zucker@senate.state.md.us"
+	   ],
+	   "phones": [
+	   		"410-841-3625"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:17": {
 	   "name": "Maryland State Senate district 17",
 	   "overwrite": "true",
@@ -4549,6 +4586,43 @@
 	   ],
 	   "phones": [
 	   		"(505) 384-4307"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/sldu:1": {
+	   "name": "Hawaii State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "HI State Senate District 1",
+	   "divisionId": "ocd-division/country:us/state:hi/sldu:1",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kaiali'i Kahele",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:1",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"senkahele@capitol.hawaii.gov "
+	   ],
+	   "phones": [
+	   		"808-586-6760"
 	   ]
 	  }
 	 ]

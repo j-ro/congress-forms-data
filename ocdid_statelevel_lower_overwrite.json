@@ -9216,6 +9216,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:al/sldl:9": {
+	   "name": "Alabama State House district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "AL State House District 9",
+	   "divisionId": "ocd-division/country:us/state:al/sldl:9",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ed Henry",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al/sldl:9",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"ed.henry@alhouse.gov"
+	   ],
+	   "phones": [
+	   		"334-242-7736"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:al/sldl:80": {
 	   "name": "Alabama State House district 80",
 	   "overwrite": "true",
@@ -9244,6 +9281,9 @@
 	   "overwrite_name": "Chris Blackshear",
 	   "emails": [
 	   		"chris.blackshear@alhouse.gov"
+	   ],
+	   "phones": [
+	   		"334-242-1683"
 	   ]
 	  }
 	 ]
@@ -9990,6 +10030,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ga/sldl:120": {
+	   "name": "Georgia State House district 120",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "GA State House District 120",
+	   "divisionId": "ocd-division/country:us/state:ga/sldl:120",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Trey Rhodes",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:120",
+	   "overwrite_name": "Trey Rhodes",
+	   "emails": [
+	   		"trey.rhodes@house.ga.gov"
+	   ],
+	   "phones": [
+	   		"(404) 656-0325"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:il/sldl:37": {
 	   "name": "Illinois State House district 37",
 	   "overwrite": "true",
@@ -10021,6 +10098,43 @@
 	   ],
 	   "phones": [
 	   		"(217) 782-0424"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:65": {
+	   "name": "Illinois State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 65",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven A. Andersson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:65",
+	   "overwrite_name": "Steven A. Andersson",
+	   "emails": [
+	   		"steve@staterep65.com"
+	   ],
+	   "phones": [
+	   		"(217) 782-5457"
 	   ]
 	  }
 	 ]
@@ -11436,6 +11550,43 @@
 	   ],
 	   "phones": [
 	   		"(410) 841-3200"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:14": {
+	   "name": "Maryland State Senate district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 14",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:14",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Pam Queen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:14",
+	   "overwrite_name": "Craig J. Zucker",
+	   "emails": [
+	   		"pam.queen@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"410-841-3380"
 	   ]
 	  }
 	 ]

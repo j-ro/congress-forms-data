@@ -6243,6 +6243,228 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:1": {
+	   "name": "New Jersey State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 1",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "R. Bruce Land",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+	   "overwrite_name": "R. Bruce Land",
+	   "emails": [
+	   		"asmland@njleg.org"
+	   ],
+	   "phones": [
+	   		"(609) 465-0700"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:1": {
+	   "name": "New Jersey State Senate district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 1",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Andrzejczak",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+	   "overwrite_name": "Bob Andrzejczak",
+	   "emails": [
+	   		"asmandrzejczak@njleg.org"
+	   ],
+	   "phones": [
+	   		"(609) 465-0700"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:5": {
+	   "name": "New Jersey State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 5",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Arthur Barclay",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
+	   "overwrite_name": "Arthur Barclay",
+	   "emails": [
+	   		"asmbarclay@njleg.org"
+	   ],
+	   "phones": [
+	   		"(856) 547-4800"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:5": {
+	   "name": "New Jersey State Senate district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 5",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patricia Jones",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
+	   "overwrite_name": "Patricia Jones",
+	   "emails": [
+	   		"aswjones@njleg.org"
+	   ],
+	   "phones": [
+	   		"(856) 547-4800"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:11": {
+	   "name": "New Jersey State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 11",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joann Downey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:11",
+	   "overwrite_name": "Joann Downey",
+	   "emails": [
+	   		"aswdowney@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 695-3371"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:11": {
+	   "name": "New Jersey State Senate district 11",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 11",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:11",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric Houghtaling",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:11",
+	   "overwrite_name": "Eric Houghtaling",
+	   "emails": [
+	   		"asmhoughtaling@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 695-3371"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:15": {
 	   "name": "New Jersey State Senate district 15",
 	   "overwrite": "true",
@@ -6270,10 +6492,84 @@
 	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:15",
 	   "overwrite_name": "Elizabeth Muoio",
 	   "emails": [
-	   		"asmmahermuoio@njleg.org"
+	   		"aswMuoio@njleg.org"
 	   ],
 	   "phones": [
 	   		"(609) 571-9638"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:16": {
+	   "name": "New Jersey State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 16",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jack Ciattarelli",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:16",
+	   "overwrite_name": "Jack Ciattarelli",
+	   "emails": [
+	   		"asmciattarelli@njleg.org"
+	   ],
+	   "phones": [
+	   		"(908) 450-7064"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:16": {
+	   "name": "New Jersey State Senate district 16",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 16",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:16",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Andrew Zwicker",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:16",
+	   "overwrite_name": "Andrew Zwicker",
+	   "emails": [
+	   		"asmzwicker@njleg.org"
+	   ],
+	   "phones": [
+	   		"(609) 454-3147"
 	   ]
 	  }
 	 ]
@@ -6311,6 +6607,598 @@
 	   ],
 	   "phones": [
 	   		"(732) 247-3999"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:17": {
+	   "name": "New Jersey State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 17",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Joseph Egan",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:17",
+	   "overwrite_name": "Joseph Egan",
+	   "emails": [
+	   		"AsmEgan@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 249-4550"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:18": {
+	   "name": "New Jersey State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 18",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Patrick Diegnan",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
+	   "overwrite_name": "Patrick Diegnan",
+	   "emails": [
+	   		"AsmDiegnan@njleg.org"
+	   ],
+	   "phones": [
+	   		"(908) 757-1677"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:18": {
+	   "name": "New Jersey State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 18",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nancy Pinkin",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
+	   "overwrite_name": "Nancy Pinkin",
+	   "emails": [
+	   		"AswPinkin@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 548-1406"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:18": {
+	   "name": "New Jersey State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State Senate District 18",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Peter Barnes",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
+	   "overwrite_name": "Peter Barnes",
+	   "emails": [
+	   		"SenBarnes@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 548-1406"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:21": {
+	   "name": "New Jersey State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 21",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jon Bramnick",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:21",
+	   "overwrite_name": "Jon Bramnick",
+	   "emails": [
+	   		"AsmBramnick@njleg.org"
+	   ],
+	   "phones": [
+	   		"(908) 232-2073"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:21": {
+	   "name": "New Jersey State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 21",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:21",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nancy Munoz",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:21",
+	   "overwrite_name": "Nancy Munoz",
+	   "emails": [
+	   		"AswMunoz@njleg.org"
+	   ],
+	   "phones": [
+	   		"(908) 918-0414"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:22": {
+	   "name": "New Jersey State Senate district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 22",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James Kennedy",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:22",
+	   "overwrite_name": "James Kennedy",
+	   "emails": [
+	   		"AsmKennedy@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 943-2660"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:22": {
+	   "name": "New Jersey State Senate district 22",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 22",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:22",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jerry Green",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:22",
+	   "overwrite_name": "Jerry Green",
+	   "emails": [
+	   		"AsmGreen@njleg.org"
+	   ],
+	   "phones": [
+	   		"(908) 561-5757"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:24": {
+	   "name": "New Jersey State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 24",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gail Phoebus",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:24",
+	   "overwrite_name": "Gail Phoebus",
+	   "emails": [
+	   		"AswPhoebus@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 300-0200"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:24": {
+	   "name": "New Jersey State Senate district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 24",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Parker Space",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:24",
+	   "overwrite_name": "Parker Space",
+	   "emails": [
+	   		"AsmSpace@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 300-0200"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:25": {
+	   "name": "New Jersey State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 25",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael Carroll",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:25",
+	   "overwrite_name": "Michael Carroll",
+	   "emails": [
+	   		"AsmCarroll@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 539-8113"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:25": {
+	   "name": "New Jersey State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 25",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anthony M. Bucco",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:25",
+	   "overwrite_name": "Anthony Bucco",
+	   "emails": [
+	   		"AsmBucco@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 927-2526"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:27": {
+	   "name": "New Jersey State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 27",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John McKeon",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:27",
+	   "overwrite_name": "John McKeon",
+	   "emails": [
+	   		"AsmMcKeon@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 377-1606"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:27": {
+	   "name": "New Jersey State Senate district 27",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 27",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:27",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mila Jasey",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:27",
+	   "overwrite_name": "Mila Jasey",
+	   "emails": [
+	   		"AswJasey@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 762-1886"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:29": {
+	   "name": "New Jersey State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 29",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "L. Grace Spencer",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:29",
+	   "overwrite_name": "L. Grace Spencer",
+	   "emails": [
+	   		"AswSpencer@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 624-1730"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:29": {
+	   "name": "New Jersey State Senate district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 29",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eliana Pintor Marin",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:29",
+	   "overwrite_name": "Eliana Pintor Marin",
+	   "emails": [
+	   		"AswPintorMarin@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 589-0713"
 	   ]
 	  }
 	 ]
@@ -9410,9 +10298,16 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Andrew Barkis",
+	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:2",
-	   "overwrite_name": "State House District 2"
+	   "overwrite_name": "State House District 2",
+	   "emails": [
+	   		"andrew.barkis@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786-7824"
+	   ]
 	  }
 	 ]
 	},
@@ -20379,6 +21274,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:59": {
+	   "name": "Ohio State House district 59",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 59",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:59",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Boccieri",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:59",
+	   "overwrite_name": "John Boccieri",
+	   "emails": [
+	   		"Rep59@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-6107"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:64": {
 	   "name": "Ohio State House district 64",
 	   "overwrite": "true",
@@ -21712,10 +22644,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Shawn L. Bordeaux",
+	   "name": "Shawn Bordeaux",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:26a",
-	   "overwrite_name": "Shawn L. Bordeaux",
+	   "overwrite_name": "Shawn Bordeaux",
 	   "emails": [
 	   		"rep.bordeaux@schouse.org"
 	   ],
@@ -21749,10 +22681,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "J. Sam Marty",
+	   "name": "J Sam Marty",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:28b",
-	   "overwrite_name": "J. Sam Marty",
+	   "overwrite_name": "J Sam Marty",
 	   "emails": [
 	   		"rep.marty@schouse.org"
 	   ],
@@ -22572,6 +23504,43 @@
 	   ],
 	   "phones": [
 	   		"(512) 463-0269"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:118": {
+	   "name": "Texas State House district 118",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 118",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:118",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Lujan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:118",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"john.lujan@house.state.tx.us"
+	   ],
+	   "phones": [
+	   		"(512) 463-0714"
 	   ]
 	  }
 	 ]
@@ -25215,7 +26184,7 @@
 	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:20",
 	   "overwrite_name": "Annette Quijano",
 	   "emails": [
-	   		"asmquijano@njleg.org"
+	   		"aswquijano@njleg.org"
 	   ],
 	   "phones": [
 	   		"(908) 327-9119"
@@ -25256,6 +26225,265 @@
 	   ],
 	   "phones": [
 	   		"(201) 471-2347"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:31": {
+	   "name": "New Jersey State Senate district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 31",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Angela McKnight",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:31",
+	   "overwrite_name": "Angela McKnight",
+	   "emails": [
+	   		"aswMcKnight@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 360-2502"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:33": {
+	   "name": "New Jersey State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 33",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Annette Chaparro",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:33",
+	   "overwrite_name": "Annette Chaparro",
+	   "emails": [
+	   		"aswChaparro@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 683-7917"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:33": {
+	   "name": "New Jersey State Senate district 33",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 33",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:33",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Raj Mukherji",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:33",
+	   "overwrite_name": "Raj Mukherji",
+	   "emails": [
+	   		"asmMukherji@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 626-4000"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:34": {
+	   "name": "New Jersey State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 34",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Giblin",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:34",
+	   "overwrite_name": "Thomas Giblin",
+	   "emails": [
+	   		"asmGiblin@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 779-3125"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:34": {
+	   "name": "New Jersey State Senate district 34",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 34",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:34",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sheila Oliver",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:34",
+	   "overwrite_name": "Sheila Oliver",
+	   "emails": [
+	   		"aswOliver@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 395-1166"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:40": {
+	   "name": "New Jersey State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 40",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Russo",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:40",
+	   "overwrite_name": "David Russo",
+	   "emails": [
+	   		"asmRusso@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 444-9719"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:40": {
+	   "name": "New Jersey State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 40",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:40",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Scott Rumana",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:40",
+	   "overwrite_name": "Scott Rumana",
+	   "emails": [
+	   		"asmRumana@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 237-1362"
 	   ]
 	  }
 	 ]

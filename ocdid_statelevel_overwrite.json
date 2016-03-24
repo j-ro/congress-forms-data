@@ -5602,7 +5602,7 @@
 	   "name": "Carlo Sanchez",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47b",
-	   "overwrite_name": "",
+	   "overwrite_name": "Carlo Sanchez",
 	   "emails": [
 	   		"carlo.sanchez@house.state.md.us"
 	   ],
@@ -10301,7 +10301,7 @@
 	   "name": "Andrew Barkis",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:2",
-	   "overwrite_name": "State House District 2",
+	   "overwrite_name": "Graham Hunt",
 	   "emails": [
 	   		"andrew.barkis@leg.wa.gov"
 	   ],
@@ -20380,6 +20380,154 @@
 	   ],
 	   "phones": [
 	   		"(601)359-2886"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldl:5": {
+	   "name": "Mississippi State House district 5",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State House District 5",
+	   "divisionId": "ocd-division/country:us/state:ms/sldl:5",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John G. Faulkner",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:5",
+	   "overwrite_name": "John G. Faulkner",
+	   "emails": [
+	   		"jfaulkner@house.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601) 359-2432"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldl:17": {
+	   "name": "Mississippi State House district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State House District 17",
+	   "divisionId": "ocd-division/country:us/state:ms/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Shane Aguirre",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:17",
+	   "overwrite_name": "Shane Aguirre",
+	   "emails": [
+	   		"maguirre@house.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601) 359-3374"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldl:26": {
+	   "name": "Mississippi State House district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State House District 26",
+	   "divisionId": "ocd-division/country:us/state:ms/sldl:26",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Orlando Paden",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:26",
+	   "overwrite_name": "Orlando Paden",
+	   "emails": [
+	   		"opaden@house.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601) 359-2439"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ms/sldl:59": {
+	   "name": "Mississippi State House district 59",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MS State House District 59",
+	   "divisionId": "ocd-division/country:us/state:ms/sldl:59",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brent Powell",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:59",
+	   "overwrite_name": "Brent Powell",
+	   "emails": [
+	   		"bpowell@house.ms.gov"
+	   ],
+	   "phones": [
+	   		"(601) 359-3349"
 	   ]
 	  }
 	 ]

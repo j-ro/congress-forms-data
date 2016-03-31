@@ -20941,6 +20941,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:2": {
+	   "name": "Ohio State House district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 2",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:2",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mark J. Romanchuk",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:2",
+	   "overwrite_name": "Mark J. Romanchuk",
+	   "emails": [
+	   		"Rep2@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-5802"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:4": {
 	   "name": "Ohio State House district 4",
 	   "overwrite": "true",
@@ -21052,6 +21089,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:15": {
+	   "name": "Ohio State House district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 15",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:15",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Nicholas J. Celebrezze",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:15",
+	   "overwrite_name": "Nicholas J. Celebrezze",
+	   "emails": [
+	   		"Rep15@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-3485"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:17": {
+	   "name": "Ohio State House district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 17",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:17",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael F. Curtin",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:17",
+	   "overwrite_name": "Michael F. Curtin",
+	   "emails": [
+	   		"Rep17@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6005"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:20": {
+	   "name": "Ohio State House district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 20",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Heather Bishoff",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:20",
+	   "overwrite_name": "Heather Bishoff",
+	   "emails": [
+	   		"Rep20@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6002"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:22": {
 	   "name": "Ohio State House district 22",
 	   "overwrite": "true",
@@ -21083,6 +21231,80 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-2473"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:24": {
+	   "name": "Ohio State House district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 24",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Stephanie Kunze",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:24",
+	   "overwrite_name": "Stephanie Kunze",
+	   "emails": [
+	   		"Rep24@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-8012"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:25": {
+	   "name": "Ohio State House district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 25",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:25",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kevin Boyce",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:25",
+	   "overwrite_name": "Kevin Boyce",
+	   "emails": [
+	   		"Rep25@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-5343"
 	   ]
 	  }
 	 ]
@@ -21163,6 +21385,80 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:29": {
+	   "name": "Ohio State House district 29",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 29",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:29",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Louis W. Blessing III",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:29",
+	   "overwrite_name": "Louis W. Blessing III",
+	   "emails": [
+	   		"Rep29@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-9091"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:30": {
+	   "name": "Ohio State House district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 30",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Louis Terhar",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:30",
+	   "overwrite_name": "Louis Terhar",
+	   "emails": [
+	   		"Rep30@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-8258"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:32": {
 	   "name": "Ohio State House district 32",
 	   "overwrite": "true",
@@ -21237,6 +21533,117 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:36": {
+	   "name": "Ohio State House district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 36",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anthony DeVitis",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:36",
+	   "overwrite_name": "Anthony DeVitis",
+	   "emails": [
+	   		"Rep36@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-1790"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:38": {
+	   "name": "Ohio State House district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 38",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marilyn Slaby",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:38",
+	   "overwrite_name": "Marilyn Slaby",
+	   "emails": [
+	   		"Rep38@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-5085"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:39": {
+	   "name": "Ohio State House district 39",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 39",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:39",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Fred Strahorn",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:39",
+	   "overwrite_name": "Fred Strahorn",
+	   "emails": [
+	   		"Rep39@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-1607"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:42": {
 	   "name": "Ohio State House district 42",
 	   "overwrite": "true",
@@ -21305,6 +21712,117 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-2960"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:50": {
+	   "name": "Ohio State House district 50",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 50",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:50",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Christina Hagan",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:50",
+	   "overwrite_name": "Christina Hagan",
+	   "emails": [
+	   		"Rep50@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-9078"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:51": {
+	   "name": "Ohio State House district 51",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 51",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:51",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Wes Retherford",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:51",
+	   "overwrite_name": "Wes Retherford",
+	   "emails": [
+	   		"Rep51@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6721"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:52": {
+	   "name": "Ohio State House district 52",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 52",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:52",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Margaret Conditt",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:52",
+	   "overwrite_name": "Margaret Conditt",
+	   "emails": [
+	   		"Rep52@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-8550"
 	   ]
 	  }
 	 ]
@@ -21459,6 +21977,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:60": {
+	   "name": "Ohio State House district 60",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 60",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:60",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John M. Rogers",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:60",
+	   "overwrite_name": "John M. Rogers",
+	   "emails": [
+	   		"Rep60@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-7251"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:64": {
 	   "name": "Ohio State House district 64",
 	   "overwrite": "true",
@@ -21490,6 +22045,80 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-5358"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:65": {
+	   "name": "Ohio State House district 65",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 65",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:65",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Becker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:65",
+	   "overwrite_name": "John Becker",
+	   "emails": [
+	   		"Rep65@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-8134"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:66": {
+	   "name": "Ohio State House district 66",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 66",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:66",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Doug Green",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:66",
+	   "overwrite_name": "Doug Green",
+	   "emails": [
+	   		"Rep66@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6034"
 	   ]
 	  }
 	 ]
@@ -21570,6 +22199,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:73": {
+	   "name": "Ohio State House district 73",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 73",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:73",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick Perales",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:73",
+	   "overwrite_name": "Rick Perales",
+	   "emails": [
+	   		"Rep73@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6020"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:76": {
 	   "name": "Ohio State House district 76",
 	   "overwrite": "true",
@@ -21638,6 +22304,43 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-8100"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:78": {
+	   "name": "Ohio State House district 78",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 78",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:78",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ron Hood",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:78",
+	   "overwrite_name": "Ron Hood",
+	   "emails": [
+	   		"Rep78@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-1464"
 	   ]
 	  }
 	 ]
@@ -21755,6 +22458,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:82": {
+	   "name": "Ohio State House district 82",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 82",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:82",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tony Burkley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:82",
+	   "overwrite_name": "Tony Burkley",
+	   "emails": [
+	   		"Rep82@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-5091"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh/sldl:85": {
 	   "name": "Ohio State House district 85",
 	   "overwrite": "true",
@@ -21786,6 +22526,43 @@
 	   ],
 	   "phones": [
 	   		"(614) 466-1507"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:86": {
+	   "name": "Ohio State House district 86",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 86",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:86",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dorothy Pelanda",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:86",
+	   "overwrite_name": "Dorothy Pelanda",
+	   "emails": [
+	   		"Rep86@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-8147"
 	   ]
 	  }
 	 ]
@@ -21860,6 +22637,191 @@
 	   ],
 	   "phones": [
 	   		"614-644-6011"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:92": {
+	   "name": "Ohio State House district 92",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 92",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:92",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Gary Scherer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:92",
+	   "overwrite_name": "Gary Scherer",
+	   "emails": [
+	   		"Rep92@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-7928"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:93": {
+	   "name": "Ohio State House district 93",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 93",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:93",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ryan Smith",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:93",
+	   "overwrite_name": "Ryan Smith",
+	   "emails": [
+	   		"Rep93@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-1366"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:96": {
+	   "name": "Ohio State House district 96",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 96",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:96",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jack Cera",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:96",
+	   "overwrite_name": "Jack Cera",
+	   "emails": [
+	   		"Rep96@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-3735"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:97": {
+	   "name": "Ohio State House district 97",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 97",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:97",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brian Hill",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:97",
+	   "overwrite_name": "Brian Hill",
+	   "emails": [
+	   		"Rep97@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 644-6014"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/sldl:99": {
+	   "name": "Ohio State House district 99",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "OH State House District 99",
+	   "divisionId": "ocd-division/country:us/state:oh/sldl:99",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Patterson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:99",
+	   "overwrite_name": "John Patterson",
+	   "emails": [
+	   		"Rep99@ohiohouse.gov"
+	   ],
+	   "phones": [
+	   		"(614) 466-1405"
 	   ]
 	  }
 	 ]

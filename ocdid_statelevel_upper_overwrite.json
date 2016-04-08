@@ -1074,6 +1074,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:me/sldu:32": {
+	   "name": "Maine State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:me/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susan Deschambault",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
+	   "overwrite_name": "David E. Dutremble",
+	   "phones": [
+	   		"(207) 287-1515"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mn/sldu:35": {
 	   "name": "Minnesota State Senate district 35",
 	   "overwrite": "true",
@@ -3564,12 +3598,12 @@
 	   "name": "Jose Menendez",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:26",
-	   "overwrite_name": "JoseMenendez",
+	   "overwrite_name": "Jose Menendez",
 	   "emails": [
 	   		"jose.menendez@senate.state.tx.us"
 	   ],
 	   "phones": [
-	   		"(512) 463-0126"
+	   		"(210) 733-6604"
 	   ]
 	  }
 	 ]

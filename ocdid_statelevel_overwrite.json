@@ -3738,6 +3738,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:me/sldu:32": {
+	   "name": "Maine State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "ME State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:me/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susan Deschambault",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
+	   "overwrite_name": "David E. Dutremble",
+	   "phones": [
+	   		"(207) 287-1515"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:4": {
 	   "name": "Maryland State Senate district 4",
 	   "overwrite": "true",
@@ -5443,43 +5477,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldl:47a": {
-	   "name": "Maryland State Legislative Subdistrict 47A",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 47A",
-	   "divisionId": "ocd-division/country:us/state:md/sldl:47a",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jimmy Tarlau",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47a",
-	   "overwrite_name": "",
-	   "emails": [
-	   		"Jimmy.Tarlau@house.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3326"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:47": {
 	   "name": "Maryland State Senate district 47",
 	   "overwrite": "true",
@@ -5505,43 +5502,6 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:47",
 	   "overwrite_name": "Diana M. Fennell"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldl:47a": {
-	   "name": "Maryland State Legislative Subdistrict 47A",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State House District 47A",
-	   "divisionId": "ocd-division/country:us/state:md/sldl:47a",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Diana M. Fennell",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:47a",
-	   "overwrite_name": "",
-	   "emails": [
-	   		"Diana.Fennell@house.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3478"
-	   ]
 	  }
 	 ]
 	},
@@ -7449,15 +7409,15 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Rick Holman",
+	   "name": "Richard G. \"Rick\" Holman",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:20",
-	   "overwrite_name": "Rick Holman",
+	   "overwrite_name": "Richard G. \"Rick\" Holman",
 	   "emails": [
 	   		"rholman@nd.gov"
 	   ],
 	   "phones": [
-	   		"701-238-1124"
+	   		"701-788-2081"
 	   ]
 	  }
 	 ]
@@ -9931,12 +9891,12 @@
 	   "name": "Jose Menendez",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:26",
-	   "overwrite_name": "JoseMenendez",
+	   "overwrite_name": "Jose Menendez",
 	   "emails": [
 	   		"jose.menendez@senate.state.tx.us"
 	   ],
 	   "phones": [
-	   		"(512) 463-0126"
+	   		"(210) 733-6604"
 	   ]
 	  }
 	 ]
@@ -14892,6 +14852,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ky/sldl:8": {
+	   "name": "Kentucky State House district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KY State House District 8",
+	   "divisionId": "ocd-division/country:us/state:ky/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jeffery R. Taylor",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:8",
+	   "overwrite_name": "Jeffery R. Taylor",
+	   "emails": [
+	   		"jeff.taylor@lrc.ky.gov"
+	   ],
+	   "phones": [
+	   		"(502) 564-8100 ext. 658"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ky/sldl:10": {
 	   "name": "Kentucky State House district 10",
 	   "overwrite": "true",
@@ -15114,6 +15111,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ky/sldl:54": {
+	   "name": "Kentucky State House district 54",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KY State House District 54",
+	   "divisionId": "ocd-division/country:us/state:ky/sldl:54",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Daniel B. Elliott",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:54",
+	   "overwrite_name": "Daniel B. Elliott",
+	   "emails": [
+	   		"daniel.elliot@lrc.ky.gov"
+	   ],
+	   "phones": [
+	   		"(502) 564-8100 ext. 677"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ky/sldl:74": {
 	   "name": "Kentucky State House district 74",
 	   "overwrite": "true",
@@ -15182,6 +15216,43 @@
 	   ],
 	   "phones": [
 	   		"502-564-8100 Ext. 635"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ky/sldl:98": {
+	   "name": "Kentucky State House district 98",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KY State House District 98",
+	   "divisionId": "ocd-division/country:us/state:ky/sldl:98",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lew Nicholls",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:98",
+	   "overwrite_name": "Lew Nicholls",
+	   "emails": [
+	   		"lewis.nicholls@lrc.ky.gov"
+	   ],
+	   "phones": [
+	   		"502-564-8100 Ext. 678"
 	   ]
 	  }
 	 ]
@@ -22865,6 +22936,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:57": {
+	   "name": "Pennsylvania State House district 57",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 57",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:57",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Eric Nelson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:57",
+	   "overwrite_name": "Eric Nelson",
+	   "emails": [
+	   		"enelson@pahousegop.com"
+	   ],
+	   "phones": [
+	   		"(717) 260-6146"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:66": {
 	   "name": "Pennsylvania State House district 66",
 	   "overwrite": "true",
@@ -23161,6 +23269,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:192": {
+	   "name": "Pennsylvania State House district 192",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 192",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:192",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lynwood Savage",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:192",
+	   "overwrite_name": "Lynwood Savage",
+	   "emails": [
+	   		"lsavage@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 783-2192"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:195": {
 	   "name": "Pennsylvania State House district 195",
 	   "overwrite": "true",
@@ -23229,6 +23374,43 @@
 	   ],
 	   "phones": [
 	   		"(717) 772-2004"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:200": {
+	   "name": "Pennsylvania State House district 200",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 200",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:200",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tonyelle Cook-Artis",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:200",
+	   "overwrite_name": "Tonyelle Cook-Artis",
+	   "emails": [
+	   		"tcookartis@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 783-2178"
 	   ]
 	  }
 	 ]

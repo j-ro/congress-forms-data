@@ -926,43 +926,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:co/sldu:16": {
-	   "name": "Colorado State Senate district 16",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "CO State Senate District 16",
-	   "divisionId": "ocd-division/country:us/state:co/sldu:16",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Tim Neville",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:16",
-	   "overwrite_name": "Tim Neville",
-	   "emails": [
-	   		"tim.neville.senate@state.co.us"
-	   ],
-	   "phones": [
-	   		"(303) 866-4873"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:co/sldu:27": {
 	   "name": "Colorado State Senate district 27",
 	   "overwrite": "true",
@@ -1343,43 +1306,6 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "ID State Senate District 4",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:4",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mary Souza",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:4",
-	   "overwrite_name": "Mary Souza",
-	   "emails": [
-	   		"msouza@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 661-4388"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:4": {
-	   "name": "Idaho State Senate district 4",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
 	   "name": "ID State House District 4",
 	   "divisionId": "ocd-division/country:us/state:id/sldu:4",
 	   "roles": [
@@ -1623,43 +1549,6 @@
 	   ],
 	   "phones": [
 	   		"(208) 739-0190"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:9": {
-	   "name": "Idaho State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Abby Lee",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:9",
-	   "overwrite_name": "Abby Lee",
-	   "emails": [
-	   		"alee@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 250-6744"
 	   ]
 	  }
 	 ]
@@ -2184,80 +2073,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:17": {
-	   "name": "Idaho State Senate district 17",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 17",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:17",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Maryanne Jordan",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:17",
-	   "overwrite_name": "Maryanne Jordan",
-	   "emails": [
-	   		"mjordan@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 859-1931"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:18": {
-	   "name": "Idaho State Senate district 18",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 18",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:18",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Janie Ward-Engelking",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:18",
-	   "overwrite_name": "Janie Ward-Engelking",
-	   "emails": [
-	   		"jwardengelking@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 385-9564"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:18": {
 	   "name": "Idaho State Senate district 18",
 	   "overwrite": "true",
@@ -2517,43 +2332,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:22": {
-	   "name": "Idaho State Senate district 22",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 22",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:22",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Lori Den Hartog",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:22",
-	   "overwrite_name": "Lori Den Hartog",
-	   "emails": [
-	   		"lhartog@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 779-2022"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:id/sldu:24": {
 	   "name": "Idaho State Senate district 24",
 	   "overwrite": "true",
@@ -2659,43 +2437,6 @@
 	   ],
 	   "phones": [
 	   		"(208) 934-5302"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:27": {
-	   "name": "Idaho State Senate district 27",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 27",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:27",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kelly A. Anthon",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:27",
-	   "overwrite_name": "Kelly A. Anthon",
-	   "emails": [
-	   		"kanthon@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 654-4099"
 	   ]
 	  }
 	 ]
@@ -2955,43 +2696,6 @@
 	   ],
 	   "phones": [
 	   		"(208) 684-4052"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:32": {
-	   "name": "Idaho State Senate district 32",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State Senate District 32",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:32",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mark Harris",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:32",
-	   "overwrite_name": "Mark Harris",
-	   "emails": [
-	   		"mharris@senate.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 547-3360"
 	   ]
 	  }
 	 ]
@@ -3587,43 +3291,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:4": {
-	   "name": "Maryland State Senate district 4",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 4",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:4",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Michael Hough",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:4",
-	   "overwrite_name": "Michael Hough",
-	   "emails": [
-	   		"michael.hough@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3704"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:6": {
 	   "name": "Maryland State Senate district 6",
 	   "overwrite": "true",
@@ -3819,43 +3486,6 @@
 	   ],
 	   "phones": [
 	   		"(410) 841-3298"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:6": {
-	   "name": "Maryland State Senate district 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 6",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:6",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Johnny Ray Salling",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:6",
-	   "overwrite_name": "Johnny Ray Salling",
-	   "emails": [
-	   		"JohnnyRay.Salling@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3587"
 	   ]
 	  }
 	 ]
@@ -4405,43 +4035,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:17": {
-	   "name": "Maryland State Senate district 17",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 17",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:17",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Cheryl C. Kagan",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:17",
-	   "overwrite_name": "Cheryl C. Kagan",
-	   "emails": [
-	   		"Cheryl.Kagan@house.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3134"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:19": {
 	   "name": "Maryland State Senate district 19",
 	   "overwrite": "true",
@@ -4519,43 +4112,6 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "MD State Senate District 20",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:20",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jamie Raskin",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:20",
-	   "overwrite_name": "Jamie Raskin",
-	   "emails": [
-	   		"jamie.raskin@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3634"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:20": {
-	   "name": "Maryland State Senate district 20",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
 	   "name": "MD State House District 20",
 	   "divisionId": "ocd-division/country:us/state:md/sldu:20",
 	   "roles": [
@@ -4606,43 +4162,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:22": {
-	   "name": "Maryland State Senate district 22",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 22",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:22",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Paul G. Pinsky",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:22",
-	   "overwrite_name": "Paul G. Pinsky",
-	   "emails": [
-	   		"paul.pinsky@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3155"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:md/sldu:24": {
 	   "name": "Maryland State Senate district 24",
 	   "overwrite": "true",
@@ -4668,43 +4187,6 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:24",
 	   "overwrite_name": "Erek Barron"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:24": {
-	   "name": "Maryland State Senate district 24",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 24",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:24",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Joanne C. Benson",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:24",
-	   "overwrite_name": "Joanne C. Benson",
-	   "emails": [
-	   		"joanne.benson@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"(410) 841-3148"
-	   ]
 	  }
 	 ]
 	},
@@ -9385,80 +8867,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ut/sldu:4": {
-	   "name": "Utah State Senate district 4",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "UT State Senate District 4",
-	   "divisionId": "ocd-division/country:us/state:ut/sldu:4",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jani Iwamoto",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:4",
-	   "overwrite_name": "Jani Iwamoto",
-	   "emails": [
-	   		"jiwamoto@le.utah.gov"
-	   ],
-	   "phones": [
-	   		"801-580-8414"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ut/sldu:10": {
-	   "name": "Utah State Senate district 10",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "UT State Senate District 10",
-	   "divisionId": "ocd-division/country:us/state:ut/sldu:10",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Lincoln Fillmore",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:10",
-	   "overwrite_name": "Lincoln Fillmore",
-	   "emails": [
-	   		"lfillmore@le.utah.gov"
-	   ],
-	   "phones": [
-	   		"385-831-8902"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:1": {
 	   "name": "Washington State Senate district 1",
 	   "overwrite": "true",
@@ -10754,43 +10162,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:19": {
-	   "name": "Washington State Senate district 19",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State Senate District 19",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:19",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Dean Takko",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
-	   "overwrite_name": "Dean Takko",
-	   "emails": [
-	   		"dean.takko@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7636"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:20": {
 	   "name": "Washington State Senate district 20",
 	   "overwrite": "true",
@@ -10933,43 +10304,6 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7972"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:21": {
-	   "name": "Washington State Senate district 21",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State Senate District 21",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:21",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Marko Liias",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:21",
-	   "overwrite_name": "Marko Liias",
-	   "emails": [
-	   		"marko.liias@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786-7640"
 	   ]
 	  }
 	 ]
@@ -11605,43 +10939,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:30": {
-	   "name": "Washington State Senate district 30",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State Senate District 30",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:30",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mark Miloscia",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:30",
-	   "overwrite_name": "Mark Miloscia",
-	   "emails": [
-	   		"mark.miloscia@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7658"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:31": {
 	   "name": "Washington State Senate district 31",
 	   "overwrite": "true",
@@ -12006,80 +11303,6 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7902"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:36": {
-	   "name": "Washington State Senate district 36",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State House District 36",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Reuven Carlyle",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
-	   "overwrite_name": "Reuven Carlyle",
-	   "emails": [
-	   		"reuven.carlyle@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7670"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:37": {
-	   "name": "Washington State Senate district 37",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State Senate District 37",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:37",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Pramila Jayapal",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:37",
-	   "overwrite_name": "Pramila Jayapal",
-	   "emails": [
-	   		"pramila.jayapal@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7688"
 	   ]
 	  }
 	 ]
@@ -12789,43 +12012,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:wa/sldu:48": {
-	   "name": "Washington State Senate district 48",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WA State Senate District 48",
-	   "divisionId": "ocd-division/country:us/state:wa/sldu:48",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Cyrus Habib",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:48",
-	   "overwrite_name": "Cyrus Habib",
-	   "emails": [
-	   		"cyrus.habib@leg.wa.gov"
-	   ],
-	   "phones": [
-	   		"(360) 786 - 7694"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:49": {
 	   "name": "Washington State Senate district 49",
 	   "overwrite": "true",
@@ -12894,43 +12080,6 @@
 	   ],
 	   "phones": [
 	   		"(360) 786 - 7924"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:wv/sldu:5": {
-	   "name": "West Virginia State Senate district 5",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "WV State Senate District 5",
-	   "divisionId": "ocd-division/country:us/state:wv/sldu:5",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mike Woelfel",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:5",
-	   "overwrite_name": "Mike Woelfel",
-	   "emails": [
-	   		"mike.woelfel@wvsenate.gov"
-	   ],
-	   "phones": [
-	   		"(304) 357-7956"
 	   ]
 	  }
 	 ]
@@ -18610,265 +17759,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:6": {
-	   "name": "Mississippi State Senate district 6",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 6",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:6",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Chad McMahan",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:6",
-	   "overwrite_name": "Chad McMahan",
-	   "emails": [
-	   		"cmcmahan@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3244"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:18": {
-	   "name": "Mississippi State Senate district 18",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 18",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:18",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jenifer B. Branning",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:18",
-	   "overwrite_name": "Jenifer B. Branning",
-	   "emails": [
-	   		"jbranning@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3246"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:19": {
-	   "name": "Mississippi State Senate district 19",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 19",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:19",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kevin Blackwell",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:19",
-	   "overwrite_name": "Kevin Blackwell",
-	   "emails": [
-	   		"kblackwell@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3234"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:21": {
-	   "name": "Mississippi State Senate district 21",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 21",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:21",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Barbara Blackmon",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:21",
-	   "overwrite_name": "Barbara Blackmon",
-	   "emails": [
-	   		"bblackmon@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3237"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:34": {
-	   "name": "Mississippi State Senate district 34",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 34",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:34",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Juan Barnett",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:34",
-	   "overwrite_name": "Juan Barnett",
-	   "emails": [
-	   		"jbarnett@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3221"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:35": {
-	   "name": "Mississippi State Senate district 35",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 35",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:35",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Chris Caughman",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:35",
-	   "overwrite_name": "Chris Caughman",
-	   "emails": [
-	   		"ccaughman@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-3244"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:37": {
-	   "name": "Mississippi State Senate district 37",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 37",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:37",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Bob M. Dearing",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:37",
-	   "overwrite_name": "Bob M. Dearing",
-	   "emails": [
-	   		"bdearing@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)369-3244"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ms/sldu:38": {
 	   "name": "Mississippi State Senate district 38",
 	   "overwrite": "true",
@@ -18900,43 +17790,6 @@
 	   ],
 	   "phones": [
 	   		"(601)359-3221"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ms/sldu:47": {
-	   "name": "Mississippi State Senate district 47",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MS State Senate District 47",
-	   "divisionId": "ocd-division/country:us/state:ms/sldu:47",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Joseph M. Seymour",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:47",
-	   "overwrite_name": "Joseph M. Seymour",
-	   "emails": [
-	   		"jseymour@senate.ms.gov"
-	   ],
-	   "phones": [
-	   		"(601)359-2886"
 	   ]
 	  }
 	 ]
@@ -21459,43 +20312,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ri/sldu:32": {
-	   "name": "Rhode Island State Senate district 32",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "RI State Senate District 32",
-	   "divisionId": "ocd-division/country:us/state:ri/sldu:32",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Cynthia Armour Coyne",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:32",
-	   "overwrite_name": "Cynthia Armour Coyne",
-	   "emails": [
-	   		"sen-coyne@rilin.state.ri.us"
-	   ],
-	   "phones": [
-	   		"(401) 222-6655"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:sc/sldl:5": {
 	   "name": "South Carolina State House district 5",
 	   "overwrite": "true",
@@ -23245,43 +22061,6 @@
 	   ],
 	   "phones": [
 	   		"(608) 266-0650"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ny/sldu:60": {
-	   "name": "New York State Senate district 60",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NY State Senate District 60",
-	   "divisionId": "ocd-division/country:us/state:ny/sldu:60",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Marc C. Panepinto",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:60",
-	   "overwrite_name": "Marc C. Panepinto",
-	   "emails": [
-	   		"Panepinto@nysenate.gov"
-	   ],
-	   "phones": [
-	   		"(518) 455-2760"
 	   ]
 	  }
 	 ]

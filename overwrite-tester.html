@@ -191,6 +191,21 @@
 							var overwrite_name = value.officials[0].overwrite_name;
 							var name = value.officials[0].name;
 							
+							if (typeof(value.officials[0].party !== 'undefined')) {
+								var overwrite_party = value.officials[0].party;
+							}
+							
+							console.log(value.officials[0].emails);
+							if (typeof(value.officials[0].emails !== 'undefined') && Array.isArray(value.officials[0].emails) && value.officials[0].emails.length > 0) {
+								var overwrite_email = value.officials[0].emails[0];
+							}
+							
+							if (typeof(value.officials[0].phones !== 'undefined') && Array.isArray(value.officials[0].phones) && value.officials[0].phones.length > 0) {
+								var overwrite_phone = value.officials[0].phones[0];
+							}
+							
+							
+							
 							console.log('getting ' + ocdid);
 							$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
 							
@@ -229,7 +244,7 @@
 										}
 										
 										if (log_results) {
-											$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
+											$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' does not match! \n non-matching ocdid: \n' + ocdid);
 										}
 									}
 								}
@@ -237,6 +252,9 @@
 								//overwrite necessity test
 								if ($('.type:checked').val() == 'overwrite_necessity') {
 									var match = false;
+									var match_party = false;
+									var match_email = false;
+									var match_phone = false;
 									var overwrite_object = {};
 									
 									if (data.officials && data.officials.length) {
@@ -246,6 +264,22 @@
 											if (value1.name == overwrite_name && overwrite_name == name) {
 												match = true;
 												overwrite_object = value1;
+												
+												if (overwrite_party && value1.party != overwrite_party) {
+													match_party = true;
+												}
+												
+												$.each(value1.emails, function(index2, value2) {
+													if (overwrite_email && value2 != overwrite_email) {
+														match_email = true;
+													}
+												});
+												
+												$.each(value1.phones, function(index2, value2) {
+													if (overwrite_phone && value2 != overwrite_phone) {
+														match_phone = true;
+													}
+												});
 											}
 										});
 										
@@ -269,7 +303,19 @@
 											}
 											
 											if (log_results) {
-												$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' is not necessary! \n non-necessary ocdid: ' + ocdid);
+												$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
+												
+												if (match_party) {
+													$('#results').val($('#results').val() + '\nParty does not match.');
+												}
+												
+												if (match_email) {
+													$('#results').val($('#results').val() + '\nEmail does not match.');
+												}
+												
+												if (match_phone) {
+													$('#results').val($('#results').val() + '\nPhone does not match.');
+												}
 											}
 										}
 									}

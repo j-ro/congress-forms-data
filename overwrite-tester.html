@@ -269,17 +269,22 @@
 													match_party = true;
 												}
 												
-												$.each(value1.emails, function(index2, value2) {
-													if (overwrite_email && value2 != overwrite_email) {
-														match_email = true;
-													}
-												});
+												if (typeof(value1.emails !== 'undefined') && Array.isArray(value1.emails) && value1.emails.length > 0) {				
+													$.each(value1.emails, function(index2, value2) {
+														if (overwrite_email && value2 != overwrite_email) {
+															match_email = true;
+														}
+													});
 												
-												$.each(value1.phones, function(index2, value2) {
-													if (overwrite_phone && value2 != overwrite_phone) {
-														match_phone = true;
-													}
-												});
+												}
+												
+												if (typeof(value1.phones !== 'undefined') && Array.isArray(value1.phones) && value1.phones.length > 0) {
+													$.each(value1.phones, function(index2, value2) {
+														if (overwrite_phone && value2 != overwrite_phone) {
+															match_phone = true;
+														}
+													});
+												}
 											}
 										});
 										
@@ -322,10 +327,10 @@
 								}
 
 								
-								if ($.active == 1) {
+								if ($.active >= 1) {
 									setTimeout(function() {
 										$('#submit').val('run').attr('disabled',false).removeClass('disabled');
-									}, 1000);
+									}, 5000);
 								}
 								
 							}).fail(function(jqXHR, textStatus, errorThrown) {

@@ -41,6 +41,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ok": {
+	   "name": "Oklahoma",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:ok",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mary Fallin",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ok",
+	   "overwrite_name": "Mary Fallin",
+	   "phones": [
+	   		"(405) 521-2342"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:id": {
 	   "name": "Idaho",
 	   "overwrite": "true",

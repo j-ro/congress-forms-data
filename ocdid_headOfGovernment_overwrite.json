@@ -467,5 +467,39 @@
 	   "overwrite_name": "Elissa Silverman"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Mayor",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Muriel Bowser",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Muriel Bowser",
+	   "emails": [
+	   		"eom@dc.gov"
+	   ],
+	   "phones": [
+	   		"(202) 727-2643"
+	   ]
+	  }
+	 ]
 	}
 ]

@@ -162,6 +162,9 @@
 			
 			<label>Log:</label>
 			<textarea id="log"></textarea>
+			
+			<label>New file:</label>
+			<textarea id="file"></textarea>
 		</div>
 		
 		
@@ -199,6 +202,9 @@
 						if ($('.type:checked').val() == 'bioid_necessity') {
 							$.each(data, function(index, value) {
 								if (value.ocd_id) {
+									
+									var file = data;
+									
 									var ocdid = value.ocd_id;
 									var name = value.name;
 									
@@ -245,6 +251,15 @@
 											
 											if (log_results) {
 												$('#results').val($('#results').val() + '\n\n' + name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
+												
+												$.each(file, function(index2, value2) {
+													var key = index2;
+													console.log(key);
+													//if (value2.ocd_id == ocdid) {
+													//	delete file[key];
+													//}
+												});
+												
 											}
 										}
 										

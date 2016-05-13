@@ -75,6 +75,7 @@
 				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_upper_overwrite.json">statelevel_upper</option>
 				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_lower_overwrite.json">statelevel_lower</option>
 				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_overwrite.json">statelevel</option>
+				<option value="https://raw.githubusercontent.com/j-ro/congress-forms-data/master/bioids.json">BioIDs</option>
 			</select>
 			<input type="text" id="overwrite_file" value="" placeholder="...or enter a URL" />
 			<label>Google Civic API key:</label>
@@ -88,6 +89,11 @@
 			<label>
 				<input name="type" class="type" value="overwrite_necessity" type="radio">
 				Necessity (Do we need overwrites to add emails/phones or change names?)
+			</label>
+			
+			<label>
+				<input name="type" class="type" value="bioid_necessity" type="radio">
+				BioID Necessity (Do we need bioid listing?)
 			</label>
 			
 			<label>Ignore which states?</label>
@@ -184,121 +190,51 @@
 						
 						if ($('.type:checked').val() == 'overwrite_necessity') {
 							$('textarea').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
-						}		
+						}	
+						
+						if ($('.type:checked').val() == 'bioid_necessity') {
+							$('textarea').val($('textarea').val() + '\n' + 'starting bioid necessity test');
+						}
 							
-						$.each(data, function(index, value) {
-							var ocdid = value.officials[0].overwrite_ocdid;
-							var overwrite_name = value.officials[0].overwrite_name;
-							var name = value.officials[0].name;
-							
-							if (typeof(value.officials[0].party !== 'undefined')) {
-								var overwrite_party = value.officials[0].party;
-							}
-							
-							console.log(value.officials[0].emails);
-							if (typeof(value.officials[0].emails !== 'undefined') && Array.isArray(value.officials[0].emails) && value.officials[0].emails.length > 0) {
-								var overwrite_email = value.officials[0].emails[0];
-							}
-							
-							if (typeof(value.officials[0].phones !== 'undefined') && Array.isArray(value.officials[0].phones) && value.officials[0].phones.length > 0) {
-								var overwrite_phone = value.officials[0].phones[0];
-							}
-							
-							
-							
-							console.log('getting ' + ocdid);
-							$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
-							
-							
-							$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
-							
-								//overwrite name match test
-								if ($('.type:checked').val() == 'overwrite_name_match') {
-									var match = false;
+						if ($('.type:checked').val() == 'bioid_necessity') {
+							$.each(data, function(index, value) {
+								if (value.ocd_id) {
+									var ocdid = value.ocd_id;
+									var name = value.name;
 									
-									if (data.officials && data.officials.length) {
-										$.each(data.officials, function(index1, value1) {
-											//console.log(value.name + ' == ' + overwrite_name);
-											$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
-											if (value1.name == overwrite_name) {
-												match = true;
-											}
-										});
+									console.log('getting ' + ocdid);
+									$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
+									
+									
+									$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
 										
-										//console.log(match);
-										$('#log').val($('#log').val() + '\n' + 'match? ' + match);
-									} else {
-										//console.log('no officials found for ' + ocdid);
-										$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
-									}
-									
-									if (match == false) {
-										//console.log(overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
-										var log_results = true;
-										if ($('#ignore_states option:selected').length) {
-											$('#ignore_states option:selected').each(function() {
-												if (ocdid.indexOf('state:' + $(this).val().toLowerCase()) != -1) {
-													log_results = false;
+										var match = false;
+										var emails_present = false;
+										
+										if (data.officials && data.officials.length) {
+											$.each(data.officials, function(index1, value1) {
+												//console.log(value.name + ' == ' + overwrite_name);
+												$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + name);
+												if (value1.name == name) {
+													match = true;
+													
+													if (typeof(value1.emails !== 'undefined') && Array.isArray(value1.emails) && value1.emails.length > 0) {				
+														emails_present = true;
+													
+													}
 												}
 											});
+											
+											//console.log(match);
+											$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+										} else {
+											//console.log('no officials found for ' + ocdid);
+											$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
 										}
 										
-										if (log_results) {
-											$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' does not match! \n non-matching ocdid: \n' + ocdid);
-										}
-									}
-								}
-
-								//overwrite necessity test
-								if ($('.type:checked').val() == 'overwrite_necessity') {
-									var match = false;
-									var match_party = false;
-									var match_email = false;
-									var match_phone = false;
-									var overwrite_object = {};
-									
-									if (data.officials && data.officials.length) {
-										$.each(data.officials, function(index1, value1) {
-											//console.log(value.name + ' == ' + overwrite_name);
-											$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
-											if (value1.name == overwrite_name && overwrite_name == name) {
-												match = true;
-												overwrite_object = value1;
-												
-												if (overwrite_party && value1.party != overwrite_party) {
-													match_party = true;
-												}
-												
-												if (typeof(value1.emails !== 'undefined') && Array.isArray(value1.emails) && value1.emails.length > 0) {				
-													$.each(value1.emails, function(index2, value2) {
-														if (overwrite_email && value2 != overwrite_email) {
-															match_email = true;
-														}
-													});
-												
-												}
-												
-												if (typeof(value1.phones !== 'undefined') && Array.isArray(value1.phones) && value1.phones.length > 0) {
-													$.each(value1.phones, function(index2, value2) {
-														if (overwrite_phone && value2 != overwrite_phone) {
-															match_phone = true;
-														}
-													});
-												}
-											}
-										});
-										
-										//console.log(match);
-										$('#log').val($('#log').val() + '\n' + 'match? ' + match);
-									} else {
-										//console.log('no officials found for ' + ocdid);
-										$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
-									}
-									
-									if (match == true) {
-										var log_results = true;
-										
-										if (overwrite_object.phones != undefined && overwrite_object.emails != undefined && overwrite_object.phones.length > 0 && overwrite_object.emails.length > 0) {
+										if (match == true && emails_present == true) {
+											var log_results = true;
+											
 											if ($('#ignore_states option:selected').length) {
 												$('#ignore_states option:selected').each(function() {
 													if (ocdid.indexOf('state:' + $(this).val().toLowerCase()) != -1) {
@@ -308,48 +244,202 @@
 											}
 											
 											if (log_results) {
-												$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
-												
-												if (match_party) {
-													$('#results').val($('#results').val() + '\nParty does not match.');
+												$('#results').val($('#results').val() + '\n\n' + name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
+											}
+										}
+										
+									}).fail(function(jqXHR, textStatus, errorThrown) {
+										console.log('google api load failed');
+										$('#log').val($('#log').val() + '\n' + 'google api load failed');
+										
+										console.log('jqXHR: ');
+										console.log(jqXHR);
+										$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+										
+										console.log('textStatus: ' + textStatus);
+										$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+										
+										console.log('errorThrown: ' + errorThrown);
+										$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+										
+										$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+									});
+									
+									if ($.active >= 1) {
+										setTimeout(function() {
+											$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+										}, 5000);
+									}
+									
+								}
+								
+							});
+						} else {
+							$.each(data, function(index, value) {
+								var ocdid = value.officials[0].overwrite_ocdid;
+								var overwrite_name = value.officials[0].overwrite_name;
+								var name = value.officials[0].name;
+								
+								if (typeof(value.officials[0].party !== 'undefined')) {
+									var overwrite_party = value.officials[0].party;
+								}
+								
+								console.log(value.officials[0].emails);
+								if (typeof(value.officials[0].emails !== 'undefined') && Array.isArray(value.officials[0].emails) && value.officials[0].emails.length > 0) {
+									var overwrite_email = value.officials[0].emails[0];
+								}
+								
+								if (typeof(value.officials[0].phones !== 'undefined') && Array.isArray(value.officials[0].phones) && value.officials[0].phones.length > 0) {
+									var overwrite_phone = value.officials[0].phones[0];
+								}
+								
+								
+								
+								console.log('getting ' + ocdid);
+								$('#log').val($('#log').val() + '\n' + 'getting ' + ocdid);
+								
+								
+								$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(ocdid) + '?key='+ $('#google_api_key').val(), function(data) {
+								
+									//overwrite name match test
+									if ($('.type:checked').val() == 'overwrite_name_match') {
+										var match = false;
+										
+										if (data.officials && data.officials.length) {
+											$.each(data.officials, function(index1, value1) {
+												//console.log(value.name + ' == ' + overwrite_name);
+												$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
+												if (value1.name == overwrite_name) {
+													match = true;
+												}
+											});
+											
+											//console.log(match);
+											$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+										} else {
+											//console.log('no officials found for ' + ocdid);
+											$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
+										}
+										
+										if (match == false) {
+											//console.log(overwrite_name + ' does not match! \n non-matching ocdid: ' + ocdid);
+											var log_results = true;
+											if ($('#ignore_states option:selected').length) {
+												$('#ignore_states option:selected').each(function() {
+													if (ocdid.indexOf('state:' + $(this).val().toLowerCase()) != -1) {
+														log_results = false;
+													}
+												});
+											}
+											
+											if (log_results) {
+												$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' does not match! \n non-matching ocdid: \n' + ocdid);
+											}
+										}
+									}
+	
+									//overwrite necessity test
+									if ($('.type:checked').val() == 'overwrite_necessity') {
+										var match = false;
+										var match_party = false;
+										var match_email = false;
+										var match_phone = false;
+										var overwrite_object = {};
+										
+										if (data.officials && data.officials.length) {
+											$.each(data.officials, function(index1, value1) {
+												//console.log(value.name + ' == ' + overwrite_name);
+												$('#log').val($('#log').val() + '\n' + value1.name + ' == ' + overwrite_name);
+												if (value1.name == overwrite_name && overwrite_name == name) {
+													match = true;
+													overwrite_object = value1;
+													
+													if (overwrite_party && value1.party != overwrite_party) {
+														match_party = true;
+													}
+													
+													if (typeof(value1.emails !== 'undefined') && Array.isArray(value1.emails) && value1.emails.length > 0) {				
+														$.each(value1.emails, function(index2, value2) {
+															if (overwrite_email && value2 != overwrite_email) {
+																match_email = true;
+															}
+														});
+													
+													}
+													
+													if (typeof(value1.phones !== 'undefined') && Array.isArray(value1.phones) && value1.phones.length > 0) {
+														$.each(value1.phones, function(index2, value2) {
+															if (overwrite_phone && value2 != overwrite_phone) {
+																match_phone = true;
+															}
+														});
+													}
+												}
+											});
+											
+											//console.log(match);
+											$('#log').val($('#log').val() + '\n' + 'match? ' + match);
+										} else {
+											//console.log('no officials found for ' + ocdid);
+											$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
+										}
+										
+										if (match == true) {
+											var log_results = true;
+											
+											if (overwrite_object.phones != undefined && overwrite_object.emails != undefined && overwrite_object.phones.length > 0 && overwrite_object.emails.length > 0) {
+												if ($('#ignore_states option:selected').length) {
+													$('#ignore_states option:selected').each(function() {
+														if (ocdid.indexOf('state:' + $(this).val().toLowerCase()) != -1) {
+															log_results = false;
+														}
+													});
 												}
 												
-												if (match_email) {
-													$('#results').val($('#results').val() + '\nEmail does not match.');
-												}
-												
-												if (match_phone) {
-													$('#results').val($('#results').val() + '\nPhone does not match.');
+												if (log_results) {
+													$('#results').val($('#results').val() + '\n\n' + overwrite_name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
+													
+													if (match_party) {
+														$('#results').val($('#results').val() + '\nParty does not match.');
+													}
+													
+													if (match_email) {
+														$('#results').val($('#results').val() + '\nEmail does not match.');
+													}
+													
+													if (match_phone) {
+														$('#results').val($('#results').val() + '\nPhone does not match.');
+													}
 												}
 											}
 										}
 									}
-								}
-
-								
-								if ($.active >= 1) {
-									setTimeout(function() {
-										$('#submit').val('run').attr('disabled',false).removeClass('disabled');
-									}, 5000);
-								}
-								
-							}).fail(function(jqXHR, textStatus, errorThrown) {
-								console.log('google api load failed');
-								$('#log').val($('#log').val() + '\n' + 'google api load failed');
-								
-								console.log('jqXHR: ');
-								console.log(jqXHR);
-								$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
-								
-								console.log('textStatus: ' + textStatus);
-								$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
-								
-								console.log('errorThrown: ' + errorThrown);
-								$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
-								
-								$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+	
+									
+									if ($.active >= 1) {
+										setTimeout(function() {
+											$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+										}, 5000);
+									}
+									
+								}).fail(function(jqXHR, textStatus, errorThrown) {
+									console.log('google api load failed');
+									$('#log').val($('#log').val() + '\n' + 'google api load failed');
+									
+									console.log('jqXHR: ');
+									console.log(jqXHR);
+									$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+									
+									console.log('textStatus: ' + textStatus);
+									$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+									
+									console.log('errorThrown: ' + errorThrown);
+									$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+									
+									$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+								});
 							});
-						});
+						}
 							
 					}).fail(function(jqXHR, textStatus, errorThrown) {
 						console.log('overwrite file load failed');

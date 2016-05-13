@@ -238,7 +238,7 @@
 											$('#log').val($('#log').val() + '\n' + 'no officials found for ' + ocdid);
 										}
 										
-										if (match == true && emails_present == true) {
+										if ((match == true && emails_present == true) || match == false) {
 											var log_results = true;
 											
 											if ($('#ignore_states option:selected').length) {

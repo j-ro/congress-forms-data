@@ -182,28 +182,28 @@
 						var overwrite_file = $('#overwrite_file').val()
 					}
 					$.getJSON(overwrite_file, function(data) {
-						$('textarea').val('start test');
+						$('textarea').not('#file').val('start test');
 						
 						console.log('overwrite file loaded successfully');
 						$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
 						
 						if ($('.type:checked').val() == 'overwrite_name_match') {
-							$('textarea').val($('textarea').val() + '\n' + 'starting overwrite name match test');
+							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting overwrite name match test');
 						}	
 						
 						if ($('.type:checked').val() == 'overwrite_necessity') {
-							$('textarea').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
+							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
 						}	
 						
 						if ($('.type:checked').val() == 'bioid_necessity') {
-							$('textarea').val($('textarea').val() + '\n' + 'starting bioid necessity test');
+							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting bioid necessity test');
 						}
 							
 						if ($('.type:checked').val() == 'bioid_necessity') {
 							$.each(data, function(index, value) {
 								if (value.ocd_id) {
 									
-									var file = data;
+									file = data;
 									
 									var ocdid = value.ocd_id;
 									var name = value.name;
@@ -252,14 +252,9 @@
 											if (log_results) {
 												$('#results').val($('#results').val() + '\n\n' + name + ' is not necessary! \n non-necessary ocdid: \n' + ocdid);
 												
-												$.each(file, function(index2, value2) {
-													var key = index2;
-													console.log(key);
-													//if (value2.ocd_id == ocdid) {
-													//	delete file[key];
-													//}
-												});
-												
+												if (value.ocd_id == ocdid) {
+													delete file[index];
+												}
 											}
 										}
 										
@@ -284,6 +279,10 @@
 										setTimeout(function() {
 											$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 										}, 5000);
+										
+										if ($('.type:checked').val() == 'bioid_necessity') {
+											//$('#file').val(JSON.stringify(file));
+										}
 									}
 									
 								}

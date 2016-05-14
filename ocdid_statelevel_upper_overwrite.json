@@ -618,7 +618,10 @@
 	   "name": "Susan Deschambault",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
-	   "overwrite_name": "David E. Dutremble",
+	   "overwrite_name": "Susan Deschambault",
+	   "emails": [
+	   		"susan.deschambault@legislature.maine.gov "
+	   ],
 	   "phones": [
 	   		"(207) 287-1515"
 	   ]
@@ -1293,43 +1296,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nd/sldu:2": {
-	   "name": "North Dakota State Senate district 2",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ND State Senate District 2",
-	   "divisionId": "ocd-division/country:us/state:nd/sldu:2",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "David S. Rust",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:2",
-	   "overwrite_name": "David S. Rust",
-	   "emails": [
-	   		"drust@nd.gov"
-	   ],
-	   "phones": [
-	   		"701-664-3508"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:5": {
 	   "name": "New Jersey State Senate district 5",
 	   "overwrite": "true",
@@ -1389,10 +1355,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Peter Barnes",
+	   "name": "Peter J. Barnes, II",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
-	   "overwrite_name": "Peter Barnes",
+	   "overwrite_name": "Peter J. Barnes, II",
 	   "emails": [
 	   		"SenBarnes@njleg.org"
 	   ],

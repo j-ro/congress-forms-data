@@ -14980,5 +14980,42 @@
 		]
 	  }
 	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:oh/sldl:74": {
+			"name": "Ohio State House district 74",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "OH State House District 74",
+		"divisionId": "ocd-division/country:us/state:oh/sldl:74",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Bill Dean",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:74",
+		"overwrite_name": "Bob D. Hackett",
+		"emails": [
+		  "rep74@ohiohouse.gov"
+		],
+		"phones": [
+		  "(614) 466-1470"
+		]
+	  }
+	]
   }
 ]

@@ -14468,6 +14468,33 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Attorney General",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Karl Racine"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:170": {
 	   "name": "Pennsylvania State House district 170",
 	   "overwrite": "true",

@@ -2788,6 +2788,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:18": {
+	   "name": "New Jersey State Senate district 18",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 18",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Robert J. Karabinchak",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
+	   "overwrite_name": "Patrick J. Diegnan, Jr.",
+	   "emails": [
+	   		"AsmKarabinchak@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 548-1406"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:21": {
 	   "name": "New Jersey State Senate district 21",
 	   "overwrite": "true",

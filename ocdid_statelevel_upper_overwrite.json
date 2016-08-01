@@ -1333,6 +1333,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:17": {
+	   "name": "New Jersey State Senate district 17",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State Senate District 17",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:17",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bob Smith",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:17",
+	   "overwrite_name": "Bob Smith",
+	   "emails": [
+	   		"SenSmith@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 752-0770"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:18": {
 	   "name": "New Jersey State Senate district 18",
 	   "overwrite": "true",

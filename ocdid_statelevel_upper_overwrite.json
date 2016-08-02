@@ -4237,43 +4237,9 @@
 		"overwrite_name": "Walter Michel",
 		"emails": [
 		  "wmichel@senate.ms.gov"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldu:9": {
-			"name": "New York State Senate district 9",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NY State Senate District 9",
-		"divisionId": "ocd-division/country:us/state:ny/sldu:9",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Todd Kaminsky",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:9",
-		"overwrite_name": "Jaime R. Williams",
-		"emails": [
-		  "Kaminsky@nysenate.gov"
 		],
 		"phones": [
-		  "518-455-3401"
+		  "(601) 359-3221"
 		]
 	  }
 	]
@@ -4422,6 +4388,40 @@
 		],
 		"phones": [
 		  "(802) 863-1067"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:sc/sldu:4": {
+			"name": "South Carolina State Senate district 4",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "SC State Senate District 4",
+		"divisionId": "ocd-division/country:us/state:sc/sldu:4",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Mike Gambrell",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:4",
+		"overwrite_name": "Mike Gambrell",
+		"phones": [
+		  "(803) 212-6024"
 		]
 	  }
 	]

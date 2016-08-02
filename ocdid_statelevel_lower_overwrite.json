@@ -4194,6 +4194,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:19": {
+	   "name": "Washington State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 19",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "J.D. Rossetti",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:19",
+	   "overwrite_name": "J.D. Rossetti",
+	   "emails": [
+	   		"JD.Rossetti@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786-7806"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:wa/sldu:30": {
 	   "name": "Washington State Senate district 30",
 	   "overwrite": "true",
@@ -12023,6 +12060,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:139": {
+	   "name": "Texas State House district 139",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 139",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:139",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jarvis D. Johnson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:139",
+	   "overwrite_name": "Jarvis D. Johnson",
+	   "emails": [
+	   		"jarvis.johnson@house.state.tx.us"
+	   ],
+	   "phones": [
+	   		"(512) 463-0554"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldl:144": {
 	   "name": "Texas State House district 144",
 	   "overwrite": "true",
@@ -15036,6 +15110,43 @@
 		],
 		"phones": [
 		  "(614) 466-1470"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:la/sldl:29": {
+			"name": "Louisiana State House district 29",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "LA State House District 29",
+		"divisionId": "ocd-division/country:us/state:la/sldl:29",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Edmond Jordan",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:29",
+		"overwrite_name": "Edmond Jordan",
+		"emails": [
+		  "jordane@legis.la.gov"
+		],
+		"phones": [
+		  "(225) 356-6200"
 		]
 	  }
 	]

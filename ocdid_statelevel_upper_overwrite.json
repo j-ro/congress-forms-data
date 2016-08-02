@@ -1407,6 +1407,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldu:9": {
+	   "name": "Pennsylvania State Senate district 9",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State Senate District 9",
+	   "divisionId": "ocd-division/country:us/state:pa/sldu:9",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Killion",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:9",
+	   "overwrite_name": "Thomas Killion",
+	   "emails": [
+	   		"tkillion@pasen.gov"
+	   ],
+	   "phones": [
+	   		"(717) 787-4712"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldu:26": {
 	   "name": "Pennsylvania State Senate district 26",
 	   "overwrite": "true",
@@ -2769,6 +2806,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Council, District At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elissa Silverman",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Elissa Silverman",
+	   "emails": [
+	   		"esilverman@dccouncil.us"
+	   ],
+	   "phones": [
+	   		"(202) 724-7772"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:hi/sldu:1": {
 	   "name": "Hawaii State Senate district 1",
 	   "overwrite": "true",
@@ -2796,7 +2867,7 @@
 	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:1",
 	   "overwrite_name": "Vacant",
 	   "emails": [
-	   		"senkahele@capitol.hawaii.gov "
+	   		"senkahele@capitol.hawaii.gov"
 	   ],
 	   "phones": [
 	   		"808-586-6760"
@@ -4277,6 +4348,80 @@
 		],
 		"phones": [
 		  "(614) 466-3780"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldu:16": {
+			"name": "North Carolina State Senate district 16",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NC State Senate District 16",
+		"divisionId": "ocd-division/country:us/state:nc/sldu:16",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Jay Chaudhuri",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:16",
+		"overwrite_name": "Jay Chaudhuri",
+		"emails": [
+		  "Jay.Chaudhuri@ncleg.net"
+		],
+		"phones": [
+		  "919-715-6400"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:vt/sldu:grand_isle-chittenden": {
+			"name": "Vermont Grand-Isle-Chittenden State Senate district",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "VT State Senate district Grand-Isle-Chittenden",
+		"divisionId": "ocd-division/country:us/state:vt/sldu:grand_isle-chittenden",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Dick T Mazza",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:grand_isle-chittenden",
+		"overwrite_name": "Dick T Mazza",
+		"emails": [
+		  "dmazza@leg.state.vt.us"
+		],
+		"phones": [
+		  "(802) 863-1067"
 		]
 	  }
 	]

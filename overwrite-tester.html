@@ -233,9 +233,9 @@
 							if ($('#overwrite_file_select option:selected').html() == 'headOfGovernment CSV') {
 								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json';
 							} else if ($('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_lower CSV') {
-								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdids_statelevel_lower_overwrite.json';
+								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_lower_overwrite.json';
 							} else if ($('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_upper CSV') {
-								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdids_statelevel_upper_overwrite.json';
+								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_upper_overwrite.json';
 							}
 							
 							$.getJSON(overwrite_file, function(data) {})
@@ -267,8 +267,8 @@
 										}
 										
 										if (e[0] != 'ocdid') {
-											console.log('getting ' + e[0]);
-											$('#log').val($('#log').val() + '\n' + 'getting ' + e[0]);
+											//console.log('getting ' + e[0]);
+											//$('#log').val($('#log').val() + '\n' + 'getting ' + e[0]);
 											
 											$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(e[0]) + '?key='+ $('#google_api_key').val() + query_string, function(data) {
 											}).done(function(data) {
@@ -276,21 +276,23 @@
 													var no_contact = true;
 													//console.log(official.name);
 													if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
-														$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
-														console.log(official.emails[0]);
+														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
+														//console.log(official.emails[0]);
 														no_contact = false;
+													} else if (official.name == 'Vacant') {
+														no_contact = false; 
 													} else {
 														//console.log(official.name);
 														$.each(overwrite_data, function(index, overwrite_data) {
 															if (typeof(overwrite_data.officials[0].emails) != 'undefined' && overwrite_data.officials[0].emails.length > 0 && overwrite_data.officials[0].emails[0] != '' && overwrite_data.officials[0].name == official.name) {
-																$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
-																console.log(overwrite_data.officials[0].emails[0]);
+																//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
+																//console.log(overwrite_data.officials[0].emails[0]);
 																no_contact = false;
 															} else if (overwrite_data.officials[0].name == 'Vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
 																no_contact = false;
 															} else {
-																$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
-																console.log(official.name + ' has no email at all! Checking bioID...');
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
+																//console.log(official.name + ' has no email at all! Checking bioID...');
 																//
 															}
 														});
@@ -309,12 +311,12 @@
 													
 													
 															if (no_contact) {
-																$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
-																console.log(official.name + ' has no email or bioID!');
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
+																//console.log(official.name + ' has no email or bioID!');
 																$('#results').val($('#results').val() + '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + e[0]);
 															} else {
-																$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
-																console.log(official.name + ' has a bioID');
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
+																//console.log(official.name + ' has a bioID');
 															}
 		
 														}

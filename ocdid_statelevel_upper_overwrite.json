@@ -174,7 +174,7 @@
 	   "name": "Jack Tate",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:27",
-	   "overwrite_name": "David Balmer",
+	   "overwrite_name": "Jack Tate",
 	   "emails": [
 	   		"jack.tate.senate@state.co.us"
 	   ],
@@ -208,10 +208,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Ted Kennedy Jr",
+	   "name": "Ted Kennedy, Jr.",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:12",
-	   "overwrite_name": "Ted Kennedy Jr",
+	   "overwrite_name": "Ted Kennedy, Jr.",
 	   "emails": [
 	   		"kennedy@senatedems.ct.gov"
 	   ],
@@ -698,43 +698,6 @@
 	   ],
 	   "phones": [
 	   		"(603) 271-4151"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:md/sldu:14": {
-	   "name": "Maryland State Senate district 14",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MD State Senate District 14",
-	   "divisionId": "ocd-division/country:us/state:md/sldu:14",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Craig J. Zucker",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:14",
-	   "overwrite_name": "Vacant",
-	   "emails": [
-	   		"craig.zucker@senate.state.md.us"
-	   ],
-	   "phones": [
-	   		"410-841-3625"
 	   ]
 	  }
 	 ]
@@ -1466,10 +1429,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Thomas McGarrigle",
+	   "name": "Thomas J. McGarrigle",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:26",
-	   "overwrite_name": "Thomas McGarrigle",
+	   "overwrite_name": "Thomas J. McGarrigle",
 	   "emails": [
 	   		"tmcgarrigle@pasenate.com"
 	   ],
@@ -1503,10 +1466,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Patrick Stefano",
+	   "name": "Patrick J. Stefano",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:32",
-	   "overwrite_name": "Patrick Stefano",
+	   "overwrite_name": "Patrick J. Stefano",
 	   "emails": [
 	   		"pstefano@pasenate.com"
 	   ],
@@ -1896,10 +1859,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Arthur Rusch",
+	   "name": "Arthur L Rusch",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:17",
-	   "overwrite_name": "Arthur Rusch",
+	   "overwrite_name": "Arthur L Rusch",
 	   "emails": [
 	   		"sen.rusch@state.sd.us"
 	   ],
@@ -2155,10 +2118,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Terri Haverly",
+	   "name": "Terri L Haverly",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:35",
-	   "overwrite_name": "Terri Haverly",
+	   "overwrite_name": "Terri L Haverly",
 	   "emails": [
 	   		"sen.haverly@state.sd.us"
 	   ],
@@ -2707,10 +2670,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "John Sabatina",
+	   "name": "John P. Sabatina",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:5",
-	   "overwrite_name": "John Sabatina",
+	   "overwrite_name": "John P. Sabatina",
 	   "emails": [
 	   		"jsabatina@pasenate.com"
 	   ],
@@ -2789,33 +2752,6 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "Attorney General",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Karl Racine"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
 	   "name": "Council, District At-Large",
 	   "divisionId": "ocd-division/country:us/district:dc",
 	   "officialIndices": [
@@ -2834,43 +2770,6 @@
 	   ],
 	   "phones": [
 	   		"(202) 724-7772"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:hi/sldu:1": {
-	   "name": "Hawaii State Senate district 1",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "HI State Senate District 1",
-	   "divisionId": "ocd-division/country:us/state:hi/sldu:1",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kaiali'i Kahele",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:1",
-	   "overwrite_name": "Vacant",
-	   "emails": [
-	   		"senkahele@capitol.hawaii.gov"
-	   ],
-	   "phones": [
-	   		"808-586-6760"
 	   ]
 	  }
 	 ]
@@ -4277,43 +4176,6 @@
 		],
 		"phones": [
 		  "(973) 227-4012"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:oh/sldu:10": {
-			"name": "Ohio State Senate district 10",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "OH State Senate District 10",
-		"divisionId": "ocd-division/country:us/state:oh/sldu:10",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Bob D. Hackett",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:10",
-		"overwrite_name": "Chris Widener",
-		"emails": [
-		  "sd10@senate.state.oh.us"
-		],
-		"phones": [
-		  "(614) 466-3780"
 		]
 	  }
 	]

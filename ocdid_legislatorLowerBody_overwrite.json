@@ -1,39 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:2": {
-	   "name": "Pennsylvania's 2nd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-02",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:2",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:2",
-	   "overwrite_name": "Chaka Fattah"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:nc/cd:7": {
 	   "name": "North Carolina's 7th congressional district",
 	   "overwrite": "true",

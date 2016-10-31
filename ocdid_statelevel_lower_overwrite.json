@@ -849,43 +849,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:id/sldu:33": {
-	   "name": "Idaho State Senate district 33",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ID State House District 33",
-	   "divisionId": "ocd-division/country:us/state:id/sldu:33",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Janet Trujillo",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:33",
-	   "overwrite_name": "Janet Trujillo",
-	   "emails": [
-	   		"jtrujillo@house.idaho.gov"
-	   ],
-	   "phones": [
-	   		"208-332-1189"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:1": {
 	   "name": "New Jersey State Senate district 1",
 	   "overwrite": "true",
@@ -5588,43 +5551,6 @@
 	   ],
 	   "phones": [
 	   		"(406) 471-7197"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nm/sldl:21": {
-	   "name": "New Mexico State House district 21",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NM State House District 21",
-	   "divisionId": "ocd-division/country:us/state:nm/sldl:21",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Idalia Lechuga-Tena",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:21",
-	   "overwrite_name": "Idalia Lechuga-Tena",
-	   "emails": [
-	   		"idalia.lechuga-tena@nmlegis.gov"
-	   ],
-	   "phones": [
-	   		"(505) 750-7439"
 	   ]
 	  }
 	 ]
@@ -10635,117 +10561,6 @@
 		],
 		"phones": [
 		  "718-252-2124"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:62": {
-			"name": "New York State Senate district 62",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NY State House District 62",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:62",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Ronald Castorina, Jr.",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:62",
-		"overwrite_name": "Ronald Castorina, Jr.",
-		"emails": [
-		  "castorinar@assembly.state.ny.us"
-		],
-		"phones": [
-		  "718-967-5194"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:65": {
-			"name": "New York State Senate district 65",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NY State House District 65",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:65",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Alice Cancel",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:65",
-		"overwrite_name": "Alice Cancel",
-		"emails": [
-		  "CancelA@nyassembly.gov"
-		],
-		"phones": [
-		  "212-312-1420"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:la/sldl:29": {
-			"name": "Louisiana State House district 29",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "LA State House District 29",
-		"divisionId": "ocd-division/country:us/state:la/sldl:29",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Edmond Jordan",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:29",
-		"overwrite_name": "Edmond Jordan",
-		"emails": [
-		  "jordane@legis.la.gov"
-		],
-		"phones": [
-		  "(225) 356-6200"
 		]
 	  }
 	]

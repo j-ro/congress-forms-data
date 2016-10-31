@@ -3109,43 +3109,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldu:9": {
-	   "name": "Pennsylvania State Senate district 9",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State Senate District 9",
-	   "divisionId": "ocd-division/country:us/state:pa/sldu:9",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Thomas Killion",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:9",
-	   "overwrite_name": "Thomas Killion",
-	   "emails": [
-	   		"tkillion@pasen.gov"
-	   ],
-	   "phones": [
-	   		"(717) 787-4712"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldu:26": {
 	   "name": "Pennsylvania State Senate district 26",
 	   "overwrite": "true",
@@ -10177,40 +10140,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Elissa Silverman",
-	   "party": "Independent",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Elissa Silverman",
-	   "emails": [
-	   		"esilverman@dccouncil.us"
-	   ],
-	   "phones": [
-	   		"(202) 724-7772"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:170": {
 	   "name": "Pennsylvania State House district 170",
 	   "overwrite": "true",
@@ -14830,43 +14759,6 @@
 		],
 		"phones": [
 		  "(225) 356-6200"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:nc/sldu:16": {
-			"name": "North Carolina State Senate district 16",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NC State Senate District 16",
-		"divisionId": "ocd-division/country:us/state:nc/sldu:16",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Jay Chaudhuri",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:16",
-		"overwrite_name": "Jay Chaudhuri",
-		"emails": [
-		  "Jay.Chaudhuri@ncleg.net"
-		],
-		"phones": [
-		  "919-715-6400"
 		]
 	  }
 	]

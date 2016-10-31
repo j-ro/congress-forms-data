@@ -8366,6 +8366,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:sc/sldl:100": {
+	   "name": "South Carolina State House district 100",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "SC State House District 100",
+	   "divisionId": "ocd-division/country:us/state:sc/sldl:100",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sylleste H. Davis",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:101",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(803) 212-6930"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:sc/sldl:101": {
 	   "name": "South Carolina State House district 101",
 	   "overwrite": "true",

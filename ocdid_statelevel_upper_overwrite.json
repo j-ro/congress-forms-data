@@ -1614,70 +1614,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
-	   "overwrite_name": "Al Novstrup"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:sd/sldu:3": {
-	   "name": "South Dakota State Senate district 3",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "SD State Senate District 3",
-	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
-	   "overwrite_name": "Dan Kaiser"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:sd/sldu:3": {
-	   "name": "South Dakota State Senate district 3",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "SD State Senate District 3",
-	   "divisionId": "ocd-division/country:us/state:sd/sldu:3",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
 	   "name": "David Novstrup",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
-	   "overwrite_name": "",
+	   "overwrite_name": "David Novstrup",
 	   "emails": [
 	   		"sen.novstrup@state.sd.us"
 	   ],

@@ -3069,6 +3069,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wa/sldu:36": {
+	   "name": "Washington State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "WA State House District 36",
+	   "divisionId": "ocd-division/country:us/state:wa/sldu:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Noel Frame",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:36",
+	   "overwrite_name": "Noel Frame",
+	   "emails": [
+	   		"noel.frame@leg.wa.gov"
+	   ],
+	   "phones": [
+	   		"(360) 786-7814"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:co/sldl:25": {
 	   "name": "Colorado State House district 25",
 	   "overwrite": "true",
@@ -5847,6 +5884,80 @@
 	   ],
 	   "phones": [
 	   		"(717) 787-3364"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:163": {
+	   "name": "Pennsylvania State House district 163",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 163",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:163",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James R. Santora",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:163",
+	   "overwrite_name": "James R. Santora",
+	   "emails": [
+	   		"jsantora@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 783-8808"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:168": {
+	   "name": "Pennsylvania State House district 168",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 168",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:168",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Quinn",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:168",
+	   "overwrite_name": "Chris Quinn",
+	   "emails": [
+	   		"cquinn@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 720-8555"
 	   ]
 	  }
 	 ]
@@ -10596,6 +10707,70 @@
 		"phones": [
 		  "718-252-2124"
 		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ms/sldl:29": {
+			"name": "Mississippi State House district 29",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "MS State House District 29",
+		"divisionId": "ocd-division/country:us/state:ms/sldl:29",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Abe Marshall Hudson Jr.",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:29",
+		"overwrite_name": "Abe Marshall Hudson Jr.",
+		"emails": [
+		  "ahudson@house.ms.gov"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ms/sldl:106": {
+			"name": "Mississippi State House district 106",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "MS State House District 106",
+		"divisionId": "ocd-division/country:us/state:ms/sldl:106",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Vacant",
+		"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:106",
+		"overwrite_name": "Herb Frierson"
 	  }
 	]
   }

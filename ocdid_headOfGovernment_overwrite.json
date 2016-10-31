@@ -78,46 +78,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:id": {
-	   "name": "Idaho",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:id",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "C.L. \"Butch\" Otter",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id",
-	   "overwrite_name": "C.L. \"Butch\" Otter",
-	   "emails": [
-	   		"Governor@gov.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 334-2100"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ks": {
 	   "name": "Kansas",
 	   "overwrite": "true",

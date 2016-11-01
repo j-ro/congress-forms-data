@@ -5030,6 +5030,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:21": {
+	   "name": "California State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ted Gaines",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:21",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"senator.gaines@senate.ca.gov"
+	   ],
+	   "phones": [
+	   		"(916) 651-4001"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:73": {
 	   "name": "California State Senate district 73",
 	   "overwrite": "true",
@@ -5428,6 +5465,43 @@
 	   ],
 	   "phones": [
 	   		"(217) 782-5457"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:il/sldl:75": {
+	   "name": "Illinois State House district 75",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State House District 75",
+	   "divisionId": "ocd-division/country:us/state:il/sldl:75",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David A. Welter",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:75",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"welter@ilhousegop.org"
+	   ],
+	   "phones": [
+	   		"(217) 782-5997"
 	   ]
 	  }
 	 ]
@@ -8501,7 +8575,7 @@
 	  {
 	   "name": "Sylleste H. Davis",
 	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:101",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:100",
 	   "overwrite_name": "Vacant",
 	   "phones": [
 	   		"(803) 212-6930"
@@ -8653,73 +8727,6 @@
 	   ],
 	   "phones": [
 	   		"605-773-3821"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:sd/sldl:3": {
-	   "name": "South Dakota State House district 3",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "SD State House District 3",
-	   "divisionId": "ocd-division/country:us/state:sd/sldl:3",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
-	   "overwrite_name": "David Novstrup"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:sd/sldl:3": {
-	   "name": "South Dakota State Senate district 3",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "SD State Senate District 3",
-	   "divisionId": "ocd-division/country:us/state:sd/sldl:3",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Dan Kaiser",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
-	   "overwrite_name": "Dan Kaiser",
-	   "emails": [
-	   		"rep.kaiser@state.sd.us"
-	   ],
-	   "phones": [
-	   		"605-773-3851"
 	   ]
 	  }
 	 ]
@@ -9682,6 +9689,43 @@
 	   ],
 	   "phones": [
 	   		"(512) 463-0714"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/sldl:120": {
+	   "name": "Texas State House district 120",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "TX State House District 120",
+	   "divisionId": "ocd-division/country:us/state:tx/sldl:120",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Laura Thompson",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:120",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"laura.thompson@house.state.tx.us"
+	   ],
+	   "phones": [
+	   		"(512) 463-0708 "
 	   ]
 	  }
 	 ]
@@ -12983,7 +13027,44 @@
 		]
 	  }
 	]
-  }, 
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nj/sldu:7": {
+			"name": "New Jersey State Senate district 7",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NJ State House District 7",
+		"divisionId": "ocd-division/country:us/state:nj/sldu:7",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Herb Conaway, Jr.",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:7",
+		"overwrite_name": "Herb Conaway, Jr.",
+		"emails": [
+		  "AsmConway@njleg.org"
+		],
+		"phones": [
+		  "(856) 461-3997"
+		]
+	  }
+	]
+  },
   {
 	"divisions": {
 		"ocd-division/country:us/state:nj/sldu:19": {
@@ -14855,6 +14936,598 @@
 		"name": "Vacant",
 		"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:106",
 		"overwrite_name": "Herb Frierson"
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nv/sldu:13": {
+			"name": "Nevada State Senate district 13",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NV State Senate District 13",
+		"divisionId": "ocd-division/country:us/state:nv/sldu:13",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Julia Ratti",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:13",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Julia.Ratti@sen.state.nv.us"
+		],
+		"phones": [
+		  "775-525-0359"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nv/sldu:15": {
+			"name": "Nevada State Senate district 15",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NV State Senate District 15",
+		"divisionId": "ocd-division/country:us/state:nv/sldu:15",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Jesse Haw",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:15",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Jesse.Haw@sen.state.nv.us"
+		],
+		"phones": [
+		  "775-684-1419"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldu:45": {
+			"name": "North Carolina State Senate district 45",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NC State Senate District 15",
+		"divisionId": "ocd-division/country:us/state:nc/sldu:45",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Deanna Ballard",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:45",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Deanna.Ballard@ncleg.net"
+		],
+		"phones": [
+		  "(919) 733-5742"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:or/sldu:3": {
+			"name": "Oregon State Senate district 3",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "OR State Senate District 3",
+		"divisionId": "ocd-division/country:us/state:or/sldu:3",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Kevin Talbert",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:or/sldu:3",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Sen.KevinTalbert@state.or.us"
+		],
+		"phones": [
+		  "503-986-1703"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ut/sldu:14": {
+			"name": "Utah State Senate district 14",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "UT State Senate District 14",
+		"divisionId": "ocd-division/country:us/state:ut/sldu:14",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Daniel Hemmert",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:14",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "dhemmert@le.utah.gov"
+		],
+		"phones": [
+		  "801-380-8262"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ut/sldu:29": {
+			"name": "Utah State Senate district 29",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "UT State Senate District 29",
+		"divisionId": "ocd-division/country:us/state:ut/sldu:29",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Don L. Ipson",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:29",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "dipson@le.utah.gov"
+		],
+		"phones": [
+		  "435-817-5281"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:al/sldl:41": {
+			"name": "Alabama State House district 41",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "AL State House District 41",
+		"divisionId": "ocd-division/country:us/state:al/sldl:41",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Corley Ellis",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:al/sldl:41",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "corley.ellis@alhouse.gov"
+		],
+		"phones": [
+		  "334-242-7600"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:al/sldl:79": {
+			"name": "Alabama State House district 79",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "AL State House District 79",
+		"divisionId": "ocd-division/country:us/state:al/sldl:79",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Joe Lovvorn",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:al/sldl:79",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "joe.lovvorn@alhouse.gov"
+		],
+		"phones": [
+		  "334-242-7600"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:la/sldl:80": {
+			"name": "Louisiana State House district 80",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "LA State House District 80",
+		"divisionId": "ocd-division/country:us/state:la/sldl:80",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Polly Thomas",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:80",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "thomaspj@legis.la.gov"
+		],
+		"phones": [
+		  "504-837-6559"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nv/sldl:1": {
+			"name": "Nevada State House district 1",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NV State House District 1",
+		"divisionId": "ocd-division/country:us/state:nv/sldl:1",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Stephanie S.. Smith",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldl:1",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Stephanie.Smith@asm.state.nv.us"
+		],
+		"phones": [
+		  "775-684-8509"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nh/sldl:rockingham_21": {
+			"name": "New Hampshire State House district Rockingham County No. 21",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NH State House District Rockingham 21",
+		"divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_21",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Michael Edgar",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_21",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Michael.Edgar@leg.state.nh.us"
+		],
+		"phones": [
+		  "(603) 395-3635"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nm/sldl:69": {
+			"name": "New Mexico State House district 69",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NM State House District 69",
+		"divisionId": "ocd-division/country:us/state:nm/sldl:69",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Harry Garcia",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:69",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "hgarciad69@gmail.com"
+		],
+		"phones": [
+		  "(505) 290-7510"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldl:58": {
+			"name": "North Carolina State House district 58",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NC State House District 58",
+		"divisionId": "ocd-division/country:us/state:nc/sldl:58",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Chris Sgro",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:58",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Chris.Sgro@ncleg.net"
+		],
+		"phones": [
+		  "919-733-5902"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldl:105": {
+			"name": "North Carolina State House district 105",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NC State House District 105",
+		"divisionId": "ocd-division/country:us/state:nc/sldl:105",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Scott Stone",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:105",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Scott.Stone@ncleg.net"
+		],
+		"phones": [
+		  "919-733-5886"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nd/sldu:15": {
+			"name": "North Dakota State House district 15",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "ND State House District 15",
+		"divisionId": "ocd-division/country:us/state:nd/sldu:15",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Greg Westlind",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:15",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "gwestlind@nd.gov"
+		],
+		"phones": [
+		  "701-968-4222"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:va/sldl:93": {
+			"name": "Virginia State House district 93",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "VA State House District 93",
+		"divisionId": "ocd-division/country:us/state:va/sldl:93",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "T. Montgomery (Monty) Mason",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldl:93",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "DelMMason@house.virginia.gov"
+		],
+		"phones": [
+		  "(804) 698-1093"
+		]
 	  }
 	]
   }

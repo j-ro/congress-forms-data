@@ -2403,6 +2403,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:21": {
+	   "name": "California State Senate district 21",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 21",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:21",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ted Gaines",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:21",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"senator.gaines@senate.ca.gov"
+	   ],
+	   "phones": [
+	   		"(916) 651-4001"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:10": {
 	   "name": "Connecticut State Senate district 10",
 	   "overwrite": "true",
@@ -4116,6 +4153,228 @@
 		"overwrite_name": "Mike Gambrell",
 		"phones": [
 		  "(803) 212-6024"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nv/sldu:13": {
+			"name": "Nevada State Senate district 13",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NV State Senate District 13",
+		"divisionId": "ocd-division/country:us/state:nv/sldu:13",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Julia Ratti",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:13",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Julia.Ratti@sen.state.nv.us"
+		],
+		"phones": [
+		  "775-525-0359"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nv/sldu:15": {
+			"name": "Nevada State Senate district 15",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NV State Senate District 15",
+		"divisionId": "ocd-division/country:us/state:nv/sldu:15",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Jesse Haw",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:15",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Jesse.Haw@sen.state.nv.us"
+		],
+		"phones": [
+		  "775-684-1419"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldu:45": {
+			"name": "North Carolina State Senate district 45",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NC State Senate District 15",
+		"divisionId": "ocd-division/country:us/state:nc/sldu:45",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Deanna Ballard",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:45",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Deanna.Ballard@ncleg.net"
+		],
+		"phones": [
+		  "(919) 733-5742"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:or/sldu:3": {
+			"name": "Oregon State Senate district 3",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "OR State Senate District 3",
+		"divisionId": "ocd-division/country:us/state:or/sldu:3",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Kevin Talbert",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:or/sldu:3",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "Sen.KevinTalbert@state.or.us"
+		],
+		"phones": [
+		  "503-986-1703"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ut/sldu:14": {
+			"name": "Utah State Senate district 14",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "UT State Senate District 14",
+		"divisionId": "ocd-division/country:us/state:ut/sldu:14",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Daniel Hemmert",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:14",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "dhemmert@le.utah.gov"
+		],
+		"phones": [
+		  "801-380-8262"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ut/sldu:29": {
+			"name": "Utah State Senate district 29",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "UT State Senate District 29",
+		"divisionId": "ocd-division/country:us/state:ut/sldu:29",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Don L. Ipson",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:29",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "dipson@le.utah.gov"
+		],
+		"phones": [
+		  "435-817-5281"
 		]
 	  }
 	]

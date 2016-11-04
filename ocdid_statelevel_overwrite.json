@@ -10038,7 +10038,7 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "County Council, District 1",
+	   "name": "City Council, District 1",
 	   "divisionId": "ocd-division/country:us/district:dc/ward:1",
 	   "officialIndices": [
 	    0
@@ -10072,7 +10072,7 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "County Council, District 4",
+	   "name": "City Council, District 4",
 	   "divisionId": "ocd-division/country:us/district:dc/ward:4",
 	   "officialIndices": [
 	    0
@@ -10106,7 +10106,7 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "County Council, District 5",
+	   "name": "City Council, District 5",
 	   "divisionId": "ocd-division/country:us/district:dc/ward:5",
 	   "officialIndices": [
 	    0
@@ -10140,7 +10140,7 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "County Council, District 6",
+	   "name": "City Council, District 6",
 	   "divisionId": "ocd-division/country:us/district:dc/ward:6",
 	   "officialIndices": [
 	    0
@@ -10174,7 +10174,7 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "County Council, District 8",
+	   "name": "City Council, District 8",
 	   "divisionId": "ocd-division/country:us/district:dc/ward:8",
 	   "officialIndices": [
 	    0
@@ -10250,6 +10250,154 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
 	   "overwrite_name": "Eleanor Holmes Norton"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "City Council, At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Anita Bonds",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Anita Bonds",
+	   "emails": [
+		  "abonds@dccouncil.us"
+		],
+		"phones": [
+		  "(202) 724-8064"
+		]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "City Council, At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "David Grosso",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "David Grosso",
+	   "emails": [
+		  "dgrosso@dccouncil.us"
+		],
+		"phones": [
+		  "(202) 724-8105"
+		]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "City Council, At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phil Mendelson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Phil Mendelson",
+	   "emails": [
+		  "pmendelson@dccouncil.us"
+		],
+		"phones": [
+		  "(202) 724-8032"
+		]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia City Council At-Large",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "City Council, At-Large",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Elissa Silverman",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Elissa Silverman",
+	   "emails": [
+		  "esilverman@dccouncil.us"
+		],
+		"phones": [
+		  "(202) 724-7772"
+		]
 	  }
 	 ]
 	},

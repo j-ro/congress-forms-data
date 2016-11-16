@@ -72,5 +72,116 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/cd:1": {
+	   "name": "Hawaii's 1st congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives HI-01",
+	   "divisionId": "ocd-division/country:us/state:hi/cd:1",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Colleen Hanabusa",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/cd:1",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-2726"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ky/cd:1": {
+	   "name": "Kentucky's 1st congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives KY-01",
+	   "divisionId": "ocd-division/country:us/state:ky/cd:1",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James Comer",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/cd:1",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-3115"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/cd:2": {
+	   "name": "Pennsylvania's 2nd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives PA-02",
+	   "divisionId": "ocd-division/country:us/state:pa/cd:2",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James Comer",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:2",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-4001"
+	   ]
+	  }
+	 ]
 	}
 ]

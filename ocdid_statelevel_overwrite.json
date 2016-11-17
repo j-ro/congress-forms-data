@@ -1814,6 +1814,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:25": {
+	   "name": "Michigan State Senate district 25",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 25",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:25",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Phillip Pavlov",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:25",
+	   "overwrite_name": "Phillip Pavlov",
+	   "phones": [
+	   		"(517) 373-7708"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mi/sldu:26": {
 	   "name": "Michigan State Senate district 26",
 	   "overwrite": "true",

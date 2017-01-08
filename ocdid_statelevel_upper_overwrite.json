@@ -75,43 +75,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:az/sldu:5": {
-	   "name": "Arizona State Senate district 5",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "AZ State Senate District 5",
-	   "divisionId": "ocd-division/country:us/state:az/sldu:5",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Susan Donahue",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:5",
-	   "overwrite_name": "Susan Donahue",
-	   "emails": [
-	   		"sdonahue@azleg.gov"
-	   ],
-	   "phones": [
-	   		"(602) 926-4138"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:az/sldu:6": {
 	   "name": "Arizona State Senate district 6",
 	   "overwrite": "true",

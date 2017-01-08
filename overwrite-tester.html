@@ -49,7 +49,7 @@
 			}
 			
 			textarea {
-				height: 300px;
+				height: 1000px;
 			}
 			
 			select {
@@ -313,7 +313,61 @@
 															if (no_contact) {
 																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
 																//console.log(official.name + ' has no email or bioID!');
-																$('#results').val($('#results').val() + '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + e[0]);
+																var output_ocdid = e[0];
+																
+																if (output_ocdid.includes('sldl')) {
+																	var output_level = 'House';
+																	var output_roles = 'legislatorLowerBody';
+																	var output_district_number = output_ocdid.match(/sldl:(.*)/)[1].toUpperCase();
+																} else {
+																	var output_level = 'Senate';
+																	var output_roles = 'legislatorUpperBody';
+																	var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
+																}
+																
+																var output_state_abbreviation = output_ocdid.match(/state:(.*)\//)[1].toUpperCase();
+																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.*)\//)[1].toUpperCase() + ']').html();
+																
+																$('#results').val($('#results').val()
+																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
+																+ 'new override skeleton: \n'
+																+ '{\n'
+																+ '    "divisions": {\n'
+																+ '      "' + output_ocdid + '": {\n'
+																+ '        "name": "' + output_state_full + ' State ' + output_level + ' district ' + output_district_number + '",\n'
+																+ '        "overwrite": "true",\n'
+																+ '        "officeIndices": [\n'
+																+ '          0\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    },\n'
+																+ '    "offices": [\n'
+																+ '      {\n'
+																+ '        "name": "' + output_state_abbreviation + ' State ' + output_level + ' District ' + output_district_number + '",\n'
+																+ '        "divisionId": "' + output_ocdid + '",\n'
+																+ '        "roles": [\n'
+																+ '          "' + output_roles + '"\n'
+																+ '        ],\n'
+																+ '        "officialIndices": [\n'
+																+ '          0\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    ],\n'
+																+ '    "officials": [\n'
+																+ '      {\n'
+																+ '        "name": "' + official.name + '",\n'
+																+ '        "party": "' + official.party + '",\n'
+																+ '        "overwrite_ocdid": "' + output_ocdid + '",\n'
+																+ '        "overwrite_name": "' + official.name + '",\n'
+																+ '        "emails": [\n'
+																+ '          ""\n'
+																+ '        ],\n'
+																+ '        "phones": [\n'
+																+ '          ""\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    ]\n'
+																+ '}\n');
 															} else {
 																//$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
 																//console.log(official.name + ' has a bioID');

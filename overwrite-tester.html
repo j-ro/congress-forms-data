@@ -284,7 +284,7 @@
 													} else {
 														//console.log(official.name);
 														$.each(overwrite_data, function(index, overwrite_data) {
-															if (typeof(overwrite_data.officials[0].emails) != 'undefined' && overwrite_data.officials[0].emails.length > 0 && overwrite_data.officials[0].emails[0] != '' && overwrite_data.officials[0].name == official.name) {
+															if (typeof(overwrite_data.officials[0].emails) != 'undefined' && overwrite_data.officials[0].emails.length > 0 && overwrite_data.officials[0].emails[0] != '' && overwrite_data.officials[0].overwrite_name == official.name) {
 																//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
 																//console.log(overwrite_data.officials[0].emails[0]);
 																no_contact = false;

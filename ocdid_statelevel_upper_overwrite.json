@@ -111,6 +111,43 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:18": {
+        "name": "Arizona State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:az/sldu:18",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sean Bowie",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:18",
+        "overwrite_name": "Sean Bowie",
+        "emails": [
+          "SBOWIE@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3004"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:co/sldu:27": {
 	   "name": "Colorado State Senate district 27",
@@ -773,6 +810,43 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mi/sldu:4": {
+        "name": "Michigan State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MI State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:mi/sldu:4",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ian Conyers",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:4",
+        "overwrite_name": "Ian Conyers",
+        "emails": [
+          "seniconyers@senate.mi.gov"
+        ],
+        "phones": [
+          "517-373-7918"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:mi/sldu:5": {
@@ -2695,6 +2769,43 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldu:13": {
+        "name": "Texas State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Borris L. Miles",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:13",
+        "overwrite_name": "Borris L. Miles",
+        "emails": [
+          "Borris.Miles@senate.state.tx.us"
+        ],
+        "phones": [
+          "(512) 463-0113"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldu:16": {
 	   "name": "Texas State Senate district 16",
@@ -2768,6 +2879,43 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldu:24": {
+        "name": "Texas State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:24",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dawn Buckingham",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:24",
+        "overwrite_name": "Dawn Buckingham",
+        "emails": [
+          "Dawn.Buckingham@senate.state.tx.us"
+        ],
+        "phones": [
+          "(512) 463-0124"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:tx/sldu:2": {
@@ -3099,6 +3247,228 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:11": {
+        "name": "Florida State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:11",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randolph Bracy",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:11",
+        "overwrite_name": "Randolph Bracy",
+        "emails": [
+          "Randolph.Bracy.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5011"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:28": {
+        "name": "Florida State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kathleen Passidomo",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:28",
+        "overwrite_name": "Kathleen Passidomo",
+        "emails": [
+          "Kathleen.Passidomo.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:29": {
+        "name": "Florida State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:29",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Rader",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:29",
+        "overwrite_name": "Kevin Rader",
+        "emails": [
+          "Kevin.Rader.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5029"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:30": {
+        "name": "Florida State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bobby Powell",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:30",
+        "overwrite_name": "Bobby Powell",
+        "emails": [
+          "Bobby.Powell.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5030"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:32": {
+        "name": "Florida State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lauren Book",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:32",
+        "overwrite_name": "Lauren Book",
+        "emails": [
+          "Lauren.Book.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5032"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:33": {
+        "name": "Florida State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:33",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Perry E. Thurston Jr.",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:33",
+        "overwrite_name": "Perry E. Thurston Jr.",
+        "emails": [
+          "Perry.Thurston.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5033"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:mo/sldu:10": {
 	   "name": "Missouri State Senate district 10",
@@ -3135,6 +3505,117 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:11": {
+        "name": "Missouri State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:11",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Joseph Rizzo",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:11",
+        "overwrite_name": "John Joseph Rizzo",
+        "emails": [
+          "john.rizzo@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-3074"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:15": {
+        "name": "Missouri State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:15",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Koenig",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:15",
+        "overwrite_name": "Andrew Koenig",
+        "emails": [
+          "Andrew.Koenig@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-5568"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:23": {
+        "name": "Missouri State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:23",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bill Eigel",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:23",
+        "overwrite_name": "Bill Eigel",
+        "emails": [
+          "Bill.Eigel@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-1141"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:mo/sldu:24": {
@@ -4821,6 +5302,108 @@
 	]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden": {
+        "name": "Vermont Chittenden State Senate district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District Chittenden",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christopher A Pearson",
+        "party": "Democratic/Progressive",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden",
+        "overwrite_name": "Christopher A Pearson",
+        "emails": [
+          "cpearson@leg.state.vt.us"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden": {
+        "name": "Vermont Chittenden State Senate district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District Chittenden",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Debbie Ingram",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden",
+        "overwrite_name": "Debbie Ingram",
+        "emails": [
+          "dingram@leg.state.vt.us"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:windsor": {
+        "name": "Vermont Windsor State Senate district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District Windsor",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:windsor",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Alison Clarkson",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:windsor",
+        "overwrite_name": "Alison Clarkson",
+        "emails": [
+          "aclarkson@leg.state.vt.us"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:vt/sldu:grand_isle-chittenden": {
 			"name": "Vermont Grand-Isle-Chittenden State Senate district",
@@ -4856,6 +5439,40 @@
 		]
 	  }
 	]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:washington": {
+        "name": "Vermont Washington State Senate district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District Washington",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:washington",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Francis K. Brooks",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:washington",
+        "overwrite_name": "Francis K. Brooks",
+        "emails": [
+          "fbrooks@leg.state.vt.us"
+        ]
+      }
+    ]
   },
   {
 	"divisions": {
@@ -5185,6 +5802,43 @@
     ]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:ut/sldu:13": {
+        "name": "Utah State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "UT State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:ut/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jake Anderegg",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:13",
+        "overwrite_name": "Jake Anderegg",
+        "emails": [
+          "janderegg@le.utah.gov"
+        ],
+        "phones": [
+          "801-901-3580"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:ut/sldu:14": {
 			"name": "Utah State Senate district 14",
@@ -5220,6 +5874,43 @@
 		]
 	  }
 	]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ut/sldu:20": {
+        "name": "Utah State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "UT State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:ut/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregg Buxton",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:20",
+        "overwrite_name": "Gregg Buxton",
+        "emails": [
+          "gbuxton@le.utah.gov"
+        ],
+        "phones": [
+          "801-707-7095"
+        ]
+      }
+    ]
   },
   {
 	"divisions": {
@@ -5812,6 +6503,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth": {
+        "name": "Massachusetts Norfolk, Bristol & Plymouth district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District Norfolk Bristol and Plymouth",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Walter F. Timilty",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth",
+        "overwrite_name": "Walter F. Timilty",
+        "emails": [
+          "Walter.Timilty@masenate.gov"
+        ],
+        "phones": [
+          "617-722-1643"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:cape_and_islands": {
+        "name": "Massachusetts Cape & Islands district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District Cape and Islands",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:cape_and_islands",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Julian Andre Cyr",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:cape_and_islands",
+        "overwrite_name": "Julian Andre Cyr",
+        "emails": [
+          "julian.cyr@masenate.gov"
+        ],
+        "phones": [
+          "617-722-1570"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ok/sldu:29": {
         "name": "Oklahoma State Senate district 29",
         "overwrite": "true",
@@ -6065,6 +6830,43 @@
         ],
         "phones": [
           "800-382-9467"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:id/sldu:5": {
+        "name": "Idaho State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ID State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:id/sldu:5",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Foreman",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:5",
+        "overwrite_name": "Dan Foreman",
+        "emails": [
+          "dforeman@senate.idaho.gov"
+        ],
+        "phones": [
+          "(208) 301-0110"
         ]
       }
     ]
@@ -6398,6 +7200,1893 @@
         ],
         "phones": [
           "(402) 471-2617"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:29": {
+        "name": "New Mexico State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:29",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregory A Baca",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:29",
+        "overwrite_name": "Gregory A Baca",
+        "emails": [
+          "greg.baca@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 385-7303"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:36": {
+        "name": "New Mexico State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:36",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Steinborn",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:36",
+        "overwrite_name": "Jeff Steinborn",
+        "emails": [
+          "jeff.steinborn@nmlegis.gov"
+        ],
+        "phones": [
+          "(575) 635-5615"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:39": {
+        "name": "New Mexico State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:39",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elizabeth Liz Stefanics",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:39",
+        "overwrite_name": "Elizabeth Liz Stefanics",
+        "emails": [
+          "liz.stefanics@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 699-4808"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldu:8": {
+        "name": "Iowa State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ia/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Dawson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:8",
+        "overwrite_name": "Dan Dawson",
+        "emails": [
+          "dan.dawson@legis.iowa.gov"
+        ],
+        "phones": [
+          "(712) 256-1199"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldu:16": {
+        "name": "Iowa State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:ia/sldu:16",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nate Boulton",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:16",
+        "overwrite_name": "Nate Boulton",
+        "emails": [
+          "nate@boultonforsenate.com"
+        ],
+        "phones": [
+          "(515) 288-4148"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:1": {
+        "name": "Minnesota State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Johnson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:1",
+        "overwrite_name": "Mark Johnson",
+        "emails": [
+          "sen.Mark.Johnson@senate.mn"
+        ],
+        "phones": [
+          "651-296-5782"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:2": {
+        "name": "Minnesota State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:2",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Utke",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:2",
+        "overwrite_name": "Paul Utke",
+        "emails": [
+          "sen.Paul.Utke@senate.mn"
+        ],
+        "phones": [
+          "651-296-9651"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:5": {
+        "name": "Minnesota State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:5",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Justin Eichorn",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:5",
+        "overwrite_name": "Justin Eichorn",
+        "emails": [
+          "sen.Justin.Eichorn@senate.mn"
+        ],
+        "phones": [
+          "651-296-7079"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:7": {
+        "name": "Minnesota State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:7",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erik Simonson",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:7",
+        "overwrite_name": "Erik Simonson",
+        "emails": [
+          "sen.erik.simonson@senate.mn"
+        ],
+        "phones": [
+          "651-296-4188"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:14": {
+        "name": "Minnesota State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:14",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jerry Relph",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:14",
+        "overwrite_name": "Jerry Relph",
+        "emails": [
+          "sen.Jerry.Relph@senate.mn"
+        ],
+        "phones": [
+          "651-296-6455"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:15": {
+        "name": "Minnesota State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:15",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Mathews",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:15",
+        "overwrite_name": "Andrew Mathews",
+        "emails": [
+          "sen.Andrew.Mathews@senate.mn"
+        ],
+        "phones": [
+          "651-296-8075"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:17": {
+        "name": "Minnesota State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Lang",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:17",
+        "overwrite_name": "Andrew Lang",
+        "emails": [
+          "sen.Andrew.Lang@senate.mn"
+        ],
+        "phones": [
+          "651-296-4918"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:19": {
+        "name": "Minnesota State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:19",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nick Frentz",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:19",
+        "overwrite_name": "Nick Frentz",
+        "emails": [
+          "sen.nick.frentz@senate.mn"
+        ],
+        "phones": [
+          "651-296-6153"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:20": {
+        "name": "Minnesota State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rich Draheim",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:20",
+        "overwrite_name": "Rich Draheim",
+        "emails": [
+          "sen.Rich.Draheim@senate.mn"
+        ],
+        "phones": [
+          "651-296-5558"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:21": {
+        "name": "Minnesota State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:21",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Goggin",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:21",
+        "overwrite_name": "Mike Goggin",
+        "emails": [
+          "sen.Mike.Goggin@senate.mn"
+        ],
+        "phones": [
+          "651-296-5612"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:24": {
+        "name": "Minnesota State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:24",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Jasinski",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:24",
+        "overwrite_name": "John Jasinski",
+        "emails": [
+          "sen.John.Jasinski@senate.mn"
+        ],
+        "phones": [
+          "651-296-0284"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:32": {
+        "name": "Minnesota State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Koran",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:32",
+        "overwrite_name": "Mark Koran",
+        "emails": [
+          "sen.Mark.Koran@senate.mn"
+        ],
+        "phones": [
+          "651-296-5419"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:37": {
+        "name": "Minnesota State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:37",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jerry Newton",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:37",
+        "overwrite_name": "Jerry Newton",
+        "emails": [
+          "sen.jerry.newton@senate.mn"
+        ],
+        "phones": [
+          "651-296-2556"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:41": {
+        "name": "Minnesota State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:41",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carolyn Laine",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:41",
+        "overwrite_name": "Carolyn Laine",
+        "emails": [
+          "sen.carolyn.laine@senate.mn"
+        ],
+        "phones": [
+          "651-296-4334"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:42": {
+        "name": "Minnesota State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:42",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason \"Ike\" Isaacson",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:42",
+        "overwrite_name": "Jason \"Ike\" Isaacson",
+        "emails": [
+          "sen.Jason.Isaacson@senate.mn"
+        ],
+        "phones": [
+          "651-296-5537"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:44": {
+        "name": "Minnesota State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:44",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Anderson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:44",
+        "overwrite_name": "Paul Anderson",
+        "emails": [
+          "sen.Paul.Anderson@senate.mn"
+        ],
+        "phones": [
+          "651-296-9261"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:47": {
+        "name": "Minnesota State Senate district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 47",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:47",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott Jensen",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:47",
+        "overwrite_name": "Scott Jensen",
+        "emails": [
+          "sen.Scott.Jensen@senate.mn"
+        ],
+        "phones": [
+          "651-296-4837"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:48": {
+        "name": "Minnesota State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:48",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Cwodzinski",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:48",
+        "overwrite_name": "Steve Cwodzinski",
+        "emails": [
+          "sen.Steve.Cwodzinski@senate.mn"
+        ],
+        "phones": [
+          "651-296-1314"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:52": {
+        "name": "Minnesota State Senate district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 52",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:52",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matt Klein",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:52",
+        "overwrite_name": "Matt Klein",
+        "emails": [
+          "sen.Matt.Klein@senate.mn"
+        ],
+        "phones": [
+          "651-296-4370"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:54": {
+        "name": "Minnesota State Senate district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 54",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:54",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Schoen",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:54",
+        "overwrite_name": "Dan Schoen",
+        "emails": [
+          "sen.dan.schoen@senate.mn"
+        ],
+        "phones": [
+          "651-297-8060"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:58": {
+        "name": "Minnesota State Senate district 58",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 58",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:58",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matt Little",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:58",
+        "overwrite_name": "Matt Little",
+        "emails": [
+          "sen.Matt.Little@senate.mn"
+        ],
+        "phones": [
+          "651-296-5252"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:64": {
+        "name": "Minnesota State Senate district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 64",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:64",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dick Cohen",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:64",
+        "overwrite_name": "Dick Cohen",
+        "emails": [
+          "sen.Dick.Cohen@senate.mn"
+        ],
+        "phones": [
+          "651-296-5931"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:3": {
+        "name": "Montana State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:3",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Keith Regier",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:3",
+        "overwrite_name": "Keith Regier",
+        "emails": [
+          "Sen.Keith.Regier@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:6": {
+        "name": "Montana State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Albert D Olszewski",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:6",
+        "overwrite_name": "Albert D Olszewski",
+        "emails": [
+          "Sen.Albert.Olszewski@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:10": {
+        "name": "Montana State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Fitzpatrick",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:10",
+        "overwrite_name": "Steve Fitzpatrick",
+        "emails": [
+          "Sen.Steve.Fitzpatrick@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:14": {
+        "name": "Montana State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:14",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Russ Tempel",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:14",
+        "overwrite_name": "Kristin Hansen",
+        "emails": [
+          "Sen.Russ.Tempel@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:15": {
+        "name": "Montana State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:15",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ryan Osmundson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:15",
+        "overwrite_name": "Ryan Osmundson",
+        "emails": [
+          "ryanosmundson@gmail.com"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:16": {
+        "name": "Montana State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:16",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Frank J. Smith",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:16",
+        "overwrite_name": "Frank J. Smith",
+        "emails": [
+          "clairena@hughes.net"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:17": {
+        "name": "Montana State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike L Lang",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:17",
+        "overwrite_name": "Mike L Lang",
+        "emails": [
+          "Sen.Mike.Lang@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:18": {
+        "name": "Montana State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:18",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Hinebauch",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:18",
+        "overwrite_name": "Steve Hinebauch",
+        "emails": [
+          "Sen.Steve.Hinebauch@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:21": {
+        "name": "Montana State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:21",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Small",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:21",
+        "overwrite_name": "Carolyn Pease-Lopez",
+        "emails": [
+          "Sen.Jason.Small@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:25": {
+        "name": "Montana State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:25",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jen Gross",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:25",
+        "overwrite_name": "Jen Gross",
+        "emails": [
+          "Sen.Jen.Gross@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:26": {
+        "name": "Montana State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:26",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Margie MacDonald",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:26",
+        "overwrite_name": "Margie MacDonald",
+        "emails": [
+          "Sen.Margie.MacDonald@mt.gov"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:28": {
+        "name": "Montana State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tom Richmond",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:28",
+        "overwrite_name": "Tom Richmond",
+        "emails": [
+          "tomrichmondmt@gmail.com"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:36": {
+        "name": "Montana State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:36",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Welborn",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:36",
+        "overwrite_name": "Jeff Welborn",
+        "emails": [
+          "jeffwelborn@hotmail.com"
+        ],
+        "phones": [
+          "(406) 444-4800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:18": {
+        "name": "Wisconsin State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:18",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Feyen",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:18",
+        "overwrite_name": "Dan Feyen",
+        "emails": [
+          "Sen.Feyen@legis.wi.gov"
+        ],
+        "phones": [
+          "(608) 266-5300"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:24": {
+        "name": "Wisconsin State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:24",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Patrick Testin",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:24",
+        "overwrite_name": "Patrick Testin",
+        "emails": [
+          "Sen.Testin@legis.wi.gov"
+        ],
+        "phones": [
+          "(608) 266-3123"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:28": {
+        "name": "Wisconsin State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dave Craig",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:28",
+        "overwrite_name": "Dave Craig",
+        "emails": [
+          "Sen.Craig@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-5400"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:4": {
+        "name": "Wyoming State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:4",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tara Nethercott",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:4",
+        "overwrite_name": "Tara Nethercott",
+        "emails": [
+          "Tara.Nethercott@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 399-7696"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:6": {
+        "name": "Wyoming State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony Bouchard",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:6",
+        "overwrite_name": "Anthony Bouchard",
+        "emails": [
+          "Anthony.Bouchard@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 212-6464"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:8": {
+        "name": "Wyoming State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Affie Ellis",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:8",
+        "overwrite_name": "Affie Ellis",
+        "emails": [
+          "Affie.Ellis@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 287-9095"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:10": {
+        "name": "Wyoming State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Glenn Moniz",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:10",
+        "overwrite_name": "Glenn Moniz",
+        "emails": [
+          "glenn.moniz@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 760-1116"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:12": {
+        "name": "Wyoming State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Liisa Anselmi-Dalton",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:12",
+        "overwrite_name": "Liisa Anselmi-Dalton",
+        "emails": [
+          "Liisa.Anselmi-Dalton@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 362-1189"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:14": {
+        "name": "Wyoming State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:14",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Fred Baldwin",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:14",
+        "overwrite_name": "Fred Baldwin",
+        "emails": [
+          "Fred.Baldwin@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 877-3687"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy/sldu:20": {
+        "name": "Wyoming State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WY State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:wy/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wyatt Agar",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:20",
+        "overwrite_name": "Wyatt Agar",
+        "emails": [
+          "Wyatt.Agar@wyoleg.gov"
+        ],
+        "phones": [
+          "(307) 921-8825"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:va/sldu:1": {
+        "name": "Virginia State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VA State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:va/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "T. Monty Mason",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:va/sldu:1",
+        "overwrite_name": "T. Monty Mason",
+        "emails": [
+          "district01@senate.virginia.gov"
+        ],
+        "phones": [
+          "(804) 698-7501"
         ]
       }
     ]

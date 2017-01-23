@@ -8637,6 +8637,74 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ar/sldu:27": {
+        "name": "Arkansas State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:ar/sldu:27",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Trent Garner",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldu:27",
+        "overwrite_name": "Trent Garner",
+        "emails": [
+          "Trent.Garner@senate.ar.gov"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldu:32": {
+        "name": "Arkansas State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ar/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Will Bond",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldu:32",
+        "overwrite_name": "Will Bond",
+        "emails": [
+          "Will.Bond@senate.ar.gov"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:7": {
         "name": "New York State Senate district 7",
         "overwrite": "true",
@@ -11652,7 +11720,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:j",
         "overwrite_name": "Tom Begich",
         "emails": [
-          ""
+          "Senator.Tom.Begich@akleg.gov"
         ],
         "phones": [
           "907-465-3704"

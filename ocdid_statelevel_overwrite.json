@@ -19740,6 +19740,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:40": {
+	   "name": "Maryland State Senate district 40",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State Senate District 40",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:40",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Barbara A. Robinson",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:40",
+	   "overwrite_name": "Catherine E. Pugh",
+	   "emails": [
+	   		"barbara.robinson@senate.state.md.us"
+	   ],
+	   "phones": [
+	   		"(410) 841-3656"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldl:42a": {
 	   "name": "Maryland State Legislative Subdistrict 42A",
 	   "overwrite": "true",

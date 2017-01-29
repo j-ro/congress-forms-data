@@ -400,5 +400,42 @@
 	   "overwrite_name": "Robert White Jr."
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa": {
+	   "name": "Pennsylvania",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:pa",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Thomas Wolf",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa",
+	   "overwrite_name": "Thomas Wolf",
+	   "phones": [
+	   		"(717) 787-2500"
+	   ]
+	  }
+	 ]
 	}
 ]

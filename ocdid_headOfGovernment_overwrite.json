@@ -437,5 +437,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:de": {
+	   "name": "Delaware",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:de",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John C Carney Jr",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:de",
+	   "overwrite_name": "John C Carney Jr",
+	   "phones": [
+	   		"(302) 744-4101"
+	   ]
+	  }
+	 ]
 	}
 ]

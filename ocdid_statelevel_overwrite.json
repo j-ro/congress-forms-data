@@ -3022,6 +3022,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:6": {
+        "name": "Colorado State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:co/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Don Coram",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:6",
+        "overwrite_name": "Ellen S. Roberts",
+        "emails": [
+          "don.coram.senate@state.co.us"
+        ],
+        "phones": [
+          "303-866-4884"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:co/sldu:12": {
@@ -14011,6 +14048,43 @@
 	   ],
 	   "phones": [
 	   		"303-866-2912"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldl:58": {
+	   "name": "Colorado State House district 58",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State House District 58",
+	   "divisionId": "ocd-division/country:us/state:co/sldl:58",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marc Catlin",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:58",
+	   "overwrite_name": "Don Coram",
+	   "emails": [
+	   		"marc.catlin.house@state.co.us"
+	   ],
+	   "phones": [
+	   		"303-866-2955"
 	   ]
 	  }
 	 ]

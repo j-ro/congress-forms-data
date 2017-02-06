@@ -8385,6 +8385,43 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:co/sldl:58": {
+	   "name": "Colorado State House district 58",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CO State House District 58",
+	   "divisionId": "ocd-division/country:us/state:co/sldl:58",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Marc Catlin",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:58",
+	   "overwrite_name": "Don Coram",
+	   "emails": [
+	   		"marc.catlin.house@state.co.us"
+	   ],
+	   "phones": [
+	   		"303-866-2955"
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:co/sldl:59": {
         "name": "Colorado State House district 59",

@@ -513,5 +513,38 @@
 	   "overwrite_name": "Mike Pompeo"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ga/cd:6": {
+	   "name": "Georgia's 6th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives GA-06",
+	   "divisionId": "ocd-division/country:us/state:ga/cd:6",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:6",
+	   "overwrite_name": "Tom Price"
+	  }
+	 ]
 	}
 ]

@@ -661,6 +661,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldu:26": {
+	   "name": "Illinois State Senate district 26",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State Senate District 26",
+	   "divisionId": "ocd-division/country:us/state:il/sldu:26",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Dan McConchie",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:26",
+	   "overwrite_name": "Dan McConchie",
+	   "emails": [
+	   		"dan@senatormcconchie.com"
+	   ],
+	   "phones": [
+	   		"(217) 782-8010"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:il/sldu:36": {
 	   "name": "Illinois State Senate district 36",
 	   "overwrite": "true",

@@ -5004,6 +5004,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wa/sldu:45": {
+        "name": "Washington State Senate district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State Senate District 45",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:45",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dino Rossi ",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:45",
+        "overwrite_name": "Andy Hill",
+        "emails": [
+          "Dino.Rossi@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786 - 7672"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nd/sldu:4": {
         "name": "North Dakota State Senate district 4",
         "overwrite": "true",

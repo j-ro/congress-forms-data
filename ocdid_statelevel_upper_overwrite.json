@@ -296,42 +296,42 @@
     ]
   },
 	{
-	 "divisions": {
-	  "ocd-division/country:us/state:co/sldu:27": {
-	   "name": "Colorado State Senate district 27",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "CO State Senate District 27",
-	   "divisionId": "ocd-division/country:us/state:co/sldu:27",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jack Tate",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:27",
-	   "overwrite_name": "Jack Tate",
-	   "emails": [
-	   		"jack.tate.senate@state.co.us"
-	   ],
-	   "phones": [
-	   		"(303) 866-4883"
-	   ]
-	  }
-	 ]
-	},
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldu:3": {
+        "name": "Connecticut State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:3",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy D. Larson",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:3",
+        "overwrite_name": "Timothy D. Larson",
+        "emails": [
+          "larson@senatedems.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-0511"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:12": {
@@ -519,6 +519,80 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:ct/sldu:23": {
+        "name": "Connecticut State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:23",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Edwin \"Ed\" Gomes",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:23",
+        "overwrite_name": "Edwin \"Ed\" Gomes",
+        "emails": [
+          "gomes@senatedems.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-0540"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldu:29": {
+        "name": "Connecticut State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:29",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mae Flexer",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:29",
+        "overwrite_name": "Mae Flexer",
+        "emails": [
+          "flexer@senatedems.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-5237"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ct/sldu:30": {
         "name": "Connecticut State Senate district 30",
         "overwrite": "true",
@@ -550,40 +624,6 @@
         ],
         "phones": [
           "800-842-1421"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:de/sldu:7": {
-        "name": "Delaware State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "DE State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:de/sldu:7",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Anthony Delcollo",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:7",
-        "overwrite_name": "Anthony Delcollo",
-        "emails": [
-          "Anthony.Delcollo@state.de.us"
         ]
       }
     ]
@@ -623,79 +663,42 @@
     ]
   },
 	{
-	 "divisions": {
-	  "ocd-division/country:us/state:de/sldu:21": {
-	   "name": "Delaware State Senate district 21",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "DE State Senate District 21",
-	   "divisionId": "ocd-division/country:us/state:de/sldu:21",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Bryant L. Richardson",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:21",
-	   "overwrite_name": "Bryant L. Richardson",
-	   "emails": [
-	   		"Bryant.Richardson@state.de.us"
-	   ],
-	   "phones": [
-	   		"(302) 744-4298"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:il/sldu:26": {
-	   "name": "Illinois State Senate district 26",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "IL State Senate District 26",
-	   "divisionId": "ocd-division/country:us/state:il/sldu:26",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Dan McConchie",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:26",
-	   "overwrite_name": "Dan McConchie",
-	   "emails": [
-	   		"dan@senatormcconchie.com"
-	   ],
-	   "phones": [
-	   		"(217) 782-8010"
-	   ]
-	  }
-	 ]
-	},
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:2": {
+        "name": "Illinois State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:il/sldu:2",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Omar Aquino",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:2",
+        "overwrite_name": "Omar Aquino",
+        "emails": [
+          "info@senatoraquino.com"
+        ],
+        "phones": [
+          "(217) 782-5652"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:il/sldu:36": {
@@ -914,80 +917,6 @@
 	   ],
 	   "phones": [
 	   		"502-564-8100 Ext. 681"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:me/sldu:12": {
-	   "name": "Maine State Senate district 12",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ME State Senate District 12",
-	   "divisionId": "ocd-division/country:us/state:me/sldu:12",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "David R. Miramant",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:12",
-	   "overwrite_name": "David R. Miramant",
-	   "emails": [
-	   		"davemiramant@gmail.com"
-	   ],
-	   "phones": [
-	   		"(207) 287-1515"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:me/sldu:17": {
-	   "name": "Maine State Senate district 17",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "ME State Senate District 17",
-	   "divisionId": "ocd-division/country:us/state:me/sldu:17",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Thomas B. Saviello",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:17",
-	   "overwrite_name": "Thomas B. Saviello",
-	   "emails": [
-	   		"drtom16@hotmail.com"
-	   ],
-	   "phones": [
-	   		"(207) 287-1505"
 	   ]
 	  }
 	 ]
@@ -6391,43 +6320,6 @@
     ]
   },
   {
-	"divisions": {
-		"ocd-division/country:us/state:ut/sldu:14": {
-			"name": "Utah State Senate district 14",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "UT State Senate District 14",
-		"divisionId": "ocd-division/country:us/state:ut/sldu:14",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Daniel Hemmert",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:14",
-		"overwrite_name": "Vacant",
-		"emails": [
-		  "dhemmert@le.utah.gov"
-		],
-		"phones": [
-		  "801-380-8262"
-		]
-	  }
-	]
-  },
-  {
     "divisions": {
       "ocd-division/country:us/state:ut/sldu:20": {
         "name": "Utah State Senate district 20",
@@ -6756,6 +6648,43 @@
         ],
         "phones": [
           "(360) 786 - 7660"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldu:37": {
+        "name": "Washington State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:37",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca Saldana",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:37",
+        "overwrite_name": "Rebecca Saldana",
+        "emails": [
+          "rebecca.saldana@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7688"
         ]
       }
     ]
@@ -11607,10 +11536,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Barbara A. Robinson",
+	   "name": "Barbara Robinson",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:40",
-	   "overwrite_name": "Catherine E. Pugh",
+	   "overwrite_name": "Barbara Robinson",
 	   "emails": [
 	   		"barbara.robinson@senate.state.md.us"
 	   ],

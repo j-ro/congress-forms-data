@@ -6147,15 +6147,12 @@
     ],
     "officials": [
       {
-        "name": "Drew Dennert",
+        "name": "Al Novstrup",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
         "overwrite_name": "Drew Dennert",
         "emails": [
-          "Drew.Dennert@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-773-3851"
+          "Al.Novstrup@sdlegislature.gov"
         ]
       }
     ]
@@ -6184,15 +6181,12 @@
     ],
     "officials": [
       {
-        "name": "Al Novstrup",
+        "name": "David Novstrup",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
         "overwrite_name": "David Novstrup",
         "emails": [
-          "Al.Novstrup@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-773-3821"
+          "David.Novstrup@sdlegislature.gov"
         ]
       }
     ]
@@ -24888,6 +24882,43 @@
         ],
         "phones": [
           "(804) 698-1071"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:26": {
+        "name": "Maine State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 26",
+        "divisionId": "ocd-division/country:us/state:me/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maureen Fitzgerald Terry",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:26",
+        "overwrite_name": "Matthew L. Mattingly",
+        "emails": [
+          "Maureen.Terry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
         ]
       }
     ]

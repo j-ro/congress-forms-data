@@ -1624,10 +1624,10 @@
 	  }
 	 ]
 	},
-	{
+  {
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:3": {
-        "name": "South Dakota State House district 3",
+        "name": "South Dakota State Senate district 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -1636,10 +1636,10 @@
     },
     "offices": [
       {
-        "name": "SD State House District 3",
+        "name": "SD State Senate District 3",
         "divisionId": "ocd-division/country:us/state:sd/sldu:3",
         "roles": [
-          "legislatorLowerBody"
+          "legislatorUpperBody"
         ],
         "officialIndices": [
           0
@@ -1648,15 +1648,12 @@
     ],
     "officials": [
       {
-        "name": "Al Novstrup",
+        "name": "David Novstrup",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
         "overwrite_name": "David Novstrup",
         "emails": [
-          "Al.Novstrup@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-773-3821"
+          "David.Novstrup@sdlegislature.gov"
         ]
       }
     ]

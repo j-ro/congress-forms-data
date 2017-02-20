@@ -24228,43 +24228,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ks/sldl:68": {
-        "name": "Kansas State House district 68",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "KS State House District 68",
-        "divisionId": "ocd-division/country:us/state:ks/sldl:68",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Dave Baker",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:68",
-        "overwrite_name": "Dave Baker",
-        "emails": [
-          "dave.baker@house.ks.gov"
-        ],
-        "phones": [
-          "785 296-6997"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ma/sldl:12th_norfolk": {
         "name": "Massachusetts 12th Norfolk district",
         "overwrite": "true",

@@ -3153,6 +3153,36 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives DC",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Karl Racine"
+	  }
+	 ]
+	},
+	{
 	"divisions": {
 		"ocd-division/country:us/state:nj/sldu:7": {
 			"name": "New Jersey State Senate district 7",
@@ -4597,6 +4627,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nc/sldu:11": {
+        "name": "North Carolina State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:11",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rick Horner",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:11",
+        "overwrite_name": "Rick Horner",
+        "emails": [
+          "Rick.Horner@ncleg.net"
+        ],
+        "phones": [
+		  "(919) 715-3030"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nc/sldu:13": {
         "name": "North Carolina State Senate district 13",
         "overwrite": "true",
@@ -4625,7 +4692,84 @@
         "overwrite_name": "Danny Earl (J. R.) Britt",
         "emails": [
           "Danny.Britt@ncleg.net"
+        ],
+        "phones": [
+		  "(919) 733-5651"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldu:33": {
+        "name": "North Carolina State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
         ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:33",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cathy Dunn",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:33",
+        "overwrite_name": "Cathy Dunn",
+        "emails": [
+          "Cathy.Dunn@ncleg.net"
+        ],
+        "phones": [
+		  "(919) 733-5665"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldu:36": {
+        "name": "North Carolina State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:36",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul R. Newton",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:36",
+        "overwrite_name": "Paul R. Newton",
+        "emails": [
+          "Paul.Newton@ncleg.net"
+        ],
+        "phones": [
+		  "(919) 733-7223"
+		]
       }
     ]
   },
@@ -5544,6 +5688,9 @@
         "overwrite_name": "Vernon Sykes",
         "emails": [
           "SD28@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-7041"
         ]
       }
     ]
@@ -5615,6 +5762,9 @@
         "overwrite_name": "Sean J. O'Brien",
         "emails": [
           "SD32@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-7182"
         ]
       }
     ]
@@ -6802,5 +6952,153 @@
 	   ]
 	  }
 	 ]
-	}
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:6": {
+        "name": "South Carolina State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William Timmons",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:6",
+        "overwrite_name": "William Timmons",
+        "emails": [
+          "WilliamTimmons@scsenate.gov"
+        ],
+        "phones": [
+		  "(803) 212-6008"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:15": {
+        "name": "South Carolina State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:15",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wes Climer",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:15",
+        "overwrite_name": "Wes Climer",
+        "emails": [
+          "WesClimer@scsenate.gov"
+        ],
+        "phones": [
+		  "(803) 212-6016"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:17": {
+        "name": "South Carolina State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Fanning",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:17",
+        "overwrite_name": "Mike Fanning",
+        "emails": [
+          "MikeFanning@scsenate.gov"
+        ],
+        "phones": [
+		  "(803) 212-6024"
+		]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:41": {
+        "name": "South Carolina State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:41",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sandy Senn",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:41",
+        "overwrite_name": "Sandy Senn",
+        "emails": [
+          "SandySenn@scsenate.gov"
+        ],
+        "phones": [
+		  "(803) 212-6172"
+		]
+      }
+    ]
+  }
 ]

@@ -278,6 +278,36 @@
 	 },
 	 "offices": [
 	  {
+	   "name": "United States House of Representatives DC",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Karl Racine"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
 	   "name": "County Council, District At-Large",
 	   "divisionId": "ocd-division/country:us/district:dc",
 	   "officialIndices": [

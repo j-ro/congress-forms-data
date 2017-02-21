@@ -480,5 +480,38 @@
 	   "overwrite_name": "Tom Price"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:sc/cd:5": {
+	   "name": "South Carolina's 5th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives SC-05",
+	   "divisionId": "ocd-division/country:us/state:sc/cd:5",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:sc/cd:5",
+	   "overwrite_name": "Mick Mulvaney"
+	  }
+	 ]
 	}
 ]

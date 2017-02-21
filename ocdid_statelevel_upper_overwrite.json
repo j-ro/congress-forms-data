@@ -4812,6 +4812,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wa/sldu:7": {
+        "name": "Washington State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:7",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shelly Short",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
+        "overwrite_name": "Brian Dansel",
+        "emails": [
+          "Shelly.Short@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786 - 7612"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wa/sldu:12": {
         "name": "Washington State Senate district 12",
         "overwrite": "true",

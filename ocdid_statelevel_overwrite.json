@@ -25080,6 +25080,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wv/sldl:32": {
+        "name": "West Virginia State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 32",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:32",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shirley Love",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:32",
+        "overwrite_name": "Margaret Anne Staggers",
+        "emails": [
+          "shirley.love@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3337"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wv/sldl:44": {
         "name": "West Virginia State House district 44",
         "overwrite": "true",

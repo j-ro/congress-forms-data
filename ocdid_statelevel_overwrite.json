@@ -25043,6 +25043,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wv/sldl:22": {
+        "name": "West Virginia State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 22",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Eldridge",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:22",
+        "overwrite_name": "Michel Moffatt",
+        "emails": [
+          "jeff.eldridge@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3113"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wv/sldl:24": {
         "name": "West Virginia State House district 24",
         "overwrite": "true",

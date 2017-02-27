@@ -10041,6 +10041,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wa/sldu:48": {
+        "name": "Washington State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 48",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:48",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vandana Slatter",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:48",
+        "overwrite_name": "Patricia Kuderer",
+        "emails": [
+          "Vandana.Slatter@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786 - 7936"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wa/sldu:49": {
         "name": "Washington State House district 49",
         "overwrite": "true",

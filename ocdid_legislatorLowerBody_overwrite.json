@@ -443,5 +443,38 @@
 	   "overwrite_name": "Tom Price"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mt": {
+	   "name": "Montana",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives MT",
+	   "divisionId": "ocd-division/country:us/state:mt",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mt",
+	   "overwrite_name": "Ryan K. Zinke"
+	  }
+	 ]
 	}
 ]

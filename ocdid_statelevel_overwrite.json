@@ -11875,6 +11875,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:md/sldu:24": {
+	   "name": "Maryland State House district 24",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MD State House District 24",
+	   "divisionId": "ocd-division/country:us/state:md/sldu:24",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jazz Lewis",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:24",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"jazz.lewis@house.state.md.us"
+	   ],
+	   "phones": [
+	   		"410-841-3691"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:md/sldl:27a": {
 	   "name": "Maryland State Legislative Subdistrict 27A",
 	   "overwrite": "true",

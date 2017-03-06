@@ -18015,6 +18015,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wv/sldl:4": {
+        "name": "West Virginia State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 4",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joe Canestraro",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:4",
+        "overwrite_name": "David Evans",
+        "emails": [
+          "joe.canestraro@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3151"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wv/sldl:6": {
         "name": "West Virginia State House district 6",
         "overwrite": "true",
@@ -18231,6 +18268,43 @@
         ],
         "phones": [
           "(304) 340-3337"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wv/sldl:42": {
+        "name": "West Virginia State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 42",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:42",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephen Baldwin",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:42",
+        "overwrite_name": "Ray Canterbury",
+        "emails": [
+          "stephen.baldwin@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3131"
         ]
       }
     ]

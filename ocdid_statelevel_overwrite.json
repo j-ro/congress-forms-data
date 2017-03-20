@@ -4879,6 +4879,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nd/sldu:11": {
+        "name": "North Dakota State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State House District 11",
+        "divisionId": "ocd-division/country:us/state:nd/sldu:11",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gretchen Dobervich",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:11",
+        "overwrite_name": "Kris Wallman",
+        "emails": [
+          "gdobervich@nd.gov"
+        ],
+        "phones": [
+          "701-361-5627"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nd/sldu:12": {
         "name": "North Dakota State House district 12",
         "overwrite": "true",

@@ -7821,5 +7821,16 @@
 		"type": "Gov",
 		"ocd_id": "ocd-division/country:us/state:de",
 		"state": "DE"
+	},
+	"S001202": {
+		"example_address": "200 Clinton Avenue",
+		"example_city": "Huntsville",
+		"example_state": "AL",
+		"zip5": "35801",
+		"zip4": "4932",
+		"example_district": "",
+		"type": "Sen",
+		"mark": "true",
+		"name": "Luther Strange"
 	}
 }

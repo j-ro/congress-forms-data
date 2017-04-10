@@ -18749,5 +18749,65 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldl:7": {
+        "name": "Connecticut State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State House District 7",
+        "divisionId": "ocd-division/country:us/state:ct/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:7",
+        "overwrite_name": "Douglas McCrory"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldl:68": {
+        "name": "Connecticut State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State House District 68",
+        "divisionId": "ocd-division/country:us/state:ct/sldl:68",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:68",
+        "overwrite_name": "Eric C. Berthel"
+      }
+    ]
   }
 ]

@@ -2017,6 +2017,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldl:115": {
+        "name": "Connecticut State House district 115",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State House District 115",
+        "divisionId": "ocd-division/country:us/state:ct/sldl:115",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dorinda Borer",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:115",
+        "overwrite_name": "Dorinda Broer",
+        "emails": [
+          "Dorinda.Borer@cga.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-8500"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:id/sldu:4": {

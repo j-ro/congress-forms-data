@@ -504,5 +504,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:al": {
+	   "name": "Alabama",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:al",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kay Ivey",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:al",
+	   "overwrite_name": "Richard C. Shelby",
+	   "phones": [
+	   		"(334) 242-7100"
+	   ]
+	  }
+	 ]
 	}
 ]

@@ -10369,6 +10369,43 @@
 	]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:la/sldl:8": {
+        "name": "Louisiana State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State House District 8",
+        "divisionId": "ocd-division/country:us/state:la/sldl:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Raymond Crews",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:8",
+        "overwrite_name": "Raymond Crews",
+        "emails": [
+          "crewsr@legis.la.gov "
+        ],
+        "phones": [
+          "(318) 741-2790"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:la/sldl:80": {
 			"name": "Louisiana State House district 80",
@@ -10740,6 +10777,36 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_15": {
+        "name": "New Hampshire State House district Hillsborough County No. 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Hillsborough 15",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_15",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_15",
+        "overwrite_name": "Steve Vaillancourt"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_28": {
         "name": "New Hampshire State House district Hillsborough County No. 28",
         "overwrite": "true",
@@ -10846,6 +10913,36 @@
         "phones": [
           "(603) 491-0553"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_18": {
+        "name": "New Hampshire State House district Merrimack County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Merrimack 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "overwrite_name": "Andrew N. deTreville"
       }
     ]
   },
@@ -11104,6 +11201,43 @@
         ],
         "phones": [
           "(603) 382-5665"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:rockingham_18": {
+        "name": "New Hampshire State House district Rockingham County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Rockingham 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elizabeth M. Farnham",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_18",
+        "overwrite_name": "Elizabeth M. Farnham",
+        "emails": [
+          "efarnham@exeter.edu"
+        ],
+        "phones": [
+          "(603) 580-2586"
         ]
       }
     ]
@@ -12881,6 +13015,36 @@
         "phones": [
           "(860) 240-8500"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:95": {
+        "name": "Tennessee State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 95",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:95",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:95",
+        "overwrite_name": "Mark Lovell"
       }
     ]
   }

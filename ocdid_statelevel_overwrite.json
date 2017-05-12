@@ -1952,6 +1952,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ct/sldu:32": {
+        "name": "Connecticut State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric C. Berthel",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:32",
+        "overwrite_name": "Eric C. Berthel",
+        "emails": [
+          "eric.berthel@cga.ct.gov"
+        ],
+        "phones": [
+          "860-240-8800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ct/sldl:68": {
         "name": "Connecticut State House district 68",
         "overwrite": "true",
@@ -10198,6 +10235,40 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:12": {
+        "name": "Montana State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cydnie (Carlie) Boland",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:12",
+        "overwrite_name": "Mary Sheehy Moe",
+        "phones": [
+          "(406) 868-1029"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:mt/sldu:14": {
@@ -15126,6 +15197,43 @@
 	]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:la/sldl:8": {
+        "name": "Louisiana State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State House District 8",
+        "divisionId": "ocd-division/country:us/state:la/sldl:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Raymond Crews",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:8",
+        "overwrite_name": "Raymond Crews",
+        "emails": [
+          "crewsr@legis.la.gov "
+        ],
+        "phones": [
+          "(318) 741-2790"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:la/sldl:80": {
 			"name": "Louisiana State House district 80",
@@ -15195,6 +15303,43 @@
         ],
         "phones": [
           "(504) 361-6013"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldu:16": {
+        "name": "New Hampshire State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:nh/sldu:16",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott McGilvray",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:16",
+        "overwrite_name": "Scott McGilvray",
+        "emails": [
+          "Scott.McGilvray@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-3067 "
         ]
       }
     ]
@@ -15497,6 +15642,36 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_15": {
+        "name": "New Hampshire State House district Hillsborough County No. 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Hillsborough 15",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_15",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_15",
+        "overwrite_name": "Steve Vaillancourt"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_28": {
         "name": "New Hampshire State House district Hillsborough County No. 28",
         "overwrite": "true",
@@ -15603,6 +15778,36 @@
         "phones": [
           "(603) 491-0553"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_18": {
+        "name": "New Hampshire State House district Merrimack County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Merrimack 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "overwrite_name": "Andrew N. deTreville"
       }
     ]
   },
@@ -15861,6 +16066,43 @@
         ],
         "phones": [
           "(603) 382-5665"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:rockingham_18": {
+        "name": "New Hampshire State House district Rockingham County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Rockingham 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elizabeth M. Farnham",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_18",
+        "overwrite_name": "Elizabeth M. Farnham",
+        "emails": [
+          "efarnham@exeter.edu"
+        ],
+        "phones": [
+          "(603) 580-2586"
         ]
       }
     ]
@@ -18243,6 +18485,73 @@
         ],
         "phones": [
           "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:95": {
+        "name": "Tennessee State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 95",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:95",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:95",
+        "overwrite_name": "Mark Lovell"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:de/sldu:10": {
+        "name": "Delaware State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:de/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephanie L Hansen",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:10",
+        "overwrite_name": "Stephanie L Hansen",
+        "emails": [
+          "Stephanie.Hansen@state.de.us"
+        ],
+        "phones": [
+          "(302) 744-4138"
         ]
       }
     ]

@@ -1874,6 +1874,43 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldu:32": {
+        "name": "Connecticut State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric C. Berthel",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:32",
+        "overwrite_name": "Eric C. Berthel",
+        "emails": [
+          "eric.berthel@cga.ct.gov"
+        ],
+        "phones": [
+          "860-240-8800"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:fl/sldu:34": {
@@ -5105,6 +5142,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mt/sldu:12": {
+        "name": "Montana State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cydnie (Carlie) Boland",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:12",
+        "overwrite_name": "Mary Sheehy Moe",
+        "phones": [
+          "(406) 868-1029"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mt/sldu:14": {
         "name": "Montana State Senate district 14",
         "overwrite": "true",
@@ -5361,5 +5432,79 @@
 	   ]
 	  }
 	 ]
-	}
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:de/sldu:10": {
+        "name": "Delaware State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:de/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephanie L Hansen",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:10",
+        "overwrite_name": "Stephanie L Hansen",
+        "emails": [
+          "Stephanie.Hansen@state.de.us"
+        ],
+        "phones": [
+          "(302) 744-4138"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldu:16": {
+        "name": "New Hampshire State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:nh/sldu:16",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott McGilvray",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:16",
+        "overwrite_name": "Scott McGilvray",
+        "emails": [
+          "Scott.McGilvray@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-3067 "
+        ]
+      }
+    ]
+  }
 ]

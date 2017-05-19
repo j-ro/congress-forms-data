@@ -18555,5 +18555,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or/sldu:7": {
+        "name": "New Hampshire State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:or/sldu:7",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James I. Manning Jr.",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:7",
+        "overwrite_name": "Chris Edwards",
+        "emails": [
+          "Sen.JamesManning@oregonlegislature.gov"
+        ],
+        "phones": [
+          "503-986-1707"
+        ]
+      }
+    ]
   }
 ]

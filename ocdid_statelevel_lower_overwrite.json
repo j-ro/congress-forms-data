@@ -13047,5 +13047,42 @@
         "overwrite_name": "Mark Lovell"
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:18": {
+        "name": "Oregon State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 18",
+        "divisionId": "ocd-division/country:us/state:or/sldl:18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rick Lewis",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:18",
+        "overwrite_name": "Vic Gilliam",
+        "emails": [
+          "Rep.RickLewis@oregonlegislature.gov"
+        ],
+        "phones": [
+          "503-986-1418"
+        ]
+      }
+    ]
   }
 ]

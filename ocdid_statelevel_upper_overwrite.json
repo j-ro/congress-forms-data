@@ -4402,6 +4402,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:oh/sldu:7": {
+        "name": "Ohio State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:7",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Wilson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:7",
+        "overwrite_name": "Shannon Jones",
+        "emails": [
+          "SD07@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-9737"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:oh/sldu:8": {
         "name": "Ohio State Senate district 8",
         "overwrite": "true",

@@ -595,5 +595,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:34": {
+	   "name": "California's 34th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-34",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:34",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jimmy Gomez",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:34",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-6235"
+	   ]
+	  }
+	 ]
 	}
 ]

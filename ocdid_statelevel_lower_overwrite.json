@@ -7782,6 +7782,43 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:31": {
+	   "name": "Pennsylvania State House district 31",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 31",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:31",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Perry Warren",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:31",
+	   "overwrite_name": "Perry Warren",
+	   "emails": [
+	   		"repwarren@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 787-5475"
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:76": {
         "name": "Pennsylvania State House district 76",

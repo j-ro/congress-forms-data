@@ -1552,6 +1552,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldl:19": {
+	   "name": "California State Senate district 19",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State House District 19",
+	   "divisionId": "ocd-division/country:us/state:ca/sldl:19",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Philip Y. Ting",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:19",
+	   "overwrite_name": "Philip Y. Ting",
+	   "phones": [
+          "(916) 319-2019"
+        ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:51": {
 	   "name": "California State Senate district 51",
 	   "overwrite": "true",

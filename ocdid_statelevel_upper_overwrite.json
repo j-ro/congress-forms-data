@@ -408,6 +408,36 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:il/sldu:41": {
+	   "name": "Illinois State Senate district 41",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "IL State Senate District 41",
+	   "divisionId": "ocd-division/country:us/state:il/sldu:41",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:41",
+	   "overwrite_name": "Christine Radogno",
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ky/sldu:2": {
 	   "name": "Kentucky State Senate district 2",
 	   "overwrite": "true",

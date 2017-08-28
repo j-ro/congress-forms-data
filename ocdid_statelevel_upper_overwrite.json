@@ -549,6 +549,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ky/sldu:15": {
+	   "name": "Kentucky State Senate district 15",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "KY State Senate District 15",
+	   "divisionId": "ocd-division/country:us/state:ky/sldu:15",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Rick Girdler",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldu:15",
+	   "overwrite_name": "Chris Girdler",
+	   "emails": [
+	   		"Rick.Girdler@lrc.ky.gov"
+	   ],
+	   "phones": [
+	   		"502-564-8100 Ext. 776"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ky/sldu:16": {
 	   "name": "Kentucky State Senate district 16",
 	   "overwrite": "true",

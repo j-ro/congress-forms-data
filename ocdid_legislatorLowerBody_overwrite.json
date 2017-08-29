@@ -380,75 +380,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:mt": {
-	   "name": "Montana",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives MT",
-	   "divisionId": "ocd-division/country:us/state:mt",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Greg Gianforte",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:mt",
-	   "overwrite_name": "Vacant",
-	   "phones": [
-	   		"(202) 225-3211"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ut/cd:3": {
-	   "name": "Utah's 3rd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives UT-03",
-	   "divisionId": "ocd-division/country:us/state:ut/cd:3",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ut/cd:3",
-	   "overwrite_name": "Jason Chaffetz"
-	  }
-	 ]
-	},{
-	 "divisions": {
 	  "ocd-division/country:us/state:sc/cd:5": {
 	   "name": "South Carolina's 5th congressional district",
 	   "overwrite": "true",
@@ -477,7 +408,7 @@
 	   "name": "Ralph Norman",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:sc/cd:5",
-	   "overwrite_name": "Vacant",
+	   "overwrite_name": "Ralph Norman",
 	   "phones": [
 	   		"(202) 225-5501"
 	   ]
@@ -511,49 +442,12 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Karen Handel",
+	   "name": "Karen C. Handel",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:6",
-	   "overwrite_name": "Vacant",
+	   "overwrite_name": "Karen C. Handel",
 	   "phones": [
 	   		"(202) 225-4501"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ca/cd:34": {
-	   "name": "California's 34th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives CA-34",
-	   "divisionId": "ocd-division/country:us/state:ca/cd:34",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jimmy Gomez",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:34",
-	   "overwrite_name": "Vacant",
-	   "phones": [
-	   		"(202) 225-6235"
 	   ]
 	  }
 	 ]

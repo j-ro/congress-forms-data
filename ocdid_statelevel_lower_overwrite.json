@@ -3383,6 +3383,43 @@
 	]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:9": {
+        "name": "New York State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 9",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christine Pellegrino",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:9",
+        "overwrite_name": "Christine Pellegrino",
+        "emails": [
+          "pellegrinoc@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5305"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:59": {
 			"name": "New York State Senate district 59",
@@ -3455,6 +3492,43 @@
 		]
 	  }
 	]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:108": {
+        "name": "Mississippi State House district 108",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 108",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:108",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stacey Hobgood Wilkes",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:108",
+        "overwrite_name": "Stacey Hobgood Wilkes",
+        "emails": [
+          "swilkes@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3356"
+        ]
+      }
+    ]
   },
   {
 	"divisions": {
@@ -4872,6 +4946,117 @@
         ],
         "phones": [
           "(615) 741-1866"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldl:28": {
+        "name": "Oklahoma State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State House District 28",
+        "divisionId": "ocd-division/country:us/state:ok/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zack Taylor",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:28",
+        "overwrite_name": "Zack Taylor",
+        "emails": [
+          "zack.taylor@okhouse.gov"
+        ],
+        "phones": [
+          "(405) 557-7372"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldl:75": {
+        "name": "Oklahoma State House district 75",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State House District 75",
+        "divisionId": "ocd-division/country:us/state:ok/sldl:75",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen Gaddis",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:75",
+        "overwrite_name": "Karen Gaddis",
+        "emails": [
+          "karen.gaddis@okhouse.gov"
+        ],
+        "phones": [
+          "(405) 557-7356"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldl:84": {
+        "name": "South Carolina State House district 84",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State House District 84",
+        "divisionId": "ocd-division/country:us/state:sc/sldl:84",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ronnie Young",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:84",
+        "overwrite_name": "Ronnie Young",
+        "emails": [
+          "ronnieyoung@schouse.gov"
+        ],
+        "phones": [
+          "(803) 212-6917"
         ]
       }
     ]

@@ -1913,5 +1913,150 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:32": {
+        "name": "Georgia State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kay Kirkpatrick",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:32",
+        "overwrite_name": "Kay Kirkpatrick",
+        "emails": [
+          "kay.kirkpatrick@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0150"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:la/sldu:2": {
+        "name": "Louisiana State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:la/sldu:2",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Edward \"Ed\" Price",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldu:2",
+        "overwrite_name": "Edward \"Ed\" Price",
+        "emails": [
+          "pricee@legis.la.gov"
+        ],
+        "phones": [
+          "(225) 644-6738"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldu:44": {
+        "name": "Oklahoma State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:ok/sldu:44",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Brooks",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:44",
+        "overwrite_name": "Michael Brooks",
+        "emails": [
+          "brooks@oksenate.gov"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:3": {
+        "name": "South Carolina State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:3",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard Cash",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:3",
+        "overwrite_name": "Richard Cash",
+        "emails": [
+          "richardcash@scsenate.gov"
+        ],
+        "phones": [
+          "(803) 212-6130"
+        ]
+      }
+    ]
   }
 ]

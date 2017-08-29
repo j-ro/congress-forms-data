@@ -3211,43 +3211,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nj/sldu:25": {
-	   "name": "New Jersey State Senate district 25",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NJ State House District 25",
-	   "divisionId": "ocd-division/country:us/state:nj/sldu:25",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Anthony M. Bucco",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:25",
-	   "overwrite_name": "Anthony M. Bucco",
-	   "emails": [
-	   		"AsmBucco@njleg.org"
-	   ],
-	   "phones": [
-	   		"(973) 927-2526"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:27": {
 	   "name": "New Jersey State Senate district 27",
 	   "overwrite": "true",

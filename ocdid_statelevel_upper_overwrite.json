@@ -147,43 +147,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:co/sldu:6": {
-        "name": "Colorado State Senate district 6",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CO State Senate District 6",
-        "divisionId": "ocd-division/country:us/state:co/sldu:6",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Don Coram",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:6",
-        "overwrite_name": "Ellen S. Roberts",
-        "emails": [
-          "don.coram.senate@state.co.us"
-        ],
-        "phones": [
-          "303-866-4884"
-        ]
-      }
-    ]
-  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:12": {
@@ -1282,43 +1245,6 @@
 	 ]
 	},
 	{
-	 "divisions": {
-	  "ocd-division/country:us/state:sd/sldu:10": {
-	   "name": "South Dakota State Senate district 10",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "SD State Senate District 10",
-	   "divisionId": "ocd-division/country:us/state:sd/sldu:10",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jenna Haggar",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:10",
-	   "overwrite_name": "Jenna Haggar",
-	   "emails": [
-	   		"sen.haggar@state.sd.us"
-	   ],
-	   "phones": [
-	   		"605-773-3821"
-	   ]
-	  }
-	 ]
-	},
-	{
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:11": {
         "name": "South Dakota State Senate district 11",
@@ -1932,9 +1858,9 @@
     "officials": [
       {
         "name": "Josh Newman",
-        "party": "Democratic",
+        "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:29",
-        "overwrite_name": "Ling Ling Chang",
+        "overwrite_name": "Josh Newman",
         "phones": [
           "(916) 651-4029"
         ]
@@ -1965,10 +1891,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Gary A. Holder-Winfield",
+	   "name": "Gary A. Winfield",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:10",
-	   "overwrite_name": "Gary A. Holder-Winfield",
+	   "overwrite_name": "Gary A. Winfield",
 	   "emails": [
 	   		"winfield@senatedems.ct.gov"
 	   ],
@@ -2011,43 +1937,6 @@
         ],
         "phones": [
           "860-240-8800"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:fl/sldu:34": {
-        "name": "Florida State Senate district 34",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "FL State Senate District 34",
-        "divisionId": "ocd-division/country:us/state:fl/sldu:34",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gary M. Farmer, Jr.",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:34",
-        "overwrite_name": "Antoanet Iotova",
-        "emails": [
-          "Farmer.Gary.web@flsenate.gov"
-        ],
-        "phones": [
-          "(850) 487-5034"
         ]
       }
     ]
@@ -2915,44 +2804,7 @@
 		]
 	  }
 	]
-  }, 
-  {
-	"divisions": {
-		"ocd-division/country:us/state:nj/sldu:2": {
-			"name": "New Jersey State Senate district 2",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NJ State Senate District 2",
-		"divisionId": "ocd-division/country:us/state:nj/sldu:2",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Jim Whelan",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:2",
-		"overwrite_name": "Jim Whelan",
-		"emails": [
-		  "SenWhelan@njleg.org"
-		],
-		"phones": [
-		  "(609) 383-1388"
-		]
-	  }
-	]
-  }, 
+  },
   {
 	"divisions": {
 		"ocd-division/country:us/state:nj/sldu:35": {
@@ -3769,43 +3621,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:wa/sldu:7": {
-        "name": "Washington State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WA State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:7",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Shelly Short",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
-        "overwrite_name": "Brian Dansel",
-        "emails": [
-          "Shelly.Short@leg.wa.gov"
-        ],
-        "phones": [
-          "(360) 786 - 7612"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:wa/sldu:12": {
         "name": "Washington State Senate district 12",
         "overwrite": "true",
@@ -4028,43 +3843,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:wa/sldu:31": {
-        "name": "Washington State Senate district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WA State Senate District 31",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:31",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Phil Fortunato",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:31",
-        "overwrite_name": "Pam Roach",
-        "emails": [
-          "Phil.Fortunato@leg.wa.gov"
-        ],
-        "phones": [
-          "(360) 786 - 7660"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:wa/sldu:37": {
         "name": "Washington State Senate district 37",
         "overwrite": "true",
@@ -4133,43 +3911,6 @@
         ],
         "phones": [
           "(360) 786 - 7641 "
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wa/sldu:45": {
-        "name": "Washington State Senate district 45",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WA State Senate District 45",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:45",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Dino Rossi ",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:45",
-        "overwrite_name": "Andy Hill",
-        "emails": [
-          "Dino.Rossi@leg.wa.gov"
-        ],
-        "phones": [
-          "(360) 786 - 7672"
         ]
       }
     ]
@@ -4500,43 +4241,6 @@
         ],
         "phones": [
           "701-318-6300"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldu:7": {
-        "name": "Ohio State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:oh/sldu:7",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Steve Wilson",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:7",
-        "overwrite_name": "Shannon Jones",
-        "emails": [
-          "SD07@ohiosenate.gov"
-        ],
-        "phones": [
-          "(614) 466-9737"
         ]
       }
     ]
@@ -5283,114 +4987,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:mt/sldu:12": {
-        "name": "Montana State Senate district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MT State Senate District 12",
-        "divisionId": "ocd-division/country:us/state:mt/sldu:12",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Cydnie (Carlie) Boland",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:12",
-        "overwrite_name": "Mary Sheehy Moe",
-        "phones": [
-          "(406) 868-1029"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mt/sldu:14": {
-        "name": "Montana State Senate district 14",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MT State Senate District 14",
-        "divisionId": "ocd-division/country:us/state:mt/sldu:14",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Russ Tempel",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:14",
-        "overwrite_name": "Kristin Hansen",
-        "emails": [
-          "Sen.Russ.Tempel@mt.gov"
-        ],
-        "phones": [
-          "(406) 444-4800"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mt/sldu:21": {
-        "name": "Montana State Senate district 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MT State Senate District 21",
-        "divisionId": "ocd-division/country:us/state:mt/sldu:21",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jason Small",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:21",
-        "overwrite_name": "Carolyn Pease-Lopez",
-        "emails": [
-          "Sen.Jason.Small@mt.gov"
-        ],
-        "phones": [
-          "(406) 444-4800"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:va/sldu:1": {
         "name": "Virginia State Senate district 1",
         "overwrite": "true",
@@ -5422,117 +5018,6 @@
         ],
         "phones": [
           "(804) 698-7501"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wv/sldu:6": {
-        "name": "West Virginia State Senate district 6",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WV State Senate District 6",
-        "divisionId": "ocd-division/country:us/state:wv/sldu:6",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Chandler Swope",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:6",
-        "overwrite_name": "Rockwell \"Rocky\" Seay",
-        "emails": [
-          "chandler.swope@wvsenate.gov"
-        ],
-        "phones": [
-          "(304) 357-7843"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wv/sldu:10": {
-        "name": "West Virginia State Senate district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WV State Senate District 10",
-        "divisionId": "ocd-division/country:us/state:wv/sldu:10",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kenny Mann",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:10",
-        "overwrite_name": "Dave Perry",
-        "emails": [
-          "kenny.mann@wvsenate.gov"
-        ],
-        "phones": [
-          "(304) 357-7849"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wv/sldu:12": {
-        "name": "West Virginia State Senate district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WV State Senate District 12",
-        "divisionId": "ocd-division/country:us/state:wv/sldu:12",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Douglas E. Facemire",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:12",
-        "overwrite_name": "Franklin D. Cornette II",
-        "emails": [
-          "douglas.facemire@wvsenate.gov"
-        ],
-        "phones": [
-          "(304) 357-7845"
         ]
       }
     ]
@@ -5635,52 +5120,15 @@
     ],
     "officials": [
       {
-        "name": "Scott McGilvray",
+        "name": "Kevin Cavanaugh",
         "party": "Democratic",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:16",
-        "overwrite_name": "Scott McGilvray",
+        "overwrite_name": "Vacant",
         "emails": [
-          "Scott.McGilvray@leg.state.nh.us"
+          "Kevin.Cavanaugh@leg.state.nh.us"
         ],
         "phones": [
           "(603) 271-3067"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:or/sldu:7": {
-        "name": "Oregon State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OR State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:or/sldu:7",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "James I. Manning Jr.",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:7",
-        "overwrite_name": "Chris Edwards",
-        "emails": [
-          "Sen.JamesManning@oregonlegislature.gov"
-        ],
-        "phones": [
-          "503-986-1707"
         ]
       }
     ]

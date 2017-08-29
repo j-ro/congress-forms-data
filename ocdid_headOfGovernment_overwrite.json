@@ -504,45 +504,5 @@
 	   ]
 	  }
 	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ia": {
-	   "name": "Hawaii",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:ia",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Kim Reynolds",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ia",
-	   "overwrite_name": "Terry Branstad",
-	   "emails": [
-	   		"Contact.Governor@Iowa.gov"
-	   ],
-	   "phones": [
-	   		"(515) 281-5211"
-	   ]
-	  }
-	 ]
 	}
 ]

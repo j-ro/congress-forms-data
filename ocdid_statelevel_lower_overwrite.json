@@ -251,6 +251,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:30": {
+	   "name": "New Jersey State Senate district 30",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 30",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:30",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Edward H. Thomson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:30",
+	   "overwrite_name": "Edward H. Thomson",
+	   "emails": [
+	   		"AsmThomson@njleg.org"
+	   ],
+	   "phones": [
+	   		"(732) 974-0400"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:31": {
 	   "name": "New Jersey State Senate district 31",
 	   "overwrite": "true",

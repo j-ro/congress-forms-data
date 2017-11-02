@@ -2588,6 +2588,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldl:20": {
+	   "name": "California State Senate district 20",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State House District 20",
+	   "divisionId": "ocd-division/country:us/state:ca/sldl:20",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Bill Quirk",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:20",
+	   "overwrite_name": "Bill Quirk",
+	   "phones": [
+          "(916) 319-2020"
+        ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:73": {
 	   "name": "California State Senate district 73",
 	   "overwrite": "true",

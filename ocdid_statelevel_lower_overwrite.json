@@ -210,43 +210,6 @@
 	 ]
 	},
 	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nj/sldu:29": {
-	   "name": "New Jersey State Senate district 29",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NJ State House District 29",
-	   "divisionId": "ocd-division/country:us/state:nj/sldu:29",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Blonnie R. Watson ",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:29",
-	   "overwrite_name": "Blonnie R. Watson",
-	   "emails": [
-	   		"AswWatson@njleg.org"
-	   ],
-	   "phones": [
-	   		"(973) 624-1730"
-	   ]
-	  }
-	 ]
-	},
-	{
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:4": {
         "name": "North Dakota State House district 4",
@@ -2715,6 +2678,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:belknap_9": {
+        "name": "New Hampshire State House district Belknap County No. 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Belknap 9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charlie St. Clair",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_9",
+        "overwrite_name": "Charlie St. Clair",
+        "emails": [
+          "Charlie.StClair@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 387-5944"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_5": {
         "name": "New Hampshire State House district Coos County No. 5",
         "overwrite": "true",
@@ -2789,6 +2789,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:grafton_9": {
+        "name": "New Hampshire State House district Grafton County No. 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Grafton 9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vincent Paul Migliore",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "overwrite_name": "Vincent Paul Migliore",
+        "emails": [
+          "vpmigliore@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 744-5800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_13": {
         "name": "New Hampshire State House district Hillsborough County No. 13",
         "overwrite": "true",
@@ -2857,6 +2894,43 @@
         ],
         "phones": [
           "(603) 478-0013"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_18": {
+        "name": "New Hampshire State House district Merrimack County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Merrimack 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kris Schultz",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "overwrite_name": "Kris Schultz",
+        "emails": [
+          "Kris.Schultz@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 856-7279"
         ]
       }
     ]
@@ -4098,6 +4172,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ok/sldl:46": {
+        "name": "Oklahoma State House district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State House District 46",
+        "divisionId": "ocd-division/country:us/state:ok/sldl:46",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacob Rosecrants",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:46",
+        "overwrite_name": "Jacob Rosecrants",
+        "emails": [
+          "jacob.rosecrants@okhouse.gov"
+        ],
+        "phones": [
+          "(405) 557-7329"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ok/sldl:75": {
         "name": "Oklahoma State House district 75",
         "overwrite": "true",
@@ -4166,6 +4277,80 @@
         ],
         "phones": [
           "(803) 212-6917"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldl:116": {
+        "name": "Florida State House district 116",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State House District 116",
+        "divisionId": "ocd-division/country:us/state:fl/sldl:116",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel Perez",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:116",
+        "overwrite_name": "Daniel Perez",
+        "emails": [
+          "daniel.perez@myfloridahouse.gov"
+        ],
+        "phones": [
+          "(850) 717-5116"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldl:16": {
+        "name": "North Carolina State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State House District 16",
+        "divisionId": "ocd-division/country:us/state:nc/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Muller",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:16",
+        "overwrite_name": "Bob Muller",
+        "emails": [
+          "Bob.Muller@ncleg.net"
+        ],
+        "phones": [
+          "(919) 715-9664"
         ]
       }
     ]

@@ -620,43 +620,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:mi/sldu:20": {
-	   "name": "Michigan State Senate district 20",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MI State Senate District 20",
-	   "divisionId": "ocd-division/country:us/state:mi/sldu:20",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Margaret O'Brien",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:20",
-	   "overwrite_name": "Margaret O'Brien",
-	   "emails": [
-	   		"SenMOBrien@senate.michigan.gov"
-	   ],
-	   "phones": [
-	   		"517-373-5100"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:mi/sldu:25": {
 	   "name": "Michigan State Senate district 25",
 	   "overwrite": "true",
@@ -722,43 +685,6 @@
 	   ],
 	   "phones": [
 	   		"517-373-0793"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nj/sldu:29": {
-	   "name": "New Jersey State Senate district 29",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "NJ State House District 29",
-	   "divisionId": "ocd-division/country:us/state:nj/sldu:29",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Blonnie R. Watson",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:29",
-	   "overwrite_name": "Blonnie R. Watson",
-	   "emails": [
-	   		"AswWatson@njleg.org"
-	   ],
-	   "phones": [
-	   		"(973) 624-1730"
 	   ]
 	  }
 	 ]
@@ -3654,6 +3580,43 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldu:26": {
+        "name": "Texas State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:26",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jose Menendez",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:26",
+        "overwrite_name": "Jose Men_ndez",
+        "emails": [
+          "jose.menendez@senate.state.tx.us"
+        ],
+        "phones": [
+          "(512) 463-0126"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:vt/sldl:rutland-bennington": {
 	   "name": "Vermont Rutland-Bennington State House district",
@@ -3884,6 +3847,43 @@
         ],
         "phones": [
           "(573) 751-5568"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:28": {
+        "name": "Missouri State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sandy Crawford",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:28",
+        "overwrite_name": "Sandy Crawford",
+        "emails": [
+          "Sandy.Crawford@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-8793"
         ]
       }
     ]
@@ -4297,6 +4297,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:belknap_9": {
+        "name": "New Hampshire State House district Belknap County No. 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Belknap 9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charlie St. Clair",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_9",
+        "overwrite_name": "Charlie St. Clair",
+        "emails": [
+          "Charlie.StClair@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 387-5944"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_5": {
         "name": "New Hampshire State House district Coos County No. 5",
         "overwrite": "true",
@@ -4371,6 +4408,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:grafton_9": {
+        "name": "New Hampshire State House district Grafton County No. 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Grafton 9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vincent Paul Migliore",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "overwrite_name": "Vincent Paul Migliore",
+        "emails": [
+          "vpmigliore@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 744-5800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_13": {
         "name": "New Hampshire State House district Hillsborough County No. 13",
         "overwrite": "true",
@@ -4439,6 +4513,43 @@
         ],
         "phones": [
           "(603) 478-0013"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_18": {
+        "name": "New Hampshire State House district Merrimack County No. 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District Merrimack 18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kris Schultz",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_18",
+        "overwrite_name": "Kris Schultz",
+        "emails": [
+          "Kris.Schultz@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 856-7279"
         ]
       }
     ]
@@ -6013,6 +6124,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ok/sldl:46": {
+        "name": "Oklahoma State House district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State House District 46",
+        "divisionId": "ocd-division/country:us/state:ok/sldl:46",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacob Rosecrants",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:46",
+        "overwrite_name": "Jacob Rosecrants",
+        "emails": [
+          "jacob.rosecrants@okhouse.gov"
+        ],
+        "phones": [
+          "(405) 557-7329"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ok/sldl:75": {
         "name": "Oklahoma State House district 75",
         "overwrite": "true",
@@ -6189,6 +6337,154 @@
         ],
         "phones": [
           "(404) 656-0150"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:40": {
+        "name": "Florida State Senate district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 40",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:40",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Annette Taddeo",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:40",
+        "overwrite_name": "Annette Taddeo",
+        "emails": [
+          "annette.taddeo.web@flsenate.gov"
+        ],
+        "phones": [
+          "(305) 596-3003"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldl:116": {
+        "name": "Florida State House district 116",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State House District 116",
+        "divisionId": "ocd-division/country:us/state:fl/sldl:116",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel Perez",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:116",
+        "overwrite_name": "Daniel Perez",
+        "emails": [
+          "daniel.perez@myfloridahouse.gov"
+        ],
+        "phones": [
+          "(850) 717-5116"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldl:16": {
+        "name": "North Carolina State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State House District 16",
+        "divisionId": "ocd-division/country:us/state:nc/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Muller",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:16",
+        "overwrite_name": "Bob Muller",
+        "emails": [
+          "Bob.Muller@ncleg.net"
+        ],
+        "phones": [
+          "(919) 715-9664"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ri/sldu:13": {
+        "name": "Rhode Island State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "RI State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:ri/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dawn Euer",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:13",
+        "overwrite_name": "Dawn Euer",
+        "emails": [
+          "sen-euer@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 222-6655"
         ]
       }
     ]

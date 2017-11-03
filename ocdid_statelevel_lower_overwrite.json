@@ -72,43 +72,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:az/sldu:4": {
-	   "name": "Arizona State Senate district 4",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "AZ State House District 4",
-	   "divisionId": "ocd-division/country:us/state:az/sldu:4",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Jesus Rubalcava",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:4",
-	   "overwrite_name": "Vacant",
-	   "emails": [
-	   		"JRUBALCAVA@azleg.gov"
-	   ],
-	   "phones": [
-	   		"(602) 926-4842"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:19": {
 	   "name": "California State Senate district 19",
 	   "overwrite": "true",
@@ -3637,43 +3600,6 @@
 		]
 	  }
 	]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:belknap_5": {
-        "name": "New Hampshire State House district Belknap County No. 5",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Belknap 5",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_5",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Michael F. Maloney",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_5",
-        "overwrite_name": "Michael F. Maloney",
-        "emails": [
-          "Michael.Maloney@leg.state.nh.us"
-        ],
-        "phones": [
-		  "(603) 271-3661"
-		]
-      }
-    ]
   },
   {
     "divisions": {

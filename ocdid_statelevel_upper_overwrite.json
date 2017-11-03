@@ -1916,43 +1916,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldu:16": {
-        "name": "New Hampshire State Senate district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State Senate District 16",
-        "divisionId": "ocd-division/country:us/state:nh/sldu:16",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kevin Cavanaugh",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:16",
-        "overwrite_name": "Vacant",
-        "emails": [
-          "Kevin.Cavanaugh@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 271-3067"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ga/sldu:32": {
         "name": "Georgia State Senate district 32",
         "overwrite": "true",

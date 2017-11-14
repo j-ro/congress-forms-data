@@ -451,5 +451,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ut/cd:3": {
+	   "name": "Utah's 3rd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives UT-03",
+	   "divisionId": "ocd-division/country:us/state:ut/cd:3",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "John Curtis",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ut/cd:3",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"202-225-7751"
+	   ]
+	  }
+	 ]
 	}
 ]

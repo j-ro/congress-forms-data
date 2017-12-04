@@ -1751,6 +1751,43 @@
       }
     ]
   },
+  {
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:3": {
+	   "name": "Pennsylvania State House district 3",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 3",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:3",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ryan A. Bizzarro",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:3",
+	   "overwrite_name": "Ryan A. Bizzarro",
+	   "emails": [
+	   		"rbizzarro@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 772-2297"
+	   ]
+	  }
+	 ]
+	},
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:22": {

@@ -558,5 +558,38 @@
 	   "overwrite_name": "John Conyers Jr."
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:az/cd:8": {
+	   "name": "Arizona's 8th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives AZ-8",
+	   "divisionId": "ocd-division/country:us/state:az/cd:8",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az/cd:8",
+	   "overwrite_name": "Trent Franks"
+	  }
+	 ]
 	}
 ]

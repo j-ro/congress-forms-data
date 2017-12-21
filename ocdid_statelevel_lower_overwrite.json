@@ -4067,40 +4067,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:oh/sldl:87": {
-        "name": "Ohio State House district 87",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 87",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:87",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Wes Goodman",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:87",
-        "overwrite_name": "Wes Goodman",
-        "phones": [
-          "(614) 644-6265"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:oh/sldl:94": {
         "name": "Ohio State House district 94",
         "overwrite": "true",

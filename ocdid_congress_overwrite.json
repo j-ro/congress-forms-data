@@ -665,5 +665,38 @@
 	   "overwrite_name": "Trent Franks"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mn": {
+	   "name": "Minnesota",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:mn",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mn",
+	   "overwrite_name": "Al Franken"
+	  }
+	 ]
 	}
 ]

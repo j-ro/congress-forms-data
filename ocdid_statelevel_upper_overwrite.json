@@ -2135,5 +2135,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldu:39": {
+        "name": "Washington State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:39",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Keith Wagoner",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:39",
+        "overwrite_name": "Vacant",
+        "emails": [
+          "keith.wagoner@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7676"
+        ]
+      }
+    ]
   }
 ]

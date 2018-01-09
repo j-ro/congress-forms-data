@@ -2008,8 +2008,8 @@
 	},
   {
     "divisions": {
-      "ocd-division/country:us/state:wa/sldu:7": {
-        "name": "Washington State House district 7",
+      "ocd-division/country:us/state:wa/sldu:39": {
+        "name": "Washington State Senate district 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -2018,10 +2018,10 @@
     },
     "offices": [
       {
-        "name": "WA State House District 7",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:7",
+        "name": "WA State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:39",
         "roles": [
-          "legislatorLowerBody"
+          "legislatorUpperBody"
         ],
         "officialIndices": [
           0
@@ -2030,15 +2030,15 @@
     ],
     "officials": [
       {
-        "name": "Jacquelin Maycumber",
+        "name": "Keith Wagoner",
         "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
-        "overwrite_name": "Shelly Short",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:39",
+        "overwrite_name": "Vacant",
         "emails": [
-          "Jacquelin.Maycumber@leg.wa.gov"
+          "keith.wagoner@leg.wa.gov"
         ],
         "phones": [
-          "(360) 786 - 7908"
+          "(360) 786-7676"
         ]
       }
     ]

@@ -1048,43 +1048,6 @@
 	  }
 	 ]
 	},
-    {
-    "divisions": {
-      "ocd-division/country:us/state:wa/sldu:7": {
-        "name": "Washington State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WA State House District 7",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:7",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jacquelin Maycumber",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:7",
-        "overwrite_name": "Shelly Short",
-        "emails": [
-          "Jacquelin.Maycumber@leg.wa.gov"
-        ],
-        "phones": [
-          "(360) 786 - 7908"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:63": {

@@ -504,5 +504,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:va": {
+	   "name": "Virginia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:va",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ralph Northam",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:va",
+	   "overwrite_name": "Terry McAuliffe",
+	   "phones": [
+	   		"804-786-2211"
+	   ]
+	  }
+	 ]
 	}
 ]

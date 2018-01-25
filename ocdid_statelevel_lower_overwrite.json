@@ -1161,6 +1161,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldl:110": {
+        "name": "Illinois State House district 110",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 110",
+        "divisionId": "ocd-division/country:us/state:il/sldl:110",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Reginald \"Reggie\" Phillips",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:110",
+        "overwrite_name": "Reginald \"Reggie\" Phillips",
+        "emails": [
+          "phillips@ilhousegop.org"
+        ],
+        "phones": [
+          "(217) 558-1040"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ky/sldl:16": {
         "name": "Kentucky State House district 16",
         "overwrite": "true",

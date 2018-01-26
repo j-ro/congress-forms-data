@@ -2172,5 +2172,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ut/sldu:8": {
+        "name": "Utah State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "UT State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ut/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Zehnder",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:8",
+        "overwrite_name": "Brian E. Shiozawa",
+        "emails": [
+          "bzehnder@le.utah.gov"
+        ],
+        "phones": [
+          "801-330-0380"
+        ]
+      }
+    ]
   }
 ]

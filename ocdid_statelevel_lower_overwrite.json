@@ -5060,5 +5060,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ut/sldl:63": {
+        "name": "Utah State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "UT State House District 64",
+        "divisionId": "ocd-division/country:us/state:ut/sldl:63",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adam Robertson",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:63",
+        "overwrite_name": "Dean Sanpei",
+        "emails": [
+          "adamrobertson@le.utah.gov"
+        ],
+        "phones": [
+          "385-325-2877"
+        ]
+      }
+    ]
   }
 ]

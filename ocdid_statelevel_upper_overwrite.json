@@ -2209,5 +2209,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:26": {
+        "name": "New York State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:26",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian P. Kavanagh",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:26",
+        "overwrite_name": "Brian P. Kavanagh",
+        "emails": [
+          "kavanagh@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2625"
+        ]
+      }
+    ]
   }
 ]

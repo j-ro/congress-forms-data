@@ -2991,6 +2991,43 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:35": {
+	   "name": "Pennsylvania State House district 35",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 35",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:35",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Austin A. Davis",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:35",
+	   "overwrite_name": "Vacant",
+	   "emails": [
+	   		"adavis@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(412) 664-0035 "
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:45": {
         "name": "Pennsylvania State House district 45",

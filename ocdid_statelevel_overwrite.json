@@ -693,6 +693,43 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:36": {
+	   "name": "New Jersey State Senate district 36",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 36",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:36",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Clinton Calabrese",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:36",
+	   "overwrite_name": "Clinton Calabrese",
+	   "emails": [
+	   		"AsmCalabrese@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 943-0615"
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:4": {
         "name": "North Dakota State House district 4",

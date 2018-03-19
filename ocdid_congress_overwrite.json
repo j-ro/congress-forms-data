@@ -698,5 +698,38 @@
 	   "overwrite_name": "Patrick J. Tiberi"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/cd:25": {
+	   "name": "New York's 25th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NY-25",
+	   "divisionId": "ocd-division/country:us/state:ny/cd:25",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:25",
+	   "overwrite_name": "Louise McIntosh Slaughter"
+	  }
+	 ]
 	}
 ]

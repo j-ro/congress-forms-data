@@ -3927,6 +3927,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mo/sldu:8": {
+	   "name": "Missouri State Senate district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MO State Senate District 8",
+	   "divisionId": "ocd-division/country:us/state:mo/sldu:8",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike Cierpiot",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:8",
+	   "overwrite_name": "Mike Cierpiot",
+	   "emails": [
+	   		"Mike.Cierpiot@house.mo.gov"
+	   ],
+	   "phones": [
+	   		"(573) 751-1464"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mo/sldu:10": {
 	   "name": "Missouri State Senate district 10",
 	   "overwrite": "true",

@@ -657,5 +657,38 @@
 	   "overwrite_name": "Louise McIntosh Slaughter"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:tx/cd:27": {
+	   "name": "Texas's 27th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives TX-27",
+	   "divisionId": "ocd-division/country:us/state:tx/cd:27",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:27",
+	   "overwrite_name": "Blake Farenthold"
+	  }
+	 ]
 	}
 ]

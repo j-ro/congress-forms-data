@@ -7490,5 +7490,42 @@
         ]
       }
     ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:26": {
+        "name": "Colorado State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 26",
+        "divisionId": "ocd-division/country:us/state:co/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dylan Roberts",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:26",
+        "overwrite_name": "Dylan Roberts",
+        "emails": [
+          "dylan.roberts.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2923"
+        ]
+      }
+    ]
   }
 ]

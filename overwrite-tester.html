@@ -605,13 +605,13 @@
 													match = true;
 													overwrite_object = value1;
 													
-													if (overwrite_party && value1.party.toLowerCase() != overwrite_party.toLowerCase()) {
+													if (overwrite_party && value1.party && value1.party.toLowerCase() != overwrite_party.toLowerCase()) {
 														match_party = true;
 													}
 													
 													if (typeof(value1.emails !== 'undefined') && Array.isArray(value1.emails) && value1.emails.length > 0) {				
 														$.each(value1.emails, function(index2, value2) {
-															if (overwrite_email && value2.toLowerCase() != overwrite_email.toLowerCase()) {
+															if (overwrite_email && value2 && value2.toLowerCase() != overwrite_email.toLowerCase()) {
 																match_email = true;
 															}
 														});

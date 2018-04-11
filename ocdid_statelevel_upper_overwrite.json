@@ -221,6 +221,40 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:17": {
+        "name": "Illinois State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:il/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elgie R. Sims, Jr.",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:17",
+        "overwrite_name": "Elgie R. Sims, Jr.",
+        "phones": [
+          "(217) 782-3201"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:il/sldu:36": {
@@ -1879,6 +1913,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/sldu:54": {
+        "name": "Minnesota State Senate district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 54",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:54",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karla Bigham",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:54",
+        "overwrite_name": "Karla Bigham",
+        "emails": [
+          "sen.Karla.Bigham@senate.mn"
+        ],
+        "phones": [
+          "(651) 297-8060"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mn/sldu:64": {
         "name": "Minnesota State Senate district 64",
         "overwrite": "true",
@@ -1910,6 +1981,43 @@
         ],
         "phones": [
           "651-296-5931"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:6": {
+        "name": "Georgia State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer Jordan",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:6",
+        "overwrite_name": "Jennifer Jordan",
+        "emails": [
+          "jennifer.jordan@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-2518"
         ]
       }
     ]
@@ -1953,6 +2061,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ga/sldu:39": {
+        "name": "Georgia State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:39",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nikema Williams",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:39",
+        "overwrite_name": "Nikema Williams",
+        "emails": [
+          "nikema.williams@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-5091"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:la/sldu:2": {
         "name": "Louisiana State Senate district 2",
         "overwrite": "true",
@@ -1990,6 +2135,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ok/sldu:27": {
+        "name": "Oklahoma State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:ok/sldu:27",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Casey Murdock",
+        "party": "undefined",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:27",
+        "overwrite_name": "Casey Murdock",
+        "emails": [
+          "murdock@oksenate.gov"
+        ],
+        "phones": [
+          "(405) 521-5626"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldu:37": {
+        "name": "Oklahoma State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:ok/sldu:37",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Allison Ikley-Freeman",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:37",
+        "overwrite_name": "Allison Ikley-Freeman",
+        "emails": [
+          "ikley-freeman@oksenate.gov"
+        ],
+        "phones": [
+          "(405) 521-5600"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ok/sldu:44": {
         "name": "Oklahoma State Senate district 44",
         "overwrite": "true",
@@ -2018,6 +2237,43 @@
         "overwrite_name": "Michael Brooks",
         "emails": [
           "brooks@oksenate.gov"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldu:45": {
+        "name": "Oklahoma State Senate district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State Senate District 45",
+        "divisionId": "ocd-division/country:us/state:ok/sldu:45",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Rosino",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:45",
+        "overwrite_name": "Paul Rosino",
+        "emails": [
+          "rosino@oksenate.gov"
+        ],
+        "phones": [
+          "(405) 521-5618"
         ]
       }
     ]
@@ -2240,6 +2496,265 @@
         ],
         "phones": [
           "(518) 455-2625"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex": {
+        "name": "Massachusetts Worcester & Middlesex State Senate district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District Worcester and Middlesex",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dean A. Tran",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex",
+        "overwrite_name": "Dean A. Tran",
+        "emails": [
+          "dean.tran@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1230"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:49": {
+        "name": "Mississippi State Senate district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 49",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:49",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joel Carter",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:49",
+        "overwrite_name": "Joel Carter",
+        "emails": [
+          "jcarter@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3237"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne/sldu:6": {
+        "name": "Nebraska State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NE State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ne/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Theresa Thibodeau",
+        "party": "Nonpartisan",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:6",
+        "overwrite_name": "Theresa Thibodeau",
+        "emails": [
+          "tthibodeau@leg.ne.gov"
+        ],
+        "phones": [
+          "(402) 471-2714"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or/sldu:19": {
+        "name": "Oregon State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:or/sldu:19",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rob Wagner",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:19",
+        "overwrite_name": "Rob Wagner",
+        "emails": [
+          "Sen.RobWagner@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1719"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or/sldu:30": {
+        "name": "Oregon State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:or/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cliff Bentz",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:30",
+        "overwrite_name": "Cliff Bentz",
+        "emails": [
+          "Sen.CliffBentz@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1950"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldu:17": {
+        "name": "Tennessee State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:tn/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Pody",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldu:17",
+        "overwrite_name": "Mark Pody",
+        "emails": [
+          "sen.mark.pody@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-2421"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wv/sldu:10": {
+        "name": "West Virginia State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:wv/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephen Baldwin",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:10",
+        "overwrite_name": "Stephen Baldwin",
+        "emails": [
+          "stephen.baldwin@wvsenate.gov"
+        ],
+        "phones": [
+          "(304) 357-7959"
         ]
       }
     ]

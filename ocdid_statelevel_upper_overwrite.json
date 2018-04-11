@@ -861,13 +861,16 @@
     ],
     "officials": [
       {
-        "name": "David Novstrup",
+        "name": "Al Novstrup",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
         "overwrite_name": "David Novstrup",
         "emails": [
-          "David.Novstrup@sdlegislature.gov"
-        ]
+          "Al.Novstrup@sdlegislature.gov"
+        ],
+        "phones": [
+	   		"605-226-2505"
+	   ]
       }
     ]
   },
@@ -1281,6 +1284,43 @@
 		],
 		"phones": [
 		  "(802) 863-1067"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:vt/sldu:rutland": {
+			"name": "Vermont Rutland State Senate district",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "VT State Senate district Rutland",
+		"divisionId": "ocd-division/country:us/state:vt/sldu:rutland",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "David Soucy",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:rutland",
+		"overwrite_name": "David Soucy",
+		"emails": [
+		  "dsoucy@leg.state.vt.us"
+		],
+		"phones": [
+		  "(802) 236-3555"
 		]
 	  }
 	]
@@ -2237,7 +2277,10 @@
         "overwrite_name": "Michael Brooks",
         "emails": [
           "brooks@oksenate.gov"
-        ]
+        ],
+        "phones": [
+	   		"(405) 521-5557"
+	   ]
       }
     ]
   },

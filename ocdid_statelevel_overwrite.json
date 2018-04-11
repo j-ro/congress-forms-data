@@ -2009,40 +2009,6 @@
 	  }
 	 ]
 	},
-	{
-    "divisions": {
-      "ocd-division/country:us/state:sd/sldu:3": {
-        "name": "South Dakota State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SD State House District 3",
-        "divisionId": "ocd-division/country:us/state:sd/sldu:3",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Al Novstrup",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
-        "overwrite_name": "Drew Dennert",
-        "emails": [
-          "Al.Novstrup@sdlegislature.gov"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:3": {
@@ -2067,13 +2033,16 @@
     ],
     "officials": [
       {
-        "name": "David Novstrup",
+        "name": "Al Novstrup",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:3",
         "overwrite_name": "David Novstrup",
         "emails": [
-          "David.Novstrup@sdlegislature.gov"
-        ]
+          "Al.Novstrup@sdlegislature.gov"
+        ],
+        "phones": [
+	   		"605-226-2505"
+	   ]
       }
     ]
   },
@@ -4593,6 +4562,117 @@
   },
   {
 	"divisions": {
+		"ocd-division/country:us/state:vt/sldu:rutland": {
+			"name": "Vermont Rutland State Senate district",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "VT State Senate district Rutland",
+		"divisionId": "ocd-division/country:us/state:vt/sldu:rutland",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "David Soucy",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:rutland",
+		"overwrite_name": "David Soucy",
+		"emails": [
+		  "dsoucy@leg.state.vt.us"
+		],
+		"phones": [
+		  "(802) 236-3555"
+		]
+	  }
+	]
+  },
+  {
+	 "divisions": {
+	  "ocd-division/country:us/state:vt/sldl:rutland-windsor-1": {
+	   "name": "Vermont Rutland-Windor State House district 1",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VT State House District Rutland Windsor 1",
+	   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-windsor-1",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "James Harrison",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:rutland-windsor-1",
+	   "overwrite_name": "James Harrison",
+	   "emails": [
+	   		"jharrison@leg.state.vt.us"
+	   ],
+	   "phones": [
+	   		"(802) 236-3001"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:vt/sldl:washington-7": {
+	   "name": "Vermont Washington State House district 7",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "VT State House District Washington 7",
+	   "divisionId": "ocd-division/country:us/state:vt/sldl:washington-7",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Edward Read",
+	   "party": "Independent",
+	   "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:washington-7",
+	   "overwrite_name": "Edward Read",
+	   "emails": [
+	   		"eread@leg.state.vt.us"
+	   ],
+	   "phones": [
+	   		"(802) 279-5016"
+	   ]
+	  }
+	 ]
+	},
+  {
+	"divisions": {
 		"ocd-division/country:us/state:ms/sldl:29": {
 			"name": "Mississippi State House district 29",
 			"overwrite": "true",
@@ -7043,7 +7123,10 @@
         "overwrite_name": "Michael Brooks",
         "emails": [
           "brooks@oksenate.gov"
-        ]
+        ],
+        "phones": [
+	   		"(405) 521-5557"
+	   ]
       }
     ]
   },

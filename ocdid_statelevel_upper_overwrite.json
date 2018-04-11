@@ -642,12 +642,12 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Colin Bell",
+	   "name": "Chris A. Brown",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:2",
-	   "overwrite_name": "Colin Bell",
+	   "overwrite_name": "Chris A. Brown",
 	   "emails": [
-	   		"SenBell@njleg.org"
+	   		"SenBrown@njleg.org"
 	   ],
 	   "phones": [
 	   		"(609) 383-1388"
@@ -1214,43 +1214,6 @@
 	  }
 	 ]
 	},
-  {
-	"divisions": {
-		"ocd-division/country:us/state:nj/sldu:40": {
-			"name": "New Jersey State Senate district 40",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NJ State Senate District 40",
-		"divisionId": "ocd-division/country:us/state:nj/sldu:40",
-		"roles": [
-		  "legislatorUpperBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Kristin Corrado",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:40",
-		"overwrite_name": "Kristin Corrado",
-		"emails": [
-		  "sencorrado@njleg.org"
-		],
-		"phones": [
-		  "(973) 237-1360"
-		]
-	  }
-	]
-  },
   {
 	"divisions": {
 		"ocd-division/country:us/state:vt/sldu:grand_isle-chittenden": {
@@ -2172,43 +2135,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:tx/sldu:26": {
-        "name": "Texas State Senate district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "TX State Senate District 26",
-        "divisionId": "ocd-division/country:us/state:tx/sldu:26",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jose Menendez",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:26",
-        "overwrite_name": "Jose Men_ndez",
-        "emails": [
-          "jose.menendez@senate.state.tx.us"
-        ],
-        "phones": [
-          "(512) 463-0126"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:wa/sldu:39": {
         "name": "Washington State Senate district 7",
         "overwrite": "true",
@@ -2234,7 +2160,7 @@
         "name": "Keith Wagoner",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:39",
-        "overwrite_name": "Vacant",
+        "overwrite_name": "Keith Wagoner",
         "emails": [
           "keith.wagoner@leg.wa.gov"
         ],
@@ -2271,7 +2197,7 @@
         "name": "Brian Zehnder",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:8",
-        "overwrite_name": "Brian E. Shiozawa",
+        "overwrite_name": "Brian Zehnder",
         "emails": [
           "bzehnder@le.utah.gov"
         ],

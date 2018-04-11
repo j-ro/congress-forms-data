@@ -155,43 +155,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nj": {
-	   "name": "New Jersey",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:nj",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Phil Murphy",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nj",
-	   "overwrite_name": "Chris Christie",
-	   "phones": [
-	   		"(609) 292-6000"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:nm": {
 	   "name": "New Mexico",
 	   "overwrite": "true",

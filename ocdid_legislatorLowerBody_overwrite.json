@@ -1,43 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nc/cd:7": {
-	   "name": "North Carolina's 7th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives NC-07",
-	   "divisionId": "ocd-division/country:us/state:nc/cd:7",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "David Rouzer",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:7",
-	   "overwrite_name": "David Rouzer",
-	   "phones": [
-	   		"(202) 225-2731"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wv/cd:2": {
 	   "name": "West Virginia's 2nd congressional district",
 	   "overwrite": "true",
@@ -448,43 +411,6 @@
 	   "overwrite_name": "Karen C. Handel",
 	   "phones": [
 	   		"(202) 225-4501"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ga/cd:11": {
-	   "name": "Georgia's 6th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives GA-11",
-	   "divisionId": "ocd-division/country:us/state:ga/cd:11",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Barry Loudermilk",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:11",
-	   "overwrite_name": "Barry Loudermilk",
-	   "phones": [
-	   		"(202) 225-2931"
 	   ]
 	  }
 	 ]

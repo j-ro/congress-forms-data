@@ -38,43 +38,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:md": {
-	   "name": "Maryland",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States Senate",
-	   "divisionId": "ocd-division/country:us/state:md",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Chris Van Hollen",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:md",
-	   "overwrite_name": "Chris Van Hollen",
-	   "phones": [
-	   		"(202) 224-4654"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ms": {
 	   "name": "Mississippi",
 	   "overwrite": "true",

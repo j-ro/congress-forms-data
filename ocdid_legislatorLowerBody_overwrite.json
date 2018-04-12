@@ -447,5 +447,42 @@
 	   "overwrite_name": "Blake Farenthold"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/cd:18": {
+	   "name": "Pennsylvania's 18th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives PA-18",
+	   "divisionId": "ocd-division/country:us/state:pa/cd:18",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Conor Lamb",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:18",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-2301"
+	   ]
+	  }
+	 ]
 	}
 ]

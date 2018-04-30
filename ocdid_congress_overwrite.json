@@ -149,6 +149,39 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/cd:7": {
+	   "name": "Pennsylvania's 7th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives PA-07",
+	   "divisionId": "ocd-division/country:us/state:pa/cd:7",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:7",
+	   "overwrite_name": "Patrick Meehan"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",

@@ -4830,6 +4830,43 @@
 	]
   },
   {
+	"divisions": {
+		"ocd-division/country:us/state:la/sldl:93": {
+			"name": "Louisiana State House district 93",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "LA State House District 93",
+		"divisionId": "ocd-division/country:us/state:la/sldl:93",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Royce Duplessis",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:93",
+		"overwrite_name": "Helena Moreno",
+		"emails": [
+		  "duplessisr@legis.la.gov"
+		],
+		"phones": [
+		  "504-568-2740"
+		]
+	  }
+	]
+  },
+  {
     "divisions": {
       "ocd-division/country:us/state:la/sldu:2": {
         "name": "Louisiana State Senate district 2",

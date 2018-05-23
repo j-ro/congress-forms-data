@@ -4461,6 +4461,154 @@
   },
   {
 	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:5": {
+			"name": "New York State Senate district 5",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 5",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:5",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Doug Smith",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:5",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "smithd@nyassembly.gov"
+		],
+		"phones": [
+		  "631-585-0230"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:10": {
+			"name": "New York State Senate district 10",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 10",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:10",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Steve Stern",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:10",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "sterns@nyassembly.gov"
+		],
+		"phones": [
+		  "631-271-8025"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:17": {
+			"name": "New York State Senate district 17",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 17",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:17",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "John K. Mikulin",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:17",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "mikulinj@nyassembly.gov"
+		],
+		"phones": [
+		  "516-228-4960"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:39": {
+			"name": "New York State Senate district 39",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 39",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:39",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Aridia Espinal",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:39",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "espinala@nyassembly.gov"
+		],
+		"phones": [
+		  "718-458-5367"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:59": {
 			"name": "New York State Senate district 59",
 			"overwrite": "true",
@@ -4532,6 +4680,80 @@
         ]
       }
     ]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:74": {
+			"name": "New York State Senate district 74",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 74",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:74",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Harvey Epstein",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:74",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "epsteinh@nyassembly.gov"
+		],
+		"phones": [
+		  "212-979-9696"
+		]
+	  }
+	]
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:ny/sldl:142": {
+			"name": "New York State Senate district 142",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		}
+	},
+	"offices": [
+	  {
+		"name": "NY State House District 142",
+		"divisionId": "ocd-division/country:us/state:ny/sldl:142",
+		"roles": [
+		  "legislatorLowerBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "Erik T. Bohen",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:142",
+		"overwrite_name": "Vacant",
+		"emails": [
+		  "bohene@nyassembly.gov"
+		],
+		"phones": [
+		  "716-608-6099"
+		]
+	  }
+	]
   },
   {
 	"divisions": {

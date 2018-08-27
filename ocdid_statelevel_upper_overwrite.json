@@ -919,39 +919,39 @@
 	 ]
 	},
 	{
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldu:29": {
-        "name": "California State Senate district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State Senate District 29",
-        "divisionId": "ocd-division/country:us/state:ca/sldu:29",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Josh Newman",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:29",
-        "overwrite_name": "Josh Newman",
-        "phones": [
-          "(916) 651-4029"
-        ]
-      }
-    ]
-  },
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/sldu:32": {
+	   "name": "California State Senate district 32",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "CA State Senate District 32",
+	   "divisionId": "ocd-division/country:us/state:ca/sldu:32",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vanessa Delgado",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:32",
+	   "overwrite_name": "Vanessa Delgado",
+	   "phones": [
+	   		"(916) 651-4032"
+	   ]
+	  }
+	 ]
+	},
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ct/sldu:10": {

@@ -797,5 +797,42 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:oh/cd:12": {
+	   "name": "Ohio's 12th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives OH-12",
+	   "divisionId": "ocd-division/country:us/state:oh/cd:12",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Troy Balderson",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh/cd:12",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"(202) 225-5355"
+	   ]
+	  }
+	 ]
 	}
 ]

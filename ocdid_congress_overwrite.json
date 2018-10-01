@@ -108,6 +108,39 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:wv/cd:3": {
+	   "name": "West Virginia's 2nd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives WV-03",
+	   "divisionId": "ocd-division/country:us/state:wv/cd:3",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:3",
+	   "overwrite_name": "Evan H. Jenkins"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ky/cd:1": {
 	   "name": "Kentucky's 1st congressional district",
 	   "overwrite": "true",

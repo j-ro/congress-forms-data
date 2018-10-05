@@ -667,6 +667,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldl:14": {
+	   "name": "Michigan State House district 14",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State House District 14",
+	   "divisionId": "ocd-division/country:us/state:mi/sldl:14",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Cara Clemente",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:14",
+	   "overwrite_name": "Paul Clemente",
+	   "phones": [
+	   		"(517) 373-0140"
+	   ],
+	   "emails": [
+	   		"CaraClemente@house.mi.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mi/sldu:25": {
 	   "name": "Michigan State Senate district 25",
 	   "overwrite": "true",

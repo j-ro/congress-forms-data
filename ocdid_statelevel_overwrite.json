@@ -3634,6 +3634,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:178": {
+	   "name": "Pennsylvania State House district 178",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 178",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:178",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Helen D. Tai",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:178",
+	   "overwrite_name": "Helen D. Tai",
+	   "emails": [
+	   		"htai@pahouse.net"
+	   ],
+	   "phones": [
+	   		"(717) 787-9033"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:179": {
 	   "name": "Pennsylvania State House district 179",
 	   "overwrite": "true",

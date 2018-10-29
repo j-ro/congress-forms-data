@@ -145,39 +145,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:7": {
-	   "name": "Pennsylvania's 7th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-07",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:7",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:7",
-	   "overwrite_name": "Patrick Meehan"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",
@@ -483,76 +450,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:tx/cd:27": {
-	   "name": "Texas's 27th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives TX-27",
-	   "divisionId": "ocd-division/country:us/state:tx/cd:27",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:27",
-	   "overwrite_name": "Blake Farenthold"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:18": {
-	   "name": "Pennsylvania's 18th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-18",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:18",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Conor Lamb",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:18",
-	   "overwrite_name": "Vacant",
-	   "phones": [
-	   		"(202) 225-2301"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ok/cd:1": {
 	   "name": "Oklahoma's 1st congressional district",
 	   "overwrite": "true",
@@ -581,76 +478,6 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ok/cd:1",
 	   "overwrite_name": "Jim Bridenstine"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:az/cd:8": {
-	   "name": "Arizona's 8th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives AZ-08",
-	   "divisionId": "ocd-division/country:us/state:az/cd:8",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Debbie Lesko",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:az/cd:8",
-	   "overwrite_name": "Vacant",
-	   "phones": [
-	   		"(202) 225-4576"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:15": {
-	   "name": "Pennsylvania's 15th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-15",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:15",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:15",
-	   "overwrite_name": "Charles W. Dent"
 	  }
 	 ]
 	},
@@ -688,39 +515,6 @@
 	   "phones": [
 	   		"(202) 225-7742"
 	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:fl/cd:6": {
-	   "name": "Florida's 6th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives FL-06",
-	   "divisionId": "ocd-division/country:us/state:fl/cd:6",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:6",
-	   "overwrite_name": "Ron DeSantis"
 	  }
 	 ]
 	},

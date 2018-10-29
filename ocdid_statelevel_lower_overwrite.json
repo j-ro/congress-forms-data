@@ -287,6 +287,80 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:38": {
+	   "name": "New Jersey State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 38",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Lisa Swain",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:38",
+	   "overwrite_name": "Linda Swain",
+	   "emails": [
+	   		"AswSwain@njleg.org"
+	   ],
+	   "phones": [
+	   		"(973) 928-6256"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/sldu:38": {
+	   "name": "New Jersey State Senate district 38",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "NJ State House District 38",
+	   "divisionId": "ocd-division/country:us/state:nj/sldu:38",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "P. Christopher Tully",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:38",
+	   "overwrite_name": "P. Christopher Tully",
+	   "emails": [
+	   		"AsmTully@njleg.org"
+	   ],
+	   "phones": [
+	   		"(201) 576-9199"
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:4": {
         "name": "North Dakota State House district 4",

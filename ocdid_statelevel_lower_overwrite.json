@@ -37,6 +37,43 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:83": {
+        "name": "Arkansas State House district 83",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 83",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:83",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Donald Ragland",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:83",
+        "overwrite_name": "Donald Ragland",
+        "emails": [
+          "donald.ragland@arkansashouse.org"
+        ],
+        "phones": [
+          "(870) 504-0032"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:19": {
 	   "name": "California State House district 19",
@@ -140,6 +177,80 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:nj/sldu:2": {
+        "name": "New Jersey State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 2",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:2",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vincent Mazzeo",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:2",
+        "overwrite_name": "Vincent Mazzeo",
+        "emails": [
+          "AsmMazzeo@njleg.org"
+        ],
+        "phones": [
+          "(609) 383-1388"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:5": {
+        "name": "New Jersey State House district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 5",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William Spearman",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:5",
+        "overwrite_name": "William Spearman",
+        "emails": [
+          "AsmSpearman@njleg.org"
+        ],
+        "phones": [
+          "(856) 547-4800"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nj/sldu:15": {
         "name": "New Jersey State House district 15",
         "overwrite": "true",
@@ -171,6 +282,80 @@
         ],
         "phones": [
           "(609) 571-9638"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:15": {
+        "name": "New Jersey State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 15",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:15",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony Verrelli",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:15",
+        "overwrite_name": "Anthony Verrelli",
+        "emails": [
+          "AsmVerrelli@njleg.org"
+        ],
+        "phones": [
+          "(609) 571-9638"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:22": {
+        "name": "New Jersey State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 22",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Carter",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:22",
+        "overwrite_name": "Linda Carter",
+        "emails": [
+          "AswCarter@njleg.org"
+        ],
+        "phones": [
+          "(908) 561-5757"
         ]
       }
     ]
@@ -1167,6 +1352,43 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:il/sldl:21": {
+        "name": "Illinois State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 21",
+        "divisionId": "ocd-division/country:us/state:il/sldl:21",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Celina Villanueva",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:21",
+        "overwrite_name": "Celina Villanueva",
+        "emails": [
+          "ilrep21@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-7752"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:il/sldl:34": {
         "name": "Illinois State House district 34",
         "overwrite": "true",
@@ -1198,6 +1420,80 @@
         ],
         "phones": [
           "(217) 782-6476"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:47": {
+        "name": "Illinois State House district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 47",
+        "divisionId": "ocd-division/country:us/state:il/sldl:47",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Deanne Mazzochi",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:47",
+        "overwrite_name": "Deanne Mazzochi",
+        "emails": [
+          "mazzochi@ilhousegop.org"
+        ],
+        "phones": [
+          "(217) 782-1448"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:51": {
+        "name": "Illinois State House district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 51",
+        "divisionId": "ocd-division/country:us/state:il/sldl:51",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Helene Walsh",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:51",
+        "overwrite_name": "Helene Walsh",
+        "emails": [
+          "walsh@ilhousegop.org"
+        ],
+        "phones": [
+          "(217) 782-3696"
         ]
       }
     ]
@@ -2127,6 +2423,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldl:48": {
+        "name": "Pennsylvania State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State House District 48",
+        "divisionId": "ocd-division/country:us/state:pa/sldl:48",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy O'Neal",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:48",
+        "overwrite_name": "Timothy O'Neal",
+        "emails": [
+          "toneal@pahousegop.com"
+        ],
+        "phones": [
+          "(717) 783-4834"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:57": {
@@ -2201,6 +2534,43 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldl:68": {
+        "name": "Pennsylvania State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State House District 68",
+        "divisionId": "ocd-division/country:us/state:pa/sldl:68",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clint D. Owlett",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:68",
+        "overwrite_name": "Clint D. Owlett",
+        "emails": [
+          "cowlett@pahousegop.com"
+        ],
+        "phones": [
+          "(717) 772-5371"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:87": {
@@ -2758,6 +3128,43 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:tx/sldl:13": {
+        "name": "Texas State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 13",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:13",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ben Leman",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:13",
+        "overwrite_name": "Ben Leman",
+        "emails": [
+          "ben.leman@house.tx.us"
+        ],
+        "phones": [
+          "(512) 463-0600"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:vt/sldl:chittenden-10": {
         "name": "Vermont Chittenden 10 State House district",
         "overwrite": "true",
@@ -3275,6 +3682,80 @@
 	]
   },
   {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:80": {
+        "name": "New York State House district 80",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 80",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:80",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nathalia Fernandez",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:80",
+        "overwrite_name": "Nathalia Fernandez",
+        "emails": [
+          "fernandezn@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5844"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:107": {
+        "name": "New York State House district 107",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 107",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:107",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jake Ashby",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:107",
+        "overwrite_name": "Jake Ashby",
+        "emails": [
+          "ashbyj@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5777"
+        ]
+      }
+    ]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:142": {
 			"name": "New York State Senate district 142",
@@ -3350,6 +3831,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ms/sldl:77": {
+        "name": "Mississippi State House district 77",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 77",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:77",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Price Wallace",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:77",
+        "overwrite_name": "Price Wallace",
+        "emails": [
+          "pwallace@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-1541"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ms/sldl:108": {
         "name": "Mississippi State House district 108",
         "overwrite": "true",
@@ -3381,6 +3899,43 @@
         ],
         "phones": [
           "(601) 359-3356"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:la/sldl:10": {
+        "name": "Louisiana State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State House District 10",
+        "divisionId": "ocd-division/country:us/state:la/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wayne McMahen",
+        "party": "undefined",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:10",
+        "overwrite_name": "Wayne McMahen",
+        "emails": [
+          "mcmahenw@legis.la.gov"
+        ],
+        "phones": [
+          "(318) 371-3092 "
         ]
       }
     ]
@@ -6068,6 +6623,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:or/sldl:2": {
+        "name": "Oregon State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 2",
+        "divisionId": "ocd-division/country:us/state:or/sldl:2",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gary Leif",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:2",
+        "overwrite_name": "Gary Leif",
+        "emails": [
+          "rep.garyleif@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1402"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:or/sldl:52": {
         "name": "Oregon State House district 52",
         "overwrite": "true",
@@ -6247,6 +6839,43 @@
         ],
         "phones": [
           "(907) 465-3473"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldl:39": {
+        "name": "Florida State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State House District 39",
+        "divisionId": "ocd-division/country:us/state:fl/sldl:39",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Josie Tomkow",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:39",
+        "overwrite_name": "Josie Tomkow",
+        "emails": [
+          "Josie.Tomkow@myfloridahouse.gov"
+        ],
+        "phones": [
+          "(863) 968-5666"
         ]
       }
     ]
@@ -6435,6 +7064,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wv/sldl:40": {
+        "name": "West Virginia State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 40",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dean Jeffries",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:40",
+        "overwrite_name": "Dean Jeffries",
+        "emails": [
+          "dean.jeffries@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3210"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wv/sldl:42": {
         "name": "West Virginia State House district 42",
         "overwrite": "true",
@@ -6506,5 +7172,79 @@
 	   ]
 	  }
 	 ]
-	}
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:22": {
+        "name": "New Mexico State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 22",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregg Schmedes",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:22",
+        "overwrite_name": "Gregg Schmedes",
+        "emails": [
+          "gregg.schmedes@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 986-4233"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldl:72": {
+        "name": "North Carolina State House district 72",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State House District 72",
+        "divisionId": "ocd-division/country:us/state:nc/sldl:72",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Derwin L. Montgomery",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:72",
+        "overwrite_name": "Derwin L. Montgomery",
+        "emails": [
+          "Derwin.Montgomery@ncleg.net"
+        ],
+        "phones": [
+          "(919) 733-5829"
+        ]
+      }
+    ]
+  }
 ]

@@ -1065,6 +1065,43 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:mo/sldu:17": {
+        "name": "Missouri State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:17",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lauren Arthur",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:17",
+        "overwrite_name": "Lauren Arthur",
+        "emails": [
+          "Lauren.Arthur@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-5282"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:mo/sldu:28": {
         "name": "Missouri State Senate district 28",
         "overwrite": "true",
@@ -2370,6 +2407,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:fl/sldu:31": {
+        "name": "Florida State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:31",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lori Berman",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:31",
+        "overwrite_name": "Lori Berman",
+        "emails": [
+          "lori.berman.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/sldu:40": {
         "name": "Florida State Senate district 40",
         "overwrite": "true",
@@ -2401,6 +2475,43 @@
         ],
         "phones": [
           "(305) 596-3003"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ri/sldu:8": {
+        "name": "Rhode Island State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "RI State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ri/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sandra C. Cano",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:8",
+        "overwrite_name": "Sandra C. Cano",
+        "emails": [
+          "sen-cano@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 729-9988"
         ]
       }
     ]
@@ -2555,6 +2666,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:32": {
+        "name": "New York State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Luis Sepulveda",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:32",
+        "overwrite_name": "Luis Sepulveda",
+        "emails": [
+          "sepulveda@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2511"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:37": {
+        "name": "New York State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:37",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shelley Mayer",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:37",
+        "overwrite_name": "Shelley Mayer",
+        "emails": [
+          "smayer@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex": {
         "name": "Massachusetts Worcester & Middlesex State Senate district",
         "overwrite": "true",
@@ -2660,6 +2845,43 @@
         ],
         "phones": [
           "(402) 471-2714"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or/sldu:1": {
+        "name": "Oregon State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:or/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dallas Heard",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:1",
+        "overwrite_name": "Dallas Heard",
+        "emails": [
+          "Sen.DallasHeard@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1701"
         ]
       }
     ]
@@ -2808,6 +3030,154 @@
         ],
         "phones": [
           "(304) 357-7959"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldu:8": {
+        "name": "Arkansas State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ar/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Frank Glidewell",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldu:8",
+        "overwrite_name": "Frank Glidewell",
+        "emails": [
+          "Frank.Glidewell@senate.ar.gov"
+        ],
+        "phones": [
+          "(479) 648-9216"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:12": {
+        "name": "Montana State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cydnie Boland",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:12",
+        "overwrite_name": "Cydnie Boland",
+        "emails": [
+          "sen.carlie.boland@mt.gov"
+        ],
+        "phones": [
+          "(406) 868-1029"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldu:44": {
+        "name": "North Carolina State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:44",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vickie Sawyer",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:44",
+        "overwrite_name": "Vickie Sawyer",
+        "emails": [
+          "Vickie.Sawyer@ncleg.net"
+        ],
+        "phones": [
+          "(919) 715-3038"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:1": {
+        "name": "Wisconsin State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Caleb Frostman",
+        "party": "undefined",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:1",
+        "overwrite_name": "Caleb Frostman",
+        "emails": [
+          "Sen.Lasee@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-3512"
         ]
       }
     ]

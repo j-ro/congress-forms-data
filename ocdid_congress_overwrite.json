@@ -557,43 +557,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:tx/cd:27": {
-	   "name": "Texas's 27th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives TX-27",
-	   "divisionId": "ocd-division/country:us/state:tx/cd:27",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Michael Cloud",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:27",
-	   "overwrite_name": "Vacant",
-	   "phones": [
-	   		"(202) 225-7742"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:oh/cd:8": {
 	   "name": "Ohio's 8th congressional district",
 	   "overwrite": "true",

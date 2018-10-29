@@ -2592,43 +2592,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldu:1st_suffolk": {
-        "name": "Massachusetts First Suffolk district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District 1st Suffolk",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:1st_suffolk",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Nick Collins",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:1st_suffolk",
-        "overwrite_name": "Nick Collins",
-        "emails": [
-          "Nick.Collins@masenate.gov"
-        ],
-        "phones": [
-          "617-722-1150"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ms/sldu:49": {
         "name": "Mississippi State Senate district 49",
         "overwrite": "true",

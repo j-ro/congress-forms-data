@@ -1929,10 +1929,10 @@
     ],
     "officials": [
       {
-        "name": "Frank Flemings",
+        "name": "Frank Fleming",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:mt/sldl:51",
-        "overwrite_name": "Frank Flemings",
+        "overwrite_name": "Frank Fleming",
         "emails": [
           "flemingLor5@gmail.com"
         ],
@@ -3042,7 +3042,7 @@
 		"name": "Doug Smith",
 		"party": "Republican",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:5",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "Doug Smith",
 		"emails": [
 		  "smithd@nyassembly.gov"
 		],
@@ -3079,7 +3079,7 @@
 		"name": "Steve Stern",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:10",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "Steve Stern",
 		"emails": [
 		  "sterns@nyassembly.gov"
 		],
@@ -3113,10 +3113,10 @@
 	],
 	"officials": [
 	  {
-		"name": "John K. Mikulin",
+		"name": "John Mikulin",
 		"party": "Republican",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:17",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "John Mikulin",
 		"emails": [
 		  "mikulinj@nyassembly.gov"
 		],
@@ -3153,7 +3153,7 @@
 		"name": "Aridia Espinal",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:39",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "Aridia Espinal",
 		"emails": [
 		  "espinala@nyassembly.gov"
 		],
@@ -3264,7 +3264,7 @@
 		"name": "Harvey Epstein",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:74",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "Harvey Epstein",
 		"emails": [
 		  "epsteinh@nyassembly.gov"
 		],
@@ -3298,10 +3298,10 @@
 	],
 	"officials": [
 	  {
-		"name": "Erik T. Bohen",
+		"name": "Erik Bohen",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:142",
-		"overwrite_name": "Vacant",
+		"overwrite_name": "Erik Bohen",
 		"emails": [
 		  "bohene@nyassembly.gov"
 		],
@@ -3418,43 +3418,6 @@
 		],
 		"phones": [
 		  "504-837-6559"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:la/sldl:93": {
-			"name": "Louisiana State House district 93",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "LA State House District 93",
-		"divisionId": "ocd-division/country:us/state:la/sldl:93",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Royce Duplessis",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:93",
-		"overwrite_name": "Helena Moreno",
-		"emails": [
-		  "duplessisr@legis.la.gov"
-		],
-		"phones": [
-		  "504-568-2740"
 		]
 	  }
 	]
@@ -6466,43 +6429,6 @@
         "overwrite_name": "Jacob Bossman",
         "emails": [
           "Jacob.Bossman@legis.iowa.gov"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:md/sldl:2b": {
-        "name": "Maryland State House district 2B",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MD State House District 2B",
-        "divisionId": "ocd-division/country:us/state:md/sldl:2b",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Paul D. Corderman",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:2b",
-        "overwrite_name": "Paul D. Corderman",
-        "emails": [
-          "paul.corderman@house.state.md.us"
-        ],
-        "phones": [
-          "(410) 841-3125"
         ]
       }
     ]

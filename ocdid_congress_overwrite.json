@@ -182,6 +182,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:pa/cd:15": {
+	   "name": "Pennsylvania's 15th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives PA-15",
+	   "divisionId": "ocd-division/country:us/state:pa/cd:15",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Susan Wild",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:15",
+	   "overwrite_name": "Mary Gay Scanlon",
+	   "phones": [
+	   		"202-225-6411"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",

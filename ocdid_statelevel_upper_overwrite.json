@@ -3170,7 +3170,7 @@
     "officials": [
       {
         "name": "Caleb Frostman",
-        "party": "undefined",
+        "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:1",
         "overwrite_name": "Caleb Frostman",
         "emails": [
@@ -3179,6 +3179,36 @@
         "phones": [
           "(608) 266-3512"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldu:20": {
+        "name": "Ohio State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:20",
+        "overwrite_name": "Troy Balderson"
       }
     ]
   }

@@ -865,7 +865,7 @@
 	   "name": "MI State House District 14",
 	   "divisionId": "ocd-division/country:us/state:mi/sldl:14",
 	   "roles": [
-	    "legislatorUpperBody"
+	    "legislatorLowerBody"
 	   ],
 	   "officialIndices": [
 	    0
@@ -883,6 +883,80 @@
 	   ],
 	   "emails": [
 	   		"CaraClemente@house.mi.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldl:68": {
+	   "name": "Michigan State House district 68",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State House District 68",
+	   "divisionId": "ocd-division/country:us/state:mi/sldl:68",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Sarah Anthony",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:68",
+	   "overwrite_name": "Andy Schor",
+	   "phones": [
+	   		"(517) 373-0826"
+	   ],
+	   "emails": [
+	   		"sarahanthony@house.mi.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mi/sldu:2": {
+	   "name": "Michigan State Senate district 2",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "MI State Senate District 2",
+	   "divisionId": "ocd-division/country:us/state:mi/sldu:2",
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Adam Hollier",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:2",
+	   "overwrite_name": "Vacant",
+	   "phones": [
+	   		"517-373-7748"
+	   ],
+	   "emails": [
+	   		"senahollier@senate.michigan.gov"
 	   ]
 	  }
 	 ]

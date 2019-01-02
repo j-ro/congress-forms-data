@@ -1,43 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:sd": {
-	   "name": "South Dakota",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States Senate",
-	   "divisionId": "ocd-division/country:us/state:sd",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mike Rounds",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd",
-	   "overwrite_name": "Mike Rounds",
-	   "phones": [
-	   		"(202) 224-5842"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wv/cd:2": {
 	   "name": "West Virginia's 2nd congressional district",
 	   "overwrite": "true",
@@ -740,6 +703,43 @@
 	   "overwrite_name": "Vacant",
 	   "phones": [
 	   		"(202) 225-5126"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:hi/cd:1": {
+	   "name": "Hawaii's 1st congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives HI-01",
+	   "divisionId": "ocd-division/country:us/state:hi/cd:1",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Ed Case",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/cd:1",
+	   "overwrite_name": "Colleen Hanabusa",
+	   "phones": [
+	   		"(202) 225-2726"
 	   ]
 	  }
 	 ]

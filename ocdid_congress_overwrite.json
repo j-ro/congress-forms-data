@@ -1,43 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:sd": {
-	   "name": "South Dakota",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States Senate",
-	   "divisionId": "ocd-division/country:us/state:sd",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mike Rounds",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:sd",
-	   "overwrite_name": "Mike Rounds",
-	   "phones": [
-	   		"(202) 224-5842"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:wv/cd:2": {
 	   "name": "West Virginia's 2nd congressional district",
 	   "overwrite": "true",
@@ -743,11 +706,11 @@
 	   ]
 	  }
 	 ]
- },
+	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:nv/cd:4": {
-	   "name": "Nevada's 4th congressional district",
+	  "ocd-division/country:us/state:hi/cd:1": {
+	   "name": "Hawaii's 1st congressional district",
 	   "overwrite": "true",
 	   "officeIndices": [
 	    0
@@ -756,8 +719,8 @@
 	 },
 	 "offices": [
 	  {
-	   "name": "United States House of Representatives NV-04",
-	   "divisionId": "ocd-division/country:us/state:nv/cd:4",
+	   "name": "United States House of Representatives HI-01",
+	   "divisionId": "ocd-division/country:us/state:hi/cd:1",
 	   "levels": [
 	    "country"
 	   ],
@@ -771,14 +734,51 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Steven Horsford",
+	   "name": "Ed Case",
 	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nv/cd:4",
-	   "overwrite_name": "Ruben J. Kihuen",
+	   "overwrite_ocdid": "ocd-division/country:us/state:hi/cd:1",
+	   "overwrite_name": "Colleen Hanabusa",
 	   "phones": [
-	   		"(202) 225-2711"
+	   		"(202) 225-2726"
 	   ]
 	  }
 	 ]
-	}
+	},
+	{
+ 	 "divisions": {
+ 	  "ocd-division/country:us/state:nv/cd:4": {
+ 	   "name": "Nevada's 4th congressional district",
+ 	   "overwrite": "true",
+ 	   "officeIndices": [
+ 	    0
+ 	   ]
+ 	  }
+ 	 },
+ 	 "offices": [
+ 	  {
+ 	   "name": "United States House of Representatives NV-04",
+ 	   "divisionId": "ocd-division/country:us/state:nv/cd:4",
+ 	   "levels": [
+ 	    "country"
+ 	   ],
+ 	   "roles": [
+ 	    "legislatorLowerBody"
+ 	   ],
+ 	   "officialIndices": [
+ 	    0
+ 	   ]
+ 	  }
+ 	 ],
+ 	 "officials": [
+ 	  {
+ 	   "name": "Steven Horsford",
+ 	   "party": "Democratic",
+ 	   "overwrite_ocdid": "ocd-division/country:us/state:nv/cd:4",
+ 	   "overwrite_name": "Ruben J. Kihuen",
+ 	   "phones": [
+ 	   		"(202) 225-2711"
+ 	   ]
+ 	  }
+ 	 ]
+ 	}
 ]

@@ -743,5 +743,190 @@
  	   ]
  	  }
  	 ]
- 	}
+ },
+ {
+	"divisions": {
+	 "ocd-division/country:us/state:az/cd:1": {
+		"name": "Arizona's 1st congressional district",
+		"overwrite": "true",
+		"officeIndices": [
+		 0
+		]
+	 }
+	},
+	"offices": [
+	 {
+		"name": "United States House of Representatives AZ-01",
+		"divisionId": "ocd-division/country:us/state:az/cd:1",
+		"levels": [
+		 "country"
+		],
+		"roles": [
+		 "legislatorLowerBody"
+		],
+		"officialIndices": [
+		 0
+		]
+	 }
+	],
+	"officials": [
+	 {
+		"name": "Ann Kirkpatrick",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:az/cd:1",
+		"overwrite_name": "Tom O'Halleran",
+		"phones": [
+			 "(202) 225-2542"
+		]
+	 }
+	]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:az/cd:9": {
+	 "name": "Arizona's 9th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives AZ-09",
+	 "divisionId": "ocd-division/country:us/state:az/cd:9",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Greg Stanton",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:az/cd:9",
+	 "overwrite_name": "Kyrsten Sinema",
+	 "phones": [
+			"(202) 225-9888"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:10": {
+	 "name": "California's 10th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-10",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:10",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Josh Harder",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:10",
+	 "overwrite_name": "Jeff Denham",
+	 "phones": [
+			"(202) 225-4540"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:21": {
+	 "name": "California's 21st congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-21",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:21",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "TJ Cox",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:21",
+	 "overwrite_name": "David G. Valadao",
+	 "phones": [
+			"(202) 225-4695"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:25": {
+	 "name": "California's 25th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-25",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:25",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Katie Hill",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:25",
+	 "overwrite_name": "Stephen Knight",
+	 "phones": [
+			"(202) 225-1956"
+	 ]
+	}
+ ]
+}
 ]

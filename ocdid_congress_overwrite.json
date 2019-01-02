@@ -743,5 +743,42 @@
 	   ]
 	  }
 	 ]
+ },
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nv/cd:4": {
+	   "name": "Nevada's 4th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NV-04",
+	   "divisionId": "ocd-division/country:us/state:nv/cd:4",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Steven Horsford",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nv/cd:4",
+	   "overwrite_name": "Ruben J. Kihuen",
+	   "phones": [
+	   		"(202) 225-2711"
+	   ]
+	  }
+	 ]
 	}
 ]

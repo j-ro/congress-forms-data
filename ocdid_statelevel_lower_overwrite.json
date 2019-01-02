@@ -177,6 +177,80 @@
 	},
 	{
     "divisions": {
+      "ocd-division/country:us/state:nj/sldu:1": {
+        "name": "New Jersey State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 1",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Andrzejczak",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+        "overwrite_name": "Bob Andrzejczak",
+        "emails": [
+          "asmAndrzejczak@njleg.org"
+        ],
+        "phones": [
+          "(609) 465-0700"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:1": {
+        "name": "New Jersey State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 1",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "R. Bruce Land",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+        "overwrite_name": "Samuel L. Fiocchi",
+        "emails": [
+          "asmland@njleg.org"
+        ],
+        "phones": [
+          "(609) 465-0700"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nj/sldu:2": {
         "name": "New Jersey State House district 2",
         "overwrite": "true",

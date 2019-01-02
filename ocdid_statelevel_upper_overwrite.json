@@ -700,6 +700,43 @@
 	 ]
 	},
 	{
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:1": {
+        "name": "New Jersey State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Van Drew",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+        "overwrite_name": "Jeff Van Drew",
+        "emails": [
+          "senvandrew@njleg.org"
+        ],
+        "phones": [
+          "(609) 465-0700"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:nj/sldu:2": {
 	   "name": "New Jersey State Senate district 2",

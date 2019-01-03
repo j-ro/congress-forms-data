@@ -928,5 +928,930 @@
 	 ]
 	}
  ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:39": {
+	 "name": "California's 39th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-39",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:39",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Gilbert Ray Cisneros",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:39",
+	 "overwrite_name": "Edward R. Royce",
+	 "phones": [
+			"(202) 225-4111"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:45": {
+	 "name": "California's 45th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-45",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:45",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Katie Porter",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:45",
+	 "overwrite_name": "Mimi Walters",
+	 "phones": [
+			"(202) 225-5611"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:48": {
+	 "name": "California's 48th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-48",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:48",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Harley Rouda",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:48",
+	 "overwrite_name": "Dana Rohrabacher",
+	 "phones": [
+			"(202) 225-2415"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ca/cd:49": {
+	 "name": "California's 49th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CA-49",
+	 "divisionId": "ocd-division/country:us/state:ca/cd:49",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Mike Levin",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:49",
+	 "overwrite_name": "Darrell E. Issa",
+	 "phones": [
+			"(202) 225-3906"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:co/cd:2": {
+	 "name": "Colorado's 2nd congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CO-02",
+	 "divisionId": "ocd-division/country:us/state:co/cd:2",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Joe Neguse",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:co/cd:2",
+	 "overwrite_name": "Jared Polis",
+	 "phones": [
+			"(202) 225-2161"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:co/cd:6": {
+	 "name": "Colorado's 6th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CO-06",
+	 "divisionId": "ocd-division/country:us/state:co/cd:6",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Jason Crow",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:co/cd:6",
+	 "overwrite_name": "Mike Coffman",
+	 "phones": [
+			"(202) 225-7882"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ct/cd:5": {
+	 "name": "Connecticut's 5th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives CT-05",
+	 "divisionId": "ocd-division/country:us/state:ct/cd:5",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Jahana Hayes",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ct/cd:5",
+	 "overwrite_name": "Elizabeth H. Esty",
+	 "phones": [
+			"(202) 225-4476"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl/cd:6": {
+	 "name": "Florida's 6th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives FL-06",
+	 "divisionId": "ocd-division/country:us/state:fl/cd:6",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Michael Waltz",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:6",
+	 "overwrite_name": "Vacant",
+	 "phones": [
+			"(202) 225-2706"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl/cd:15": {
+	 "name": "Florida's 15th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives FL-15",
+	 "divisionId": "ocd-division/country:us/state:fl/cd:15",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Ross Spano",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:15",
+	 "overwrite_name": "Dennis A. Ross",
+	 "phones": [
+			"(202) 225-1252"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl/cd:17": {
+	 "name": "Florida's 17th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives FL-17",
+	 "divisionId": "ocd-division/country:us/state:fl/cd:17",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Gregory Steube",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:17",
+	 "overwrite_name": "Thomas J. Rooney",
+	 "phones": [
+			"(202) 225-5792"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl/cd:26": {
+	 "name": "Florida's 26th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives FL-26",
+	 "divisionId": "ocd-division/country:us/state:fl/cd:26",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Debbie Mucarsel-Powell",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:26",
+	 "overwrite_name": "Carlos Curbelo",
+	 "phones": [
+			"(202) 225-2778"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl/cd:27": {
+	 "name": "Florida's 27th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives FL-27",
+	 "divisionId": "ocd-division/country:us/state:fl/cd:27",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Donna Shalala",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:27",
+	 "overwrite_name": "Ileana Ros-Lehtinen",
+	 "phones": [
+			"(202) 225-3931"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ga/cd:6": {
+	 "name": "Georgia's 6th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives GA-06",
+	 "divisionId": "ocd-division/country:us/state:ga/cd:6",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Lucy McBath",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:6",
+	 "overwrite_name": "Karen C. Handel",
+	 "phones": [
+			"(202) 225-4501"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ia/cd:1": {
+	 "name": "Iowa's 1st congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IA-01",
+	 "divisionId": "ocd-division/country:us/state:ia/cd:1",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Abby Finkenauer",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ia/cd:1",
+	 "overwrite_name": "Rod Blum",
+	 "phones": [
+			"(202) 225-2911"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ia/cd:3": {
+	 "name": "Iowa's 3rd congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IA-03",
+	 "divisionId": "ocd-division/country:us/state:ia/cd:3",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Cymthia Axne",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ia/cd:3",
+	 "overwrite_name": "David Young",
+	 "phones": [
+			"(202) 225-5476"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:id/cd:1": {
+	 "name": "Idaho's 1st congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives ID-01",
+	 "divisionId": "ocd-division/country:us/state:id/cd:1",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Russ Fulcher",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:id/cd:1",
+	 "overwrite_name": "Raul R. Labrador",
+	 "phones": [
+			"(202) 225-6611"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:il/cd:4": {
+	 "name": "Illinois's 4th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IL-04",
+	 "divisionId": "ocd-division/country:us/state:il/cd:4",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Jesús G. García",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:il/cd:4",
+	 "overwrite_name": "Luis V. Gutierrez",
+	 "phones": [
+			"(202) 225-8203"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:il/cd:6": {
+	 "name": "Illinois's 6th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IL-06",
+	 "divisionId": "ocd-division/country:us/state:il/cd:6",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Sean Casten",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:il/cd:6",
+	 "overwrite_name": "Peter J. Roskam",
+	 "phones": [
+			"(202) 225-4561"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:il/cd:14": {
+	 "name": "Illinois's 14th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IL-14",
+	 "divisionId": "ocd-division/country:us/state:il/cd:14",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Lauren Underwood",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:il/cd:14",
+	 "overwrite_name": "Randy Hultgren",
+	 "phones": [
+			"(202) 225-2976"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:in/cd:4": {
+	 "name": "Indiana's 4th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IN-04",
+	 "divisionId": "ocd-division/country:us/state:in/cd:4",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "James R. Baird",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:in/cd:4",
+	 "overwrite_name": "Todd Rokita",
+	 "phones": [
+			"(202) 225-5037"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:in/cd:6": {
+	 "name": "Indiana's 6th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives IN-06",
+	 "divisionId": "ocd-division/country:us/state:in/cd:6",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Greg Pence",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:in/cd:4",
+	 "overwrite_name": "Luke Messer",
+	 "phones": [
+			"(202) 225-3021"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ks/cd:2": {
+	 "name": "Kansas's 2nd congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives KS-02",
+	 "divisionId": "ocd-division/country:us/state:ks/cd:2",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Steven C. Watkins",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:in/ks:2",
+	 "overwrite_name": "Lynn Jenkins",
+	 "phones": [
+			"(202) 225-6601"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ks/cd:3": {
+	 "name": "Kansas's 3rd congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives KS-03",
+	 "divisionId": "ocd-division/country:us/state:ks/cd:3",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Sharice Davids",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ks/ks:3",
+	 "overwrite_name": "Kevin Yoder",
+	 "phones": [
+			"(202) 225-2865"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ma/cd:3": {
+	 "name": "Massachusetts's 3rd congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives Ma-03",
+	 "divisionId": "ocd-division/country:us/state:ma/cd:3",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Lori Trahan",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ma/cd:3",
+	 "overwrite_name": "Niki Tsongas",
+	 "phones": [
+			"(202) 225-3411"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:ma/cd:7": {
+	 "name": "Massachusetts's 7th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives MA-07",
+	 "divisionId": "ocd-division/country:us/state:ma/cd:7",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Ayanna Pressley",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ma/cd:7",
+	 "overwrite_name": "Michael E. Capuano",
+	 "phones": [
+			"(202) 225-5111"
+	 ]
+	}
+ ]
 }
 ]

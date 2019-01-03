@@ -63,11 +63,13 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Carol Miller",
-		 "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:3",
-	   "overwrite_name": "Evan H. Jenkins",
-		 "phone": "(202) 225-3452"
+	    "name": "Carol Miller",
+ 		"party": "Republican",
+ 		"overwrite_ocdid": "ocd-division/country:us/state:wv/cd:3",
+ 		"overwrite_name": "Evan H. Jenkins",
+ 		"phones": [ 
+ 			"(202) 225-3452"
+ 		]
 	  }
 	 ]
 	},
@@ -147,39 +149,39 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:15": {
-	   "name": "Pennsylvania's 15th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
+		"ocd-division/country:us/state:pa/cd:13": {
+		 "name": "Pennsylvania's 13th congressional district",
+		 "overwrite": "true",
+		 "officeIndices": [
+			0
+		 ]
+		}
 	 },
 	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-15",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:15",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
+		{
+		 "name": "United States House of Representatives PA-13",
+		 "divisionId": "ocd-division/country:us/state:pa/cd:13",
+		 "levels": [
+			"country"
+		 ],
+		 "roles": [
+			"legislatorLowerBody"
+		 ],
+		 "officialIndices": [
+			0
+		 ]
+		}
 	 ],
 	 "officials": [
-	  {
-	   "name": "Susan Wild",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:15",
-	   "overwrite_name": "Mary Gay Scanlon",
-	   "phones": [
-	   		"202-225-6411"
-	   ]
-	  }
+		{
+		 "name": "John Joyce",
+		 "party": "Republican",
+		 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:13",
+		 "overwrite_name": "Brendan F. Boyle",
+		 "phones": [
+				"(202) 225-2431"
+		 ]
+		}
 	 ]
 	},
 	{
@@ -662,7 +664,7 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Mary Gay Scanlon",
+	   "name": "Susan Ellis Wild",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:7",
 	   "overwrite_name": "Susan Ellis Wild",
@@ -1831,7 +1833,7 @@
  },
  "offices": [
 	{
-	 "name": "United States House of Representatives Ma-03",
+	 "name": "United States House of Representatives MA-03",
 	 "divisionId": "ocd-division/country:us/state:ma/cd:3",
 	 "levels": [
 		"country"

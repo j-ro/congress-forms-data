@@ -16,7 +16,7 @@
 		"example_state": "PA",
 		"zip5": "15228",
 		"zip4": "2817",
-		"example_district": "18",
+		"example_district": "17",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Conor Lamb"
@@ -119,17 +119,6 @@
 		"type": "Rep",
 		"mark": "true",
 		"name": "Al Lawson Jr."
-	},
-	"B001227": {
-		"example_address": "63 North Broad Street",
-		"example_city": "Philadelphia",
-		"example_state": "PA",
-		"zip5": "19107",
-		"zip4": "4602",
-		"example_district": "1",
-		"type": "Rep",
-		"mark": "true",
-		"name": "Robert Brady"
 	},
 	"Z000017": {
 		"example_address": "137 Hampton Road",
@@ -273,17 +262,6 @@
 		"type": "Rep",
 		"mark": "true",
 		"name": "Jody Hice"
-	},
-	"B001269": {
-		"example_address": "300 Centerville Road",
-		"example_city": "Newville",
-		"example_state": "PA",
-		"zip5": "02886",
-		"zip4": "0212",
-		"example_district": "11",
-		"type": "Rep",
-		"mark": "true",
-		"name": "Lou Barletta"
 	},
 	"B001270": {
 		"example_address": "4322 Wilshire Boulevard",
@@ -852,10 +830,21 @@
 		"example_state": "PA",
 		"zip5": "17901",
 		"zip4": "2972",
-		"example_district": "17",
+		"example_district": "8",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Matthew Cartwright"
+	},
+	"D000482": {
+		"example_address": "2637 East Carson Street",
+		"example_city": "Pittsburgh",
+		"example_state": "PA",
+		"zip5": "15203",
+		"zip4": "2972",
+		"example_district": "18",
+		"type": "Rep",
+		"mark": "true",
+		"name": "Michael F. Doyle"
 	},
 	"C001091": {
 		"example_address": "6363 De Zavala Road",
@@ -1253,7 +1242,7 @@
 		"mark": "true",
 		"name": "Jimmy Panetta"
 	},
-	"E000296": {
+	"B001296": {
 		"example_address": "6632 Germantown Avenue",
 		"example_city": "Philadelphia",
 		"example_state": "PA",
@@ -1262,7 +1251,7 @@
 		"example_district": "2",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Dwight Evans"
+		"name": "Brendan F. Boyle"
 	},
 	"S001207": {
 		"example_address": "30 Schuyler Place",
@@ -1314,7 +1303,7 @@
 		"example_state": "PA",
 		"zip5": "19047",
 		"zip4": "1086",
-		"example_district": "8",
+		"example_district": "1",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Brian K. Fitzpatrick"
@@ -2221,7 +2210,7 @@
 		"mark": "true",
 		"name": "William Keating"
 	},
-	"K000376": {
+	"E000296": {
 		"example_address": "208 East Bayfront Parkway",
 		"example_city": "Erie",
 		"example_state": "PA",
@@ -2230,7 +2219,7 @@
 		"example_district": "3",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Mike Kelly"
+		"name": "Dwight Evans"
 	},
 	"K000378": {
 		"example_address": "415 South Mulford Road",
@@ -2738,7 +2727,7 @@
 		"mark": "true",
 		"name": "Matt Gaetz"
 	},
-	"P000611": {
+	"G000592": {
 		"example_address": "6 State Street",
 		"example_city": "Bangor",
 		"example_state": "ME",
@@ -2747,7 +2736,7 @@
 		"example_district": "2",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Bruce Poliquin"
+		"name": "Jared Golden"
 	},
 	"M001201": {
 		"example_address": "48701 Van Dyke Avenue",
@@ -2870,7 +2859,7 @@
 		"mark": "true",
 		"name": "Tom McClintock"
 	},
-	"M001179": {
+	"P000605": {
 		"example_address": "1000 Commerce Park Drive",
 		"example_city": "Williamsport",
 		"example_state": "PA",
@@ -2879,7 +2868,7 @@
 		"example_district": "10",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Tom Marino"
+		"name": "Scott Perry"
 	},
 	"M001180": {
 		"example_address": "1125 Chapline Street",
@@ -2898,7 +2887,7 @@
 		"example_state": "PA",
 		"zip5": "19064",
 		"zip4": "1255",
-		"example_district": "7",
+		"example_district": "5",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Mary Gay Scanlon"
@@ -3228,10 +3217,21 @@
 		"example_state": "PA",
 		"zip5": "19375",
 		"zip4": "0837",
-		"example_district": "16",
+		"example_district": "11",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Lloyd Smucker"
+	},
+	"K000376": {
+		"example_address": "208 E. Bayfront Parkway, ",
+		"example_city": "Erie",
+		"example_state": "PA",
+		"zip5": "16507",
+		"zip4": "0837",
+		"example_district": "16",
+		"type": "Rep",
+		"mark": "true",
+		"name": "Mike Kelly"
 	},
 	"P000523": {
 		"example_address": "5400 Trinity Road",
@@ -3397,17 +3397,6 @@
 		"type": "Rep",
 		"mark": "true",
 		"name": "Madeleine Dean"
-	},
-	"P000606": {
-		"example_address": "6525 Morrison Boulevard",
-		"example_city": "Charlotte",
-		"example_state": "NC",
-		"zip5": "28211",
-		"zip4": "0501",
-		"example_district": "9",
-		"type": "Rep",
-		"mark": "true",
-		"name": "Robert Pittenger"
 	},
 	"P000607": {
 		"example_address": "10 East Doty Street",
@@ -3728,7 +3717,7 @@
 		"mark": "true",
 		"name": "Tom Rice"
 	},
-	"R000598": {
+	"M001179": {
 		"example_address": "118 West Main Street",
 		"example_city": "Somerset",
 		"example_state": "PA",
@@ -3737,7 +3726,7 @@
 		"example_district": "12",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Keith Rothfus"
+		"name": "Tom Marino"
 	},
 	"R000599": {
 		"example_address": "707 East Tahquitz Canyon Way",
@@ -4273,7 +4262,7 @@
 		"example_state": "PA",
 		"zip5": "16354",
 		"zip4": "1727",
-		"example_district": "5",
+		"example_district": "15",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Glenn Thompson"
@@ -7772,7 +7761,7 @@
 		"example_state": "PA",
 		"zip5": "19472",
 		"zip4": "1800",
-		"example_district": "15",
+		"example_district": "7",
 		"type": "Rep",
 		"mark": "true",
 		"name": "Susan Wild"

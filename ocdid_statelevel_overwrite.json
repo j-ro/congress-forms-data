@@ -6757,7 +6757,7 @@
 	},
 	{
     "divisions": {
-      "ocd-division/country:us/state:wa/sldl:1": {
+      "ocd-division/country:us/state:wa/sldu:1": {
         "name": "Washington State House district 1",
         "overwrite": "true",
         "officeIndices": [
@@ -6768,7 +6768,7 @@
     "offices": [
       {
         "name": "WA State House District 1",
-        "divisionId": "ocd-division/country:us/state:wa/sldl:1",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:1",
         "roles": [
           "legislatorLowerBody"
         ],
@@ -6781,7 +6781,7 @@
       {
         "name": "Derek Stanford",
         "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:1",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
         "overwrite_name": "Derek Stanford",
         "emails": [
           "Derek.Stanford@leg.wa.gov"
@@ -6794,7 +6794,7 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:wa/sldl:1": {
+      "ocd-division/country:us/state:wa/sldu:1": {
         "name": "Washington State House district 1",
         "overwrite": "true",
         "officeIndices": [
@@ -6805,7 +6805,7 @@
     "offices": [
       {
         "name": "WA State House District 1",
-        "divisionId": "ocd-division/country:us/state:wa/sldl:1",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:1",
         "roles": [
           "legislatorLowerBody"
         ],
@@ -6818,7 +6818,7 @@
       {
         "name": "Shelley Kloba",
         "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:1",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
         "overwrite_name": "Shelley Kloba",
         "emails": [
           "Shelley.Kloba@leg.wa.gov"

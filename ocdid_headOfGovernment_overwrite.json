@@ -387,5 +387,42 @@
 	   ]
 	  }
 	 ]
-	}
+ },
+ {
+    "divisions": {
+      "ocd-division/country:us/state:wi": {
+        "name": "Wisconsin State",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI",
+        "divisionId": "ocd-division/country:us/state:wi",
+        "roles": [
+          "governor"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tony Evers",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi",
+        "overwrite_name": "Tony Evers",
+        "emails": [
+          "EversInfo@wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 267-2560"
+        ]
+      }
+    ]
+  }
 ]

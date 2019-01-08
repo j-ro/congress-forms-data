@@ -6755,10 +6755,84 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldu:1": {
+        "name": "Washington State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 1",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Derek Stanford",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
+        "overwrite_name": "Derek Stanford",
+        "emails": [
+          "Derek.Stanford@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7928"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldu:1": {
+        "name": "Washington State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 1",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shelley Kloba",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:1",
+        "overwrite_name": "Shelley Kloba",
+        "emails": [
+          "Shelley.Kloba@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7900"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:wa/sldu:39": {
-        "name": "Washington State Senate district 7",
+        "name": "Washington State Senate district 39",
         "overwrite": "true",
         "officeIndices": [
           0

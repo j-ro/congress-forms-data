@@ -319,14 +319,14 @@
 																	var output_level = 'House';
 																	var output_roles = 'legislatorLowerBody';
 																	var output_district_number = output_ocdid.match(/sldl:(.*)/)[1].toUpperCase();
-																} else {
+																} else if  (output_ocdid.includes('sldu')){
 																	var output_level = 'Senate';
 																	var output_roles = 'legislatorUpperBody';
 																	var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
 																}
 																
-																var output_state_abbreviation = output_ocdid.match(/state:(.*)\//)[1].toUpperCase();
-																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.*)\//)[1].toUpperCase() + ']').html();
+																var output_state_abbreviation = output_ocdid.match(/state:(.*)/)[1].toUpperCase();
+																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.*)/)[1].toUpperCase() + ']').html();
 																
 																$('#results').val($('#results').val()
 																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'

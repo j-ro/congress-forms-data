@@ -41,43 +41,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ok": {
-	   "name": "Oklahoma",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:ok",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mary Fallin",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ok",
-	   "overwrite_name": "Mary Fallin",
-	   "phones": [
-	   		"(405) 521-2342"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ks": {
 	   "name": "Kansas",
 	   "overwrite": "true",
@@ -103,10 +66,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Jeff Colyer",
-	   "party": "Republican",
+	   "name": "Laura Kelly",
+	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ks",
-	   "overwrite_name": "Jeff Colyer",
+	   "overwrite_name": "Laura Kelly",
 	   "emails": [
 	   		"governor@ks.gov"
 	   ],
@@ -149,46 +112,6 @@
 	   "overwrite_name": "Jon Bel Edwards",
 	   "phones": [
 	   		"(225) 342-7015"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:nm": {
-	   "name": "New Mexico",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:nm",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Susana Martinez",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nm",
-	   "overwrite_name": "Susana Martinez",
-	   "emails": [
-	   		"keith.gardner@state.nm.us"
-	   ],
-	   "phones": [
-	   		"(505) 476-2200"
 	   ]
 	  }
 	 ]
@@ -388,43 +311,6 @@
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
 	   "overwrite_name": "Robert C. White, Jr."
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:pa": {
-	   "name": "Pennsylvania",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:pa",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Thomas Wolf",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa",
-	   "overwrite_name": "Thomas Wolf",
-	   "phones": [
-	   		"(717) 787-2500"
-	   ]
 	  }
 	 ]
 	},

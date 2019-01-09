@@ -390,5 +390,42 @@
         ]
       }
     ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ct": {
+        "name": "Connecticut",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT",
+        "divisionId": "ocd-division/country:us/state:ct",
+        "roles": [
+          "Governor"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ned Lamont",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct",
+        "overwrite_name": "Ned Lamont",
+        "emails": [
+          "governor.lamont@ct.gov"
+        ],
+        "phones": [
+          ""
+        ]
+      }
+    ]
   }
 ]

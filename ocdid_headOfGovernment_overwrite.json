@@ -41,6 +41,46 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id": {
+	   "name": "Idaho",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:id",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brad Little",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id",
+	   "overwrite_name": "Brad Little",
+	   "emails": [
+	   		"governor@gov.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 334-2100"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ks": {
 	   "name": "Kansas",
 	   "overwrite": "true",

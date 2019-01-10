@@ -427,5 +427,42 @@
         ]
       }
     ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:id": {
+        "name": "Idaho",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT",
+        "divisionId": "ocd-division/country:us/state:id",
+        "roles": [
+          "Governor"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brad Little",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:id",
+        "overwrite_name": "Brad Little",
+        "emails": [
+          "governor@gov.idaho.gov"
+        ],
+        "phones": [
+          "(208) 334-2100"
+        ]
+      }
+    ]
   }
 ]

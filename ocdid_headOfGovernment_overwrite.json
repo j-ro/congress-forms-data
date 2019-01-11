@@ -41,6 +41,46 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:id": {
+	   "name": "Idaho",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:id",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brad Little",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:id",
+	   "overwrite_name": "Brad Little",
+	   "emails": [
+	   		"governor@gov.idaho.gov"
+	   ],
+	   "phones": [
+	   		"(208) 334-2100"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ks": {
 	   "name": "Kansas",
 	   "overwrite": "true",
@@ -75,43 +115,6 @@
 	   ],
 	   "phones": [
 	   		"(785) 296-3232"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:la": {
-	   "name": "Louisiana",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:la",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "John Bel Edwards",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:la",
-	   "overwrite_name": "Jon Bel Edwards",
-	   "phones": [
-	   		"(225) 342-7015"
 	   ]
 	  }
 	 ]
@@ -316,43 +319,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:de": {
-	   "name": "Delaware",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:de",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "John C Carney Jr",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:de",
-	   "overwrite_name": "John C Carney Jr",
-	   "phones": [
-	   		"(302) 744-4101"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:va": {
 	   "name": "Virginia",
 	   "overwrite": "true",
@@ -457,7 +423,7 @@
           "governor.lamont@ct.gov"
         ],
         "phones": [
-          ""
+          "(860) 566-4840"
         ]
       }
     ]

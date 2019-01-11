@@ -403,10 +403,10 @@
     },
     "offices": [
       {
-        "name": "CT",
+        "name": "Govermor",
         "divisionId": "ocd-division/country:us/state:ct",
         "roles": [
-          "Governor"
+          "headOfGovernment"
         ],
         "officialIndices": [
           0
@@ -440,10 +440,10 @@
     },
     "offices": [
       {
-        "name": "CT",
+        "name": "Governor",
         "divisionId": "ocd-division/country:us/state:id",
         "roles": [
-          "Governor"
+          "headOfGovernment"
         ],
         "officialIndices": [
           0

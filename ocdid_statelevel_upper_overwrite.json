@@ -4654,5 +4654,52 @@
         "overwrite_name": "Troy Balderson"
       }
     ]
+  },
+	{
+ 	"divisions": {
+  	"ocd-division/country:us/state:wa/sldu:37": {
+   "name": "Washington State Senate district 37",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:wa/sldl:37"
+   ],
+   "officeIndices": [
+    0
+   ]
   }
+ },
+ "offices": [
+  {
+   "name": "WA State Senate District 37",
+   "divisionId": "ocd-division/country:us/state:wa/sldu:37",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    0
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Rebecca Saldaña",
+   "address": [
+    {
+     "line1": "PO BOX 40437",
+     "city": "Olympia",
+     "state": "WA",
+     "zip": "98504"
+    }
+   ],
+   "party": "Democratic Party",
+	 "emails": [
+			"Rebecca.Saldana@leg.wa.gov"],
+   "phones":[
+    "(360) 786-7688"
+   ]
+  }
+ ]
+}
 ]

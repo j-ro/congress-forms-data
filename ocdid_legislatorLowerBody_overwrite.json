@@ -484,5 +484,85 @@
 	 "overwrite_name": "Robert Pittenger"
 	}
  ]
-}
+},
+{
+	 "divisions": {
+	  "ocd-division/country:us/state:az": {
+	   "name": "Arizona",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:az",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Martha McSally",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az",
+	   "overwrite_name": "Martha McSally",
+	   "phones": [
+	   		"(202) 224-2235"
+	   ],
+	   "emails": [
+	    "contact@mcsally.senate.gov"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:az": {
+	   "name": "Arizona",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:az",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kyrsten Sinema",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az",
+	   "overwrite_name": "Kyrsten Sinema",
+	   "phones": [
+	   		"(202) 224-4521"
+	   ],
+	   "emails": [
+	    "contact@sinema.senate.gov"
+	   ]
+	  }
+	 ]
+	}
 ]

@@ -115,5 +115,45 @@
 	   ]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mo": {
+	   "name": "Missouri",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:mo",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Josh Hawley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo",
+	   "overwrite_name": "Josh Hawley",
+	   "phones": [
+	   		"(202) 224-6154"
+	   ],
+	   "emails": [
+	    "senator@hawley.senate.gov"
+	   ]
+	  }
+	 ]
 	}
 ]

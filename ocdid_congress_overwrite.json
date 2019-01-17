@@ -641,5 +641,85 @@
 	   ]
 	  }
 	 ]
+ },
+ {
+	"divisions": {
+	 "ocd-division/country:us/state:mo": {
+		"name": "Missouri",
+		"overwrite": "true",
+		"officeIndices": [
+		 0
+		]
+	 }
+	},
+	"offices": [
+	 {
+		"name": "United States Senate",
+		"divisionId": "ocd-division/country:us/state:in",
+		"levels": [
+		 "country"
+		],
+		"roles": [
+		 "legislatorUpperBody"
+		],
+		"officialIndices": [
+		 0
+		]
+	 }
+	],
+	"officials": [
+	 {
+		"name": "Mike Braun",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:in",
+		"overwrite_name": "Mike Braun",
+		"phones": [
+			 "(202) 224-4814"
+		],
+		"emails": [
+		 "Contact@Braun.Senate.Gov"
+		]
+	 }
+	]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:mo": {
+	 "name": "Missouri",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
 	}
+ },
+ "offices": [
+	{
+	 "name": "United States Senate",
+	 "divisionId": "ocd-division/country:us/state:fl",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorUpperBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Rick Scott",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl",
+	 "overwrite_name": "Rick Scott",
+	 "phones": [
+			"(202) 224-5274"
+	 ],
+	 "emails": [
+		"help@rickscott.senate.gov"
+	 ]
+	}
+ ]
+}
 ]

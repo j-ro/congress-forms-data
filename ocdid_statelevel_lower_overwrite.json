@@ -37,43 +37,6 @@
 	 ]
 	},
 	{
-    "divisions": {
-      "ocd-division/country:us/state:ar/sldl:83": {
-        "name": "Arkansas State House district 83",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AR State House District 83",
-        "divisionId": "ocd-division/country:us/state:ar/sldl:83",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Donald Ragland",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:83",
-        "overwrite_name": "Donald Ragland",
-        "emails": [
-          "donald.ragland@arkansashouse.org"
-        ],
-        "phones": [
-          "(870) 504-0032"
-        ]
-      }
-    ]
-  },
-	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:19": {
 	   "name": "California State House district 19",
@@ -97,10 +60,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Philip Y. Ting",
+	   "name": "Phil Ting",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:19",
-	   "overwrite_name": "Philip Y. Ting",
+	   "overwrite_name": "Phil Ting",
 	   "phones": [
           "(916) 319-2019"
         ]
@@ -4053,43 +4016,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:il/sldl:51": {
-        "name": "Illinois State House district 51",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State House District 51",
-        "divisionId": "ocd-division/country:us/state:il/sldl:51",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Helene Walsh",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:51",
-        "overwrite_name": "Helene Walsh",
-        "emails": [
-          "walsh@ilhousegop.org"
-        ],
-        "phones": [
-          "(217) 782-3696"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/sldl:63": {
         "name": "Illinois State House district 63",
         "overwrite": "true",
@@ -4127,43 +4053,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:il/sldl:76": {
-        "name": "Illinois State House district 76",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State House District 76",
-        "divisionId": "ocd-division/country:us/state:il/sldl:76",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jerry Lee Long",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:76",
-        "overwrite_name": "Jerry Lee Long",
-        "emails": [
-          "long@ilhousegop.org"
-        ],
-        "phones": [
-          "(217) 782-0140"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/sldl:79": {
         "name": "Illinois State House district 79",
         "overwrite": "true",
@@ -4195,43 +4084,6 @@
         ],
         "phones": [
           "(217) 782-5981"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldl:110": {
-        "name": "Illinois State House district 110",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State House District 110",
-        "divisionId": "ocd-division/country:us/state:il/sldl:110",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Reginald \"Reggie\" Phillips",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:110",
-        "overwrite_name": "Reginald \"Reggie\" Phillips",
-        "emails": [
-          "phillips@ilhousegop.org"
-        ],
-        "phones": [
-          "(217) 558-1040"
         ]
       }
     ]
@@ -4343,43 +4195,6 @@
 	   ],
 	   "phones": [
 	   		"502-564-8100 Ext. 663"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ky/sldl:32": {
-	   "name": "Kentucky State House district 32",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "KY State House District 32",
-	   "divisionId": "ocd-division/country:us/state:ky/sldl:32",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Phil Moffett",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:32",
-	   "overwrite_name": "Phil Moffett",
-	   "emails": [
-	   		"phil.moffett@lrc.ky.gov"
-	   ],
-	   "phones": [
-	   		"502-564-8100 Ext. 708"
 	   ]
 	  }
 	 ]
@@ -4525,43 +4340,6 @@
         "overwrite_name": "Attica Woodson Scott",
         "emails": [
           "Attica.Scott@lrc.ky.gov"
-        ],
-        "phones": [
-		  "(502) 564-8100"
-		]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ky/sldl:48": {
-        "name": "Kentucky State House district 48",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "KY State House District 48",
-        "divisionId": "ocd-division/country:us/state:ky/sldl:48",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ken Fleming",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:48",
-        "overwrite_name": "Ken Fleming",
-        "emails": [
-          "Ken.Fleming@lrc.ky.gov "
         ],
         "phones": [
 		  "(502) 564-8100"
@@ -5148,10 +4926,10 @@
     ],
     "officials": [
       {
-        "name": "Clint D. Owlett",
+        "name": "Clinton Dennis Owlett",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:68",
-        "overwrite_name": "Clint D. Owlett",
+        "overwrite_name": "Clinton Dennis Owlett",
         "emails": [
           "cowlett@pahousegop.com"
         ],
@@ -5185,10 +4963,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Greg Rothman",
+	   "name": "William Gregory Rothman",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:87",
-	   "overwrite_name": "Greg Rothman",
+	   "overwrite_name": "William Gregory Rothman",
 	   "emails": [
 	   		"grothman@pahousegop.com"
 	   ],
@@ -5274,43 +5052,6 @@
   },
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldl:163": {
-	   "name": "Pennsylvania State House district 163",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State House District 163",
-	   "divisionId": "ocd-division/country:us/state:pa/sldl:163",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "James R. Santora",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:163",
-	   "overwrite_name": "James R. Santora",
-	   "emails": [
-	   		"jsantora@pahouse.net"
-	   ],
-	   "phones": [
-	   		"(717) 783-8808"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:168": {
 	   "name": "Pennsylvania State House district 168",
 	   "overwrite": "true",
@@ -5333,10 +5074,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Chris Quinn",
+	   "name": "Christopher B Quinn",
 	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:168",
-	   "overwrite_name": "Chris Quinn",
+	   "overwrite_name": "Christopher B Quinn",
 	   "emails": [
 	   		"cquinn@pahouse.net"
 	   ],
@@ -5379,43 +5120,6 @@
 	   ],
 	   "phones": [
 	   		"(717) 787-4331"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldl:178": {
-	   "name": "Pennsylvania State House district 178",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State House District 178",
-	   "divisionId": "ocd-division/country:us/state:pa/sldl:178",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Helen D. Tai",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:178",
-	   "overwrite_name": "Helen D. Tai",
-	   "emails": [
-	   		"htai@pahouse.net"
-	   ],
-	   "phones": [
-	   		"(717) 787-9033"
 	   ]
 	  }
 	 ]
@@ -5481,10 +5185,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Joanna E. McClinton",
+	   "name": "Joanna E Mcclinton",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:191",
-	   "overwrite_name": "Joanna E. McClinton",
+	   "overwrite_name": "Joanna E Mcclinton",
 	   "emails": [
 	   		"jmcclinton@pahouse.net"
 	   ],
@@ -5533,43 +5237,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldl:197": {
-	   "name": "Pennsylvania State House district 197",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State House District 197",
-	   "divisionId": "ocd-division/country:us/state:pa/sldl:197",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Emilio Vazquez",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:197",
-	   "overwrite_name": "Emilio Vazquez",
-	   "emails": [
-	   		"evazquez@pahouse.net"
-	   ],
-	   "phones": [
-	   		"(717) 772-2004"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:200": {
 	   "name": "Pennsylvania State House district 200",
 	   "overwrite": "true",
@@ -5592,10 +5259,10 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Chris Rabb",
+	   "name": "Christopher Rabb",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:200",
-	   "overwrite_name": "Chris Rabb",
+	   "overwrite_name": "Christopher Rabb",
 	   "emails": [
 	   		"crabb@pahouse.net"
 	   ],
@@ -5829,80 +5496,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:vt/sldl:rutland-windsor-1": {
-	   "name": "Vermont Rutland-Windor State House district 1",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "VT State House District Rutland Windsor 1",
-	   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-windsor-1",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "James Harrison",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:rutland-windsor-1",
-	   "overwrite_name": "James Harrison",
-	   "emails": [
-	   		"jharrison@leg.state.vt.us"
-	   ],
-	   "phones": [
-	   		"(802) 236-3001"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:vt/sldl:washington-7": {
-	   "name": "Vermont Washington State House district 7",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "VT State House District Washington 7",
-	   "divisionId": "ocd-division/country:us/state:vt/sldl:washington-7",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Edward Read",
-	   "party": "Independent",
-	   "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:washington-7",
-	   "overwrite_name": "Edward Read",
-	   "emails": [
-	   		"eread@leg.state.vt.us"
-	   ],
-	   "phones": [
-	   		"(802) 279-5016"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:pa/sldl:172": {
 	   "name": "Pennsylvania State House district 172",
 	   "overwrite": "true",
@@ -5938,43 +5531,6 @@
 	  }
 	 ]
 	},
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ny/sldl:9": {
-        "name": "New York State House district 9",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State House District 9",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:9",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Christine Pellegrino",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:9",
-        "overwrite_name": "Christine Pellegrino",
-        "emails": [
-          "pellegrinoc@nyassembly.gov"
-        ],
-        "phones": [
-          "(518) 455-5305"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:ny/sldl:27": {
@@ -6036,10 +5592,10 @@
 	],
 	"officials": [
 	  {
-		"name": "Doug Smith",
+		"name": "Douglas M. Smith",
 		"party": "Republican",
 		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:5",
-		"overwrite_name": "Doug Smith",
+		"overwrite_name": "Douglas M. Smith",
 		"emails": [
 		  "smithd@nyassembly.gov"
 		],
@@ -6125,43 +5681,6 @@
   },
   {
 	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:39": {
-			"name": "New York State Senate district 39",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NY State House District 39",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:39",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Aridia Espinal",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:39",
-		"overwrite_name": "Aridia Espinal",
-		"emails": [
-		  "espinala@nyassembly.gov"
-		],
-		"phones": [
-		  "718-458-5367"
-		]
-	  }
-	]
-  },
-  {
-	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:59": {
 			"name": "New York State Senate district 59",
 			"overwrite": "true",
@@ -6221,10 +5740,10 @@
     ],
     "officials": [
       {
-        "name": "Al Taylor",
+        "name": "Alfred E. Taylor",
         "party": "Democratic",
         "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:71",
-        "overwrite_name": "Al Taylor",
+        "overwrite_name": "Alfred E. Taylor",
         "emails": [
           "taylora@nyassembly.gov"
         ],
@@ -6307,80 +5826,6 @@
         ]
       }
     ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ny/sldl:107": {
-        "name": "New York State House district 107",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State House District 107",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:107",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jake Ashby",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:107",
-        "overwrite_name": "Jake Ashby",
-        "emails": [
-          "ashbyj@nyassembly.gov"
-        ],
-        "phones": [
-          "(518) 455-5777"
-        ]
-      }
-    ]
-  },
-  {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:142": {
-			"name": "New York State Senate district 142",
-			"overwrite": "true",
-			"officeIndices": [
-			  0
-			]
-		}
-	},
-	"offices": [
-	  {
-		"name": "NY State House District 142",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:142",
-		"roles": [
-		  "legislatorLowerBody"
-		],
-		"officialIndices": [
-		  0
-		]
-	  }
-	],
-	"officials": [
-	  {
-		"name": "Erik Bohen",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:142",
-		"overwrite_name": "Erik Bohen",
-		"emails": [
-		  "bohene@nyassembly.gov"
-		],
-		"phones": [
-		  "716-608-6099"
-		]
-	  }
-	]
   },
   {
 	"divisions": {
@@ -6569,43 +6014,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:belknap_3": {
-        "name": "New Hampshire State House district Belknap County No. 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Belknap 3",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_3",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Philip Spagnuolo",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_3",
-        "overwrite_name": "Philip Spagnuolo",
-        "emails": [
-          "phil.spagnuolo@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 524-5369"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_9": {
         "name": "New Hampshire State House district Belknap County No. 9",
         "overwrite": "true",
@@ -6754,43 +6162,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:hillsborough_13": {
-        "name": "New Hampshire State House district Hillsborough County No. 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Hillsborough 13",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_13",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Richard O'Leary",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_13",
-        "overwrite_name": "Richard O'Leary",
-        "emails": [
-          "Richard.OLeary@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 668-0069"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_15": {
         "name": "New Hampshire State House district Hillsborough County No. 15",
         "overwrite": "true",
@@ -6828,43 +6199,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:hillsborough_38": {
-        "name": "New Hampshire State House district Hillsborough County No. 38",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Hillsborough 38",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_38",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John J. Valera",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_38",
-        "overwrite_name": "John J. Valera",
-        "emails": [
-          "John.Valera@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 478-0013"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_18": {
         "name": "New Hampshire State House district Merrimack County No. 18",
         "overwrite": "true",
@@ -6896,117 +6230,6 @@
         ],
         "phones": [
           "(603) 856-7279"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:merrimack_21": {
-        "name": "New Hampshire State House district Merrimack County No. 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Merrimack 21",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_21",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Michael A. Brewster",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_21",
-        "overwrite_name": "Michael A. Brewster",
-        "emails": [
-          "Michael.Brewster@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 491-5927"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_4": {
-        "name": "New Hampshire State House district Rockingham County No. 4",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 4",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_4",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kari Lerner",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_4",
-        "overwrite_name": "Kari Lerner",
-        "emails": [
-          "kari.lerner@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 271-3565"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_6": {
-        "name": "New Hampshire State House district Rockingham County No. 6",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 6",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_6",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Richard P. Tripp",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_6",
-        "overwrite_name": "Richard P. Tripp",
-        "emails": [
-          "Richard.Tripp@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 434-4674"
         ]
       }
     ]
@@ -7081,80 +6304,6 @@
         ],
         "phones": [
           "(603) 275-7494"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_15": {
-        "name": "New Hampshire State House district Rockingham County No. 15",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 15",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_15",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mary M. Allen",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_15",
-        "overwrite_name": "Mary M. Allen",
-        "emails": [
-          "Mary.Allen@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 382-5665"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district Rockingham County No. 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 20",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Aboul B. Khan",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "overwrite_name": "Aboul B. Khan",
-        "emails": [
-          "Aboul.Khan@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 474-1496"
         ]
       }
     ]
@@ -7272,43 +6421,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:strafford_14": {
-        "name": "New Hampshire State House district Strafford County No. 14",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Strafford 14",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:strafford_14",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Hamilton R. Krans, Jr.",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:strafford_14",
-        "overwrite_name": "Hamilton R. Krans, Jr.",
-        "emails": [
-          "Hamilton.Krans@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 742-0761"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_15": {
         "name": "New Hampshire State House district Strafford County No. 15",
         "overwrite": "true",
@@ -7377,43 +6489,6 @@
         ],
         "phones": [
           "(603) 343-2005"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:sullivan_4": {
-        "name": "New Hampshire State House district Sullivan County No. 4",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Sullivan 4",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:sullivan_4",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John J. O'Connor",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:sullivan_4",
-        "overwrite_name": "John J. O'Connor",
-        "emails": [
-          "John.OConnor@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 995-6917"
         ]
       }
     ]
@@ -7615,10 +6690,10 @@
     ],
     "officials": [
       {
-        "name": "Jim Hughes",
-        "party": "Republican",
+        "name": "Allison Russo",
+        "party": "Democratic",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:24",
-        "overwrite_name": "Jim Hughes",
+        "overwrite_name": "Allison Russo",
         "phones": [
           "(614) 466-8012"
         ]
@@ -7683,10 +6758,10 @@
     ],
     "officials": [
       {
-        "name": "Bill Seitz",
+        "name": "William J. Seitz",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:30",
-        "overwrite_name": "Bill Seitz",
+        "overwrite_name": "William J. Seitz",
         "phones": [
           "(614) 466-8258"
         ]
@@ -8245,43 +7320,6 @@
         ],
         "phones": [
           "(405) 557-7405"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ok/sldl:75": {
-        "name": "Oklahoma State House district 75",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OK State House District 75",
-        "divisionId": "ocd-division/country:us/state:ok/sldl:75",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Karen Gaddis",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:75",
-        "overwrite_name": "Karen Gaddis",
-        "emails": [
-          "karen.gaddis@okhouse.gov"
-        ],
-        "phones": [
-          "(405) 557-7356"
         ]
       }
     ]
@@ -9250,43 +8288,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:or/sldl:52": {
-        "name": "Oregon State House district 52",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OR State House District 52",
-        "divisionId": "ocd-division/country:us/state:or/sldl:52",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jeffrey Helfrich",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:52",
-        "overwrite_name": "Jeffrey Helfrich",
-        "emails": [
-          "Rep.JeffHelfrich@oregonlegislature.gov"
-        ],
-        "phones": [
-          "503-986-1452"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:co/sldl:26": {
         "name": "Colorado State House district 26",
         "overwrite": "true",
@@ -9546,43 +8547,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ga/sldl:111": {
-        "name": "Georgia State House district 111",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "GA State House District 111",
-        "divisionId": "ocd-division/country:us/state:ga/sldl:111",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Geoff Cauble",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:111",
-        "overwrite_name": "Geoff Cauble",
-        "emails": [
-          "geoff.cauble@house.ga.gov"
-        ],
-        "phones": [
-          "(404) 656-0298"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:id/sldl:10": {
         "name": "Idaho State House district 10",
         "overwrite": "true",
@@ -9753,7 +8717,7 @@
 	   "name": "Cara Clemente",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:14",
-	   "overwrite_name": "Paul Clemente",
+	   "overwrite_name": "Cara Clemente",
 	   "phones": [
 	   		"(517) 373-0140"
 	   ],
@@ -9790,7 +8754,7 @@
 	   "name": "Sarah Anthony",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:68",
-	   "overwrite_name": "Andy Schor",
+	   "overwrite_name": "Sarah Anthony",
 	   "phones": [
 	   		"(517) 373-0826"
 	   ],

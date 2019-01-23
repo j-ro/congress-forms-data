@@ -6310,43 +6310,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district Rockingham County No. 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 20",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jason A. Janvrin",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "overwrite_name": "Jason A. Janvrin",
-        "emails": [
-          "Jason.Janvrin@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 944-7449"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_5": {
         "name": "New Hampshire State House district Strafford County No. 5",
         "overwrite": "true",

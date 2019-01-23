@@ -692,7 +692,7 @@
 	   "name": "Sarah Anthony",
 	   "party": "Democratic",
 	   "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:68",
-	   "overwrite_name": "Sarah Anthonyz",
+	   "overwrite_name": "Sarah Anthony",
 	   "phones": [
 	   		"(517) 373-0826"
 	   ],
@@ -9493,43 +9493,6 @@
         ],
         "phones": [
           "(603) 275-7494"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district Rockingham County No. 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Rockingham 20",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jason A. Janvrin",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_20",
-        "overwrite_name": "Jason A. Janvrin",
-        "emails": [
-          "Jason.Janvrin@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 944-7449"
         ]
       }
     ]

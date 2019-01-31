@@ -380,6 +380,72 @@
 },
 {
  "divisions": {
+	"ocd-division/country:us/state:pa/cd:10": {
+	 "name": "Pennsylvania's 10th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives PA-10",
+	 "divisionId": "ocd-division/country:us/state:pa/cd:10",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Vacant",
+	 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:10",
+	 "overwrite_name": "Brian K. Fitzpatrick"
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:pa/cd:12": {
+	 "name": "Pennsylvania's 12th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives PA-12",
+	 "divisionId": "ocd-division/country:us/state:pa/cd:12",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Vacant",
+	 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:12",
+	 "overwrite_name": "Tom Marino"
+	}
+ ]
+},
+{
+ "divisions": {
 	"ocd-division/country:us/state:pa/cd:15": {
 	 "name": "Pennsylvania's 15th congressional district",
 	 "overwrite": "true",
@@ -411,6 +477,43 @@
 	 "overwrite_name": "Glenn William Thompson, Jr",
 	 "phones": [
 			"(202) 225-5121"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:pa/cd:1": {
+	 "name": "Pennsylvania's 1st congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives PA-01",
+	 "divisionId": "ocd-division/country:us/state:pa/cd:1",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Brian K. Fitzpatrick",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:1",
+	 "overwrite_name": "Robert (Bob) A. Brady",
+	 "phones": [
+			"(202) 225-4276"
 	 ]
 	}
  ]

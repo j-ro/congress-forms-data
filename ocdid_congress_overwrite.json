@@ -378,43 +378,6 @@
 	  }
 	 ]
 	},
- {
-	"divisions": {
-	 "ocd-division/country:us/state:az/cd:2": {
-		"name": "Arizona's 2nd congressional district",
-		"overwrite": "true",
-		"officeIndices": [
-		 0
-		]
-	 }
-	},
-	"offices": [
-	 {
-		"name": "United States House of Representatives AZ-02",
-		"divisionId": "ocd-division/country:us/state:az/cd:2",
-		"levels": [
-		 "country"
-		],
-		"roles": [
-		 "legislatorLowerBody"
-		],
-		"officialIndices": [
-		 0
-		]
-	 }
-	],
-	"officials": [
-	 {
-		"name": "Ann Kirkpatrick",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:az/cd:2",
-		"overwrite_name": "Martha McSally",
-		"phones": [
-			 "(202) 225-2542"
-		]
-	 }
-	]
-},
 {
  "divisions": {
 	"ocd-division/country:us/state:pa/cd:10": {
@@ -745,46 +708,6 @@
 	  }
 	 ]
  },
- {
-	"divisions": {
-	 "ocd-division/country:us/state:in": {
-		"name": "Indiana",
-		"overwrite": "true",
-		"officeIndices": [
-		 0
-		]
-	 }
-	},
-	"offices": [
-	 {
-		"name": "United States Senate",
-		"divisionId": "ocd-division/country:us/state:in",
-		"levels": [
-		 "country"
-		],
-		"roles": [
-		 "legislatorUpperBody"
-		],
-		"officialIndices": [
-		 0
-		]
-	 }
-	],
-	"officials": [
-	 {
-		"name": "Mike Braun",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:in",
-		"overwrite_name": "Mike Braun",
-		"phones": [
-			 "(202) 224-4814"
-		],
-		"emails": [
-		 "Contact@Braun.Senate.Gov"
-		]
-	 }
-	]
-},
 {
  "divisions": {
 	"ocd-division/country:us/state:fl": {

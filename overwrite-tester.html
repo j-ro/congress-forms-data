@@ -325,6 +325,12 @@
 																	var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
 																}
 																
+																if (typeof(official.phones) != 'undefined' && official.phones.length > 0 && official.phones[0] != '') {
+																	var official_phone = official.phones[0];
+																} else {
+																	var official_phone = "";
+																}
+																
 																var output_state_abbreviation = output_ocdid.match(/state:(.*)\//)[1].toUpperCase();
 																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.*)\//)[1].toUpperCase() + ']').html();
 																
@@ -363,7 +369,7 @@
 																+ '          ""\n'
 																+ '        ],\n'
 																+ '        "phones": [\n'
-																+ '          ""\n'
+																+ '          "' + official_phone + '"\n'
 																+ '        ]\n'
 																+ '      }\n'
 																+ '    ]\n'

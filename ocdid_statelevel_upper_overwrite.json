@@ -3116,6 +3116,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:sc/sldu:9": {
+        "name": "South Carolina State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:9",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel B. \"Danny\" Verdin, III",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:9",
+        "overwrite_name": "Daniel B. \"Danny\" Verdin, III",
+        "emails": [
+          "dannyverdin@scsenate.gov"
+        ],
+        "phones": [
+          "(864) 682-8914"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/sldu:31": {
         "name": "Florida State Senate district 31",
         "overwrite": "true",

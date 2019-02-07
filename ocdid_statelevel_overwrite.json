@@ -22175,10 +22175,10 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Jeremy \"Mr. Eyg\" Gray",
+		"name": "Jeremy Gray",
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:al/sldl:83",
-		"overwrite_name": "Jeremy \"Mr. Eyg\" Gray",
+		"overwrite_name": "Jeremy Gray",
 		"emails": ["Jeremy.Gray@alhouse.gov"],
 		"phones": ["(334) 261-9505"]
 	}]
@@ -24916,10 +24916,10 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Joanna E Mcclinton",
+		"name": "Joanna E McClinton",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:191",
-		"overwrite_name": "Joanna E Mcclinton",
+		"overwrite_name": "Joanna E McClinton",
 		"emails": ["jmcclinton@pahouse.net"],
 		"phones": ["(717) 772-9850"]
 	}]
@@ -25714,29 +25714,8 @@
 		"emails": ["weaver@oksenate.gov"],
 		"phones": ["(405) 521-5569"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:sc/sldl:84": {
-			"name": "South Carolina State House district 84",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "SC State House District 84",
-		"divisionId": "ocd-division/country:us/state:sc/sldl:84",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Ronnie Young",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:84",
-		"overwrite_name": "Ronnie Young",
-		"emails": ["ronnieyoung@schouse.gov"],
-		"phones": ["(803) 212-6917"]
-	}]
-}, {
+}, 
+{
 	"divisions": {
 		"ocd-division/country:us/state:sc/sldu:20": {
 			"name": "South Carolina State Senate district 20",
@@ -26276,7 +26255,7 @@
 		"name": "Sarah L. Vance",
 		"party": "Republican Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:31",
-		"overwrite_name": "Sarah L. Vance@akleg.gov",
+		"overwrite_name": "Sarah L. Vance",
 		"emails": ["Representative.Sarah.Vance"],
 		"phones": ["(907) 235-2921"]
 	}]

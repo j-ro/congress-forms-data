@@ -2218,7 +2218,45 @@
 		"emails": ["Wilhour@ilhousegop.org"],
 		"phones": ["(217) 782-0066"]
 	}]
-}, {
+}, 
+{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:109": {
+        "name": "Illinois State House district 109",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 109",
+        "divisionId": "ocd-division/country:us/state:il/sldl:109",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Darren Bailey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:109",
+        "overwrite_name": "Darren Bailey",
+        "emails": [
+          "Bailey@ilhousegop.org"
+        ],
+        "phones": [
+          "(217) 782-2087"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldl:110": {
 			"name": "Illinois State House district 110",
@@ -2522,28 +2560,9 @@
 		"name": "Bob Andrzejczak",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
-		"overwrite_name": "Jeff Van Drew",
+		"overwrite_name": "Bob Andrzejczak",
 		"emails": ["senAndrzejczak@njleg.org"],
 		"phones": ["(609) 465-0700"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:nj/sldu:1": {
-			"name": "New Jersey State House district 1",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NJ State House District 1",
-		"divisionId": "ocd-division/country:us/state:nj/sldu:1",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Vacant",
-		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
-		"overwrite_name": "Bob Andrzejczak"
 	}]
 }, {
 	"divisions": {
@@ -18999,8 +19018,7 @@
 		"party": "Republican Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:17",
 		"overwrite_name": "Martin Momtahan",
-		"emails": [""],
-		"phones": ["Martin.Momtahan@house.ga.gov"]
+		"emails": ["Martin.Momtahan@house.ga.gov"]
 	}]
 }, {
 	"divisions": {
@@ -22437,7 +22455,45 @@
 		"emails": ["info@senatorrobertpeters.com"],
 		"phones": ["(217) 782-5338"]
 	}]
-}, {
+}, 
+{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:21": {
+        "name": "Illinois State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:il/sldu:21",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laura Ellman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:21",
+        "overwrite_name": "Laura Ellman",
+        "emails": [
+          "lEllman@senatedem.illinois.gov"
+        ],
+        "phones": [
+          "(217) 782-8192"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:24": {
 			"name": "Illinois State Senate district 24",
@@ -23834,7 +23890,45 @@
 		"emails": ["stan.humphries@lrc.ky.gov"],
 		"phones": ["(502) 564-8100 ext. 870"]
 	}]
-}, {
+}, 
+{
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:8": {
+        "name": "Montana State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Susan A. Webber",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:8",
+        "overwrite_name": "Susan A. Webber",
+        "emails": [
+          "Sen.Susan.Webber@mt.gov"
+        ],
+        "phones": [
+          "(406) 450-4057"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:mt/sldu:19": {
 			"name": "Montana State Senate district 19",

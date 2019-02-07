@@ -316,12 +316,13 @@
 											}).done(function(data) {
 												$.each(data.officials, function(index, official) {
 													var no_contact = true;
+													var non_matching_bioid = false;
 													//console.log(official.name);
 													if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
 														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
 														//console.log(official.emails[0]);
 														no_contact = false;
-													} else if (official.name == 'Vacant') {
+													} else if (official.name.toLowerCase() == 'Vacant') {
 														no_contact = false; 
 													} else {
 														//console.log(official.name);
@@ -345,8 +346,10 @@
 	console.log(official.name);
 															$.each(bioids, function(index, bioid) {
 																if (typeof(bioid.ocd_id) != 'undefined') {
-																	if (bioid.ocd_id == e[0]) {
+																	if (bioid.ocd_id == e[0] && bioid.name == official.name) {
 																		no_contact = false;
+																	} else if (bioid.ocd_id == e[0]) {
+																		non_matching_bioid = true;
 																	}
 																}
 															});
@@ -378,6 +381,7 @@
 																
 																$('#results').val($('#results').val()
 																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
+																+ '\n\n\ non-matching bioid is ' + non_matching_bioid + '\n'
 																+ 'new override skeleton: \n'
 																+ '{\n'
 																+ '    "divisions": {\n'

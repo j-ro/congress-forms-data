@@ -2093,36 +2093,6 @@
 	  }
 	 ]
 	},
-	{
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldu:1": {
-        "name": "New Jersey State House district 1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 1",
-        "divisionId": "ocd-division/country:us/state:nj/sldu:1",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
-        "overwrite_name": "Bob Andrzejczak"
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:nj/sldu:1": {
@@ -5847,6 +5817,43 @@
         ],
         "phones": [
           "(217) 782-0066"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:109": {
+        "name": "Illinois State House district 109",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 109",
+        "divisionId": "ocd-division/country:us/state:il/sldl:109",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Darren Bailey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:109",
+        "overwrite_name": "Darren Bailey",
+        "emails": [
+          "Bailey@ilhousegop.org"
+        ],
+        "phones": [
+          "(217) 782-2087"
         ]
       }
     ]
@@ -25890,9 +25897,6 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:17",
         "overwrite_name": "Martin Momtahan",
         "emails": [
-          ""
-        ],
-        "phones": [
           "Martin.Momtahan@house.ga.gov"
         ]
       }

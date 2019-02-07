@@ -232,80 +232,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:ny/cd:25": {
-	   "name": "New York's 25th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives NY-25",
-	   "divisionId": "ocd-division/country:us/state:ny/cd:25",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Joseph Morelle",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:25",
-	   "overwrite_name": "Joseph Morelle",
-	   "phones": [
-	   		"(202) 225-3615"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:pa/cd:7": {
-	   "name": "Pennsylvania's 7th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives PA-07",
-	   "divisionId": "ocd-division/country:us/state:pa/cd:7",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Susan Ellis Wild",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:7",
-	   "overwrite_name": "Susan Ellis Wild",
-	   "phones": [
-	   		"(202) 225-2011"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:mi/cd:13": {
 	   "name": "Michigan's 13th congressional district",
 	   "overwrite": "true",
@@ -340,43 +266,6 @@
 	   ]
 	  }
 	 ]
-},
- {
-	"divisions": {
-	 "ocd-division/country:us/state:az/cd:2": {
-		"name": "Arizona's 2nd congressional district",
-		"overwrite": "true",
-		"officeIndices": [
-		 0
-		]
-	 }
-	},
-	"offices": [
-	 {
-		"name": "United States House of Representatives AZ-02",
-		"divisionId": "ocd-division/country:us/state:az/cd:2",
-		"levels": [
-		 "country"
-		],
-		"roles": [
-		 "legislatorLowerBody"
-		],
-		"officialIndices": [
-		 0
-		]
-	 }
-	],
-	"officials": [
-	 {
-		"name": "Ann Kirkpatrick",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:az/cd:2",
-		"overwrite_name": "Martha McSally",
-		"phones": [
-			 "(202) 225-2542"
-		]
-	 }
-	]
 },
 {
  "divisions": {
@@ -413,76 +302,6 @@
 },
 {
  "divisions": {
-	"ocd-division/country:us/state:pa/cd:12": {
-	 "name": "Pennsylvania's 12th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives PA-12",
-	 "divisionId": "ocd-division/country:us/state:pa/cd:12",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Vacant",
-	 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:12",
-	 "overwrite_name": "Tom Marino"
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:pa/cd:15": {
-	 "name": "Pennsylvania's 15th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives PA-15",
-	 "divisionId": "ocd-division/country:us/state:pa/cd:15",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Glenn William Thompson, Jr",
-	 "party": "Republican",
-	 "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:15",
-	 "overwrite_name": "Glenn William Thompson, Jr",
-	 "phones": [
-			"(202) 225-5121"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
 	"ocd-division/country:us/state:pa/cd:1": {
 	 "name": "Pennsylvania's 1st congressional district",
 	 "overwrite": "true",
@@ -514,43 +333,6 @@
 	 "overwrite_name": "Robert (Bob) A. Brady",
 	 "phones": [
 			"(202) 225-4276"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:sd": {
-	 "name": "South Dakota",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives SD",
-	 "divisionId": "ocd-division/country:us/state:sd",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Dusty Johnson",
-	 "party": "Republican",
-	 "overwrite_ocdid": "ocd-division/country:us/state:sd",
-	 "overwrite_name": "Kristi L. Noem",
-	 "phones": [
-			"(202) 225-2801"
 	 ]
 	}
  ]

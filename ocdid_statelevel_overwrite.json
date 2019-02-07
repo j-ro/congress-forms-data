@@ -1976,29 +1976,8 @@
 		"phones": ["(217) 782-3201"],
 		"emails": ["info@senatorelgiesims.com"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:il/sldl:21": {
-			"name": "Illinois State House district 21",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "IL State House District 21",
-		"divisionId": "ocd-division/country:us/state:il/sldl:21",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Celina Villanueva",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:il/sldl:21",
-		"overwrite_name": "Celina Villanueva",
-		"emails": ["ilrep21@gmail.com"],
-		"phones": ["(217) 782-7752"]
-	}]
-}, {
+}, 
+{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:36": {
 			"name": "Illinois State Senate district 36",
@@ -2454,73 +2433,8 @@
 		"emails": ["ralph.alvarado@lrc.ky.gov"],
 		"phones": ["502-564-8100 Ext. 681"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:mi/sldl:6": {
-			"name": "Michigan State House district 6",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MI State House District 6",
-		"divisionId": "ocd-division/country:us/state:mi/sldl:6",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Tyrone Carter",
-		"party": "Democratic Party",
-		"overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:6",
-		"overwrite_name": "Tyrone Carter",
-		"emails": ["TyroneCarter@house.mi.gov"],
-		"phones": ["(517) 373-0823"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:mi/sldl:2": {
-			"name": "Michigan State House district 2",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MI State House District 2",
-		"divisionId": "ocd-division/country:us/state:mi/sldl:2",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Joe Tate",
-		"party": "Democratic Party",
-		"overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:2",
-		"overwrite_name": "Joe Tate",
-		"emails": ["JoeTate@house.mi.gov"],
-		"phones": ["(517) 373-1776"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:mi/sldl:68": {
-			"name": "Michigan State House district 68",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MI State House District 68",
-		"divisionId": "ocd-division/country:us/state:mi/sldl:68",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Sarah Anthony",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:68",
-		"overwrite_name": "Sarah Anthony",
-		"phones": ["(517) 373-0826"],
-		"emails": ["sarahanthony@house.mi.gov"]
-	}]
-}, {
+}, 
+ {
 	"divisions": {
 		"ocd-division/country:us/state:mi/sldu:2": {
 			"name": "Michigan State Senate district 2",
@@ -9404,29 +9318,6 @@
     ]
   },
 {
-	"divisions": {
-		"ocd-division/country:us/state:mo/sldu:8": {
-			"name": "Missouri State Senate district 8",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MO State Senate District 8",
-		"divisionId": "ocd-division/country:us/state:mo/sldu:8",
-		"roles": ["legislatorUpperBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Mike Cierpiot",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:8",
-		"overwrite_name": "Mike Cierpiot",
-		"emails": ["Mike.Cierpiot@senate.mo.gov"],
-		"phones": ["(573) 751-1464"]
-	}]
-}, 
-{
     "divisions": {
       "ocd-division/country:us/state:mo/sldu:9": {
         "name": "Missouri State Senate district 9",
@@ -9773,28 +9664,6 @@
 		"emails": ["DeStefanoj@assembly.state.ny.us"],
 		"phones": ["(631) 207-0073"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:27": {
-			"name": "New York State House district 27",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NY State House District 27",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:27",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Daniel Rosenthal",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:27",
-		"overwrite_name": "Daniel Rosenthal",
-		"emails": ["RosenthalD@assembly.state.ny.us"],
-		"phones": ["(518) 455-4404"]
-	}]
 }, 
 {
     "divisions": {
@@ -9855,73 +9724,8 @@
 		"emails": ["smayer@nysenate.gov"],
 		"phones": ["(518) 455-2031"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:5": {
-			"name": "New York State Senate district 5",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NY State House District 5",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:5",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Douglas M. Smith",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:5",
-		"overwrite_name": "Douglas M. Smith",
-		"emails": ["smithd@nyassembly.gov"],
-		"phones": ["631-585-0230"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:10": {
-			"name": "New York State Senate district 10",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NY State House District 10",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:10",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Steve Stern",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:10",
-		"overwrite_name": "Steve Stern",
-		"emails": ["sterns@nyassembly.gov"],
-		"phones": ["631-271-8025"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:17": {
-			"name": "New York State Senate district 17",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NY State House District 17",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:17",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "John Mikulin",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:17",
-		"overwrite_name": "John Mikulin",
-		"emails": ["mikulinj@nyassembly.gov"],
-		"phones": ["516-228-4960"]
-	}]
-}, {
+}, 
+{
 	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:21": {
 			"name": "New York State House district 21",
@@ -9965,29 +9769,8 @@
 		"emails": ["Frontusm@nyassembly.gov"],
 		"phones": ["(718) 266-0267"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ny/sldl:59": {
-			"name": "New York State Senate district 59",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NY State House District 59",
-		"divisionId": "ocd-division/country:us/state:ny/sldl:59",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Jaime R. Williams",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:59",
-		"overwrite_name": "Jaime R. Williams",
-		"emails": ["williamsj@assembly.state.ny.us"],
-		"phones": ["718-252-2124"]
-	}]
-}, {
+}, 
+ {
 	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:61": {
 			"name": "New York State House district 61",
@@ -10209,51 +9992,7 @@
 		"phones": ["(662) 522-1400"]
 	}]
 },
- {
-	"divisions": {
-		"ocd-division/country:us/state:ms/sldl:77": {
-			"name": "Mississippi State House district 77",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MS State House District 77",
-		"divisionId": "ocd-division/country:us/state:ms/sldl:77",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Price Wallace",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:77",
-		"overwrite_name": "Price Wallace",
-		"emails": ["pwallace@house.ms.gov"],
-		"phones": ["(601) 359-1541"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ms/sldl:108": {
-			"name": "Mississippi State House district 108",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MS State House District 108",
-		"divisionId": "ocd-division/country:us/state:ms/sldl:108",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Stacey Hobgood Wilkes",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:108",
-		"overwrite_name": "Stacey Hobgood Wilkes",
-		"emails": ["swilkes@house.ms.gov"],
-		"phones": ["(601) 359-3356"]
-	}]
-}, {
+  {
 	"divisions": {
 		"ocd-division/country:us/state:la/sldl:10": {
 			"name": "Louisiana State House district 10",
@@ -12060,95 +11799,8 @@
 		"emails": ["h82@iga.in.gov"],
 		"phones": ["(800) 382-9841"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ok/sldl:28": {
-			"name": "Oklahoma State House district 28",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "OK State House District 28",
-		"divisionId": "ocd-division/country:us/state:ok/sldl:28",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Zack Taylor",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:28",
-		"overwrite_name": "Zack Taylor",
-		"emails": ["zack.taylor@okhouse.gov"],
-		"phones": ["(405) 557-7372"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ok/sldl:46": {
-			"name": "Oklahoma State House district 46",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "OK State House District 46",
-		"divisionId": "ocd-division/country:us/state:ok/sldl:46",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Jacob Rosecrants",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:46",
-		"overwrite_name": "Jacob Rosecrants",
-		"emails": ["jacob.rosecrants@okhouse.gov"],
-		"phones": ["(405) 557-7329"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ok/sldl:51": {
-			"name": "Oklahoma State House district 51",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "OK State House District 51",
-		"divisionId": "ocd-division/country:us/state:ok/sldl:51",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Brad Boles",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:51",
-		"overwrite_name": "Brad Boles",
-		"emails": ["Brad.Boles@okhouse.gov"],
-		"phones": ["(405) 557-7405"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ok/sldl:76": {
-			"name": "Oklahoma State House district 76",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "OK State House District 76",
-		"divisionId": "ocd-division/country:us/state:ok/sldl:76",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Ross Ford",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:76",
-		"overwrite_name": "Ross Ford",
-		"emails": ["Ross.Ford@okhouse.gov"],
-		"phones": ["(405) 557-7347"]
-	}]
-}, {
+}, 
+ {
 	"divisions": {
 		"ocd-division/country:us/state:ok/sldu:27": {
 			"name": "Oklahoma State Senate district 27",
@@ -19578,51 +19230,7 @@
 		"emails": ["dean.tran@masenate.gov"],
 		"phones": ["(617) 722-1230"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:nm/sldl:22": {
-			"name": "New Mexico State House district 22",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NM State House District 22",
-		"divisionId": "ocd-division/country:us/state:nm/sldl:22",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Gregg Schmedes",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:22",
-		"overwrite_name": "Gregg Schmedes",
-		"emails": ["gregg.schmedes@nmlegis.gov"],
-		"phones": ["(505) 986-4233"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:nc/sldl:72": {
-			"name": "North Carolina State House district 72",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NC State House District 72",
-		"divisionId": "ocd-division/country:us/state:nc/sldl:72",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Derwin L. Montgomery",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:72",
-		"overwrite_name": "Derwin L. Montgomery",
-		"emails": ["Derwin.Montgomery@ncleg.net"],
-		"phones": ["(919) 733-5829"]
-	}]
-}, 
+},  
 {
 	"divisions": {
 		"ocd-division/country:us/state:wa/sldu:37": {

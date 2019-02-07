@@ -1,86 +1,6 @@
 [
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:hi": {
-	   "name": "Hawaii",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:hi",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "David Ige",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:hi",
-	   "overwrite_name": "David Ige",
-	   "emails": [
-	   		"gov@gov.state.hi.us"
-	   ],
-	   "phones": [
-	   		"(808) 586-0034"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:id": {
-	   "name": "Idaho",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:id",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Brad Little",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:id",
-	   "overwrite_name": "Brad Little",
-	   "emails": [
-	   		"governor@gov.idaho.gov"
-	   ],
-	   "phones": [
-	   		"(208) 334-2100"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ks": {
 	   "name": "Kansas",
 	   "overwrite": "true",
@@ -424,43 +344,6 @@
         ],
         "phones": [
           "(860) 566-4840"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:id": {
-        "name": "Idaho",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:id",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Brad Little",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id",
-        "overwrite_name": "Brad Little",
-        "emails": [
-          "governor@gov.idaho.gov"
-        ],
-        "phones": [
-          "(208) 334-2100"
         ]
       }
     ]

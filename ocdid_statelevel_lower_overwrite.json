@@ -5016,43 +5016,6 @@
 	  }
 	 ]
 	},
-	{
-    "divisions": {
-      "ocd-division/country:us/state:nd/sldu:4": {
-        "name": "North Dakota State House district 4",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ND State House District 4",
-        "divisionId": "ocd-division/country:us/state:nd/sldu:4",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Bill Oliver",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:4",
-        "overwrite_name": "Bill Oliver",
-        "emails": [
-          "boliver@nd.gov"
-        ],
-        "phones": [
-          "701-421-3482"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:16": {
@@ -12695,43 +12658,6 @@
     ]
   },
   {
-    "divisions": {
-      "ocd-division/country:us/state:ny/sldl:71": {
-        "name": "New York State House district 71",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State House District 71",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:71",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Alfred E. Taylor",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:71",
-        "overwrite_name": "Alfred E. Taylor",
-        "emails": [
-          "taylora@nyassembly.gov"
-        ],
-        "phones": [
-          "(518) 455-5491"
-        ]
-      }
-    ]
-  },
-  {
 	"divisions": {
 		"ocd-division/country:us/state:ny/sldl:74": {
 			"name": "New York State Senate district 74",
@@ -14683,40 +14609,6 @@
         "overwrite_name": "Dick Stein",
         "phones": [
           "(614) 466-9628"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldl:62": {
-        "name": "Ohio State House district 62",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 62",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:62",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Scott Lipps",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:62",
-        "overwrite_name": "Scott Lipps",
-        "phones": [
-          "(614) 644-6023"
         ]
       }
     ]
@@ -17548,43 +17440,6 @@
         ],
         "phones": [
           "(435) 459-2800"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ak/sldl:13": {
-        "name": "Alaska State House district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AK State House District 13",
-        "divisionId": "ocd-division/country:us/state:ak/sldl:13",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Nancy A. Dahlstrom",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:13",
-        "overwrite_name": "Nancy A. Dahlstrom",
-        "emails": [
-          "Representative.Nancy.Dahlstrom@akleg.gov"
-        ],
-        "phones": [
-          "(907) 465-3783"
         ]
       }
     ]

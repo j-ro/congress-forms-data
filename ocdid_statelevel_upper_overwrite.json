@@ -7945,43 +7945,6 @@
   },
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldu:37": {
-	   "name": "Pennsylvania State Senate district 37",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State Senate District 37",
-	   "divisionId": "ocd-division/country:us/state:pa/sldu:37",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Guy Reschenthaler",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
-	   "overwrite_name": "Guy Reschenthaler",
-	   "emails": [
-	   		"greschenthaler@pasen.gov"
-	   ],
-	   "phones": [
-	   		"(717) 787-5839"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldu:18": {
 	   "name": "California State Senate district 18",
 	   "overwrite": "true",
@@ -12001,43 +11964,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldu:32": {
-        "name": "New York State Senate district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State Senate District 32",
-        "divisionId": "ocd-division/country:us/state:ny/sldu:32",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Luis Sepulveda",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:32",
-        "overwrite_name": "Luis Sepulveda",
-        "emails": [
-          "sepulveda@nysenate.gov"
-        ],
-        "phones": [
-          "(518) 455-2511"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ny/sldu:37": {
         "name": "New York State Senate district 37",
         "overwrite": "true",
@@ -12403,73 +12329,6 @@
         "phones": [
           "(617) 722-1555"
         ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ms/sldu:49": {
-        "name": "Mississippi State Senate district 49",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MS State Senate District 49",
-        "divisionId": "ocd-division/country:us/state:ms/sldu:49",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Joel Carter",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:49",
-        "overwrite_name": "Joel Carter",
-        "emails": [
-          "jcarter@senate.ms.gov"
-        ],
-        "phones": [
-          "(601) 359-3237"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldu:20": {
-        "name": "Ohio State Senate district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State Senate District 20",
-        "divisionId": "ocd-division/country:us/state:oh/sldu:20",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:20",
-        "overwrite_name": "Troy Balderson"
       }
     ]
   },

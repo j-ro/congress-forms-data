@@ -101,7 +101,12 @@
 			
 			<label>
 				<input name="type" class="type" value="contact_method_present" type="radio">
-				Contact Method Present (Do we have a way to contact this person?)
+				Contact Method Present [email] (Do we have a way to contact this person?)
+			</label>
+			
+			<label>
+				<input name="type" class="type" value="contact_method_present_phone" type="radio">
+				Contact Method Present [phone] (Do we have a way to contact this person?)
 			</label>
 			
 			<label>
@@ -205,7 +210,7 @@
 					
 					ajax_options = {};
 					
-					if ($('.type:checked').val() != 'contact_method_present') {
+					if ($('.type:checked').val() != 'contact_method_present' && $('.type:checked').val() != 'contact_method_present_phone') {
 						ajax_options.dataType = 'json';
 					} else {
 						ajax_options.dataType = 'text';
@@ -260,7 +265,7 @@
 							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting bioid necessity test');
 						}
 						
-						if ($('.type:checked').val() == 'contact_method_present') {
+						if ($('.type:checked').val() == 'contact_method_present' || $('.type:checked').val() == 'contact_method_present_phone') {
 							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting contact method present test');
 						}
 						
@@ -322,7 +327,7 @@
 														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
 														//console.log(official.emails[0]);
 														no_contact = false;
-													} else if (official.name.toLowerCase() == 'Vacant') {
+													} else if (official.name.toLowerCase() == 'vacant') {
 														no_contact = false; 
 													} else {
 														//console.log(official.name);
@@ -331,7 +336,7 @@
 																//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
 																//console.log(overwrite_data.officials[0].emails[0]);
 																no_contact = false;
-															} else if (overwrite_data.officials[0].name == 'Vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
+															} else if (overwrite_data.officials[0].name.toLowerCase() == 'vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
 																no_contact = false;
 															} else {
 																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
@@ -376,8 +381,8 @@
 																	var official_phone = "";
 																}
 																
-																var output_state_abbreviation = output_ocdid.match(/state:(.*)\//)[1].toUpperCase();
-																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.*)\//)[1].toUpperCase() + ']').html();
+																var output_state_abbreviation = output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase();
+																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase() + ']').html();
 																
 																$('#results').val($('#results').val()
 																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
@@ -416,6 +421,227 @@
 																+ '        ],\n'
 																+ '        "phones": [\n'
 																+ '          "' + official_phone + '"\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    ]\n'
+																+ '  }\n');
+															} else {
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
+																//console.log(official.name + ' has a bioID');
+															}
+		
+														}
+													}
+												});
+											}).fail(function(jqXHR, textStatus, errorThrown) {
+												console.log('google api load failed');
+												$('#log').val($('#log').val() + '\n' + 'google api load failed');
+												
+												console.log('jqXHR: ');
+												console.log(jqXHR);
+												$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+												
+												console.log('textStatus: ' + textStatus);
+												$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+												
+												console.log('errorThrown: ' + errorThrown);
+												$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+												
+												$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+											});
+										}
+									});	
+								})
+								.fail(function(jqXHR, textStatus, errorThrown) {
+									console.log('bioIDs load failed');
+									$('#log').val($('#log').val() + '\n' + 'bioIDs load failed');
+									
+									console.log('jqXHR: ');
+									console.log(jqXHR);
+									$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+									
+									console.log('textStatus: ' + textStatus);
+									$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+									
+									console.log('errorThrown: ' + errorThrown);
+									$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+									
+									$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+								});
+							})
+							.fail(function(jqXHR, textStatus, errorThrown) {
+								console.log('overwrite file load failed');
+								$('#log').val($('#log').val() + '\n' + 'overwrite load failed');
+								
+								console.log('jqXHR: ');
+								console.log(jqXHR);
+								$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+								
+								console.log('textStatus: ' + textStatus);
+								$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+								
+								console.log('errorThrown: ' + errorThrown);
+								$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+								
+								$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+							});
+							
+							
+							
+							if ($.active >= 1) {
+								setTimeout(function() {
+									$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+								}, 5000);
+							}
+						} else if ($('.type:checked').val() == 'contact_method_present_phone') {
+							csv = $.csv.toArrays(data);
+							console.log(csv);
+							
+							if ($('#overwrite_file_select option:selected').html() == 'headOfGovernment CSV') {
+								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_headOfGovernment_overwrite.json';
+							} else if ($('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_lower CSV') {
+								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_lower_overwrite.json';
+							} else if ($('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_upper CSV') {
+								overwrite_file = 'https://raw.githubusercontent.com/j-ro/congress-forms-data/master/ocdid_statelevel_upper_overwrite.json';
+							}
+							
+							$.getJSON(overwrite_file, function(data) {})
+							.done(function(data) {
+								var overwrite_data = data;
+								
+								$.getJSON('https://raw.githubusercontent.com/j-ro/congress-forms-data/master/bioids.json', function(data) {})
+								.done(function(data) {
+									var bioids = data;
+									
+								
+									$.each(csv, function(i, e) {
+										query_string = '';
+		
+										if (typeof(e[1]) != 'undefined' && e[1] != '') {
+											query_string = query_string + '&levels=' + encodeURIComponent(e[1]);
+										}
+										
+										if (typeof(e[2]) != 'undefined' && e[2] != '') {
+											query_string = query_string + '&recursive=' + encodeURIComponent(e[2]);
+										}
+										
+										if (typeof(e[3]) != 'undefined' && e[3] != '') {
+											query_string = query_string + '&roles=' + encodeURIComponent(e[3]);
+										}
+										
+										if (typeof(e[4]) != 'undefined' && e[4] != '') {
+											query_string = query_string + '&fields=' + encodeURIComponent(e[4]);
+										}
+										
+										if (e[0] != 'ocdid') {
+											//console.log('getting ' + e[0]);
+											//$('#log').val($('#log').val() + '\n' + 'getting ' + e[0]);
+											
+											$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(e[0]) + '?key='+ $('#google_api_key').val() + query_string, function(data) {
+											}).done(function(data) {
+												$.each(data.officials, function(index, official) {
+													var no_contact = true;
+													var non_matching_bioid = false;
+													//console.log(official.name);
+													if (typeof(official.phones) != 'undefined' && official.phones.length > 0 && official.phones[0] != '') {
+														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
+														//console.log(official.emails[0]);
+														no_contact = false;
+													} else if (official.name.toLowerCase() == 'vacant') {
+														no_contact = false; 
+													} else {
+														//console.log(official.name);
+														$.each(overwrite_data, function(index, overwrite_data) {
+															if (typeof(overwrite_data.officials[0].phones) != 'undefined' && overwrite_data.officials[0].phones.length > 0 && overwrite_data.officials[0].phones[0] != '' && overwrite_data.officials[0].overwrite_name == official.name) {
+																//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
+																//console.log(overwrite_data.officials[0].emails[0]);
+																no_contact = false;
+															} else if (overwrite_data.officials[0].name.toLowerCase() == 'vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
+																no_contact = false;
+															} else {
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
+																//console.log(official.name + ' has no email at all! Checking bioID...');
+																//
+															}
+														});
+														
+														
+															
+														if (no_contact) {
+	console.log(official.name);
+															$.each(bioids, function(index, bioid) {
+																if (typeof(bioid.ocd_id) != 'undefined') {
+																	if (bioid.ocd_id == e[0] && bioid.name == official.name) {
+																		//no_contact = false;
+																	} else if (bioid.ocd_id == e[0]) {
+																		non_matching_bioid = true;
+																	}
+																}
+															});
+													
+													
+															if (no_contact) {
+																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
+																//console.log(official.name + ' has no email or bioID!');
+																var output_ocdid = e[0];
+																
+																if (output_ocdid.includes('sldl')) {
+																	var output_level = 'House';
+																	var output_roles = 'legislatorLowerBody';
+																	var output_district_number = output_ocdid.match(/sldl:(.*)/)[1].toUpperCase();
+																} else if  (output_ocdid.includes('sldu')){
+																	var output_level = 'Senate';
+																	var output_roles = 'legislatorUpperBody';
+																	var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
+																}
+																
+																if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
+																	var official_email = official.emails[0];
+																} else {
+																	var official_email = "";
+																}
+																console.log(output_ocdid);
+																
+																var output_state_abbreviation = output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase();
+																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase() + ']').html();
+																
+																$('#results').val($('#results').val()
+																+ '\n\n' + official.name + ' has NO phone! \n ocdid: \n' + output_ocdid + '\n'
+																+ '\n\n\ non-matching bioid is ' + non_matching_bioid + '\n'
+																+ 'new override skeleton: \n'
+																+ '{\n'
+																+ '    "divisions": {\n'
+																+ '      "' + output_ocdid + '": {\n'
+																+ '        "name": "' + output_state_full + ' State ' + output_level + ' district ' + output_district_number + '",\n'
+																+ '        "overwrite": "true",\n'
+																+ '        "officeIndices": [\n'
+																+ '          0\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    },\n'
+																+ '    "offices": [\n'
+																+ '      {\n'
+																+ '        "name": "' + output_state_abbreviation + ' State ' + output_level + ' District ' + output_district_number + '",\n'
+																+ '        "divisionId": "' + output_ocdid + '",\n'
+																+ '        "roles": [\n'
+																+ '          "' + output_roles + '"\n'
+																+ '        ],\n'
+																+ '        "officialIndices": [\n'
+																+ '          0\n'
+																+ '        ]\n'
+																+ '      }\n'
+																+ '    ],\n'
+																+ '    "officials": [\n'
+																+ '      {\n'
+																+ '        "name": "' + official.name + '",\n'
+																+ '        "party": "' + official.party + '",\n'
+																+ '        "overwrite_ocdid": "' + output_ocdid + '",\n'
+																+ '        "overwrite_name": "' + official.name + '",\n'
+																+ '        "emails": [\n'
+																+ '          "' + official_email + '"\n'
+																+ '        ],\n'
+																+ '        "phones": [\n'
+																+ '          ""\n'
 																+ '        ]\n'
 																+ '      }\n'
 																+ '    ]\n'

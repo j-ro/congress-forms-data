@@ -104,6 +104,11 @@
 				Contact Method Present (Do we have a way to contact this person?)
 			</label>
 			
+			<label>
+				<input name="type" class="type" value="json_merge" type="radio">
+				JSON merge
+			</label>
+			
 			<label>Ignore which states?</label>
 			<label>
 				<select multiple="true" id="ignore_states">
@@ -161,6 +166,9 @@
 				</select>
 			</label>
 			
+			<textarea id="json_1" class="json_compare" placeholder="JSON 1"></textarea>
+			<textarea id="json_2" class="json_compare" placeholder="JSON 2"></textarea>
+			
 			<input type="submit" id="submit" value="run" />
 		</div>
 		
@@ -187,8 +195,8 @@
 		$(document).ready(function() {
 			$('#submit').on('click', function() {
 				$('#submit').val('running...').attr('disabled','disabled').addClass('disabled');
-				$('textarea').val('');
-				if (($('#overwrite_file').val() != '' || $('#overwrite_file_select').val() != '') && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined) {
+				$('textarea').not('.json_compare').val('');
+				if (($('#overwrite_file').val() != '' || $('#overwrite_file_select').val() != '') && $('#google_api_key').val() != '' && $('.type:checked').val() != undefined || $('.type:checked').val() == 'json_merge') {
 					if ($('#overwrite_file_select').val() != '') {
 						var overwrite_file = $('#overwrite_file_select').val();
 					} else {
@@ -203,27 +211,61 @@
 						ajax_options.dataType = 'text';
 					}
 					
+					if ($('.type:checked').val() == 'json_merge') {
+						console.log('start');
+							
+							var json_1 = JSON.parse($('#json_1').val());
+							var json_2 = JSON.parse($('#json_2').val());
+							var json_merged = json_2;
+							
+							$.each(json_1, function(json_1_iterator, json_1_object) {
+								var match = false;
+								$.each(json_2, function(json_2_iterator, json_2_object) {
+									object = json_2_object;
+									if (
+										json_1_object.officials[0].overwrite_ocdid == json_2_object.officials[0].overwrite_ocdid
+										&& json_1_object.officials[0].overwrite_name == json_2_object.officials[0].overwrite_name
+									) {
+										match = true;
+									}
+								});
+								
+								if (!match) {
+									json_merged.push(json_1_object);
+								}
+							});
+							
+							console.log(json_merged);
+							$('#results').val(JSON.stringify(json_merged));
+							
+							$('#submit').val('run').attr('disabled',false).removeClass('disabled');
+					} else {
+					
 					$.ajax(overwrite_file, ajax_options)
 					.done(function(data) {
-						$('textarea').not('#file').val('start test');
+						$('textarea').not('#file').not('.json_compare').val('start test');
 						
 						console.log('overwrite file loaded successfully');
 						$('#log').val($('#log').val() + '\n' + 'overwrite file loaded successfully');
 						
 						if ($('.type:checked').val() == 'overwrite_name_match') {
-							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting overwrite name match test');
+							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting overwrite name match test');
 						}	
 						
 						if ($('.type:checked').val() == 'overwrite_necessity') {
-							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
+							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting overwrite necessity test');
 						}	
 						
 						if ($('.type:checked').val() == 'bioid_necessity') {
-							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting bioid necessity test');
+							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting bioid necessity test');
 						}
 						
 						if ($('.type:checked').val() == 'contact_method_present') {
-							$('textarea').not('#file').val($('textarea').val() + '\n' + 'starting contact method present test');
+							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting contact method present test');
+						}
+						
+						if ($('.type:checked').val() == 'json_merge') {
+							$('textarea').not('#file').not('.json_compare').val($('textarea').val() + '\n' + 'starting json merge');
 						}
 						
 						if ($('.type:checked').val() == 'contact_method_present') {
@@ -274,12 +316,13 @@
 											}).done(function(data) {
 												$.each(data.officials, function(index, official) {
 													var no_contact = true;
+													var non_matching_bioid = false;
 													//console.log(official.name);
 													if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
 														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
 														//console.log(official.emails[0]);
 														no_contact = false;
-													} else if (official.name == 'Vacant') {
+													} else if (official.name.toLowerCase() == 'Vacant') {
 														no_contact = false; 
 													} else {
 														//console.log(official.name);
@@ -303,8 +346,10 @@
 	console.log(official.name);
 															$.each(bioids, function(index, bioid) {
 																if (typeof(bioid.ocd_id) != 'undefined') {
-																	if (bioid.ocd_id == e[0]) {
+																	if (bioid.ocd_id == e[0] && bioid.name == official.name) {
 																		no_contact = false;
+																	} else if (bioid.ocd_id == e[0]) {
+																		non_matching_bioid = true;
 																	}
 																}
 															});
@@ -336,6 +381,7 @@
 																
 																$('#results').val($('#results').val()
 																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
+																+ '\n\n\ non-matching bioid is ' + non_matching_bioid + '\n'
 																+ 'new override skeleton: \n'
 																+ '{\n'
 																+ '    "divisions": {\n'
@@ -715,9 +761,9 @@
 						$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 					});
 					
-				} else {
+				 } } else {
 					console.log('please fill in all required fields');
-					$('textarea').val('please fill in all required fields');
+					$('textarea').not('.json_compare').val('please fill in all required fields');
 					
 					$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 				}

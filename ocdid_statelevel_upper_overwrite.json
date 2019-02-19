@@ -3169,6 +3169,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:21": {
+        "name": "Illinois State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:il/sldu:21",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laura Ellman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:21",
+        "overwrite_name": "Laura Ellman",
+        "emails": [
+          "lEllman@senatedem.illinois.gov"
+        ],
+        "phones": [
+          "(217) 782-8192"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:il/sldu:24": {
@@ -4736,6 +4773,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mi/sldu:25": {
+        "name": "Michigan State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MI State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:mi/sldu:25",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Lauwers",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mi/sldu:25",
+        "overwrite_name": "Dan Lauwers",
+        "emails": [
+          "sendLauwers@senate.michigan.gov"
+        ],
+        "phones": [
+          "(517) 373-7708"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:mi/sldu:26": {
@@ -5513,6 +5587,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldu:8": {
+        "name": "Montana State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Susan A. Webber",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:8",
+        "overwrite_name": "Susan A. Webber",
+        "emails": [
+          "Sen.Susan.Webber@mt.gov"
+        ],
+        "phones": [
+          "(406) 450-4057"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:mt/sldu:19": {
@@ -5907,7 +6018,7 @@
         "name": "Bob Andrzejczak",
         "party": "Democratic",
         "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
-        "overwrite_name": "Jeff Van Drew",
+        "overwrite_name": "Bob Andrzejczak",
         "emails": [
           "senAndrzejczak@njleg.org"
         ],
@@ -7834,43 +7945,6 @@
   },
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:pa/sldu:37": {
-	   "name": "Pennsylvania State Senate district 37",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "PA State Senate District 37",
-	   "divisionId": "ocd-division/country:us/state:pa/sldu:37",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Guy Reschenthaler",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
-	   "overwrite_name": "Guy Reschenthaler",
-	   "emails": [
-	   		"greschenthaler@pasen.gov"
-	   ],
-	   "phones": [
-	   		"(717) 787-5839"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldu:18": {
 	   "name": "California State Senate district 18",
 	   "overwrite": "true",
@@ -7978,42 +8052,79 @@
 	 ]
 	},
 	{
-	 "divisions": {
-	  "ocd-division/country:us/state:mo/sldu:8": {
-	   "name": "Missouri State Senate district 8",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "MO State Senate District 8",
-	   "divisionId": "ocd-division/country:us/state:mo/sldu:8",
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mike Cierpiot",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:8",
-	   "overwrite_name": "Mike Cierpiot",
-	   "emails": [
-	   		"Mike.Cierpiot@house.mo.gov"
-	   ],
-	   "phones": [
-	   		"(573) 751-1464"
-	   ]
-	  }
-	 ]
-	},
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:4": {
+        "name": "Missouri State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:4",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karla May",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:4",
+        "overwrite_name": "Karla May",
+        "emails": [
+          "Karla.May@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-3599"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:9": {
+        "name": "Missouri State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:9",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shalon Kiki Curls",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:9",
+        "overwrite_name": "Shalon Kiki Curls",
+        "emails": [
+          "Shalon.Curls@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-3158"
+        ]
+      }
+    ]
+  },
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:mo/sldu:10": {
@@ -8088,6 +8199,117 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:18": {
+        "name": "Missouri State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:18",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cindy O'Laughlin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:18",
+        "overwrite_name": "Cindy O'Laughlin",
+        "emails": [
+          "Cindy.OLaughlin@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-7985"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:20": {
+        "name": "Missouri State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric W. Burlison",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:20",
+        "overwrite_name": "Eric W. Burlison",
+        "emails": [
+          "Eric.Burlison@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-1503"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:21": {
+        "name": "Missouri State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:21",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Denny Hoskins",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:21",
+        "overwrite_name": "Denny Hoskins",
+        "emails": [
+          "Denny.Hoskins@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-4302"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:mo/sldu:28": {
@@ -8158,6 +8380,43 @@
         ],
         "phones": [
           "(573) 751-1311"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:34": {
+        "name": "Missouri State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:34",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tony Luetkemeyer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:34",
+        "overwrite_name": "Tony Luetkemeyer",
+        "emails": [
+          "Tony.Luetkemeyer@senate.mo.gov"
+        ],
+        "phones": [
+          "(573) 751-2183"
         ]
       }
     ]
@@ -11668,43 +11927,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldu:32": {
-        "name": "New York State Senate district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State Senate District 32",
-        "divisionId": "ocd-division/country:us/state:ny/sldu:32",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Luis Sepulveda",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:32",
-        "overwrite_name": "Luis Sepulveda",
-        "emails": [
-          "sepulveda@nysenate.gov"
-        ],
-        "phones": [
-          "(518) 455-2511"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ny/sldu:37": {
         "name": "New York State Senate district 37",
         "overwrite": "true",
@@ -12070,73 +12292,6 @@
         "phones": [
           "(617) 722-1555"
         ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ms/sldu:49": {
-        "name": "Mississippi State Senate district 49",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MS State Senate District 49",
-        "divisionId": "ocd-division/country:us/state:ms/sldu:49",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Joel Carter",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:49",
-        "overwrite_name": "Joel Carter",
-        "emails": [
-          "jcarter@senate.ms.gov"
-        ],
-        "phones": [
-          "(601) 359-3237"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldu:20": {
-        "name": "Ohio State Senate district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State Senate District 20",
-        "divisionId": "ocd-division/country:us/state:oh/sldu:20",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:20",
-        "overwrite_name": "Troy Balderson"
       }
     ]
   },

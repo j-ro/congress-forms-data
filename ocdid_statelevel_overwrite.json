@@ -30452,4 +30452,28 @@
 		"emails": ["lynn.hutchings@leg.wa.gov"],
 		"phones": ["(307) 634-8783"]
 	}]
-}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:nm/sldu:5": {
+			"name": "New Mexico State Senate district 5",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "NM State Senate District 5",
+		"divisionId": "ocd-division/country:us/state:nm/sldu:5",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Richard C. Martinez",
+		"party": "Republican Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:5",
+		"overwrite_name": "Richard C. Martinez",
+		"emails": ["richard.martinez@nmlegis.gov"],
+		"phones": ["(505) 747-2337"]
+	}]
+}
+]

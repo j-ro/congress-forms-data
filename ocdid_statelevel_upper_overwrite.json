@@ -1182,6 +1182,40 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ct/sldu:6": {
+        "name": "Connecticut State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gennaro Bizzarro",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:6",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "gennaro.Bizzarro@cga.ct.gov"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ct/sldu:19": {
         "name": "Connecticut State Senate district 19",
         "overwrite": "true",

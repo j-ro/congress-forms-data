@@ -11521,7 +11521,109 @@
 		"overwrite_ocdid": "ocd-division/country:us/district:dc",
 		"overwrite_name": "Karl A. Racine"
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldl:39": {
+			"name": "Connecticut State House district 39",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State House District 39",
+			"divisionId": "ocd-division/country:us/state:ct/sldl:39",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Anthony Nolan",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:39",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"Anthony.Nolan@cga.ct.gov"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldl:99": {
+			"name": "Connecticut State House district 99",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State House District 99",
+			"divisionId": "ocd-division/country:us/state:ct/sldl:99",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Joseph Zullo",
+			"party": "Republican Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:99",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"joe.zullo@housegop.ct.gov"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldu:6": {
+			"name": "Connecticut State Senate district 6",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State Senate District 6",
+			"divisionId": "ocd-division/country:us/state:ct/sldu:6",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Gennaro Bizzarro",
+			"party": "Republican Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:6",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"gennaro.Bizzarro@cga.ct.gov"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:ct/sldu:10": {
 			"name": "Connecticut State Senate district 10",

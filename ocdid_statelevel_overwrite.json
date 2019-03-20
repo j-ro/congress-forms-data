@@ -25412,6 +25412,77 @@
 		"emails": ["norman.needleman@cga.ct.gov"],
 		"phones": ["(860) 240-8600"]
 	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldu:3": {
+			"name": "Connecticut State Senate district 3",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State Senate District 3",
+			"divisionId": "ocd-division/country:us/state:ct/sldu:3",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Saud Anwar",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:3",
+			"overwrite_name": "Saud Anwar",
+			"emails": [
+				"saud.anwar@cga.ct.gov"
+			],
+			"phones": [
+				"(860) 240-8600"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldu:5": {
+			"name": "Connecticut State Senate district 5",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State Senate District 5",
+			"divisionId": "ocd-division/country:us/state:ct/sldu:5",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Derek Slap",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:5",
+			"overwrite_name": "Derek Slap",
+			"emails": [
+				"derek.slap@cga.ct.gov"
+			]
+		}
+	]
 }, {
 	"divisions": {
 		"ocd-division/country:us/state:ct/sldu:23": {

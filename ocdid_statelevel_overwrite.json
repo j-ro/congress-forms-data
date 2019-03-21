@@ -25483,7 +25483,41 @@
 			]
 		}
 	]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ct/sldl:19": {
+			"name": "Connecticut State House district 19",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CT State House District 19",
+			"divisionId": "ocd-division/country:us/state:ct/sldl:19",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Derek Slap",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:19",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"derek.slap@cga.ct.gov"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:ct/sldu:23": {
 			"name": "Connecticut State Senate district 23",

@@ -5140,7 +5140,30 @@
 		"emails": ["mchowe@nd.gov"],
 		"phones": ["701-261-0504"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:nd/sldu:36": {
+			"name": "North Dakota State Senate district 36",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "ND State Senate District 36",
+		"divisionId": "ocd-division/country:us/state:nd/sldu:36",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Jay Elkin",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:36",
+		"overwrite_name": "Kelly M. Armstrong",
+		"emails": ["jayelkin@nd.gov"],
+		"phones": ["701-974-3583"]
+	}]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:nd/sldu:40": {
 			"name": "North Dakota State Senate district 40",

@@ -33376,43 +33376,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ri/sldl:16": {
-        "name": "Rhode Island State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "RI State House District 16",
-        "divisionId": "ocd-division/country:us/state:ri/sldl:16",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Christopher T Millea",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:16",
-        "overwrite_name": "Christopher T Millea",
-        "emails": [
-          "rep-Millea@rilegislature.gov"
-        ],
-        "phones": [
-          "(401) 408-3691"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ri/sldl:25": {
         "name": "Rhode Island State House district 25",
         "overwrite": "true",

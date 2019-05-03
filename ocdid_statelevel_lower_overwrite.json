@@ -12513,6 +12513,29 @@
       }
     ]
   },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:pa/sldl:194": {
+			"name": "Pennsylvania State House district 194",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "PA State House District 194",
+		"divisionId": "ocd-division/country:us/state:pa/sldl:194",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Pamela Ann DeLissio",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:194",
+		"overwrite_name": "Pamela Ann DeLissio",
+		"emails": ["RepDeLissio@pahouse.net"],
+		"phones": ["(215) 482-8726"]
+	}]
+},
 	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:197": {

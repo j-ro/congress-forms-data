@@ -13232,7 +13232,31 @@
 		"emails": ["sen.Paul.Utke@senate.mn"],
 		"phones": ["651-296-9651"]
 	}]
-}, {
+}, 
+{
+	"divisions": {
+		"ocd-division/country:us/state:mn/sldl:11b": {
+			"name": "Minnesota State House district 11B",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "MN State House District 11B",
+		"divisionId": "ocd-division/country:us/state:mn/sldl:11b",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Nathan Nelson",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:mn/sldl:11b",
+		"overwrite_name": "VACANT",
+		"emails": ["rep.nathan.nelson@house.mn"],
+		"phones": ["651-296-0518 "]
+	}]
+},
+{
 	"divisions": {
 		"ocd-division/country:us/state:mn/sldu:21": {
 			"name": "Minnesota State Senate district 21",

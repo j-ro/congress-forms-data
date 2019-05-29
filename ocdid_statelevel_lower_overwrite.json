@@ -12513,6 +12513,29 @@
       }
     ]
   },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:pa/sldl:194": {
+			"name": "Pennsylvania State House district 194",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "PA State House District 194",
+		"divisionId": "ocd-division/country:us/state:pa/sldl:194",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Pamela Ann DeLissio",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:194",
+		"overwrite_name": "Pamela Ann DeLissio",
+		"emails": ["RepDeLissio@pahouse.net"],
+		"phones": ["(215) 482-8726"]
+	}]
+},
 	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:197": {
@@ -33376,43 +33399,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ri/sldl:16": {
-        "name": "Rhode Island State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "RI State House District 16",
-        "divisionId": "ocd-division/country:us/state:ri/sldl:16",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Christopher T Millea",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:16",
-        "overwrite_name": "Christopher T Millea",
-        "emails": [
-          "rep-Millea@rilegislature.gov"
-        ],
-        "phones": [
-          "(401) 408-3691"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ri/sldl:25": {
         "name": "Rhode Island State House district 25",
         "overwrite": "true",
@@ -34409,5 +34395,28 @@
         ]
       }
     ]
-  }
+  },
+  {
+	"divisions": {
+		"ocd-division/country:us/state:mn/sldl:11b": {
+			"name": "Minnesota State House district 11B",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "MN State House District 11B",
+		"divisionId": "ocd-division/country:us/state:mn/sldl:11b",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Nathan Nelson",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:mn/sldl:11b",
+		"overwrite_name": "VACANT",
+		"emails": ["rep.nathan.nelson@house.mn"],
+		"phones": ["651-296-0518 "]
+	}]
+}
 ]

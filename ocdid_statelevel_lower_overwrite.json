@@ -15898,40 +15898,28 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldl:63": {
-        "name": "Ohio State House district 63",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 63",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:63",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Glenn W. Holmes",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:63",
-        "overwrite_name": "Glenn W. Holmes",
-        "phones": [
-          "(614) 466-3488"
-        ]
-      }
-    ]
-  },
+{
+	"divisions": {
+		"ocd-division/country:us/state:oh/sldl:63": {
+			"name": "Ohio State House district 63",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "OH State House District 63",
+		"divisionId": "ocd-division/country:us/state:oh/sldl:63",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Gil Blair",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:63",
+		"overwrite_name": "Glenn W. Holmes",
+		"phones": ["(614) 466-3488"]
+	}]
+},
   {
     "divisions": {
       "ocd-division/country:us/state:oh/sldl:68": {

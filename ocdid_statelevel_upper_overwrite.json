@@ -7934,6 +7934,43 @@
     ]
   },
 	{
+		"divisions": {
+			"ocd-division/country:us/state:pa/sldu:33": {
+				"name": "Pennsylvania State Senate district 33",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "PA State Senate District 33",
+				"divisionId": "ocd-division/country:us/state:pa/sldu:33",
+				"roles": [
+					"legislatorUpperBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "Doug Mastriano",
+				"party": "Republican Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:33",
+				"overwrite_name": "VACANT",
+				"emails": [
+					"mastriano4congress@yahoo.com"
+				],
+				"phones": [
+					"(717) 787-4651"
+				]
+			}
+		]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldu:12": {
         "name": "Pennsylvania State Senate district 12",

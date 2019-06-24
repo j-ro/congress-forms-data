@@ -15898,28 +15898,40 @@
       }
     ]
   },
-{
-	"divisions": {
-		"ocd-division/country:us/state:oh/sldl:63": {
-			"name": "Ohio State House district 63",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "OH State House District 63",
-		"divisionId": "ocd-division/country:us/state:oh/sldl:63",
-		"roles": ["legislatorLowerBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Gil Blair",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:63",
-		"overwrite_name": "Glenn W. Holmes",
-		"phones": ["(614) 466-3488"]
-	}]
-},
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldl:63": {
+        "name": "Ohio State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State House District 63",
+        "divisionId": "ocd-division/country:us/state:oh/sldl:63",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gil Blair",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:63",
+        "overwrite_name": "Glenn W. Holmes",
+        "phones": [
+          "(614) 466-3488"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:oh/sldl:68": {
@@ -26080,40 +26092,6 @@
       }
     ]
   },
-	{
-		"divisions": {
-			"ocd-division/country:us/state:ct/sldl:19": {
-				"name": "Connecticut State House district 19",
-				"overwrite": "true",
-				"officeIndices": [
-					0
-				]
-			}
-		},
-		"offices": [
-			{
-				"name": "CT State House District 19",
-				"divisionId": "ocd-division/country:us/state:ct/sldl:19",
-				"roles": [
-					"legislatorLowerBody"
-				],
-				"officialIndices": [
-					0
-				]
-			}
-		],
-		"officials": [
-			{
-				"name": "Derek Slap",
-				"party": "Democratic Party",
-				"overwrite_ocdid": "ocd-division/country:us/state:ct/sldl:19",
-				"overwrite_name": "VACANT",
-				"emails": [
-					"derek.slap@cga.ct.gov"
-				]
-			}
-		]
-	},
   {
     "divisions": {
       "ocd-division/country:us/state:ct/sldl:17": {

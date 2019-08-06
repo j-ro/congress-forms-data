@@ -3281,6 +3281,29 @@
     ]
   },
 	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:10": {
+				"name": "Illinois State Senate district 10",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 10",
+			"divisionId": "ocd-division/country:us/state:il/sldu:10",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Robert Martwick",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:10",
+			"overwrite_name": "VACANT",
+			"phones": ["(217) 782-1035"],
+			"emails": ["rob@robertmartwick.com"]
+		}]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:il/sldu:15": {
         "name": "Illinois State Senate district 15",

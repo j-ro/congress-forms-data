@@ -3340,6 +3340,28 @@
       }
     ]
   },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:20": {
+				"name": "Illinois State Senate district 20",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 20",
+			"divisionId": "ocd-division/country:us/state:il/sldu:20",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Iris Y. Martinez",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:20",
+			"overwrite_name": ["Iris Y. Martinez"],
+			"phones": ["(773) 278-2020"]
+		}]
+	},
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldu:21": {

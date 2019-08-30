@@ -41,6 +41,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:oh": {
+	   "name": "Ohio",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:oh",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Mike DeWine",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:oh",
+	   "overwrite_name": "Mike DeWine",
+	   "phones": [
+	   		"(614) 644-4357"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",

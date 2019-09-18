@@ -304,7 +304,7 @@
 	  }
 	 ]
 	},
-	{
+{
 	 "divisions": {
 	  "ocd-division/country:us/state:nc/cd:3": {
 	   "name": "North Carolina's 3rd congressional district",
@@ -331,9 +331,13 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Gregory Francis Murphy",
+	   "party": "Republican",
 	   "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:3",
-	   "overwrite_name": "Walter B. Jones"
+	   "overwrite_name": "VACANT",
+	   "phones": [
+			"(202) 225-3415"
+		]
 	  }
 	 ]
 	},
@@ -434,9 +438,13 @@
  ],
  "officials": [
 	{
-	 "name": "Vacant",
+	 "name": "Dan Bishop",
+	 "party": "Republican",
 	 "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:9",
-	 "overwrite_name": "Robert Pittenger"
+	 "overwrite_name": "VACANT",
+	 "phones": [
+			"(202) 225-1976"
+	 ]
 	}
  ]
 },

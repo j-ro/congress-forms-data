@@ -14928,43 +14928,6 @@
     ]
   },
 	{
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:hillsborough_12": {
-        "name": "New Hampshire State House district Hillsborough County No. 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District Hillsborough 12",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Andrew Bouldin",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_12",
-        "overwrite_name": "Andrew Bouldin",
-        "emails": [
-          "Andrew.Bouldin@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 397-7526"
-        ]
-      }
-    ]
-  },
-	{
 		"divisions": {
 			"ocd-division/country:us/state:nh/sldl:hillsborough_12": {
 				"name": "New Hampshire State House district Hillsborough County No. 12",

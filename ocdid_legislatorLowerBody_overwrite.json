@@ -410,5 +410,38 @@
 		]
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ny/cd:27": {
+	   "name": "New York's 27th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NY-27",
+	   "divisionId": "ocd-division/country:us/state:ny/cd:27",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:27",
+	   "overwrite_name": "Chris Collins"
+	  }
+	 ]
 	}
 ]

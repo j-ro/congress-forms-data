@@ -476,5 +476,38 @@
 	   "overwrite_name": "Sean P. Duffy"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md/cd:7": {
+	   "name": "Maryland's 7th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives MD-07",
+	   "divisionId": "ocd-division/country:us/state:md/cd:7",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md/cd:7",
+	   "overwrite_name": "Elijah E. Cummings"
+	  }
+	 ]
 	}
 ]

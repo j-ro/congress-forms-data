@@ -509,5 +509,38 @@
 	   "overwrite_name": "Elijah E. Cummings"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:25": {
+	   "name": "California's 25th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-25",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:25",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:25",
+	   "overwrite_name": "Katie Hill"
+	  }
+	 ]
 	}
 ]

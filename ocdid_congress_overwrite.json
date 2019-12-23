@@ -727,5 +727,42 @@
 	   "overwrite_name": "Katie Hill"
 	  }
 	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:nj/cd:2": {
+	   "name": "New Jersey's 2nd congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives NJ-02",
+	   "divisionId": "ocd-division/country:us/state:nj/cd:02",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Jefferson Van Drew",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:02",
+	   "party": "Republican",
+	   "overwrite_name": "Jefferson Van Drew",
+	   "phones": [
+			"(202) 225-6572"
+	   ]
+	  }
+	 ]
 	}
 ]

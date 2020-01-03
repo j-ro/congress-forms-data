@@ -183,5 +183,38 @@
 	 ]
 	}
  ]
+},
+	{
+ "divisions": {
+	"ocd-division/country:us/state:ga": {
+	 "name": "Georgia",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States Senate",
+	 "divisionId": "ocd-division/country:us/state:ga",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorUpperBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Vacant",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ga",
+	 "overwrite_name": "Johnny Isakson"
+	}
+ ]
 }
 ]

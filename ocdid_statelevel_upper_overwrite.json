@@ -14075,5 +14075,120 @@
 		"emails": ["richard.martinez@nmlegis.gov"],
 		"phones": ["(505) 747-2337"]
 	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:va/sldu:7": {
+			"name": "Virginia State Senate district 7",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "VA State Senate District 7",
+		"divisionId": "ocd-division/country:us/state:va/sldu:7",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Jen A. Kiggans",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldu:7",
+		"overwrite_name": "VACANT",
+		"emails": ["district07@senate.virginia.gov"],
+		"phones": ["(804) 698-7507"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:va/sldu:10": {
+			"name": "Virginia State Senate district 10",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "VA State Senate District 10",
+		"divisionId": "ocd-division/country:us/state:va/sldu:10",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Ghazala F. Hashmi",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldu:10",
+		"overwrite_name": "Glen H. Sturtevant, Jr.",
+		"emails": ["district10@senate.virginia.gov"],
+		"phones": ["(804) 698-7510"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:va/sldu:13": {
+			"name": "Virginia State Senate district 13",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "VA State Senate District 13",
+		"divisionId": "ocd-division/country:us/state:va/sldu:13",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "John J. Bell",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldu:13",
+		"overwrite_name": "Richard H. Black",
+		"emails": ["district13@senate.virginia.gov"],
+		"phones": ["(804) 698-7513"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:va/sldu:16": {
+			"name": "Virginia State Senate district 16",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "VA State Senate District 16",
+		"divisionId": "ocd-division/country:us/state:va/sldu:16",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Joseph D. Morrissey",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldu:16",
+		"overwrite_name": "Rosalyn R. Dance",
+		"emails": ["district16@senate.virginia.gov"],
+		"phones": ["(804) 698-7516"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:va/sldu:40": {
+			"name": "Virginia State Senate district 40",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "VA State Senate District 40",
+		"divisionId": "ocd-division/country:us/state:va/sldu:40",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Todd E. Pillion",
+		"party": "Republican",
+		"overwrite_ocdid": "ocd-division/country:us/state:va/sldu:40",
+		"overwrite_name": "Charles W. Carrico, Sr.",
+		"emails": ["district40@senate.virginia.gov"],
+		"phones": ["(804) 698-7540"]
+	}]
 }
 ]

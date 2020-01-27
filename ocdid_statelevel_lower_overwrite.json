@@ -15725,40 +15725,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:oh/sldl:24": {
-        "name": "Ohio State House district 24",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 24",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:24",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Allison Russo",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:24",
-        "overwrite_name": "Allison Russo",
-        "phones": [
-          "(614) 466-8012"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:oh/sldl:25": {
         "name": "Ohio State House district 25",
         "overwrite": "true",
@@ -15991,40 +15957,6 @@
         "overwrite_name": "Dick Stein",
         "phones": [
           "(614) 466-9628"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldl:63": {
-        "name": "Ohio State House district 63",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 63",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:63",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gil Blair",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:63",
-        "overwrite_name": "Glenn W. Holmes",
-        "phones": [
-          "(614) 466-3488"
         ]
       }
     ]

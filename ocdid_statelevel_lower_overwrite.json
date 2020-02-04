@@ -2256,7 +2256,7 @@
 		"overwrite_name": "Amy H. Handlin",
 		"emails": ["AsmScharfenberger@njleg.org"]
 	}]
-},	
+},
   {
 	"divisions": {
 		"ocd-division/country:us/state:nj/sldu:25": {
@@ -2280,7 +2280,7 @@
 		"phones": ["(973) 539-8113"]
 	}]
 },
-	
+
   {
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:16": {
@@ -31455,6 +31455,43 @@
         ],
         "phones": [
           "(410) 841-3280"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:md/sldl:22": {
+        "name": "Maryland State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State House District 22",
+        "divisionId": "ocd-division/country:us/state:md/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nicole A. Williams",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:22",
+        "overwrite_name": "Nicole A. Williams",
+        "emails": [
+          "nicole.williams@house.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3058"
         ]
       }
     ]

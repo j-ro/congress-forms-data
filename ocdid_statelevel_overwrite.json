@@ -2762,7 +2762,7 @@
 		"emails": ["AsmBergen@njleg.org"],
 		"phones": ["(973) 539-8113"]
 	}]
-}, 
+},
 {
 	"divisions": {
 		"ocd-division/country:us/state:nd/sldu:16": {
@@ -13680,7 +13680,7 @@
 		"emails": ["DelCJenkins@house.virginia.gov"],
 		"phones": ["(804) 698-1076"]
 	}]
-}, 
+},
 {
 	"divisions": {
 		"ocd-division/country:us/state:va/sldl:80": {
@@ -22831,7 +22831,44 @@
           "(775) 684-8803"
         ]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:md/sldl:22": {
+			"name": "Maryland State House district 22",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MD State House District 22",
+			"divisionId": "ocd-division/country:us/state:md/sldl:22",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Nicole A. Williams",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:md/sldl:22",
+			"overwrite_name": "Nicole A. Williams",
+			"emails": [
+				"nicole.williams@house.state.md.us"
+			],
+			"phones": [
+				"(410) 841-3058"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:md/sldl:34a": {
 			"name": "Maryland State House district 34A",

@@ -374,43 +374,6 @@
 	}
  ]
 },
-{
-	 "divisions": {
-	  "ocd-division/country:us/state:nc/cd:3": {
-	   "name": "North Carolina's 3rd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives NC-03",
-	   "divisionId": "ocd-division/country:us/state:nc/cd:3",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Gregory Francis Murphy",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:3",
-	   "overwrite_name": "VACANT",
-	   "phones": [
-			"(202) 225-3415"
-		]
-	  }
-	 ]
-	},
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ny/cd:27": {
@@ -556,7 +519,7 @@
 	 "offices": [
 	  {
 	   "name": "United States House of Representatives NJ-02",
-	   "divisionId": "ocd-division/country:us/state:nj/cd:02",
+	   "divisionId": "ocd-division/country:us/state:nj/cd:2",
 	   "levels": [
 	    "country"
 	   ],
@@ -571,7 +534,7 @@
 	 "officials": [
 	  {
 	   "name": "Jefferson Van Drew",
-	   "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:02",
+	   "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:2",
 	   "party": "Republican",
 	   "overwrite_name": "Jefferson Van Drew",
 	   "phones": [

@@ -31428,6 +31428,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:md/sldl:42a": {
+        "name": "Maryland State House district 42A",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State House District 42A",
+        "divisionId": "ocd-division/country:us/state:md/sldl:42a",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Catherine M. Forbes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:42a",
+        "overwrite_name": "Stephen W. Lafferty",
+        "emails": [
+          "catherine.forbes@house.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3487"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:vt/sldl:chittenden-6-7": {

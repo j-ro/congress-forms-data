@@ -348,6 +348,47 @@
       }
     ]
   },
+	[
+		{
+		 "divisions": {
+		  "ocd-division/country:us/state:wy": {
+		   "name": "Wyoming",
+		   "overwrite": "true",
+		   "officeIndices": [
+		    0
+		   ]
+		  }
+		 },
+		 "offices": [
+		  {
+		   "name": "Governor",
+		   "divisionId": "ocd-division/country:us/state:wy",
+		   "levels": [
+		    "country"
+		   ],
+		   "roles": [
+		    "headOfGovernment"
+		   ],
+		   "officialIndices": [
+		    0
+		   ]
+		  }
+		 ],
+		 "officials": [
+		  {
+		   "name": "Mark Gordon",
+		   "party": "Republican",
+		   "overwrite_ocdid": "ocd-division/country:us/state:wy",
+		   "overwrite_name": "Mark Gordon",
+		   "emails": [
+		   		"buck.mcveigh@wyo.gov"
+		   ],
+		   "phones": [
+		   		"(307) 777-7434"
+		   ]
+		  }
+		 ]
+		},
 	{
     "divisions": {
       "ocd-division/country:us/state:ct": {
@@ -385,4 +426,5 @@
       }
     ]
   }
+]
 ]

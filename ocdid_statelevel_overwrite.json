@@ -1979,6 +1979,29 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:il/sldu:40": {
+			"name": "Illinois State Senate district 40",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 40",
+		"divisionId": "ocd-division/country:us/state:il/sldu:40",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Patrick Joyce",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:40",
+		"overwrite_name": "Toi W. Hutchinson",
+		"phones": ["(217) 782-7419"],
+		"emails": ["pjoyce@senatedem.illinois.gov"]
+	}]
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:il/sldu:17": {
 			"name": "Illinois State Senate district 17",
 			"overwrite": "true",

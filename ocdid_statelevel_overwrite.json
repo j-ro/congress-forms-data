@@ -24130,7 +24130,7 @@
 		"emails": ["suzy@suzyforsenate.com"],
 		"phones": ["(217) 782-8148"]
 	}]
-}, {
+},  {
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:9": {
 			"name": "Illinois State Senate district 9",
@@ -24217,28 +24217,6 @@
 		"overwrite_name": "Steve McClure",
 		"emails": ["mcclureforsenate@gmail.com"],
 		"phones": ["(217) 245-7456"]
-	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:il/sldu:56": {
-			"name": "Illinois State Senate district 56",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "IL State Senate District 56",
-		"divisionId": "ocd-division/country:us/state:il/sldu:56",
-		"roles": ["legislatorUpperBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Rachelle Aud Crowe",
-		"party": "Democratic Party",
-		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:56",
-		"overwrite_name": "Rachelle Aud Crowe",
-		"emails": ["rachelle@rachelleforsenate.com"],
-		"phones": ["(618) 251-9840"]
 	}]
 }, {
 	"divisions": {

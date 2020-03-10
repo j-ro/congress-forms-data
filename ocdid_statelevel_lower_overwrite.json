@@ -31489,6 +31489,43 @@
     ]
   },
   {
+	"divisions": {
+		"ocd-division/country:us/state:md/sldl:44b": {
+			"name": "Maryland State House district 44B",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MD State House District 44B",
+			"divisionId": "ocd-division/country:us/state:md/sldl:44b",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Sheila S. Ruth",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:md/sldl:44b",
+			"overwrite_name": "",
+			"emails": [
+				"sheila.ruth@house.state.md.us"
+			],
+			"phones": [
+				"(410) 841-3802"
+			]
+		}
+	]
+},
+  {
     "divisions": {
       "ocd-division/country:us/state:vt/sldl:chittenden-6-7": {
         "name": "Vermont Chittenden-6-7 State House district",

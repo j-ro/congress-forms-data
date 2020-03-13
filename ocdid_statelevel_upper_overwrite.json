@@ -3365,6 +3365,29 @@
   },
 	{
 		"divisions": {
+			"ocd-division/country:us/state:il/sldu:27": {
+				"name": "Illinois State Senate district 27",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 27",
+			"divisionId": "ocd-division/country:us/state:il/sldu:27",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Ann Gillespie",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:27",
+			"overwrite_name": "Ann Gillespie",
+			"phones": ["(847) 749-1880"],
+			"emails": ["info@senatoranngillespie.org"]
+		}]
+	},
+	{
+		"divisions": {
 			"ocd-division/country:us/state:il/sldu:20": {
 				"name": "Illinois State Senate district 20",
 				"overwrite": "true",

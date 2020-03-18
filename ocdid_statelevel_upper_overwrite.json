@@ -3305,6 +3305,29 @@
 	},
 	{
 		"divisions": {
+			"ocd-division/country:us/state:il/sldu:14": {
+				"name": "Illinois State Senate district 14",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 14",
+			"divisionId": "ocd-division/country:us/state:il/sldu:14",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Emil Jones, III",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:14",
+			"overwrite_name": "Emil Jones, III",
+			"emails": ["ejones3@senatedem.ilga.gov"],
+			"phones": ["(773) 995-7748"]
+		}]
+	},
+	{
+		"divisions": {
 			"ocd-division/country:us/state:il/sldu:40": {
 				"name": "Illinois State Senate district 40",
 				"overwrite": "true",

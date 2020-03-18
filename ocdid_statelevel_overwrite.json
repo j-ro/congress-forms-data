@@ -21861,12 +21861,12 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Arthur C. Verow",
+		"name": "Kevin O'Connell",
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:me/sldl:128",
-		"overwrite_name": "Arthur C. Verow",
-		"emails": ["Arthur.Verow@legislature.maine.gov"],
-		"phones": ["(207) 852-0783"]
+		"overwrite_name": "VACANT",
+		"emails": ["Kevin.OConnell@legislature.maine.gov"],
+		"phones": ["(207) 735-6978"]
 	}]
 }, {
 	"divisions": {
@@ -24092,6 +24092,29 @@
 		"overwrite_name": "Robert Peters",
 		"emails": ["info@senatorrobertpeters.com"],
 		"phones": ["(217) 782-5338"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:14": {
+			"name": "Illinois State Senate district 14",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 14",
+		"divisionId": "ocd-division/country:us/state:il/sldu:14",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Emil Jones, III",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:14",
+		"overwrite_name": "Emil Jones, III",
+		"emails": ["ejones3@senatedem.ilga.gov"],
+		"phones": ["(773) 995-7748"]
 	}]
 },
 {

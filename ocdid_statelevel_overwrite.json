@@ -24096,6 +24096,43 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:il/sldu:52": {
+			"name": "Illinois State Senate district 52",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "IL State Senate District 52",
+			"divisionId": "ocd-division/country:us/state:il/sldu:52",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Scott M. Bennett",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:52",
+			"overwrite_name": "Scott M. Bennett",
+			"emails": [
+				"bennettforsenate52@gmail.com"
+			],
+			"phones": [
+				"(217) 355-5252"
+			]
+		}
+	]
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:il/sldu:14": {
 			"name": "Illinois State Senate district 14",
 			"overwrite": "true",

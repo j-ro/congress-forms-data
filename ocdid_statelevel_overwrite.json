@@ -6164,6 +6164,42 @@
 	}]
 }, {
 	"divisions": {
+		"ocd-division/country:us/state:ky/sldl:67": {
+			"name": "Kentucky State House district 67",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "KY State House District 67",
+			"divisionId": "ocd-division/country:us/state:ky/sldl:67",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Rachel Roberts",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:67",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"Rachel.Roberts@lrc.ky.gov"
+			],
+			"phones": [
+				"(502) 564-8100 ext. 634"
+			]
+		}
+	]
+},{
+	"divisions": {
 		"ocd-division/country:us/state:ky/sldl:71": {
 			"name": "Kentucky State House district 71",
 			"overwrite": "true",
@@ -6470,7 +6506,43 @@
 		"emails": ["Danny.Bentleys@lrc.ky.gov"],
 		"phones": ["(502) 564-8100"]
 	}]
-}, {
+}, 	{
+    "divisions": {
+      "ocd-division/country:us/state:ky/sldl:99": {
+        "name": "Kentucky State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KY State House District 99",
+        "divisionId": "ocd-division/country:us/state:ky/sldl:99",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard White",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:99",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "Richard.White@lrc.ky.gov"
+        ],
+        "phones": [
+          "(502) 564-5565"
+        ]
+      }
+    ]
+  },{
 	"divisions": {
 		"ocd-division/country:us/state:ky/sldl:100": {
 			"name": "Kentucky State House district 100",

@@ -4233,6 +4233,29 @@
       }
     ]
   },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldl:48": {
+				"name": "Illinois State House district 48",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State House District 48",
+			"divisionId": "ocd-division/country:us/state:il/sldl:48",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Terra Costa Howard",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldl:48",
+			"overwrite_name": "Terra Costa Howard",
+			"emails": ["reptch48@gmail.com"],
+			"phones": ["(630) 812-9240"]
+		}]
+	},
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:64": {

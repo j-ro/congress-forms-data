@@ -3378,14 +3378,59 @@
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:15",
         "overwrite_name": "Napolean B. Harris, III",
         "emails": [
-          "nharris@senatedem.illinois.gov"
+          "nharris@senatedem.ilga.gov"
         ],
         "phones": [
           "(708) 893-0552"
         ]
       }
     ]
-  },
+  },{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:42": {
+				"name": "Illinois State Senate district 42",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 42",
+			"divisionId": "ocd-division/country:us/state:il/sldu:42",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Linda Holmes",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:42",
+			"overwrite_name": "Linda Holmes",
+			"phones": ["(630) 801-8985"],
+			"emails": ["senatorholmes42@gmail.com"]
+		}]
+	},
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:46": {
+				"name": "Illinois State Senate district 46",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 46",
+			"divisionId": "ocd-division/country:us/state:il/sldu:46",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "David Koehler",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:46",
+			"overwrite_name": "David Koehler",
+			"phones": ["(309) 677-0120"],
+			"emails": ["Dkoehler@senatedem.ilga.gov"]
+		}]
+	},
 	{
     "divisions": {
       "ocd-division/country:us/state:il/sldu:52": {

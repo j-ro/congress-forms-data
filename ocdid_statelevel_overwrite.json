@@ -2002,6 +2002,52 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:il/sldu:42": {
+			"name": "Illinois State Senate district 42",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 42",
+		"divisionId": "ocd-division/country:us/state:il/sldu:42",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Linda Holmes",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:42",
+		"overwrite_name": "Linda Holmes",
+		"phones": ["(630) 801-8985"],
+		"emails": ["senatorholmes42@gmail.com"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:46": {
+			"name": "Illinois State Senate district 46",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 46",
+		"divisionId": "ocd-division/country:us/state:il/sldu:46",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "David Koehler",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:46",
+		"overwrite_name": "David Koehler",
+		"phones": ["(309) 677-0120"],
+		"emails": ["Dkoehler@senatedem.ilga.gov"]
+	}]
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:il/sldu:17": {
 			"name": "Illinois State Senate district 17",
 			"overwrite": "true",
@@ -2134,7 +2180,29 @@
 		"emails": ["Senatorcurran@gmail.com"],
 		"phones": ["(217) 782-9407"]
 	}]
-}, {
+}, 	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldl:48": {
+				"name": "Illinois State House district 48",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State House District 48",
+			"divisionId": "ocd-division/country:us/state:il/sldl:48",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Terra Costa Howard",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldl:48",
+			"overwrite_name": "Terra Costa Howard",
+			"emails": ["reptch48@gmail.com"],
+			"phones": ["(630) 812-9240"]
+		}]
+	},{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldl:42": {
 			"name": "Illinois State House district 42",
@@ -24140,7 +24208,7 @@
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:15",
 		"overwrite_name": "Napolean B. Harris, III",
-		"emails": ["nharris@senatedem.illinois.gov"],
+		"emails": ["nharris@senatedem.ilga.gov"],
 		"phones": ["(708) 893-0552"]
 	}]
 }, {

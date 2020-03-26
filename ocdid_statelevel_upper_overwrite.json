@@ -3282,6 +3282,29 @@
   },
 	{
 		"divisions": {
+			"ocd-division/country:us/state:il/sldu:6": {
+				"name": "Illinois State Senate district 6",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 6",
+			"divisionId": "ocd-division/country:us/state:il/sldu:6",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Sara Feigenholtz",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:6",
+			"overwrite_name": "Sara Feigenholtz",
+			"emails": ["sara@senatorsara.com"],
+			"phones": ["(773) 883-0770"]
+		}]
+	},
+	{
+		"divisions": {
 			"ocd-division/country:us/state:il/sldu:10": {
 				"name": "Illinois State Senate district 10",
 				"overwrite": "true",
@@ -3378,7 +3401,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:15",
         "overwrite_name": "Napolean B. Harris, III",
         "emails": [
-          "nharris@senatedem.ilga.gov"
+          "napoleonharris3@gmail.com"
         ],
         "phones": [
           "(708) 893-0552"

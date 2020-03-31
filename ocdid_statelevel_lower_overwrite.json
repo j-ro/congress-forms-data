@@ -4233,6 +4233,29 @@
       }
     ]
   },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldl:48": {
+				"name": "Illinois State House district 48",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State House District 48",
+			"divisionId": "ocd-division/country:us/state:il/sldl:48",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Terra Costa Howard",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldl:48",
+			"overwrite_name": "Terra Costa Howard",
+			"emails": ["reptch48@gmail.com"],
+			"phones": ["(630) 812-9240"]
+		}]
+	},
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:64": {
@@ -5773,6 +5796,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ky/sldl:67": {
+        "name": "Kentucky State House district 67",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KY State House District 67",
+        "divisionId": "ocd-division/country:us/state:ky/sldl:67",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rachel Roberts",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:67",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "Rachel.Roberts@lrc.ky.gov"
+        ],
+        "phones": [
+          "(502) 564-8100 ext. 634"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ky/sldl:71": {
@@ -6289,6 +6349,43 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ky/sldl:99": {
+        "name": "Kentucky State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KY State House District 99",
+        "divisionId": "ocd-division/country:us/state:ky/sldl:99",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard White",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:99",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "Richard.White@lrc.ky.gov"
+        ],
+        "phones": [
+          "(502) 564-5565"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:ky/sldl:100": {
@@ -28422,14 +28519,14 @@
     ],
     "officials": [
       {
-        "name": "Arthur C. Verow",
+        "name": "Kevin O'Connell",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:128",
-        "overwrite_name": "Arthur C. Verow",
+        "overwrite_name": "VACANT",
         "emails": [
-          "Arthur.Verow@legislature.maine.gov"
+          "Kevin.OConnell@legislature.maine.gov"
         ],
-        "phones": ["(207) 852-0783"]
+        "phones": ["(207) 735-6978"]
       }
     ]
   },

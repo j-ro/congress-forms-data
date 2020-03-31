@@ -2002,6 +2002,52 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:il/sldu:42": {
+			"name": "Illinois State Senate district 42",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 42",
+		"divisionId": "ocd-division/country:us/state:il/sldu:42",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Linda Holmes",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:42",
+		"overwrite_name": "Linda Holmes",
+		"phones": ["(630) 801-8985"],
+		"emails": ["senatorholmes42@gmail.com"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:46": {
+			"name": "Illinois State Senate district 46",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 46",
+		"divisionId": "ocd-division/country:us/state:il/sldu:46",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "David Koehler",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:46",
+		"overwrite_name": "David Koehler",
+		"phones": ["(309) 677-0120"],
+		"emails": ["senatordavekoehler@gmail.com"]
+	}]
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:il/sldu:17": {
 			"name": "Illinois State Senate district 17",
 			"overwrite": "true",
@@ -2021,6 +2067,29 @@
 		"overwrite_name": "Sims R Elgie, Jr.",
 		"phones": ["(217) 782-3201"],
 		"emails": ["info@senatorelgiesims.com"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:27": {
+			"name": "Illinois State Senate district 27",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 27",
+		"divisionId": "ocd-division/country:us/state:il/sldu:27",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Ann Gillespie",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:27",
+		"overwrite_name": "Ann Gillespie",
+		"phones": ["(847) 749-1880"],
+		"emails": ["info@senatoranngillespie.org"]
 	}]
 },
 {
@@ -2111,7 +2180,29 @@
 		"emails": ["Senatorcurran@gmail.com"],
 		"phones": ["(217) 782-9407"]
 	}]
-}, {
+}, 	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldl:48": {
+				"name": "Illinois State House district 48",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State House District 48",
+			"divisionId": "ocd-division/country:us/state:il/sldl:48",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Terra Costa Howard",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldl:48",
+			"overwrite_name": "Terra Costa Howard",
+			"emails": ["reptch48@gmail.com"],
+			"phones": ["(630) 812-9240"]
+		}]
+	},{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldl:42": {
 			"name": "Illinois State House district 42",
@@ -6141,6 +6232,42 @@
 	}]
 }, {
 	"divisions": {
+		"ocd-division/country:us/state:ky/sldl:67": {
+			"name": "Kentucky State House district 67",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "KY State House District 67",
+			"divisionId": "ocd-division/country:us/state:ky/sldl:67",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Rachel Roberts",
+			"party": "Democratic",
+			"overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:67",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"Rachel.Roberts@lrc.ky.gov"
+			],
+			"phones": [
+				"(502) 564-8100 ext. 634"
+			]
+		}
+	]
+},{
+	"divisions": {
 		"ocd-division/country:us/state:ky/sldl:71": {
 			"name": "Kentucky State House district 71",
 			"overwrite": "true",
@@ -6447,7 +6574,43 @@
 		"emails": ["Danny.Bentleys@lrc.ky.gov"],
 		"phones": ["(502) 564-8100"]
 	}]
-}, {
+}, 	{
+    "divisions": {
+      "ocd-division/country:us/state:ky/sldl:99": {
+        "name": "Kentucky State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KY State House District 99",
+        "divisionId": "ocd-division/country:us/state:ky/sldl:99",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard White",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ky/sldl:99",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "Richard.White@lrc.ky.gov"
+        ],
+        "phones": [
+          "(502) 564-5565"
+        ]
+      }
+    ]
+  },{
 	"divisions": {
 		"ocd-division/country:us/state:ky/sldl:100": {
 			"name": "Kentucky State House district 100",
@@ -21838,12 +22001,12 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Arthur C. Verow",
+		"name": "Kevin O'Connell",
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:me/sldl:128",
-		"overwrite_name": "Arthur C. Verow",
-		"emails": ["Arthur.Verow@legislature.maine.gov"],
-		"phones": ["(207) 852-0783"]
+		"overwrite_name": "VACANT",
+		"emails": ["Kevin.OConnell@legislature.maine.gov"],
+		"phones": ["(207) 735-6978"]
 	}]
 }, {
 	"divisions": {
@@ -24026,7 +24189,30 @@
 		"emails": ["Darius.Brown@state.de.us"],
 		"phones": ["(302) 744-4286"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:6": {
+			"name": "Illinois State Senate district 6",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 6",
+		"divisionId": "ocd-division/country:us/state:il/sldu:6",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Sara Feigenholtz",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:6",
+		"overwrite_name": "Sara Feigenholtz",
+		"emails": ["sara@senatorsara.com"],
+		"phones": ["(773) 883-0770"]
+	}]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:15": {
 			"name": "Illinois State Senate district 15",
@@ -24045,7 +24231,7 @@
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:15",
 		"overwrite_name": "Napolean B. Harris, III",
-		"emails": ["nharris@senatedem.illinois.gov"],
+		"emails": ["napoleonharris3@gmail.com"],
 		"phones": ["(708) 893-0552"]
 	}]
 }, {
@@ -24069,6 +24255,66 @@
 		"overwrite_name": "Robert Peters",
 		"emails": ["info@senatorrobertpeters.com"],
 		"phones": ["(217) 782-5338"]
+	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:52": {
+			"name": "Illinois State Senate district 52",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "IL State Senate District 52",
+			"divisionId": "ocd-division/country:us/state:il/sldu:52",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Scott M. Bennett",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:52",
+			"overwrite_name": "Scott M. Bennett",
+			"emails": [
+				"bennettforsenate52@gmail.com"
+			],
+			"phones": [
+				"(217) 355-5252"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:14": {
+			"name": "Illinois State Senate district 14",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "IL State Senate District 14",
+		"divisionId": "ocd-division/country:us/state:il/sldu:14",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Emil Jones, III",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:14",
+		"overwrite_name": "Emil Jones, III",
+		"emails": ["ejones3@senatedem.ilga.gov"],
+		"phones": ["(773) 995-7748"]
 	}]
 },
 {
@@ -25366,7 +25612,7 @@
 		"party": "Republican Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:34",
 		"overwrite_name": "Jacob D Corman, III",
-		"emails": ["senatorcorman@gmail.com"],
+		"emails": ["jcorman@pasen.gov"],
 		"phones": ["(814) 355-0477"]
 	}]
 }, {

@@ -743,7 +743,10 @@
 		"party": "Democratic Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:78",
 		"overwrite_name": "Jay Richardson",
-		"emails": ["Jay.Richardson@arkansashouse.org"]
+		"emails": ["Jay.Richardson@arkansashouse.org"],
+				"phones": [
+					"(501) 682-6211"
+		]
 	}]
 }, {
 	"divisions": {
@@ -918,9 +921,50 @@
 		"party": "Republican Party",
 		"overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:28",
 		"overwrite_name": "Jasen Kelly",
-		"emails": ["Jasen.Kelly@arkansashouse.org"]
+		"emails": ["Jasen.Kelly@arkansashouse.org"],
+		"phones": [
+			"(501) 682-7771"
+]
 	}]
-}, {
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:34": {
+        "name": "Arkansas State House district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 34",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:34",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joy Springer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:34",
+        "overwrite_name": "Joy Springer",
+        "emails": [
+          "joy.springer@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 374-3758"
+        ]
+      }
+    ]
+  },
+ {
 	"divisions": {
 		"ocd-division/country:us/state:ar/sldl:44": {
 			"name": "Arkansas State House district 44",
@@ -10466,6 +10510,228 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:10": {
+        "name": "Mississippi State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 10",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brady Williamson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:10",
+        "overwrite_name": "Brady Williamson",
+        "emails": [
+          "bwilliamson@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 801-6004"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:12": {
+        "name": "Mississippi State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 12",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clay Deweese",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:12",
+        "overwrite_name": "Clay Deweese",
+        "emails": [
+          "cDeweese@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 281-1200"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:14": {
+        "name": "Mississippi State House district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 14",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:14",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sam J. Creekmore IV",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:14",
+        "overwrite_name": "Sam J. Creekmore IV",
+        "emails": [
+          "screekmore@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 534-9280"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:16": {
+        "name": "Mississippi State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 16",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rickey W. Thompson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:16",
+        "overwrite_name": "Rickey W. Thompson",
+        "emails": [
+          "rthompson@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 767-3480"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:22": {
+        "name": "Mississippi State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 22",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jon Lancaster",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:22",
+        "overwrite_name": "Jon Lancaster",
+        "emails": [
+          "jlancaster@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 631-5065"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:28": {
+        "name": "Mississippi State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 28",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jerry Darnell",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:28",
+        "overwrite_name": "Jerry Darnell",
+        "emails": [
+          "jdarnell@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
 {
 	"divisions": {
 		"ocd-division/country:us/state:ms/sldl:29": {
@@ -10489,6 +10755,745 @@
 		"phones": ["(662) 522-1400"]
 	}]
 },
+{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:32": {
+        "name": "Mississippi State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 32",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:32",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Solomon C. Osborne",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:32",
+        "overwrite_name": "Solomon C. Osborne",
+        "emails": [
+          "sosborne@house.ms.gov"
+        ],
+        "phones": [
+          "(662) 453-9112"
+        ]
+      }
+    ]
+  },
+{
+	"divisions": {
+		"ocd-division/country:us/state:ms/sldl:39": {
+			"name": "Mississippi State House district 39",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MS State House District 39",
+			"divisionId": "ocd-division/country:us/state:ms/sldl:39",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Dana Underwood McLean",
+			"party": "Republican Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:39",
+			"overwrite_name": "Dana Underwood McLean",
+			"emails": [
+				"dmclean@house.ms.gov"
+			],
+			"phones": [
+				"(662) 328-0607"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ms/sldl:70": {
+			"name": "Mississippi State House district 70",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MS State House District 70",
+			"divisionId": "ocd-division/country:us/state:ms/sldl:70",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "William R. 'Bo' Brown",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:70",
+			"overwrite_name": "William R. 'Bo' Brown",
+			"emails": [
+				"bbrown@house.ms.gov"
+			],
+			"phones": [
+				"(601) 366-4774"
+			]
+		}
+	]
+},{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:61": {
+        "name": "Mississippi State House district 61",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 61",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:61",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gene Newman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:61",
+        "overwrite_name": "Gene Newman",
+        "emails": [
+          "gnewman@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 316-2491"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:63": {
+        "name": "Mississippi State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 63",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:63",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephanie McKenzie Foster",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:63",
+        "overwrite_name": "Stephanie McKenzie Foster",
+        "emails": [
+          "sfoster@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 842-7742"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:64": {
+        "name": "Mississippi State House district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 64",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:64",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shanda M. Yates",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:64",
+        "overwrite_name": "Shanda M. Yates",
+        "emails": [
+          "syates@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 487-6997"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:68": {
+        "name": "Mississippi State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 68",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:68",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zakiya Summers",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:68",
+        "overwrite_name": "Zakiya Summers",
+        "emails": [
+          "zsummers@house.ms.gov"
+        ],
+        "phones": [
+          "(769) 224-0554"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:71": {
+        "name": "Mississippi State House district 71",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 71",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:71",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ronnie C. Crudup",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:71",
+        "overwrite_name": "Ronnie C. Crudup",
+        "emails": [
+          "crudup@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 371-1427"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:73": {
+        "name": "Mississippi State House district 73",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 73",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:73",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jill Ford",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:73",
+        "overwrite_name": "Jill Ford",
+        "emails": [
+          "jford@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:74": {
+        "name": "Mississippi State House district 74",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 74",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:74",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lee Yancey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:74",
+        "overwrite_name": "Lee Yancey",
+        "emails": [
+          "lyancey@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:83": {
+        "name": "Mississippi State House district 83",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 83",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:83",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Billy Adam Calvert",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:83",
+        "overwrite_name": "Billy Adam Calvert",
+        "emails": [
+          "bcalvert@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 485-2447"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:84": {
+        "name": "Mississippi State House district 84",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 84",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:84",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Troy Smith",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:84",
+        "overwrite_name": "Troy Smith",
+        "emails": [
+          "tsmith@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 527-7991"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:95": {
+        "name": "Mississippi State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 95",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:95",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jay McKnight",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:95",
+        "overwrite_name": "Jay McKnight",
+        "emails": [
+          "jmcknight@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:101": {
+        "name": "Mississippi State House district 101",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 101",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:101",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kent McCarty",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:101",
+        "overwrite_name": "Kent McCarty",
+        "emails": [
+          "kmccarty@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 550-2470"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:102": {
+        "name": "Mississippi State House district 102",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 102",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:102",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Missy McGee",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:102",
+        "overwrite_name": "Missy McGee",
+        "emails": [
+          "mmcgee@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:105": {
+        "name": "Mississippi State House district 105",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 105",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:105",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dale Goodin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:105",
+        "overwrite_name": "Dale Goodin",
+        "emails": [
+          "dgoodin@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 408-2391"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldl:106": {
+	        "name": "Mississippi State House district 106",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State House District 106",
+	        "divisionId": "ocd-division/country:us/state:ms/sldl:106",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Jansen Owen",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:106",
+	        "overwrite_name": "Jansen Owen",
+	        "emails": [
+	          "jowen@house.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 746-5201"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:111": {
+        "name": "Mississippi State House district 111",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 111",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:111",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles Bubsy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:111",
+        "overwrite_name": "Charles Bubsy",
+        "emails": [
+          "cbubsy@house.ms.gov"
+        ],
+        "phones": [
+          "(228) 769-0501"
+        ]
+      }
+    ]
+  },
+		{
+		"divisions": {
+			"ocd-division/country:us/state:ms/sldl:117": {
+				"name": "Mississippi State House district 117",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "MS State House District 117",
+				"divisionId": "ocd-division/country:us/state:ms/sldl:117",
+				"roles": [
+					"legislatorLowerBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "Kevin W. Felsher",
+				"party": "Republican Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:117",
+				"overwrite_name": "Kevin W. Felsher",
+				"emails": [
+					"kfelsher@house.ms.gov"
+				],
+				"phones": [
+					"(228) 365-4747"
+				]
+			}
+		]
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:122": {
+        "name": "Mississippi State House district 122",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 122",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:122",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brent Anderson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:122",
+        "overwrite_name": "Brent Anderson",
+        "emails": [
+          "banderson@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3728"
+        ]
+      }
+    ]
+  },
   {
 	"divisions": {
 		"ocd-division/country:us/state:la/sldl:10": {
@@ -10709,7 +11714,44 @@
 		"emails": ["Duplessisr@legis.la.gov"],
 		"phones": ["(504) 568-2740"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:la/sldl:105": {
+			"name": "Louisiana State House district 105",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "LA State House District 105",
+			"divisionId": "ocd-division/country:us/state:la/sldl:105",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Mack Marcel Cormier",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:la/sldl:105",
+			"overwrite_name": "Mack Marcel Cormier",
+			"emails": [
+				"hse105@legis.la.gov"
+			],
+			"phones": [
+				"(938) 394-0452"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:la/sldu:2": {
 			"name": "Louisiana State Senate district 2",
@@ -10797,7 +11839,119 @@
 		"emails": ["Robert.Peraino@leg.state.nh.us"],
 		"phones": ["(603) 838-5262"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:nh/sldl:grafton_8": {
+			"name": "New Hampshire State House district GRAFTON_8",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "NH State House District GRAFTON_8",
+			"divisionId": "ocd-division/country:us/state:nh/sldl:grafton_8",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Sallie Fellows",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_8",
+			"overwrite_name": "Sallie Fellows",
+			"emails": [
+				"Sallie.Fellows@leg.state.nh.us"
+			],
+			"phones": [
+				"(603) 271-2548"
+			]
+		}
+	]
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:grafton_12": {
+        "name": "New Hampshire State House district GRAFTON_12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District GRAFTON_12",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:grafton_12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Garrett Muscatel",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_12",
+        "overwrite_name": "Garrett Muscatel",
+        "emails": [
+          "Garrett.Muscatel@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-2548"
+        ]
+      }
+    ]
+  },
+	{
+	"divisions": {
+		"ocd-division/country:us/state:nh/sldl:grafton_13": {
+			"name": "New Hampshire State House district GRAFTON_13",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "NH State House District GRAFTON_13",
+			"divisionId": "ocd-division/country:us/state:nh/sldl:grafton_13",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Laurel Stavis",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_13",
+			"overwrite_name": "Laurel Stavis",
+			"emails": [
+				"Laurel.Stavis@leg.state.nh.us"
+			],
+			"phones": [
+				"(603) 271-3125"
+			]
+		}
+	]
+},
+{
 	"divisions": {
 		"ocd-division/country:us/state:nh/sldl:grafton_16": {
 			"name": "New Hampshire State House district Grafton County No. 16",
@@ -21334,7 +22488,45 @@
 		"emails": ["Edward.Crockett@legislature.maine.gov"],
 		"phones": ["(207) 797-8371"]
 	}]
-}, {
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:45": {
+        "name": "Maine State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 45",
+        "divisionId": "ocd-division/country:us/state:me/sldl:45",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephen W. Moriarty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:45",
+        "overwrite_name": "Stephen W. Moriarty",
+        "emails": [
+          "Stephen.Moriarty@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 829-5095"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:me/sldl:46": {
 			"name": "Maine State House district 46",
@@ -22040,7 +23232,45 @@
 		"emails": ["Gary.Drinkwater@legislature.maine.gov"],
 		"phones": ["(207) 356-8198"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:me/sldl:124": {
+			"name": "Maine State House district 124",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "ME State House District 124",
+			"divisionId": "ocd-division/country:us/state:me/sldl:124",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Joseph C. Perry, Sr.",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:me/sldl:124",
+			"overwrite_name": "Joseph C. Perry, Sr.",
+			"emails": [
+				"Joseph.Perry@legislature.maine.gov"
+			],
+			"phones": [
+				"(207) 942-5585"
+			]
+		}
+	]
+},
+{
 	"divisions": {
 		"ocd-division/country:us/state:me/sldl:128": {
 			"name": "Maine State House district 128",

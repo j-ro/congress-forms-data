@@ -1244,7 +1244,10 @@
 				"overwrite_name": "Derek Slap",
 				"emails": [
 					"derek.slap@cga.ct.gov"
-				]
+				],
+	        "phones": [
+	          "(860) 240-1436"
+	        ]
 			}
 		]
 	},
@@ -2166,6 +2169,43 @@
         ],
         "phones": [
           "(302) 744-4286"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldu:30": {
+        "name": "Iowa State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:ia/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric Giddens",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:30",
+        "overwrite_name": "Eric Giddens",
+        "emails": [
+          "eric.giddens@legis.iowa.gov"
+        ],
+        "phones": [
+          "(515) 281-3371"
         ]
       }
     ]
@@ -4439,7 +4479,10 @@
 	        "overwrite_name": "Heather B. Sanborn",
 	        "emails": [
 	          "heather.sanborn@legislature.maine.gov"
-	        ]
+	        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
 	      }
 	    ]
 	  },
@@ -4584,7 +4627,10 @@
 		"overwrite_name": "Linda F. Sanborn",
 		"emails": [
 			"linda.sanborn@legislature.maine.gov"
-		]
+		],
+        "phones": [
+          "(207) 939-2879"
+        ]
 	}
 ]
 },
@@ -4988,6 +5034,9 @@
         "overwrite_name": "Erin D. Herbig",
         "emails": [
           "erin.herbig@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
         ]
       }
     ]
@@ -5917,6 +5966,413 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:1": {
+	        "name": "Mississippi State Senate district 1",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 1",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:1",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Michael W. McLendon",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:1",
+	        "overwrite_name": "Michael W. McLendon",
+	        "emails": [
+	          "MMcLendon@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-3229"
+	        ]
+	      }
+	    ]
+	  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:3": {
+        "name": "Mississippi State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:3",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kathy L. Chism",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:3",
+        "overwrite_name": "Kathy L. Chism",
+        "emails": [
+          "kchism@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-4088"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:5": {
+        "name": "Mississippi State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:5",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel H. Sparks",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:5",
+        "overwrite_name": "Daniel H. Sparks",
+        "emails": [
+          "dsparks@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3229"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:8": {
+	        "name": "Mississippi State Senate district 8",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 8",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:8",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Benjamin A. Suber",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:8",
+	        "overwrite_name": "Benjamin A. Suber",
+	        "emails": [
+	          "bsuber@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-3229"
+	        ]
+	      }
+	    ]
+	  },
+		{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:9": {
+	        "name": "Mississippi State Senate district 9",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 9",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:9",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Nicole Akins Boyd",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:9",
+	        "overwrite_name": "Nicole Akins Boyd",
+	        "emails": [
+	          "nboyd@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-3221"
+	        ]
+	      }
+	    ]
+	  },
+		{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:22": {
+	        "name": "Mississippi State Senate district 22",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 22",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:22",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Joseph C. Thomas Sr.",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:22",
+	        "overwrite_name": "Joseph C. Thomas Sr.",
+	        "emails": [
+	          "jthomas@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-2395"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:31": {
+        "name": "Mississippi State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:31",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tyler McCaughn",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:31",
+        "overwrite_name": "Tyler McCaughn",
+        "emails": [
+          "tmccaughn@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3229"
+        ]
+      }
+    ]
+  },
+		{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:33": {
+	        "name": "Mississippi State Senate district 33",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 33",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:33",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Jeff Tate",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:33",
+	        "overwrite_name": "Jeff Tate",
+	        "emails": [
+	          "jtate@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-2886"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:45": {
+        "name": "Mississippi State Senate district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 45",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:45",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris Johnson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:45",
+        "overwrite_name": "Chris Johnson",
+        "emails": [
+          "chjohnson@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-4088"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldu:48": {
+	        "name": "Mississippi State Senate district 48",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State Senate District 48",
+	        "divisionId": "ocd-division/country:us/state:ms/sldu:48",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Mike Thompson",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:48",
+	        "overwrite_name": "Mike Thompson",
+	        "emails": [
+	          "mthompson@senate.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-2220"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:51": {
+        "name": "Mississippi State Senate district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 51",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:51",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeremy England",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:51",
+        "overwrite_name": "Jeremy England",
+        "emails": [
+          "jengland@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-2224"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:mt/sldu:8": {
@@ -6421,6 +6877,43 @@
 		"phones": ["(973) 627-9700"]
 	}]
 },
+{
+    "divisions": {
+      "ocd-division/country:us/state:nv/sldu:4": {
+        "name": "Nevada State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NV State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:nv/sldu:4",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marcia L. Washington",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:4",
+        "overwrite_name": "Marcia L. Washington",
+        "emails": [
+          "Marcia.Washington@sen.state.nv.us"
+        ],
+        "phones": [
+          "(775) 684-1400"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nv/sldu:21": {
@@ -6639,6 +7132,43 @@
         ],
         "phones": [
           "(775) 684-1481"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldu:8": {
+        "name": "Ohio State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Louis W. Blessing III",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:8",
+        "overwrite_name": "Louis W. Blessing III",
+        "emails": [
+          "sd08@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-8068"
         ]
       }
     ]
@@ -7984,6 +8514,42 @@
         ]
       }
     ]
+  },{
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:bennington": {
+        "name": "Vermont State Senate district BENNINGTON",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District BENNINGTON",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:bennington",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dick Sears, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:bennington",
+        "overwrite_name": "Dick Sears, Jr.",
+        "emails": [
+          "rsears@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
   },
 	{
     "divisions": {
@@ -8059,6 +8625,43 @@
 	  }
 	]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nd/sldu:20": {
+	        "name": "North Dakota State Senate district 20",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "ND State Senate District 20",
+	        "divisionId": "ocd-division/country:us/state:nd/sldu:20",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Randy D. Lemm",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:20",
+	        "overwrite_name": "Randy D. Lemm",
+	        "emails": [
+	          "rlemm@nd.gov"
+	        ],
+	        "phones": [
+	          "(701) 636-5465"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:16": {
@@ -8089,7 +8692,10 @@
         "overwrite_name": "David Clemens",
         "emails": [
           "dclemens@nd.gov"
-        ]
+        ],
+				"phones": [
+					"(701) 328-3375"
+				]
       }
     ]
   },
@@ -10625,7 +11231,10 @@
         "overwrite_name": "Jessica de la Cruz",
         "emails": [
           "sen-delacruz@rilegislature.gov"
-        ]
+        ],
+		        "phones": [
+		          "(401) 484-0155"
+		        ]
       }
     ]
   },
@@ -10659,6 +11268,9 @@
         "overwrite_name": "Bridget G Valverde",
         "emails": [
           "sen-valverde@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 222-2708"
         ]
       }
     ]
@@ -10730,6 +11342,9 @@
         "overwrite_name": "Melissa A Murray",
         "emails": [
           "sen-murray@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 327-0615"
         ]
       }
     ]
@@ -10763,7 +11378,10 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:21",
         "overwrite_name": "Gordon E Rogers",
         "emails": [
-          "sen-cano@rilegislature.gov"
+          "sen-rogerso@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 255-6357"
         ]
       }
     ]
@@ -10872,6 +11490,9 @@
         "overwrite_name": "Valarie J Lawson",
         "emails": [
           "sen-lawson@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 222-5544"
         ]
       }
     ]
@@ -10906,7 +11527,10 @@
         "overwrite_name": "Samuel W Bell",
         "emails": [
           "sen-bell@rilegislature.gov"
-        ]
+        ],
+				"phones": [
+					"(401) 680-0725"
+				]
       }
     ]
   },

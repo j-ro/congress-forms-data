@@ -2013,14 +2013,51 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Robert Martwick",
+		"name": "Robert F. Martwick",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:10",
-		"overwrite_name": "VACANT",
+		"overwrite_name": "Robert F. Martwick",
 		"phones": ["(217) 782-1035"],
 		"emails": ["rob@robertmartwick.com"]
 	}]
 },
+{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:11": {
+        "name": "Illinois State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:il/sldu:11",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Celina Villanueva",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:11",
+        "overwrite_name": "Celina Villanueva",
+        "emails": [
+          "ilrep21@gmail.com"
+        ],
+        "phones": [
+          "(708) 656-2002"
+        ]
+      }
+    ]
+  },
 {
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:40": {
@@ -2105,10 +2142,10 @@
 		"officialIndices": [0]
 	}],
 	"officials": [{
-		"name": "Sims R Elgie, Jr.",
+		"name": "Elgie R. Sims Jr.",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:17",
-		"overwrite_name": "Sims R Elgie, Jr.",
+		"overwrite_name": "Elgie R. Sims Jr.",
 		"phones": ["(217) 782-3201"],
 		"emails": ["info@senatorelgiesims.com"]
 	}]
@@ -2136,6 +2173,80 @@
 		"emails": ["info@senatoranngillespie.org"]
 	}]
 },
+{
+	"divisions": {
+		"ocd-division/country:us/state:il/sldu:32": {
+			"name": "Illinois State Senate district 32",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "IL State Senate District 32",
+			"divisionId": "ocd-division/country:us/state:il/sldu:32",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Craig Wilcox",
+			"party": "Republican Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:32",
+			"overwrite_name": "Craig Wilcox",
+			"emails": [
+				"senatorwilcox@gmail.com"
+			],
+			"phones": [
+				"(815) 455-6330"
+			]
+		}
+	]
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:33": {
+        "name": "Illinois State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:il/sldu:33",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Donald DeWitte",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:33",
+        "overwrite_name": "Donald DeWitte",
+        "emails": [
+          "ddewitte@stcharlesil.gov"
+        ],
+        "phones": [
+          "(847) 214-8245"
+        ]
+      }
+    ]
+  },
 {
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:36": {
@@ -2703,7 +2814,44 @@
 		"phones": ["517-373-7748"],
 		"emails": ["senahollier@senate.michigan.gov"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:nc/sldu:20": {
+			"name": "North Carolina State Senate district 20",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "NC State Senate District 20",
+			"divisionId": "ocd-division/country:us/state:nc/sldu:20",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Henry M. Michaux, Jr.",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:20",
+			"overwrite_name": "Henry M. Michaux, Jr.",
+			"emails": [
+				"Mickey.Michaux@ncleg.net"
+			],
+			"phones": [
+				"(919) 733-4599"
+			]
+		}
+	]
+},{
     "divisions": {
       "ocd-division/country:us/state:nj/sldu:1": {
         "name": "New Jersey State Senate district 1",
@@ -3112,7 +3260,45 @@
 		"overwrite_name": "Jake Blum",
 		"emails": ["jblum@nd.gov"]
 	}]
-}, {
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldu:30": {
+        "name": "Oregon State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:or/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lynn Findley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldu:30",
+        "overwrite_name": "Lynn Findley",
+        "emails": [
+          "Sen.LynnFindley@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1730"
+        ]
+      }
+    ]
+  },
+ {
 	"divisions": {
 		"ocd-division/country:us/state:pa/sldu:15": {
 			"name": "Pennsylvania State Senate district 15",
@@ -3199,7 +3385,7 @@
 				"name": "Doug Mastriano",
 				"party": "Republican Party",
 				"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:33",
-				"overwrite_name": "VACANT",
+				"overwrite_name": "Doug Mastriano",
 				"emails": [
 					"mastriano4congress@yahoo.com"
 				],
@@ -3209,6 +3395,43 @@
 			}
 		]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldu:48": {
+        "name": "Pennsylvania State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:pa/sldu:48",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David J. Arnold",
+        "party": "undefined",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:48",
+        "overwrite_name": "David J. Arnold",
+        "emails": [
+          "davearnoldforsenate@gmail.com"
+        ],
+        "phones": [
+          "(717) 274-6735"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:6": {
@@ -5481,7 +5704,44 @@
 		"overwrite_name": "Bob Hertzberg",
 		"phones": ["(818) 901-5588"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ca/sldu:33": {
+			"name": "California State Senate district 33",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "CA State Senate District 33",
+			"divisionId": "ocd-division/country:us/state:ca/sldu:33",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Lena A. Gonzalez",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:33",
+			"overwrite_name": "Lena A. Gonzalez",
+			"emails": [
+				"senator.gonzalez@senate.ca.gov"
+			],
+			"phones": [
+				"(916) 651-4033"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:ca/sldl:19": {
 			"name": "California State House district 19",
@@ -14389,6 +14649,43 @@
 		"phones": ["(803) 212-6130"]
 	}]
 }, {
+    "divisions": {
+      "ocd-division/country:us/state:sc/sldu:6": {
+        "name": "South Carolina State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:6",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dwight A. Loftis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:6",
+        "overwrite_name": "Dwight A. Loftis",
+        "emails": [
+          "DwightLoftis@scsenate.gov"
+        ],
+        "phones": [
+          "(803) 212-6100"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:sc/sldu:9": {
 			"name": "South Carolina State Senate district 9",
@@ -21156,6 +21453,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:13": {
+        "name": "Georgia State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carden H. Summers",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:13",
+        "overwrite_name": "Carden H. Summers",
+        "emails": [
+          "cardenhs@gmail.com"
+        ],
+        "phones": [
+          "(404) 463-5258"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldu:27": {
@@ -25861,7 +26195,45 @@
 		"emails": ["marybeth.carozza@senate.state.md.us"],
 		"phones": ["(410) 841-3645"]
 	}]
-}, {
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:44": {
+        "name": "Maryland State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:md/sldu:44",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles E. Sydnor III",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:44",
+        "overwrite_name": "Charles E. Sydnor III",
+        "emails": [
+          "charles.sydnor@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3612"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:me/sldu:30": {
 			"name": "Maine State Senate district 30",
@@ -26964,6 +27336,43 @@
 			]
 		}
 	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:pa/sldu:37": {
+			"name": "Pennsylvania State Senate district 37",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "PA State Senate District 37",
+			"divisionId": "ocd-division/country:us/state:pa/sldu:37",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Pam Iovino",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
+			"overwrite_name": "Pam Iovino",
+			"emails": [
+				"senatoriovino@pasenate.com"
+			],
+			"phones": [
+				"(717) 787-5839"
+			]
+		}
+	]
 },{
 	"divisions": {
 		"ocd-division/country:us/state:pa/sldu:34": {
@@ -27052,7 +27461,44 @@
 		"emails": ["SenatorLindseyWilliams@pasenate.com"],
 		"phones": ["(717) 787-6538"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:pa/sldu:41": {
+			"name": "Pennsylvania State Senate district 41",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "PA State Senate District 41",
+			"divisionId": "ocd-division/country:us/state:pa/sldu:41",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Joe Pittman",
+			"party": "Republican Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:41",
+			"overwrite_name": "Joe Pittman",
+			"emails": [
+				"joe.pittman@pasenator41.com"
+			],
+			"phones": [
+				"(717) 787-8724"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:pa/sldu:44": {
 			"name": "Pennsylvania State Senate district 44",
@@ -30829,6 +31275,43 @@
 		"emails": ["lynn.hutchings@leg.wa.gov"],
 		"phones": ["(307) 634-8783"]
 	}]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:nm/sldu:3": {
+			"name": "New Mexico State Senate district 3",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "NM State Senate District 3",
+			"divisionId": "ocd-division/country:us/state:nm/sldu:3",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Shannon Pinto",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:3",
+			"overwrite_name": "Shannon Pinto",
+			"emails": [
+				"shannon.pinto@nmlegis.gov"
+			],
+			"phones": [
+				"(720) 357-9275"
+			]
+		}
+	]
 },
 {
 	"divisions": {

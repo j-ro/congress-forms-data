@@ -2135,7 +2135,43 @@
 	   ]
 	  }
 	 ]
-	},
+	},{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:57": {
+        "name": "Colorado State House district 57",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 57",
+        "divisionId": "ocd-division/country:us/state:co/sldl:57",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Will Perry",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:57",
+        "overwrite_name": "Will Perry",
+        "emails": [
+          "perry.will.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2949"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:nj/sldu:1": {
@@ -4128,6 +4164,80 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:il/sldl:17": {
+	        "name": "Illinois State House district 17",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "IL State House District 17",
+	        "divisionId": "ocd-division/country:us/state:il/sldl:17",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Jennifer Gong-Gershowitz",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:17",
+	        "overwrite_name": "Jennifer Gong-Gershowitz",
+	        "emails": [
+	          "info@gonggershowitz.com"
+	        ],
+	        "phones": [
+	          "(847) 486-8810"
+	        ]
+	      }
+	    ]
+	  },
+		{
+	    "divisions": {
+	      "ocd-division/country:us/state:il/sldl:20": {
+	        "name": "Illinois State House district 20",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "IL State House District 20",
+	        "divisionId": "ocd-division/country:us/state:il/sldl:20",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Bradley Stephens",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:20",
+	        "overwrite_name": "Bradley Stephens",
+	        "emails": [
+	          "stephens@ilhousegop.org"
+	        ],
+	        "phones": [
+	          "(773) 444-0611"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:42": {
@@ -10394,6 +10504,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:36": {
+        "name": "Texas State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 36",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:36",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sergio MuÃ±oz, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:36",
+        "overwrite_name": "Sergio MuÃ±oz, Jr.",
+        "emails": [
+          "Sergio.Munoz@house.texas.gov"
+        ],
+        "phones": [
+          "(956) 584-8999"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:37": {
@@ -10431,6 +10578,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldl:39": {
+	        "name": "Texas State House district 39",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State House District 39",
+	        "divisionId": "ocd-division/country:us/state:tx/sldl:39",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Armando \"Mando\" MartÃ­nez",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:39",
+	        "overwrite_name": "Armando \"Mando\" MartÃ­nez",
+	        "emails": [
+	          "mando.martinez@house.texas.gov"
+	        ],
+	        "phones": [
+	          "(956) 447-9473"
+	        ]
+	      }
+	    ]
+	  },
    {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:45": {
@@ -10689,7 +10873,43 @@
         ]
       }
     ]
-  },
+  },{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldl:74": {
+	        "name": "Texas State House district 74",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State House District 74",
+	        "divisionId": "ocd-division/country:us/state:tx/sldl:74",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Poncho NevÃ¡rez",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:74",
+	        "overwrite_name": "Poncho NevÃ¡rez",
+	        "emails": [
+	          "poncho.nevarez@house.texas.gov"
+	        ],
+	        "phones": [
+	          "(512) 463-0566"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:89": {
@@ -25719,6 +25939,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:5": {
+        "name": "Georgia State House district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 5",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:5",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matt Barton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:5",
+        "overwrite_name": "Matt Barton",
+        "emails": [
+          "matt.barton@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0325"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:14": {
@@ -26156,6 +26413,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ga/sldl:71": {
+	        "name": "Georgia State House district 71",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "GA State House District 71",
+	        "divisionId": "ocd-division/country:us/state:ga/sldl:71",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Philip Singleton",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:71",
+	        "overwrite_name": "Philip Singleton",
+	        "emails": [
+	          "philip.singleton@house.ga.gov"
+	        ],
+	        "phones": [
+	          "(404) 656-0177"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:79": {
@@ -30033,6 +30327,42 @@
           "John.DeVeau@legislature.maine.gov"
         ],
         "phones": ["(207) 999-6281"]
+      }
+    ]
+  },{
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldl:66": {
+        "name": "North Carolina State House district 66",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State House District 66",
+        "divisionId": "ocd-division/country:us/state:nc/sldl:66",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott T. Brewer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:66",
+        "overwrite_name": "Scott T. Brewer",
+        "emails": [
+          "Scott.Brewer@ncleg.net"
+        ],
+        "phones": [
+          "(919) 733-5823"
+        ]
       }
     ]
   },

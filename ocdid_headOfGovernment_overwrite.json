@@ -118,6 +118,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mo": {
+	   "name": "Missouri",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:mo",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Michael L. Parson",
+	   "party": "Republican Party"",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo",
+	   "overwrite_name": "Michael L. Parson",
+	   "phones": [
+	   		"(573) 751-3222"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/district:dc": {
 	   "name": "District of Columbia",
 	   "overwrite": "true",

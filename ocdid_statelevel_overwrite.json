@@ -2936,6 +2936,27 @@
 		"phones": ["502-564-8100 Ext. 681"]
 	}]
 },
+{
+ "divisions": {
+	 "ocd-division/country:us/state:mi/sldl:4": {
+		 "name": "Michigan State House district 4",
+		 "overwrite": "true",
+		 "officeIndices": [0]
+	 }
+ },
+ "offices": [{
+	 "name": "MI State House District 4",
+	 "divisionId": "ocd-division/country:us/state:mi/sldl:4",
+	 "roles": ["legislatorUpperBody"],
+	 "officialIndices": [0]
+ }],
+ "officials": [{
+	 "name": "VACANT",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:mi/sldl:4",
+	 "overwrite_name": "Isaac Robinson"
+ }]
+},
  {
 	"divisions": {
 		"ocd-division/country:us/state:mi/sldu:2": {

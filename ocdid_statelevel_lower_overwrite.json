@@ -7856,6 +7856,43 @@
 	 ]
 	},
 	{
+	 "divisions": {
+	  "ocd-division/country:us/state:pa/sldl:8": {
+	   "name": "Pennsylvania State House district 8",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "PA State House District 8",
+	   "divisionId": "ocd-division/country:us/state:pa/sldl:8",
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Timothy R. Bonner",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:8",
+	   "overwrite_name": "Timothy R. Bonner",
+	   "emails": [
+	   		"tbonner@pahousegop.com"
+	   ],
+	   "phones": [
+	   		"(717) 783-6438"
+	   ]
+	  }
+	 ]
+	},
+	{
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:11": {
         "name": "Pennsylvania State House district 11",

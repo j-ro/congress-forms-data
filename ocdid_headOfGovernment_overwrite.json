@@ -41,6 +41,46 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:mn": {
+	   "name": "Minnesota",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:mn",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Tim Walz",
+	   "party": "Democratic-Farmer-Labor",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mn",
+	   "overwrite_name": "Tim Walz",
+	   "emails": [
+	   		"gov.contact@state.mn.us"
+	   ],
+	   "phones": [
+	   		"(651) 201-3400"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh": {
 	   "name": "Ohio",
 	   "overwrite": "true",

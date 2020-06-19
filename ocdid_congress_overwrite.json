@@ -863,5 +863,38 @@
 	 "overwrite_name": "VACANT"
 	}
  ]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:tx/cd:4": {
+			"name": "Texas's 4th congressional district",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "United States House of Representatives TX-04",
+			"divisionId": "ocd-division/country:us/state:tx/cd:4",
+			"levels": [
+				"country"
+			],
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Vacant",
+			"overwrite_ocdid": "ocd-division/country:us/state:tx/cd:4",
+			"overwrite_name": "John Ratcliffe"
+		}
+	]
 }
 ]

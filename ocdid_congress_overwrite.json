@@ -800,39 +800,6 @@
 },
 {
  "divisions": {
-	"ocd-division/country:us/state:mi/cd:7": {
-	 "name": "Michigan's 7th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives MI-07",
-	 "divisionId": "ocd-division/country:us/state:mi/cd:7",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Tom Tiffany",
-	 "overwrite_ocdid": "ocd-division/country:us/state:mi/cd:7",
-	 "overwrite_name": "Tim Walberg"
-	}
- ]
-},
-{
- "divisions": {
 	"ocd-division/country:us/state:ca/cd:25": {
 	 "name": "California's 25th congressional district",
 	 "overwrite": "true",

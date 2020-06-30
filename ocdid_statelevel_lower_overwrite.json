@@ -27618,6 +27618,50 @@
       }
     ]
   },
+	},{
+		"divisions": {
+			"ocd-division/country:us/state:ma/sldl:3rd_bristol": {
+				"name": "Massachusetts State House 3rd Bristol district",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "MA State House District 3rd Bristol",
+			"divisionId": "ocd-division/country:us/state:ma/sldl:3rd_bristol",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Carol Doherty",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:3rd_bristol",
+			"overwrite_name": "VACANT",
+			"emails": ["carol.doherty@mahouse.gov"]
+		}]
+	},
+	{
+		"divisions": {
+			"ocd-division/country:us/state:ma/sldl:37th_middlesex": {
+				"name": "Massachusetts State House 37th Middlesex district",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "MA State House District 37th Middlesex",
+			"divisionId": "ocd-division/country:us/state:ma/sldl:37th_middlesex",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Danillo Sena",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:37th_middlesex",
+			"overwrite_name": "VACANT",
+			"emails": ["Danillo.Sena@mahouse.gov"]
+		}]
+	},
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:3rd_hampshire": {

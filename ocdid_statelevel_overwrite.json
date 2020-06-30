@@ -21450,7 +21450,97 @@
 		"emails": ["Richard.Haggerty@mahouse.gov"],
 		"phones": ["(617) 722-2425"]
 	}]
-}, {
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ma/sldl:37th_middlesex": {
+			"name": "Massachusetts State House 37th Middlesex district",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "MA State House District 37th Middlesex",
+		"divisionId": "ocd-division/country:us/state:ma/sldl:37th_middlesex",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Danillo Sena",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:37th_middlesex",
+		"overwrite_name": "VACANT",
+		"emails": ["Danillo.Sena@mahouse.gov"]
+	}]
+}, 
+{
+	"divisions": {
+		"ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable": {
+			"name": "Massachusetts Plymouth and Barnstable district",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MA State Senate District Plymouth and Barnstable",
+			"divisionId": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Susan Moran",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"susan.moran@masenate.gov"
+			]
+		}
+	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire": {
+			"name": "Massachusetts 2nd Hampden and Hampshire district",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MA State Senate District 2nd Hampden and Hampshire",
+			"divisionId": "ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire",
+			"roles": [
+				"legislatorUpperBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "John Velis",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire",
+			"overwrite_name": "VACANT",
+			"emails": [
+				"john.velis@masenate.gov"
+			]
+		}
+	]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:ma/sldl:1st_franklin": {
 			"name": "Massachusetts State House 1st Franklin district",
@@ -21516,7 +21606,29 @@
 		"emails": ["Andres.Vargas@mahouse.gov"],
 		"phones": ["(617) 722-2014"]
 	}]
-}, {
+}, 
+{
+	"divisions": {
+		"ocd-division/country:us/state:ma/sldl:3rd_bristol": {
+			"name": "Massachusetts State House 3rd Bristol district",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "MA State House District 3rd Bristol",
+		"divisionId": "ocd-division/country:us/state:ma/sldl:3rd_bristol",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Carol Doherty",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:3rd_bristol",
+		"overwrite_name": "VACANT",
+		"emails": ["carol.doherty@mahouse.gov"]
+	}]
+},{
 	"divisions": {
 		"ocd-division/country:us/state:ma/sldl:12th_bristol": {
 			"name": "Massachusetts State House 12th Bristol district",

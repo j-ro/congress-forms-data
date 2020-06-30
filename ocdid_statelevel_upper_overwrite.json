@@ -12160,6 +12160,74 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable": {
+        "name": "Massachusetts Plymouth and Barnstable district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District Plymouth and Barnstable",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Susan Moran",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "susan.moran@masenate.gov"
+        ]
+      }
+    ]
+  },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire": {
+				"name": "Massachusetts 2nd Hampden and Hampshire district",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "MA State Senate District 2nd Hampden and Hampshire",
+				"divisionId": "ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire",
+				"roles": [
+					"legislatorUpperBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "John Velis",
+				"party": "Democratic Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire",
+				"overwrite_name": "VACANT",
+				"emails": [
+					"john.velis@masenate.gov"
+				]
+			}
+		]
+	},
+	{
+    "divisions": {
       "ocd-division/country:us/state:ma/sldu:4th_middlesex": {
         "name": "Massachusetts Fourth Middlesex district",
         "overwrite": "true",

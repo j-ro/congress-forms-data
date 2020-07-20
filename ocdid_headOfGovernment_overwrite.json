@@ -158,6 +158,46 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ga": {
+	   "name": "Georgia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:ga",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Brian Kemp",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga",
+	   "overwrite_name": "Brian Kemp",
+	   "phones": [
+	   		"(614) 644-4357"
+			],
+		 "emails": [
+			 "Tim.fleming@georgia.gov"
+		 	]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mo": {
 	   "name": "Missouri",
 	   "overwrite": "true",

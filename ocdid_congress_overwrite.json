@@ -306,6 +306,40 @@
 	},
 	{
 	 "divisions": {
+		"ocd-division/country:us/state:ga/cd:5": {
+		 "name": "Georgia's 5th congressional district",
+		 "overwrite": "true",
+		 "officeIndices": [
+			0
+		 ]
+		}
+	 },
+	 "offices": [
+		{
+		 "name": "United States House of Representatives GA-5",
+		 "divisionId": "ocd-division/country:us/state:ga/cd:5",
+		 "levels": [
+			"country"
+		 ],
+		 "roles": [
+			"legislatorLowerBody"
+		 ],
+		 "officialIndices": [
+			0
+		 ]
+		}
+	 ],
+	 "officials": [
+		{
+		 "name": "VACANT",
+		 "party": "Democratic",
+		 "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:5",
+		 "overwrite_name": "John Lewis"
+		}
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:ny/cd:27": {
 	   "name": "New York's 27th congressional district",
 	   "overwrite": "true",

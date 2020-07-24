@@ -437,43 +437,46 @@
 	{
 	 "name": "Vacant",
 	 "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:11",
-	 "overwrite_name": "Mark Meadows"
+	 "overwrite_name": "Madison Cawthorn"
 	}
  ]
 },
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ny/cd:27": {
-	   "name": "New York's 27th congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives NY-27",
-	   "divisionId": "ocd-division/country:us/state:ny/cd:27",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:27",
-	   "overwrite_name": "Chris Collins"
-	  }
+{
+ "divisions": {
+	"ocd-division/country:us/state:ny/cd:27": {
+	 "name": "New York's 27th congressional district",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
 	 ]
-	},
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States House of Representatives NY-27",
+	 "divisionId": "ocd-division/country:us/state:ny/cd:27",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorLowerBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Chris Jacobs",
+	 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:27",
+	 "overwrite_name": "Chris Jacobs",
+	 "phones": [
+			"(202) 224-3121"
+	 ]
+	}
+ ]
+},
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:wi/cd:7": {
@@ -534,9 +537,12 @@
 	 ],
 	 "officials": [
 	  {
-	   "name": "Vacant",
+	   "name": "Kweisi Mfume",
 	   "overwrite_ocdid": "ocd-division/country:us/state:md/cd:7",
-	   "overwrite_name": "Elijah E. Cummings"
+	   "overwrite_name": "Kweisi Mfume",
+		 "phones": [
+        "(202) 225-4741"
+      ]
 	  }
 	 ]
 	},

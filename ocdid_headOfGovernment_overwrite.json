@@ -81,6 +81,46 @@
 	},
 	{
 	 "divisions": {
+		"ocd-division/country:us/state:wv": {
+		 "name": "West Virginia",
+		 "overwrite": "true",
+		 "officeIndices": [
+			0
+		 ]
+		}
+	 },
+	 "offices": [
+		{
+		 "name": "Governor",
+		 "divisionId": "ocd-division/country:us/state:wv",
+		 "levels": [
+			"country"
+		 ],
+		 "roles": [
+			"headOfGovernment"
+		 ],
+		 "officialIndices": [
+			0
+		 ]
+		}
+	 ],
+	 "officials": [
+		{
+		 "name": "Jim Justice",
+		 "party": "Republican",
+		 "overwrite_ocdid": "ocd-division/country:us/state:wv",
+		 "overwrite_name": "Jim Justice",
+		 "emails": [
+				"governor@state.wv.us"
+		 ],
+		 "phones": [
+				"(304) 558-2000"
+		 ]
+		}
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:oh": {
 	   "name": "Ohio",
 	   "overwrite": "true",

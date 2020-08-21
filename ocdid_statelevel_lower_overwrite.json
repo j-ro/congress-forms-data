@@ -32320,43 +32320,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ri/sldl:30": {
-        "name": "Rhode Island State House district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "RI State House District 30",
-        "divisionId": "ocd-division/country:us/state:ri/sldl:30",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Justine A. Caldwell",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:30",
-        "overwrite_name": "Justine A. Caldwell",
-        "emails": [
-          "rep-Caldwell@rilegislature.gov"
-        ],
-        "phones": [
-          "(401) 212-7320"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ri/sldl:46": {
         "name": "Rhode Island State House district 46",
         "overwrite": "true",

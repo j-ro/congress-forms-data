@@ -766,6 +766,43 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ga/cd:14": {
+	   "name": "Georgia's 14th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives GA-14",
+	   "divisionId": "ocd-division/country:us/state:ga/cd:14",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "VACANT",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:14",
+	   "party": "Republican",
+	   "overwrite_name": "Tom Graves",
+	   "phones": [
+			"(202) 225-5211"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:nj/cd:2": {
 	   "name": "New Jersey's 2nd congressional district",
 	   "overwrite": "true",

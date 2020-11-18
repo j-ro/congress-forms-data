@@ -238,6 +238,46 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ma": {
+	   "name": "Massachusetts",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "Governor",
+	   "divisionId": "ocd-division/country:us/state:ma",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headOfGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Charles D. Baker",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ma",
+	   "overwrite_name": "Charles D. Baker",
+	   "phones": [
+	   		"(617) 725-4005"
+			],
+		 "emails": [
+			 ""
+		 	]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mo": {
 	   "name": "Missouri",
 	   "overwrite": "true",

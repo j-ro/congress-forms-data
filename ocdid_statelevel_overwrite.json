@@ -3053,7 +3053,45 @@
 			]
 		}
 	]
-},{
+},
+{
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldu:26": {
+        "name": "North Carolina State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:26",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dave Craven",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:26",
+        "overwrite_name": "Dave Craven",
+        "emails": [
+          "David.Craven@ncleg.net"
+        ],
+        "phones": [
+          "(919) 733-5870"
+        ]
+      }
+    ]
+  },
+{
     "divisions": {
       "ocd-division/country:us/state:nj/sldu:1": {
         "name": "New Jersey State Senate district 1",
@@ -3732,15 +3770,15 @@
     ],
     "officials": [
       {
-        "name": "Jordan Youngberg",
+        "name": "Casey Crabtree",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:8",
-        "overwrite_name": "Jordan Youngberg",
+        "overwrite_name": "Casey Crabtree",
         "emails": [
-          "Jordan.Youngberg@sdlegislature.gov"
+          "casey.crabtree@sdlegislature.gov"
         ],
         "phones": [
-          "605-773-3821"
+          "(605) 773-3821"
         ]
       }
     ]
@@ -4078,6 +4116,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldu:19": {
+        "name": "South Dakota State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:sd/sldu:19",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kyle Schoenfish",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:19",
+        "overwrite_name": "Kyle Schoenfish",
+        "emails": [
+          "Kyle.Schoenfish@sdlegislature.gov"
+        ],
+        "phones": [
+          "605-773-3821"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:20": {
@@ -4152,6 +4227,43 @@
       }
     ]
   },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:sd/sldu:23": {
+				"name": "South Dakota State Senate district 23",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "SD State Senate District 23",
+				"divisionId": "ocd-division/country:us/state:sd/sldu:23",
+				"roles": [
+					"legislatorUpperBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "John A. Lake",
+				"party": "Republican Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:23",
+				"overwrite_name": "John A. Lake",
+				"emails": [
+					"John.Lake@sdlegislature.gov"
+				],
+				"phones": [
+					"605-773-3821"
+				]
+			}
+		]
+	},
 {
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:24": {
@@ -4226,7 +4338,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:sd/sldu:32": {
         "name": "South Dakota State Senate district 32",
@@ -4250,12 +4362,12 @@
     ],
     "officials": [
       {
-        "name": "Alan D Solano",
+        "name": "Helene Duhamel",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:32",
-        "overwrite_name": "Alan D Solano",
+        "overwrite_name": "Helene Duhamel",
         "emails": [
-          "Alan.Solano@sdlegislature.gov"
+          "Helene.Duhamel@sdlegislature.gov"
         ],
         "phones": [
           "605-773-3821"
@@ -4293,6 +4405,43 @@
         "overwrite_name": "Jeff Partridge",
         "emails": [
           "Jeffrey.Partridge@sdlegislature.gov"
+        ],
+        "phones": [
+          "605-773-3821"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldu:35": {
+        "name": "South Dakota State Senate district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State Senate District 35",
+        "divisionId": "ocd-division/country:us/state:sd/sldu:35",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jessica Castleberry",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:35",
+        "overwrite_name": "Jessica Castleberry",
+        "emails": [
+          "Jessica.Castleberry@sdlegislature.gov"
         ],
         "phones": [
           "605-773-3821"
@@ -14395,7 +14544,44 @@
 		"emails": ["murdock@oksenate.gov"],
 		"phones": ["(405) 521-5626"]
 	}]
-}, {
+}, 
+{
+    "divisions": {
+      "ocd-division/country:us/state:ok/sldu:28": {
+        "name": "Oklahoma State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OK State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:ok/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zack Taylor",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:28",
+        "overwrite_name": "Zack Taylor",
+        "emails": [
+          "zack.taylor@oksenate.gov"
+        ],
+        "phones": [
+          "(405) 521-5547"
+        ]
+      }
+    ]
+  }, {
 	"divisions": {
 		"ocd-division/country:us/state:ok/sldu:37": {
 			"name": "Oklahoma State Senate district 37",
@@ -26179,7 +26365,45 @@
 		"emails": ["jeff.bridges.senate@state.co.us"],
 		"phones": ["(303) 866-4846"]
 	}]
-}, {
+}, 
+{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:31": {
+        "name": "Colorado State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:co/sldu:31",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris Hansen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:31",
+        "overwrite_name": "Chris Hansen",
+        "emails": [
+          "chris.hansen.senate@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-4861"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:co/sldu:8": {
 			"name": "Colorado State Senate district 8",
@@ -29159,6 +29383,43 @@
 		"phones": ["(717) 772-9850"]
 	}]
 }, {
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldu:14": {
+        "name": "Texas State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:14",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sarah Eckhardt",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:14",
+        "overwrite_name": "Sarah Eckhardt",
+        "emails": [
+          "Sarah.Eckhardt@senate.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0114"
+        ]
+      }
+    ]
+  },
+{
 	"divisions": {
 		"ocd-division/country:us/state:tx/sldu:30": {
 			"name": "Texas State Senate district 30",

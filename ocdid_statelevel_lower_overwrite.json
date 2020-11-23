@@ -11486,6 +11486,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldl:148": {
+	        "name": "Texas State House district 148",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State House District 148",
+	        "divisionId": "ocd-division/country:us/state:tx/sldl:148",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Anna Eastman",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:148",
+	        "overwrite_name": "Anna Eastman",
+	        "emails": [
+	          "anna.eastman@house.texas.gov"
+	        ],
+	        "phones": [
+	          "(512) 463-0620"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:132": {
@@ -12265,6 +12302,43 @@
   },
 	{
 	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldl:31": {
+	        "name": "Mississippi State House district 31",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State House District 31",
+	        "divisionId": "ocd-division/country:us/state:ms/sldl:31",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Otis L. Anthony II",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:31",
+	        "overwrite_name": "Otis L. Anthony II",
+	        "emails": [
+	          "oanthony@house.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-3360"
+	        ]
+	      }
+	    ]
+	  },
+	{
+	    "divisions": {
 	      "ocd-division/country:us/state:ms/sldl:32": {
 	        "name": "Mississippi State House district 32",
 	        "overwrite": "true",
@@ -12300,6 +12374,43 @@
 	      }
 	    ]
 	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:38": {
+        "name": "Mississippi State House district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 38",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:38",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cheikh Taylor",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:38",
+        "overwrite_name": "Cheikh Taylor",
+        "emails": [
+          "ctaylor@house.ms.gov"
+        ],
+        "phones": [
+          "(662)617-8125"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:ms/sldl:39": {
@@ -12336,7 +12447,80 @@
         ]
       }
     ]
+  }, {
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:54": {
+        "name": "Mississippi State House district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 54",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:54",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Ford",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:54",
+        "overwrite_name": "Kevin Ford",
+        "emails": [
+          "kford@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ms/sldl:60": {
+	        "name": "Mississippi State House district 60",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "MS State House District 60",
+	        "divisionId": "ocd-division/country:us/state:ms/sldl:60",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Fred Shanks",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:60",
+	        "overwrite_name": "Fred Shanks",
+	        "emails": [
+	          "fshanks@house.ms.gov"
+	        ],
+	        "phones": [
+	          "(601) 359-3360"
+	        ]
+	      }
+	    ]
+	  },
 	{
     "divisions": {
       "ocd-division/country:us/state:ms/sldl:70": {
@@ -12709,6 +12893,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ms/sldl:88": {
+        "name": "Mississippi State House district 88",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 88",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:88",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robin Robinson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:88",
+        "overwrite_name": "Robin Robinson",
+        "emails": [
+          "rrobinson@house.ms.gov"
+        ],
+        "phones": [
+          "(601)649-6103"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ms/sldl:95": {
         "name": "Mississippi State House district 95",
         "overwrite": "true",
@@ -12891,7 +13112,44 @@
 	        ]
 	      }
 	    ]
-	  },{
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:108": {
+        "name": "Mississippi State House district 108",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 108",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:108",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stacey Hobgood Wilkes",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:108",
+        "overwrite_name": "Stacey Hobgood Wilkes",
+        "emails": [
+          "swilkes@house.ms.gov"
+        ],
+        "phones": [
+          "(601)798-3334"
+        ]
+      }
+    ]
+  }, {
     "divisions": {
       "ocd-division/country:us/state:ms/sldl:111": {
         "name": "Mississippi State House district 111",
@@ -13072,6 +13330,43 @@
         ],
         "phones": [
           "(337) 625-5170"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:la/sldl:54": {
+        "name": "Louisiana State House district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State House District 54",
+        "divisionId": "ocd-division/country:us/state:la/sldl:54",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph Oregron",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:54",
+        "overwrite_name": "Joseph Oregron",
+        "emails": [
+          "hse054@legis.la.gov"
+        ],
+        "phones": [
+          "(985) 693-9000"
         ]
       }
     ]
@@ -32614,6 +32909,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:wa/sldl:38": {
+	        "name": "Washington State House district 38",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "WA State House District 38",
+	        "divisionId": "ocd-division/country:us/state:wa/sldl:38",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Emily Wicks",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:38",
+	        "overwrite_name": "Emily Wicks",
+	        "emails": [
+	          "friendsofemilywicks@gmail.com"
+	        ],
+	        "phones": [
+	          "(360) 786-7864"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:nv/sldl:3": {

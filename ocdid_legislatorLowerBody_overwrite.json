@@ -266,6 +266,40 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/state:ca/cd:8": {
+	   "name": "California's 8th congressional district",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States House of Representatives CA-8",
+	   "divisionId": "ocd-division/country:us/state:ca/cd:8",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorLowerBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "VACANT",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:8",
+	   "overwrite_name": "Paul Cook"
+	  }
+	 ]
+},
+	{
+	 "divisions": {
 	  "ocd-division/country:us/state:mi/cd:13": {
 	   "name": "Michigan's 13th congressional district",
 	   "overwrite": "true",

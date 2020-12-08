@@ -25704,6 +25704,43 @@
 			]
 		}
 	]
+},
+{
+	"divisions": {
+		"ocd-division/country:us/state:md/sldl:18": {
+			"name": "Maryland State House district 18",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "MD State House District 18",
+			"divisionId": "ocd-division/country:us/state:md/sldl:18",
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Jared Soloman",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:md/sldl:18",
+			"overwrite_name": "Jeff Waldstreicher",
+			"emails": [
+				"jared.solomon@house.state.md.us"
+			],
+			"phones": [
+				"(410) 841-3130"
+			]
+		}
+	]
 },{
 	"divisions": {
 		"ocd-division/country:us/state:md/sldl:34a": {

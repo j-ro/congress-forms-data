@@ -3965,6 +3965,40 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:30": {
+        "name": "Illinois State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:il/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adriane Johnson",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
+        "overwrite_name": "Terry Link",
+        "phones": [
+          "(217) 782-8181"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:32": {
         "name": "Illinois State Senate district 32",
         "overwrite": "true",

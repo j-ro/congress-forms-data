@@ -4616,6 +4616,42 @@
         ]
       }
     ]
+  }, {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:9": {
+        "name": "Illinois State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 9",
+        "divisionId": "ocd-division/country:us/state:il/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lakesia Collins",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:9",
+        "overwrite_name": "Arthur Turner",
+        "emails": [
+          "office@lakesiacollins.com"
+        ],
+        "phones": [
+          "(312) 298-9181"
+        ]
+      }
+    ]
   },
   {
     "divisions": {

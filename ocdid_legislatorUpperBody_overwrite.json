@@ -220,5 +220,42 @@
 	 ]
 	}
  ]
+},
+{
+ "divisions": {
+	"ocd-division/country:us/state:co": {
+	 "name": "Colorado",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States Senate",
+	 "divisionId": "ocd-division/country:us/state:co",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorUpperBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "John Hickenlooper",
+	 "party": "Democratic",
+	 "overwrite_ocdid": "ocd-division/country:us/state:co",
+	 "overwrite_name": "Cory Gardner",
+	 "phones": [
+			"(202) 224-5941"
+	 ]
+	}
+ ]
 }
 ]

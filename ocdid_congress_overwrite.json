@@ -3060,5 +3060,153 @@
  	 ]
  	}
   ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:ks": {
+	"name": "Kansas",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
  }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:ks",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Roger Marshall",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:ks",
+	"overwrite_name": "Pat Roberts",
+	"phones": [
+		 "(202) 224-4774"
+	]
+ }
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:nm": {
+	"name": "New Mexico",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:nm",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Ben Ray Lujan",
+	"party": "Democratic",
+	"overwrite_ocdid": "ocd-division/country:us/state:nm",
+	"overwrite_name": "Tom Udall",
+	"phones": [
+		 "(202) 224-6621"
+	]
+ }
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:tn": {
+	"name": "Tennessee",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:tn",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Bill Hagerty",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:tn",
+	"overwrite_name": "Lamar Alexander",
+	"phones": [
+		 "(202) 224-4944"
+	]
+ }
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:wy": {
+	"name": "Wyoming",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:wy",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Cynthia Lummis",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:wy",
+	"overwrite_name": "Mike Enzi",
+	"phones": [
+		 "(202) 224-3424"
+	]
+ }
+ ]
+}
 ]

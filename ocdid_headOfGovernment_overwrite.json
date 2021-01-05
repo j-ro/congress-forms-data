@@ -691,5 +691,36 @@
         ]
       }
     ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mt": {
+        "name": "Montana",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:mt",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg Gianforte",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt",
+        "overwrite_name": "Steve Bullock"
+      }
+    ]
   }
 ]

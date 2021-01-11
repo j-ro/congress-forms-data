@@ -2127,6 +2127,52 @@
 			"phones": ["(815) 464-5431"]
 		}]
 	},
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:29": {
+				"name": "Illinois State Senate district 29",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 29",
+			"divisionId": "ocd-division/country:us/state:il/sldu:29",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Julie A. Morrison",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:29",
+			"overwrite_name": "Julie A. Morrison",
+			"emails": ["ilsenate29@gmail.com"],
+			"phones": ["(847) 945-5200"]
+		}]
+	},
+	{
+		"divisions": {
+			"ocd-division/country:us/state:il/sldu:34": {
+				"name": "Illinois State Senate district 34",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "IL State Senate District 34",
+			"divisionId": "ocd-division/country:us/state:il/sldu:34",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Steve Stadelman",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:34",
+			"overwrite_name": "Steve Stadelman",
+			"emails": ["mark@senatorstadelman.com"],
+			"phones": ["(815) 987-7557"]
+		}]
+	},
 {
 	"divisions": {
 		"ocd-division/country:us/state:il/sldu:40": {

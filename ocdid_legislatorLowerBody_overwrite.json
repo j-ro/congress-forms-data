@@ -1805,8 +1805,8 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:ms/cd:1": {
-			"name": "Mississippi's 1st congressional district",
+		"ocd-division/country:us/state:mo/cd:1": {
+			"name": "Missouri's 1st congressional district",
 			"overwrite": "true",
 			"officeIndices": [
 				0
@@ -1815,8 +1815,8 @@
 	},
 	"offices": [
 		{
-			"name": "United States House of Representatives MS-01",
-			"divisionId": "ocd-division/country:us/state:ms/cd:1",
+			"name": "United States House of Representatives MO-01",
+			"divisionId": "ocd-division/country:us/state:mo/cd:1",
 			"levels": [
 				"country"
 			],
@@ -1831,8 +1831,8 @@
 	"officials": [
 		{
 			"name": "Cori Bush",
-			"overwrite_ocdid": "ocd-division/country:us/state:ms/cd:1",
-			"overwrite_name": "Trent Kelly",
+			"overwrite_ocdid": "ocd-division/country:us/state:mo/cd:1",
+			"overwrite_name": "Cori Bush",
 			"party": "Democratic",
 			"phones": [
  	   		"(202) 225-2406"

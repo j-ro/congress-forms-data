@@ -1182,7 +1182,7 @@
 		{
 			"name": "Carolyn Bourdeaux",
 			"overwrite_ocdid": "ocd-division/country:us/state:ga/cd:7",
-			"overwrite_name": "Robert Woodall",
+			"overwrite_name": "Carolyn Bourdeaux",
 			"party": "Democratic",
 			"phones": [
  	   		"(202) 225-4272"
@@ -1256,7 +1256,7 @@
 		{
 			"name": "Kaiali'i \"Kai\" Kahele",
 			"overwrite_ocdid": "ocd-division/country:us/state:hi/cd:2",
-			"overwrite_name": "Tulsi Gabbard",
+			"overwrite_name": "Kaiali'i \"Kai\" Kahele",
 			"party": "Democratic",
 			"phones": [
  	   		"(202) 225-4906"
@@ -1451,43 +1451,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:in/cd:5": {
-			"name": "Indiana's 5th congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives IN-05",
-			"divisionId": "ocd-division/country:us/state:in/cd:5",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Victoria Spartz",
-			"overwrite_ocdid": "ocd-division/country:us/state:in/cd:5",
-			"overwrite_name": "Susan W. Brooks",
-			"party": "Republican",
-			"phones": [
- 	   		"(202) 225-2276"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
 		"ocd-division/country:us/state:ma/cd:4": {
 			"name": "Massachusetts's 4th congressional district",
 			"overwrite": "true",
@@ -1516,43 +1479,6 @@
 			"name": "Jake Auchincloss",
 			"overwrite_ocdid": "ocd-division/country:us/state:ma/cd:4",
 			"overwrite_name": "Jake Auchincloss",
-			"party": "Democratic",
-			"phones": [
- 	   		"(202) 225-5931"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
-		"ocd-division/country:us/state:ma/cd:4": {
-			"name": "Massachusetts's 4th congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives MA-04",
-			"divisionId": "ocd-division/country:us/state:ma/cd:4",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Jake Auchincloss",
-			"overwrite_ocdid": "ocd-division/country:us/state:ma/cd:4",
-			"overwrite_name": "Joseph P. Kennedy III",
 			"party": "Democratic",
 			"phones": [
  	   		"(202) 225-5931"
@@ -1663,7 +1589,7 @@
 		{
 			"name": "Michelle Fischbach",
 			"overwrite_ocdid": "ocd-division/country:us/state:mn/cd:7",
-			"overwrite_name": "Michelle Fischbachn",
+			"overwrite_name": "Michelle Fischbach",
 			"party": "Republican",
 			"phones": [
  	   		"(202) 225-2165"

@@ -66,7 +66,7 @@
 		   "name": "Mark Kelly",
 		   "party": "Democratic",
 		   "overwrite_ocdid": "ocd-division/country:us/state:az",
-		   "overwrite_name": "Martha McSally",
+		   "overwrite_name": "Mark Kelly",
 		   "phones": [
 		   		"(202) 224-2235"
 		   ]
@@ -184,117 +184,6 @@
 	}
  ]
 },
-	{
- "divisions": {
-	"ocd-division/country:us/state:ga": {
-	 "name": "Georgia",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States Senate",
-	 "divisionId": "ocd-division/country:us/state:ga",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorUpperBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Kelly Loeffler",
-	 "party": "Republican",
-	 "overwrite_ocdid": "ocd-division/country:us/state:ga",
-	 "overwrite_name": "",
-	 "phones": [
-			"(202) 224-3643"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:co": {
-	 "name": "Colorado",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States Senate",
-	 "divisionId": "ocd-division/country:us/state:co",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorUpperBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "John Hickenlooper",
-	 "party": "Democratic",
-	 "overwrite_ocdid": "ocd-division/country:us/state:co",
-	 "overwrite_name": "Cory Gardner",
-	 "phones": [
-			"(202) 224-5941"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
- "ocd-division/country:us/state:ks": {
-	"name": "Kansas",
-	"overwrite": "true",
-	"officeIndices": [
-	 0
-	]
- }
- },
- "offices": [
- {
-	"name": "United States Senate",
-	"divisionId": "ocd-division/country:us/state:ks",
-	"levels": [
-	 "country"
-	],
-	"roles": [
-	 "legislatorUpperBody"
-	],
-	"officialIndices": [
-	 0
-	]
- }
- ],
- "officials": [
- {
-	"name": "Roger Marshall",
-	"party": "Republican",
-	"overwrite_ocdid": "ocd-division/country:us/state:ks",
-	"overwrite_name": "Pat Roberts",
-	"phones": [
-		 "(202) 224-4774"
-	]
- }
- ]
-},
 {
  "divisions": {
  "ocd-division/country:us/state:nm": {
@@ -322,10 +211,10 @@
  ],
  "officials": [
  {
-	"name": "Ben Ray Lujan",
+	"name": "Ben R. Luján",
 	"party": "Democratic",
 	"overwrite_ocdid": "ocd-division/country:us/state:nm",
-	"overwrite_name": "Tom Udall",
+	"overwrite_name": "Ben R. Luján",
 	"phones": [
 		 "(202) 224-6621"
 	]
@@ -362,7 +251,7 @@
 	"name": "Bill Hagerty",
 	"party": "Republican",
 	"overwrite_ocdid": "ocd-division/country:us/state:tn",
-	"overwrite_name": "Lamar Alexander",
+	"overwrite_name": "Bill Hagerty",
 	"phones": [
 		 "(202) 224-4944"
 	]
@@ -396,10 +285,10 @@
  ],
  "officials": [
  {
-	"name": "Cynthia Lummis",
+	"name": "Cynthia M. Lummis",
 	"party": "Republican",
 	"overwrite_ocdid": "ocd-division/country:us/state:wy",
-	"overwrite_name": "Mike Enzi",
+	"overwrite_name": "Cynthia M. Lummis",
 	"phones": [
 		 "(202) 224-3424"
 	]
@@ -436,7 +325,7 @@
 	"name": "Tommy Tuberville",
 	"party": "Republican",
 	"overwrite_ocdid": "ocd-division/country:us/state:al",
-	"overwrite_name": "Doug Jones",
+	"overwrite_name": "Tommy Tuberville",
 	"phones": [
 		 "(202) 224-4124"
 	]

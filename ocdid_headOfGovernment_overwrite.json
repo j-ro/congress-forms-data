@@ -158,46 +158,6 @@
 	},
 	{
 	 "divisions": {
-	  "ocd-division/country:us/state:fl": {
-	   "name": "Florida",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:fl",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Ron DeSantis",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:fl",
-	   "overwrite_name": "Ron DeSantis",
-	   "emails": [
-	   		"governorron.desantis@eog.myflorida.com"
-	   ],
-	   "phones": [
-	   		"(850) 488-7146"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
 	  "ocd-division/country:us/state:ga": {
 	   "name": "Georgia",
 	   "overwrite": "true",
@@ -578,43 +538,6 @@
 	  }
 	 ]
  },
- {
-    "divisions": {
-      "ocd-division/country:us/state:wi": {
-        "name": "Wisconsin State",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:wi",
-        "roles": [
-          "governor"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Tony Evers",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wi",
-        "overwrite_name": "Tony Evers",
-        "emails": [
-          "EversInfo@wisconsin.gov"
-        ],
-        "phones": [
-          "(608) 267-2560"
-        ]
-      }
-    ]
-  },
 		{
 		 "divisions": {
 		  "ocd-division/country:us/state:wy": {
@@ -719,7 +642,7 @@
         "name": "Greg Gianforte",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:mt",
-        "overwrite_name": "Steve Bullock"
+        "overwrite_name": "Greg Gianforte"
       }
     ]
   },
@@ -747,10 +670,10 @@
     ],
     "officials": [
       {
-        "name": "Spencer Cox",
+        "name": "Spencer J. Cox",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:ut",
-        "overwrite_name": "Gary R. Herbert",
+        "overwrite_name": "Spencer J. Cox",
 				"emails": [
           "governor@utah.gov"
         ],

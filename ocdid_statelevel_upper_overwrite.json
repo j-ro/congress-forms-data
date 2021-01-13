@@ -1106,6 +1106,244 @@
 	      }
 	    ]
 	  },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:5": {
+          "name": "California State Senate district 5",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 5",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:5",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Susan Talamantes Eggman",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:5",
+          "overwrite_name": "Susan Talamantes Eggman",
+          "phones": [
+            "(916) 651-4005"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:13": {
+          "name": "California State Senate district 13",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 13",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:13",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Josh Becker",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:13",
+          "overwrite_name": "Josh Becker",
+          "phones": [
+            "(916) 651-4013"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:15": {
+          "name": "California State Senate district 15",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 15",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:15",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Dave Cortese",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:15",
+          "overwrite_name": "Dave Cortese",
+          "phones": [
+            "(916) 651-4015"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:17": {
+          "name": "California State Senate district 17",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 17",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:17",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "John Laird",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:17",
+          "overwrite_name": "John Laird",
+          "phones": [
+            "(916) 651-4017"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:19": {
+          "name": "California State Senate district 19",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 19",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:19",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "S. Monique Limón",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:19",
+          "overwrite_name": "S. Monique Limón",
+          "phones": [
+            "(916) 651-4019"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:23": {
+          "name": "California State Senate district 23",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 23",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:23",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Rosilicie Ochoa Bogh",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:23",
+          "overwrite_name": "Rosilicie Ochoa Bogh",
+          "phones": [
+            "(916) 651-4023"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/sldu:37": {
+          "name": "California State Senate district 37",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CA State Senate District 37",
+          "divisionId": "ocd-division/country:us/state:ca/sldu:37",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Dave Min",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:37",
+          "overwrite_name": "Dave Min",
+          "phones": [
+            "(916) 651-4037"
+          ]
+        }
+      ]
+    },
 	{
     "divisions": {
       "ocd-division/country:us/state:ca/sldu:22": {
@@ -9433,6 +9671,210 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mo/sldu:3": {
+        "name": "Missouri State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:3",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elaine Freeman Gannon",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:3",
+        "overwrite_name": "Elaine Freeman Gannon",
+        "phones": [
+          "(573) 751-4008"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:9": {
+        "name": "Missouri State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:9",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Barbara Anne Washington",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:9",
+        "overwrite_name": "Barbara Anne Washington",
+        "phones": [
+          "(573) 751-3158"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:13": {
+        "name": "Missouri State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Angela Walton Mosley",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:13",
+        "overwrite_name": "Angela Walton Mosley",
+        "phones": [
+          "(573) 751-2420"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:29": {
+        "name": "Missouri State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:29",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Moon",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:29",
+        "overwrite_name": "Mike Moon",
+        "phones": [
+          "(573) 751-1480"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:31": {
+        "name": "Missouri State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:31",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rick Brattin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:31",
+        "overwrite_name": "Rick Brattin",
+        "phones": [
+          "(573) 751-2108"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mo/sldu:25": {
+        "name": "Missouri State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:mo/sldu:25",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Bean",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:25",
+        "overwrite_name": "Jason Bean",
+        "phones": [
+          "(573) 751-4843"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mo/sldu:33": {
         "name": "Missouri State Senate district 33",
         "overwrite": "true",
@@ -14918,6 +15360,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:1": {
+        "name": "New York State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony H. Palumbo",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:1",
+        "overwrite_name": "Anthony H. Palumbo",
+        "emails": [
+          "palumbo@nysenate.gov"
+        ],
+        "phones": [
+          "518-455-3121"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:25": {
         "name": "New York State Senate district 25",
         "overwrite": "true",
@@ -18076,6 +18555,80 @@
   ]
 },
 {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldu:1": {
+        "name": "New Hampshire State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:nh/sldu:1",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erin Hennessey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:1",
+        "overwrite_name": "Erin Hennessey",
+        "emails": [
+          "Erin.Hennessey@leg.state.nh.us"
+        ],
+        "phones": [
+          "603.271.4151"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:30": {
+        "name": "Wisconsin State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric Wimberger",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:30",
+        "overwrite_name": "Eric Wimberger",
+        "emails": [
+          "Sen.Wimberger@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-5670"
+        ]
+      }
+    ]
+  },
+{
   "divisions": {
     "ocd-division/country:us/state:wi/sldu:10": {
       "name": "Wisconsin State Senate district 10",
@@ -18108,6 +18661,117 @@
       ],
       "phones": [
         "(608) 266-7745"
+      ]
+    }
+  ]
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:wv/sldu:7": {
+      "name": "West Virginia State Senate district 7",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+    }
+  },
+  "offices": [
+    {
+      "name": "WV State Senate District 7",
+      "divisionId": "ocd-division/country:us/state:wv/sldu:7",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Rupie Phillips",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:7",
+      "overwrite_name": "Rupie Phillips",
+      "emails": [
+        "rupie.phillips@wvsenate.gov"
+      ],
+      "phones": [
+        "(304) 357-7857"
+      ]
+    }
+  ]
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:wv/sldu:10": {
+      "name": "West Virginia State Senate district 10",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+    }
+  },
+  "offices": [
+    {
+      "name": "WV State Senate District 10",
+      "divisionId": "ocd-division/country:us/state:wv/sldu:10",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Jack David Woodrum",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:10",
+      "overwrite_name": "Jack David Woodrum",
+      "emails": [
+        "jack.woodrum@wvsenate.gov"
+      ],
+      "phones": [
+        "(304) 357-7849"
+      ]
+    }
+  ]
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:wv/sldu:13": {
+      "name": "West Virginia State Senate district 13",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+    }
+  },
+  "offices": [
+    {
+      "name": "WV State Senate District 13",
+      "divisionId": "ocd-division/country:us/state:wv/sldu:13",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Mike Caputo",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:13",
+      "overwrite_name": "Mike Caputo",
+      "emails": [
+        "mike.caputo@wvsenate.gov"
+      ],
+      "phones": [
+        "(304) 357-7961"
       ]
     }
   ]

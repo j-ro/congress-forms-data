@@ -18557,7 +18557,7 @@
 {
 "divisions":{
 "ocd-division/country:us/state:nh/sldu:1":{
-"name":"NewHampshireStateSenatedistrict1",
+"name":"New Hampshire State Senate district 1",
 "overwrite":"true",
 "officeIndices":[
 0
@@ -18566,7 +18566,7 @@
 },
 "offices":[
 {
-"name":"NHStateSenateDistrict1",
+"name":"NH State Senate District 1",
 "divisionId":"ocd-division/country:us/state:nh/sldu:1",
 "roles":[
 "legislatorUpperBody"
@@ -18578,10 +18578,10 @@
 ],
 "officials":[
 {
-"name":"ErinHennessey",
+"name":"Erin Hennessey",
 "party":"RepublicanParty",
 "overwrite_ocdid":"ocd-division/country:us/state:nh/sldu:1",
-"overwrite_name":"ErinHennessey",
+"overwrite_name":"Erin Hennessey",
 "emails":[
 "Erin.Hennessey@leg.state.nh.us"
 ],
@@ -18628,6 +18628,228 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:12": {
+        "name": "Wisconsin State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary Czaja-Felzkowski",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:12",
+        "overwrite_name": "Mary Czaja-Felzkowski",
+        "emails": [
+          "Sen.Felzkowski@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-2509"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:16": {
+        "name": "Wisconsin State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:16",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Melissa Agard Sargent",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:16",
+        "overwrite_name": "Melissa Agard Sargent",
+        "emails": [
+          "Sen.Agard@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-9170"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:14": {
+        "name": "Wisconsin State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:14",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joan A. Ballweg",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:14",
+        "overwrite_name": "Joan A. Ballweg",
+        "emails": [
+          "Sen.Ballweg@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-0751"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:32": {
+        "name": "Wisconsin State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brad Pfaff",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:32",
+        "overwrite_name": "Brad Pfaff",
+        "emails": [
+          "Sen.Pfaff@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-5490"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:28": {
+        "name": "Wisconsin State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Julian Bradley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:28",
+        "overwrite_name": "Julian Bradley",
+        "emails": [
+          "Sen.Bradley@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-5400"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wi/sldu:26": {
+        "name": "Wisconsin State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WI State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:wi/sldu:26",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kelda Helen Roys",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:26",
+        "overwrite_name": "Kelda Helen Roys",
+        "emails": [
+          "Sen.Roys@legis.wisconsin.gov"
+        ],
+        "phones": [
+          "(608) 266-1627"
+        ]
+      }
+    ]
+  },
 {
   "divisions": {
     "ocd-division/country:us/state:wi/sldu:10": {
@@ -18661,6 +18883,80 @@
       ],
       "phones": [
         "(608) 266-7745"
+      ]
+    }
+  ]
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:wv/sldu:9": {
+      "name": "West Virginia State Senate district 9",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+    }
+  },
+  "offices": [
+    {
+      "name": "WV State Senate District 9",
+      "divisionId": "ocd-division/country:us/state:wv/sldu:9",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "David Bugs Stover",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:9",
+      "overwrite_name": "David Bugs Stover",
+      "emails": [
+        "david.stover@wvsenate.gov"
+      ],
+      "phones": [
+        "(304) 357-7807"
+      ]
+    }
+  ]
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:wv/sldu:12": {
+      "name": "West Virginia State Senate district 12",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+    }
+  },
+  "offices": [
+    {
+      "name": "WV State Senate District 12",
+      "divisionId": "ocd-division/country:us/state:wv/sldu:12",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Patrick S Martin",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:wv/sldu:12",
+      "overwrite_name": "Patrick S Martin",
+      "emails": [
+        "patrick.martin@wvsenate.gov"
+      ],
+      "phones": [
+        "(304) 357-7845"
       ]
     }
   ]

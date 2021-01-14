@@ -316,139 +316,140 @@
 										if (e[0] != 'ocdid') {
 											//console.log('getting ' + e[0]);
 											//$('#log').val($('#log').val() + '\n' + 'getting ' + e[0]);
-											
-											$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(e[0]) + '?key='+ $('#google_api_key').val() + query_string, function(data) {
-											}).done(function(data) {
-												$.each(data.officials, function(index, official) {
-													var no_contact = true;
-													var non_matching_bioid = false;
-													//console.log(official.name);
-													if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
-														//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
-														//console.log(official.emails[0]);
-														no_contact = false;
-													} else if (official.name.toLowerCase() == 'vacant') {
-														no_contact = false; 
-													} else {
+											setTimeout(function() {
+												$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(e[0]) + '?key='+ $('#google_api_key').val() + query_string, function(data) {
+												}).done(function(data) {
+													$.each(data.officials, function(index, official) {
+														var no_contact = true;
+														var non_matching_bioid = false;
 														//console.log(official.name);
-														$.each(overwrite_data, function(index, overwrite_data) {
-															if (typeof(overwrite_data.officials[0].emails) != 'undefined' && overwrite_data.officials[0].emails.length > 0 && overwrite_data.officials[0].emails[0] != '' && overwrite_data.officials[0].overwrite_name == official.name) {
-																//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
-																//console.log(overwrite_data.officials[0].emails[0]);
-																no_contact = false;
-															} else if (overwrite_data.officials[0].name.toLowerCase() == 'vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
-																no_contact = false;
-															} else {
-																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
-																//console.log(official.name + ' has no email at all! Checking bioID...');
-																//
-															}
-														});
-														
-														
-															
-														if (no_contact) {
-	console.log(official.name);
-															$.each(bioids, function(index, bioid) {
-																if (typeof(bioid.ocd_id) != 'undefined') {
-																	if (bioid.ocd_id == e[0] && bioid.name == official.name) {
-																		no_contact = false;
-																	} else if (bioid.ocd_id == e[0]) {
-																		non_matching_bioid = true;
-																	}
+														if (typeof(official.emails) != 'undefined' && official.emails.length > 0 && official.emails[0] != '') {
+															//$('#log').val($('#log').val() + '\n' + official.name + ' has an email address: ' + official.emails[0]);
+															//console.log(official.emails[0]);
+															no_contact = false;
+														} else if (official.name.toLowerCase() == 'vacant') {
+															no_contact = false; 
+														} else {
+															//console.log(official.name);
+															$.each(overwrite_data, function(index, overwrite_data) {
+																if (typeof(overwrite_data.officials[0].emails) != 'undefined' && overwrite_data.officials[0].emails.length > 0 && overwrite_data.officials[0].emails[0] != '' && overwrite_data.officials[0].overwrite_name == official.name) {
+																	//$('#log').val($('#log').val() + '\n' + overwrite_data.officials[0].name + ' has an email address on the overwrite file: ' + overwrite_data.officials[0].emails[0]);
+																	//console.log(overwrite_data.officials[0].emails[0]);
+																	no_contact = false;
+																} else if (overwrite_data.officials[0].name.toLowerCase() == 'vacant' && overwrite_data.officials[0].overwrite_name == official.name) {
+																	no_contact = false;
+																} else {
+																	//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address on the overwrite file.');
+																	//console.log(official.name + ' has no email at all! Checking bioID...');
+																	//
 																}
 															});
-													
-													
+															
+															
+																
 															if (no_contact) {
-																//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
-																//console.log(official.name + ' has no email or bioID!');
-																var output_ocdid = e[0];
-																
-																if (output_ocdid.includes('sldl')) {
-																	var output_level = 'House';
-																	var output_roles = 'legislatorLowerBody';
-																	var output_district_number = output_ocdid.match(/sldl:(.*)/)[1].toUpperCase();
-																} else if  (output_ocdid.includes('sldu')){
-																	var output_level = 'Senate';
-																	var output_roles = 'legislatorUpperBody';
-																	var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
-																}
-																
-																if (typeof(official.phones) != 'undefined' && official.phones.length > 0 && official.phones[0] != '') {
-																	var official_phone = official.phones[0];
+		console.log(official.name);
+																$.each(bioids, function(index, bioid) {
+																	if (typeof(bioid.ocd_id) != 'undefined') {
+																		if (bioid.ocd_id == e[0] && bioid.name == official.name) {
+																			no_contact = false;
+																		} else if (bioid.ocd_id == e[0]) {
+																			non_matching_bioid = true;
+																		}
+																	}
+																});
+														
+														
+																if (no_contact) {
+																	//$('#log').val($('#log').val() + '\n' + official.name + ' has NO email address OR bioID!');
+																	//console.log(official.name + ' has no email or bioID!');
+																	var output_ocdid = e[0];
+																	
+																	if (output_ocdid.includes('sldl')) {
+																		var output_level = 'House';
+																		var output_roles = 'legislatorLowerBody';
+																		var output_district_number = output_ocdid.match(/sldl:(.*)/)[1].toUpperCase();
+																	} else if  (output_ocdid.includes('sldu')){
+																		var output_level = 'Senate';
+																		var output_roles = 'legislatorUpperBody';
+																		var output_district_number = output_ocdid.match(/sldu:(.*)/)[1].toUpperCase();
+																	}
+																	
+																	if (typeof(official.phones) != 'undefined' && official.phones.length > 0 && official.phones[0] != '') {
+																		var official_phone = official.phones[0];
+																	} else {
+																		var official_phone = "";
+																	}
+																	
+																	var output_state_abbreviation = output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase();
+																	var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase() + ']').html();
+																	
+																	$('#results').val($('#results').val()
+																	+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
+																	+ '\n\n\ non-matching bioid is ' + non_matching_bioid + '\n'
+																	+ 'new override skeleton: \n'
+																	+ '{\n'
+																	+ '    "divisions": {\n'
+																	+ '      "' + output_ocdid + '": {\n'
+																	+ '        "name": "' + output_state_full + ' State ' + output_level + ' district ' + output_district_number + '",\n'
+																	+ '        "overwrite": "true",\n'
+																	+ '        "officeIndices": [\n'
+																	+ '          0\n'
+																	+ '        ]\n'
+																	+ '      }\n'
+																	+ '    },\n'
+																	+ '    "offices": [\n'
+																	+ '      {\n'
+																	+ '        "name": "' + output_state_abbreviation + ' State ' + output_level + ' District ' + output_district_number + '",\n'
+																	+ '        "divisionId": "' + output_ocdid + '",\n'
+																	+ '        "roles": [\n'
+																	+ '          "' + output_roles + '"\n'
+																	+ '        ],\n'
+																	+ '        "officialIndices": [\n'
+																	+ '          0\n'
+																	+ '        ]\n'
+																	+ '      }\n'
+																	+ '    ],\n'
+																	+ '    "officials": [\n'
+																	+ '      {\n'
+																	+ '        "name": "' + official.name + '",\n'
+																	+ '        "party": "' + official.party + '",\n'
+																	+ '        "overwrite_ocdid": "' + output_ocdid + '",\n'
+																	+ '        "overwrite_name": "' + official.name + '",\n'
+																	+ '        "emails": [\n'
+																	+ '          ""\n'
+																	+ '        ],\n'
+																	+ '        "phones": [\n'
+																	+ '          "' + official_phone + '"\n'
+																	+ '        ]\n'
+																	+ '      }\n'
+																	+ '    ]\n'
+																	+ '  }\n');
 																} else {
-																	var official_phone = "";
+																	//$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
+																	//console.log(official.name + ' has a bioID');
 																}
-																
-																var output_state_abbreviation = output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase();
-																var output_state_full = $('#ignore_states option[value=' + output_ocdid.match(/state:(.[a-z])/)[1].toUpperCase() + ']').html();
-																
-																$('#results').val($('#results').val()
-																+ '\n\n' + official.name + ' has NO email address OR bioID! \n ocdid: \n' + output_ocdid + '\n'
-																+ '\n\n\ non-matching bioid is ' + non_matching_bioid + '\n'
-																+ 'new override skeleton: \n'
-																+ '{\n'
-																+ '    "divisions": {\n'
-																+ '      "' + output_ocdid + '": {\n'
-																+ '        "name": "' + output_state_full + ' State ' + output_level + ' district ' + output_district_number + '",\n'
-																+ '        "overwrite": "true",\n'
-																+ '        "officeIndices": [\n'
-																+ '          0\n'
-																+ '        ]\n'
-																+ '      }\n'
-																+ '    },\n'
-																+ '    "offices": [\n'
-																+ '      {\n'
-																+ '        "name": "' + output_state_abbreviation + ' State ' + output_level + ' District ' + output_district_number + '",\n'
-																+ '        "divisionId": "' + output_ocdid + '",\n'
-																+ '        "roles": [\n'
-																+ '          "' + output_roles + '"\n'
-																+ '        ],\n'
-																+ '        "officialIndices": [\n'
-																+ '          0\n'
-																+ '        ]\n'
-																+ '      }\n'
-																+ '    ],\n'
-																+ '    "officials": [\n'
-																+ '      {\n'
-																+ '        "name": "' + official.name + '",\n'
-																+ '        "party": "' + official.party + '",\n'
-																+ '        "overwrite_ocdid": "' + output_ocdid + '",\n'
-																+ '        "overwrite_name": "' + official.name + '",\n'
-																+ '        "emails": [\n'
-																+ '          ""\n'
-																+ '        ],\n'
-																+ '        "phones": [\n'
-																+ '          "' + official_phone + '"\n'
-																+ '        ]\n'
-																+ '      }\n'
-																+ '    ]\n'
-																+ '  }\n');
-															} else {
-																//$('#log').val($('#log').val() + '\n' + official.name + ' has a bioID.');
-																//console.log(official.name + ' has a bioID');
+			
 															}
-		
 														}
-													}
+													});
+												}).fail(function(jqXHR, textStatus, errorThrown) {
+													console.log('google api load failed');
+													$('#log').val($('#log').val() + '\n' + 'google api load failed');
+													
+													console.log('jqXHR: ');
+													console.log(jqXHR);
+													$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
+													
+													console.log('textStatus: ' + textStatus);
+													$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
+													
+													console.log('errorThrown: ' + errorThrown);
+													$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
+													
+													$('#submit').val('run').attr('disabled',false).removeClass('disabled');
 												});
-											}).fail(function(jqXHR, textStatus, errorThrown) {
-												console.log('google api load failed');
-												$('#log').val($('#log').val() + '\n' + 'google api load failed');
-												
-												console.log('jqXHR: ');
-												console.log(jqXHR);
-												$('#log').val($('#log').val() + '\n' + 'see console for detailed error object');
-												
-												console.log('textStatus: ' + textStatus);
-												$('#log').val($('#log').val() + '\n' + 'textStatus: ' + textStatus);
-												
-												console.log('errorThrown: ' + errorThrown);
-												$('#log').val($('#log').val() + '\n' + 'errorThrown: ' + errorThrown);
-												
-												$('#submit').val('run').attr('disabled',false).removeClass('disabled');
-											});
+											}, (Math.random() * (60000 - 0) + 0));
 										}
 									});	
 								})

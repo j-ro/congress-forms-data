@@ -18555,42 +18555,42 @@
   ]
 },
 {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldu:1": {
-        "name": "New Hampshire State Senate district 1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State Senate District 1",
-        "divisionId": "ocd-division/country:us/state:nh/sldu:1",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Erin Hennessey",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldu:1",
-        "overwrite_name": "Erin Hennessey",
-        "emails": [
-          "Erin.Hennessey@leg.state.nh.us"
-        ],
-        "phones": [
-          "603.271.4151"
-        ]
-      }
-    ]
-  },
+"divisions":{
+"ocd-division/country:us/state:nh/sldu:1":{
+"name":"NewHampshireStateSenatedistrict1",
+"overwrite":"true",
+"officeIndices":[
+0
+]
+}
+},
+"offices":[
+{
+"name":"NHStateSenateDistrict1",
+"divisionId":"ocd-division/country:us/state:nh/sldu:1",
+"roles":[
+"legislatorUpperBody"
+],
+"officialIndices":[
+0
+]
+}
+],
+"officials":[
+{
+"name":"ErinHennessey",
+"party":"RepublicanParty",
+"overwrite_ocdid":"ocd-division/country:us/state:nh/sldu:1",
+"overwrite_name":"ErinHennessey",
+"emails":[
+"Erin.Hennessey@leg.state.nh.us"
+],
+"phones":[
+"603.271.4151"
+]
+}
+]
+},
   {
     "divisions": {
       "ocd-division/country:us/state:wi/sldu:30": {

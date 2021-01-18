@@ -320,6 +320,20 @@
 												$.getJSON('https://www.googleapis.com/civicinfo/v2/representatives/' + encodeURIComponent(e[0]) + '?key='+ $('#google_api_key').val() + query_string, function(data) {
 												}).done(function(data) {
 													$.each(data.officials, function(index, official) {
+														var official_index = index;
+														var wrong_office_level = true;
+														$.each(data.offices, function(office_index, office) {
+															if (
+																$('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_lower CSV' 
+																&& office.roles[0] == "legislatorLowerBody" 
+																&& office.officialIndices.includes(official_index)
+															) {
+																wrong_office_level = false;
+															};
+														});
+														if (wrong_office_level) {
+															return true;
+														}
 														var no_contact = true;
 														var non_matching_bioid = false;
 														//console.log(official.name);

@@ -330,6 +330,14 @@
 															) {
 																wrong_office_level = false;
 															};
+															
+															if (
+																$('#overwrite_file_select option:selected').html() == 'ocdids_statelevel_upper CSV' 
+																&& office.roles[0] == "legislatorUpperBody" 
+																&& office.officialIndices.includes(official_index)
+															) {
+																wrong_office_level = false;
+															};
 														});
 														if (wrong_office_level) {
 															return true;

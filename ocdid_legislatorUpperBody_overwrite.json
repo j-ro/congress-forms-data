@@ -331,5 +331,39 @@
 	]
  }
  ]
-}
+},
+{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca": {
+	   "name": "California",
+	   "overwrite": "true",
+	   "officeIndices": [
+		0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:ca",
+	   "levels": [
+		"country"
+	   ],
+	   "roles": [
+		"legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+		0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca",
+	   "overwrite_name": "Kamala D. Harris"
+	  }
+	 ]
+	}
 ]

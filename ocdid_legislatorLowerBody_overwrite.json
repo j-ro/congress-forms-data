@@ -2374,5 +2374,38 @@
  		]
 	  }
 	 ]
-	}
+	},
+	{
+		 "divisions": {
+		  "ocd-division/country:us/state:la/cd:2": {
+		   "name": "Louisiana's 2nd congressional district",
+		   "overwrite": "true",
+		   "officeIndices": [
+			0
+		   ]
+		  }
+		 },
+		 "offices": [
+		  {
+		   "name": "United States House of Representatives LA-02",
+		   "divisionId": "ocd-division/country:us/state:la/cd:2",
+		   "levels": [
+			"country"
+		   ],
+		   "roles": [
+			"legislatorLowerBody"
+		   ],
+		   "officialIndices": [
+			0
+		   ]
+		  }
+		 ],
+		 "officials": [
+		  {
+			 "name": "Vacant",
+			  "overwrite_ocdid": "ocd-division/country:us/state:la/cd:2",
+			  "overwrite_name": "Cedric Richmond"
+		  }
+		 ]
+		}
 ]

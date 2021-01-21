@@ -1245,6 +1245,80 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldu:b": {
+        "name": "Alaska State Senate district B",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State Senate District B",
+        "divisionId": "ocd-division/country:us/state:ak/sldu:b",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert H. Myers, Jr.",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:b",
+        "overwrite_name": "Robert H. Myers, Jr.",
+        "emails": [
+          "Senator.Robert.Myers@akleg.gov"
+        ],
+        "phones": [
+          "907-465-3719"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldu:n": {
+        "name": "Alaska State Senate district N",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State Senate District N",
+        "divisionId": "ocd-division/country:us/state:ak/sldu:n",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Roger Holland",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldu:n",
+        "overwrite_name": "Roger Holland",
+        "emails": [
+          "Senator.Roger.Holland@akleg.gov"
+        ],
+        "phones": [
+          "907-465-4843"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:ak/sldu:q": {
@@ -19745,6 +19819,450 @@
         ],
         "phones": [
           "605-773-3821"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:19": {
+        "name": "New Mexico State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:19",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregg William Schmedes",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:19",
+        "overwrite_name": "Gregg William Schmedes",
+        "emails": [
+          "gregg.schmedes@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 506-6725"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:35": {
+        "name": "New Mexico State Senate district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 35",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:35",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Crystal R Diamond",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:35",
+        "overwrite_name": "Crystal R Diamond",
+        "emails": [
+          "crystal.diamond@nmlegis.gov"
+        ],
+        "phones": [
+          "(575) 740-1539"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:41": {
+        "name": "New Mexico State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:41",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David M Gallegos",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:41",
+        "overwrite_name": "David M Gallegos",
+        "emails": [
+          "david.rsi@hotmail.com"
+        ],
+        "phones": [
+          "(575) 394-0099"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:13": {
+        "name": "New Mexico State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:13",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bill B O'Neill",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:13",
+        "overwrite_name": "Bill B Oneill",
+        "emails": [
+          "oneillsd13@billoneillfornm.com"
+        ],
+        "phones": [
+          "(505) 397-8838"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:20": {
+        "name": "New Mexico State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Martin E Hickey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:20",
+        "overwrite_name": "Martin E Hickey",
+        "emails": [
+          "martin.hickey@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8828"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:38": {
+        "name": "New Mexico State Senate district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 38",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:38",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carrie Hamblen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:38",
+        "overwrite_name": "Carrie Hamblen",
+        "emails": [
+          "carrie.hamblen@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8827"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:30": {
+        "name": "New Mexico State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:30",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joshua A Sanchez",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:30",
+        "overwrite_name": "Joshua A Sanchez",
+        "emails": [
+          "jas4nm@gmail.com"
+        ],
+        "phones": [
+          "(505) 864-7551"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:9": {
+        "name": "New Mexico State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:9",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brenda Grace McKenna",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:9",
+        "overwrite_name": "Brenda Grace McKenna",
+        "emails": [
+          "brenda.mckenna@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8834"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:10": {
+        "name": "New Mexico State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:10",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Katy M Duhigg",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:10",
+        "overwrite_name": "Katy M Duhigg",
+        "emails": [
+          "katy.duhigg@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8823"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:23": {
+        "name": "New Mexico State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:23",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Harold James Pope, Jr",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:23",
+        "overwrite_name": "Harold James Pope, Jr",
+        "emails": [
+          "harold.popejr@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8843"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:28": {
+        "name": "New Mexico State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:28",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Siah Correa Hemphill",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:28",
+        "overwrite_name": "Siah Correa Hemphill",
+        "emails": [
+          "siah.hemphill@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 397-8821"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:5": {
+        "name": "New Mexico State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:5",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Leo Jaramillo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:5",
+        "overwrite_name": "Leo Jaramillo",
+        "emails": [
+          "leo.jaramillo@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 620-0800"
         ]
       }
     ]

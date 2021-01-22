@@ -186,43 +186,6 @@
 },
 {
  "divisions": {
- "ocd-division/country:us/state:nm": {
-	"name": "New Mexico",
-	"overwrite": "true",
-	"officeIndices": [
-	 0
-	]
- }
- },
- "offices": [
- {
-	"name": "United States Senate",
-	"divisionId": "ocd-division/country:us/state:nm",
-	"levels": [
-	 "country"
-	],
-	"roles": [
-	 "legislatorUpperBody"
-	],
-	"officialIndices": [
-	 0
-	]
- }
- ],
- "officials": [
- {
-	"name": "Ben R. Luján",
-	"party": "Democratic",
-	"overwrite_ocdid": "ocd-division/country:us/state:nm",
-	"overwrite_name": "Ben R. Luján",
-	"phones": [
-		 "(202) 224-6621"
-	]
- }
- ]
-},
-{
- "divisions": {
  "ocd-division/country:us/state:tn": {
 	"name": "Tennessee",
 	"overwrite": "true",
@@ -331,39 +294,5 @@
 	]
  }
  ]
-},
-{
-	 "divisions": {
-	  "ocd-division/country:us/state:ca": {
-	   "name": "California",
-	   "overwrite": "true",
-	   "officeIndices": [
-		0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States Senate",
-	   "divisionId": "ocd-division/country:us/state:ca",
-	   "levels": [
-		"country"
-	   ],
-	   "roles": [
-		"legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-		0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ca",
-	   "overwrite_name": "Kamala D. Harris"
-	  }
-	 ]
-	}
+}
 ]

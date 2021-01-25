@@ -1035,6 +1035,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:9": {
+        "name": "Arkansas State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 9",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Howard Beaty",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:9",
+        "overwrite_name": "Howard Beaty",
+        "emails": [
+          "howard.beaty@arkansashouse.org"
+        ],
+        "phones": [
+          "(870) 304-6584"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ar/sldl:61": {
@@ -1294,6 +1331,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:40": {
+        "name": "Arkansas State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 40",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Ray",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:40",
+        "overwrite_name": "David Ray",
+        "emails": [
+          "david.ray@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 916-0286"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ar/sldl:47": {
@@ -1327,6 +1401,43 @@
         ],
         "phones": [
           "(501) 724-5326"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:31": {
+        "name": "Arkansas State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 31",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:31",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Keith Brooks",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:31",
+        "overwrite_name": "Keith Brooks",
+        "emails": [
+          "keith.brooks@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 744-6080"
         ]
       }
     ]
@@ -1401,6 +1512,43 @@
         ],
         "phones": [
           "(870) 538-4131"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:12": {
+        "name": "Arkansas State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 12",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Tollett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:12",
+        "overwrite_name": "David Tollett",
+        "emails": [
+          "david.tollett@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 683-3442"
         ]
       }
     ]
@@ -1516,7 +1664,44 @@
       }
     ]
   },
-  {
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:26": {
+        "name": "Arkansas State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 26",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rick McClure",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:26",
+        "overwrite_name": "Rick McClure",
+        "emails": [
+          "rick.mcclure@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 786-4186"
+        ]
+      }
+    ]
+  },
+	{
     "divisions": {
       "ocd-division/country:us/state:ar/sldl:28": {
         "name": "Arkansas State House district 28",
@@ -1540,19 +1725,56 @@
     ],
     "officials": [
       {
-        "name": "Jasen Kelly",
+        "name": "Tony Furman",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:28",
-        "overwrite_name": "Jasen Kelly",
+        "overwrite_name": "Tony Furman",
         "emails": [
-          "Jasen.Kelly@arkansashouse.org"
+          "tony.furman@arkansashouse.org"
         ],
-				"phones": [
-					"(501) 682-7771"
-		]
+        "phones": [
+          "(501) 909-1537"
+        ]
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ar/sldl:32": {
+	        "name": "Arkansas State House district 32",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "AR State House District 32",
+	        "divisionId": "ocd-division/country:us/state:ar/sldl:32",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Ashley Hudson",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:32",
+	        "overwrite_name": "Ashley Hudson",
+	        "emails": [
+	          "ashley.hudson@arkansashouse.org"
+	        ],
+	        "phones": [
+	          "(501) 658-4096"
+	        ]
+	      }
+	    ]
+	  },
 	{
 	    "divisions": {
 	      "ocd-division/country:us/state:ar/sldl:34": {
@@ -1739,6 +1961,43 @@
     ]
   },
 	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:53": {
+        "name": "Arkansas State House district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 53",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:53",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jon Milligan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:53",
+        "overwrite_name": "Jon Milligan",
+        "emails": [
+          "jonmilligan@ymail.com"
+        ],
+        "phones": [
+          "(870) 219-1261"
+        ]
+      }
+    ]
+  },
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ar/sldl:57": {
 	   "name": "Arkansas State House district 57",
@@ -1812,6 +2071,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ar/sldl:82": {
+	        "name": "Arkansas State House district 82",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "AR State House District 82",
+	        "divisionId": "ocd-division/country:us/state:ar/sldl:82",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Mark H. Berry",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:82",
+	        "overwrite_name": "Mark H. Berry",
+	        "emails": [
+	          "mark.berry@arkansashouse.org"
+	        ],
+	        "phones": [
+	          "(479) 462-2863"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:ar/sldl:83": {
@@ -1960,6 +2256,80 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:90": {
+        "name": "Arkansas State House district 90",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 90",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:90",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kendon Underwood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:90",
+        "overwrite_name": "Kendon Underwood",
+        "emails": [
+          "kendon.underwood@arkansashouse.org"
+        ],
+        "phones": [
+          "(479) 644-8461"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:91": {
+        "name": "Arkansas State House district 91",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 91",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:91",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Delia Haak",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:91",
+        "overwrite_name": "Delia Haak",
+        "emails": [
+          "delia.haak@arkansashouse.org"
+        ],
+        "phones": [
+          "(479) 238-4671"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ar/sldl:92": {
@@ -1993,6 +2363,80 @@
         ],
         "phones": [
           "(479) 787-6411"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:94": {
+        "name": "Arkansas State House district 94",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 94",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:94",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John P. Carr",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:94",
+        "overwrite_name": "John P. Carr",
+        "emails": [
+          "john.carr@arkansashouse.org"
+        ],
+        "phones": [
+          "(479) 619-5104"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ar/sldl:96": {
+        "name": "Arkansas State House district 96",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AR State House District 96",
+        "divisionId": "ocd-division/country:us/state:ar/sldl:96",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joshua Bryant",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldl:96",
+        "overwrite_name": "Joshua Bryant",
+        "emails": [
+          "joshua.bryant@arkansashouse.org"
+        ],
+        "phones": [
+          "(501) 500-2206"
         ]
       }
     ]
@@ -2476,6 +2920,487 @@
 	      }
 	    ]
 	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:7": {
+        "name": "Colorado State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 7",
+        "divisionId": "ocd-division/country:us/state:co/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer Bacon",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:7",
+        "overwrite_name": "Jennifer Bacon",
+        "emails": [
+          "jennifer.bacon.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2909"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:11": {
+        "name": "Colorado State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 11",
+        "divisionId": "ocd-division/country:us/state:co/sldl:11",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen McCormick",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:11",
+        "overwrite_name": "Karen McCormick",
+        "emails": [
+          "karen.mccormick.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2780"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:12": {
+        "name": "Colorado State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 12",
+        "divisionId": "ocd-division/country:us/state:co/sldl:12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tracey Bernett",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:12",
+        "overwrite_name": "Tracey Bernett",
+        "emails": [
+          "tracey.bernett.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2920"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:13": {
+        "name": "Colorado State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 13",
+        "divisionId": "ocd-division/country:us/state:co/sldl:13",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Judy Amabile",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:13",
+        "overwrite_name": "Judy Amabile",
+        "emails": [
+          "judy.amabile.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2578"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:16": {
+        "name": "Colorado State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 16",
+        "divisionId": "ocd-division/country:us/state:co/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andres G. Pico",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:16",
+        "overwrite_name": "Andres G. Pico",
+        "emails": [
+          "andres.pico.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2937"
+        ]
+      }
+    ]
+  },
+		{
+		    "divisions": {
+		      "ocd-division/country:us/state:co/sldl:21": {
+		        "name": "Colorado State House district 21",
+		        "overwrite": "true",
+		        "officeIndices": [
+		          0
+		        ]
+		      }
+		    },
+		    "offices": [
+		      {
+		        "name": "CO State House District 21",
+		        "divisionId": "ocd-division/country:us/state:co/sldl:21",
+		        "roles": [
+		          "legislatorLowerBody"
+		        ],
+		        "officialIndices": [
+		          0
+		        ]
+		      }
+		    ],
+		    "officials": [
+		      {
+		        "name": "Mary Bradfield",
+		        "party": "Republican Party",
+		        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:21",
+		        "overwrite_name": "Mary Bradfield",
+		        "emails": [
+		          "mary.bradfield.house@state.co.us"
+		        ],
+		        "phones": [
+		          "(303) 866-2946"
+		        ]
+		      }
+		    ]
+		  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:29": {
+        "name": "Colorado State House district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 29",
+        "divisionId": "ocd-division/country:us/state:co/sldl:29",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lindsey N. Daugherty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:29",
+        "overwrite_name": "Lindsey N. Daugherty",
+        "emails": [
+          "replindsey29@gmail.com"
+        ],
+        "phones": [
+          "(303) 866-2950"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:38": {
+        "name": "Colorado State House district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 38",
+        "divisionId": "ocd-division/country:us/state:co/sldl:38",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Ortiz",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:38",
+        "overwrite_name": "David Ortiz",
+        "emails": [
+          "David.Ortiz.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2953"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:40": {
+        "name": "Colorado State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 40",
+        "divisionId": "ocd-division/country:us/state:co/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Naquetta Ricks",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:40",
+        "overwrite_name": "Naquetta Ricks",
+        "emails": [
+          "Naquetta.Ricks.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2944"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:41": {
+        "name": "Colorado State House district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 41",
+        "divisionId": "ocd-division/country:us/state:co/sldl:41",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Iman Jodeh",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:41",
+        "overwrite_name": "Iman Jodeh",
+        "emails": [
+          "Iman.Jodeh.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2919"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:47": {
+        "name": "Colorado State House district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 47",
+        "divisionId": "ocd-division/country:us/state:co/sldl:47",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephanie Luck",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:47",
+        "overwrite_name": "Stephanie Luck",
+        "emails": [
+          "Stephanie.Luck.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2905"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:48": {
+        "name": "Colorado State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 48",
+        "divisionId": "ocd-division/country:us/state:co/sldl:48",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tonya Van Beber",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:48",
+        "overwrite_name": "Tonya Van Beber",
+        "emails": [
+          "Tonya.Van.Beber.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2943"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:49": {
+        "name": "Colorado State House district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 49",
+        "divisionId": "ocd-division/country:us/state:co/sldl:49",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Lynch",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:49",
+        "overwrite_name": "Mike Lynch",
+        "emails": [
+          "Mike.Lynch.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2907"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:co/sldl:57": {
@@ -2509,6 +3434,80 @@
         ],
         "phones": [
           "(303) 866-2949"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:60": {
+        "name": "Colorado State House district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 60",
+        "divisionId": "ocd-division/country:us/state:co/sldl:60",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ron Hanks",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:60",
+        "overwrite_name": "Ron Hanks",
+        "emails": [
+          "Ron.Hanks.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2747"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:63": {
+        "name": "Colorado State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 63",
+        "divisionId": "ocd-division/country:us/state:co/sldl:63",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Woog",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:63",
+        "overwrite_name": "Dan Woog",
+        "emails": [
+          "Dan.Woog.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2906"
         ]
       }
     ]
@@ -2877,6 +3876,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:3": {
+        "name": "South Dakota State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 3",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carl E. Perry",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:3",
+        "overwrite_name": "Carl E. Perry",
+        "emails": [
+          "Carl.Perry@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 262-0113"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldl:3": {
@@ -3136,6 +4172,80 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:9": {
+        "name": "South Dakota State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 9",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rhonda Milstead",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:9",
+        "overwrite_name": "Rhonda Milstead",
+        "emails": [
+          "Rhonda.Milstead@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 376-3149"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:9": {
+        "name": "South Dakota State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 9",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bethany Soye",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:9",
+        "overwrite_name": "Bethany Soye",
+        "emails": [
+          "Bethany.Soye@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 773-3851"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldl:9": {
@@ -3247,6 +4357,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:11": {
+        "name": "South Dakota State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 11",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:11",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Willadsen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:11",
+        "overwrite_name": "Mark Willadsen",
+        "emails": [
+          "Mark.Willadsen@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 773-3851"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldl:11": {
@@ -3280,6 +4427,43 @@
         ],
         "phones": [
           "605-695-0391"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:12": {
+        "name": "South Dakota State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 12",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg Jamison",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:12",
+        "overwrite_name": "Greg Jamison",
+        "emails": [
+          "Greg.Jamison@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 310-1930"
         ]
       }
     ]
@@ -3506,6 +4690,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:16": {
+        "name": "South Dakota State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 16",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin D Jensen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:16",
+        "overwrite_name": "Kevin D Jensen",
+        "emails": [
+          "Kevin.Jensen@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 366-6947"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldl:16": {
@@ -3613,6 +4834,43 @@
         ],
         "phones": [
           "605-238-5321"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:18": {
+        "name": "South Dakota State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 18",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Stevens",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:18",
+        "overwrite_name": "Mike Stevens",
+        "emails": [
+          "Mike.Stevens@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 661-0057"
         ]
       }
     ]
@@ -4061,6 +5319,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:27": {
+        "name": "South Dakota State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 27",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:27",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Liz May",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:27",
+        "overwrite_name": "Liz May",
+        "emails": [
+          "Liz.May@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 773-3851"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:sd/sldl:27": {
@@ -4131,6 +5426,43 @@
         ],
         "phones": [
           "605-877-1238"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:sd/sldl:29": {
+        "name": "South Dakota State House district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SD State House District 29",
+        "divisionId": "ocd-division/country:us/state:sd/sldl:29",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dean Wink",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldl:29",
+        "overwrite_name": "Dean Wink",
+        "emails": [
+          "Dean.Wink@sdlegislature.gov"
+        ],
+        "phones": [
+          "(605) 773-3851"
         ]
       }
     ]
@@ -4395,6 +5727,117 @@
     ]
   },
 	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:9": {
+        "name": "Illinois State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 9",
+        "divisionId": "ocd-division/country:us/state:il/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lakesia Collins",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:9",
+        "overwrite_name": "Lakesia Collins",
+        "emails": [
+          "office@lakesiacollins.com"
+        ],
+        "phones": [
+          "(312) 298-9181"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:12": {
+        "name": "Illinois State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 12",
+        "divisionId": "ocd-division/country:us/state:il/sldl:12",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Margaret Croke",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:12",
+        "overwrite_name": "Margaret Croke",
+        "emails": [
+          "info@repcroke.com"
+        ],
+        "phones": [
+          "(217) 782-8223"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:16": {
+        "name": "Illinois State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 16",
+        "divisionId": "ocd-division/country:us/state:il/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Denyse Wang Stoneback",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:16",
+        "overwrite_name": "Denyse Wang Stoneback",
+        "emails": [
+          "info@denyseforstaterep.com"
+        ],
+        "phones": [
+          "(847) 673-7779"
+        ]
+      }
+    ]
+  },
+	{
 	    "divisions": {
 	      "ocd-division/country:us/state:il/sldl:17": {
 	        "name": "Illinois State House district 17",
@@ -4468,6 +5911,80 @@
 	      }
 	    ]
 	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:37": {
+        "name": "Illinois State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 37",
+        "divisionId": "ocd-division/country:us/state:il/sldl:37",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tim Ozinga",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:37",
+        "overwrite_name": "Tim Ozinga",
+        "emails": [
+          "Info@ozingaforillinois.com"
+        ],
+        "phones": [
+          "(708) 694-2032"
+        ]
+      }
+    ]
+  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:41": {
+        "name": "Illinois State House district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 41",
+        "divisionId": "ocd-division/country:us/state:il/sldl:41",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Janet Yang Rohr",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:41",
+        "overwrite_name": "Janet Yang Rohr",
+        "emails": [
+          "janet@janetforillinois.com"
+        ],
+        "phones": [
+          "(630) 225-7753"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:42": {
@@ -4501,6 +6018,154 @@
         ],
         "phones": [
           "(331) 218-4182"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:45": {
+        "name": "Illinois State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 45",
+        "divisionId": "ocd-division/country:us/state:il/sldl:45",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Seth Lewis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:45",
+        "overwrite_name": "Seth Lewis",
+        "emails": [
+          "seth@votesethlewis.com"
+        ],
+        "phones": [
+          "(217) 782-2000 "
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:49": {
+        "name": "Illinois State House district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 49",
+        "divisionId": "ocd-division/country:us/state:il/sldl:49",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maura Hirschauer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:49",
+        "overwrite_name": "Maura Hirschauer",
+        "emails": [
+          "hello@votemaura.com"
+        ],
+        "phones": [
+          "(217) 782-1653"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:51": {
+        "name": "Illinois State House district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 51",
+        "divisionId": "ocd-division/country:us/state:il/sldl:51",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris Bos",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:51",
+        "overwrite_name": "Chris Bos",
+        "emails": [
+          "chris@chrisbos.us"
+        ],
+        "phones": [
+          "(847) 438-7823"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:52": {
+        "name": "Illinois State House district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 52",
+        "divisionId": "ocd-division/country:us/state:il/sldl:52",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Martin McLaughlin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:52",
+        "overwrite_name": "Martin McLaughlin",
+        "emails": [
+          "marty@martyforillinois.com"
+        ],
+        "phones": [
+          "(217) 782-3944"
         ]
       }
     ]
@@ -4612,6 +6277,80 @@
         ],
         "phones": [
           "(217) 782-1717"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:66": {
+        "name": "Illinois State House district 66",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 66",
+        "divisionId": "ocd-division/country:us/state:il/sldl:66",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Suzanne M Ness",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:66",
+        "overwrite_name": "Suzanne M Ness",
+        "emails": [
+          "vote4suzanneness@gmail.com"
+        ],
+        "phones": [
+          "(224) 253-0823"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:68": {
+        "name": "Illinois State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 68",
+        "divisionId": "ocd-division/country:us/state:il/sldl:68",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dave Vella",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:68",
+        "overwrite_name": "Dave Vella",
+        "emails": [
+          "electdavevella@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-3944"
         ]
       }
     ]
@@ -4810,6 +6549,43 @@
 			"phones": ["(630) 605-0595"]
 		}]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:85": {
+        "name": "Illinois State House district 85",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 85",
+        "divisionId": "ocd-division/country:us/state:il/sldl:85",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dagmara \"Dee\" Avelar",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:85",
+        "overwrite_name": "Dagmara \"Dee\" Avelar",
+        "emails": [
+          "votedee85@gmail.com"
+        ],
+        "phones": [
+          "(331) 305-4525"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:il/sldl:89": {
@@ -4846,10 +6622,11 @@
         ]
       }
     ]
-  }, {
+  },
+	{
     "divisions": {
-      "ocd-division/country:us/state:il/sldl:9": {
-        "name": "Illinois State House district 9",
+      "ocd-division/country:us/state:il/sldl:91": {
+        "name": "Illinois State House district 91",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -4858,8 +6635,8 @@
     },
     "offices": [
       {
-        "name": "IL State House District 9",
-        "divisionId": "ocd-division/country:us/state:il/sldl:9",
+        "name": "IL State House District 91",
+        "divisionId": "ocd-division/country:us/state:il/sldl:91",
         "roles": [
           "legislatorLowerBody"
         ],
@@ -4870,15 +6647,15 @@
     ],
     "officials": [
       {
-        "name": "Lakesia Collins",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:9",
-        "overwrite_name": "Arthur Turner",
+        "name": "Mark A. Luft",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:91",
+        "overwrite_name": "Mark A. Luft",
         "emails": [
-          "office@lakesiacollins.com"
+          "luftforrep@gmail.com"
         ],
         "phones": [
-          "(312) 298-9181"
+          "(309) 264-5517 "
         ]
       }
     ]
@@ -4994,7 +6771,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:il/sldl:109": {
         "name": "Illinois State House district 109",
@@ -5018,15 +6795,15 @@
     ],
     "officials": [
       {
-        "name": "Darren Bailey",
+        "name": "Adam M Niemerg",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:109",
-        "overwrite_name": "Darren Bailey",
+        "overwrite_name": "Adam M Niemerg",
         "emails": [
-          "Bailey@ilhousegop.org"
+          "adam@niemergforstaterep.com"
         ],
         "phones": [
-          "(217) 782-2087"
+          "(217) 663-2207"
         ]
       }
     ]
@@ -5064,6 +6841,117 @@
         ],
         "phones": [
           "(217) 558-1040"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:111": {
+        "name": "Illinois State House district 111",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 111",
+        "divisionId": "ocd-division/country:us/state:il/sldl:111",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Amy Elik",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:111",
+        "overwrite_name": "Amy Elik",
+        "emails": [
+          "elikforrep@gmail.com"
+        ],
+        "phones": [
+          "(618) 372-4730"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:115": {
+        "name": "Illinois State House district 115",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 115",
+        "divisionId": "ocd-division/country:us/state:il/sldl:115",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Jacobs",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:115",
+        "overwrite_name": "Paul Jacobs",
+        "emails": [
+          "jacobs@ilhousegop.org"
+        ],
+        "phones": [
+          "(618) 534-3250 "
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:116": {
+        "name": "Illinois State House district 116",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 116",
+        "divisionId": "ocd-division/country:us/state:il/sldl:116",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Friess",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:116",
+        "overwrite_name": "David Friess",
+        "emails": [
+          "votefriess@gmail.com"
+        ],
+        "phones": [
+          "(618) 282-7284"
         ]
       }
     ]
@@ -8320,6 +10208,43 @@
         ],
         "phones": [
           "(406) 640-3362"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:mt/sldl:63": {
+        "name": "Montana State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State House District 63",
+        "divisionId": "ocd-division/country:us/state:mt/sldl:63",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Alice Buckley",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldl:63",
+        "overwrite_name": "Alice Buckley",
+        "emails": [
+          "aliceformontana@gmail.com"
+        ],
+        "phones": [
+          "(406) 404-0891"
         ]
       }
     ]
@@ -12090,6 +14015,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:2": {
+        "name": "Texas State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 2",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:2",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bryan Slaton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:2",
+        "overwrite_name": "Bryan Slaton",
+        "emails": [
+          "bryan@bryanslaton.com"
+        ],
+        "phones": [
+          "(512) 463-0880"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:4": {
@@ -12160,6 +14122,43 @@
         ],
         "phones": [
           "(800) 643-7026"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:10": {
+        "name": "Texas State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 10",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jake Ellzey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:10",
+        "overwrite_name": "Jake Ellzey",
+        "emails": [
+          "jake@ellzeyfortexas.com"
+        ],
+        "phones": [
+          "(512) 463-0516"
         ]
       }
     ]
@@ -12271,6 +14270,80 @@
         ],
         "phones": [
           "(512) 463-0502"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:25": {
+        "name": "Texas State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 25",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:25",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cody Thane Vasut",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:25",
+        "overwrite_name": "Cody Thane Vasut",
+        "emails": [
+          "cody@votevasut.com"
+        ],
+        "phones": [
+          "(979) 922-5156"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:26": {
+        "name": "Texas State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 26",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacey Jetton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:26",
+        "overwrite_name": "Jacey Jetton",
+        "emails": [
+          "jacey@jaceyjetton.com"
+        ],
+        "phones": [
+          "(512) 463-0710"
         ]
       }
     ]
@@ -12534,6 +14607,80 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldl:59": {
+	        "name": "Texas State House district 59",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State House District 59",
+	        "divisionId": "ocd-division/country:us/state:tx/sldl:59",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Shelby Slawson",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:59",
+	        "overwrite_name": "Shelby Slawson",
+	        "emails": [
+	          "shelby.slawson@house.texas.gov"
+	        ],
+	        "phones": [
+	          "(512) 463-0628"
+	        ]
+	      }
+	    ]
+	  },
+		{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldl:60": {
+	        "name": "Texas State House district 60",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State House District 60",
+	        "divisionId": "ocd-division/country:us/state:tx/sldl:60",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Glenn Rogers",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:60",
+	        "overwrite_name": "Glenn Rogers",
+	        "emails": [
+	          "glenn.rogers@house.texas.gov"
+	        ],
+	        "phones": [
+	          "(512) 463-0656"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:62": {
@@ -12608,6 +14755,80 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:74": {
+        "name": "Texas State House district 74",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 74",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:74",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eddie Morales",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:74",
+        "overwrite_name": "Eddie Morales",
+        "emails": [
+          "campaign@moralesfortexas.com"
+        ],
+        "phones": [
+          "(512) 463-0566"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:76": {
+        "name": "Texas State House district 76",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 76",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:76",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Claudia Ordaz Perez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:76",
+        "overwrite_name": "Claudia Ordaz Perez",
+        "emails": [
+          "claudiaordazperez@gmail.com"
+        ],
+        "phones": [
+          "(512) 463-0622"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:89": {
@@ -12646,42 +14867,79 @@
     ]
   },
 	{
-	    "divisions": {
-	      "ocd-division/country:us/state:tx/sldl:100": {
-	        "name": "Texas State House district 100",
-	        "overwrite": "true",
-	        "officeIndices": [
-	          0
-	        ]
-	      }
-	    },
-	    "offices": [
-	      {
-	        "name": "TX State House District 100",
-	        "divisionId": "ocd-division/country:us/state:tx/sldl:100",
-	        "roles": [
-	          "legislatorLowerBody"
-	        ],
-	        "officialIndices": [
-	          0
-	        ]
-	      }
-	    ],
-	    "officials": [
-	      {
-	        "name": "Lorraine Birabil",
-	        "party": "Democratic Party",
-	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:100",
-	        "overwrite_name": "Lorraine Birabil",
-	        "emails": [
-	          "Team@LorraineForTexas.com"
-	        ],
-	        "phones": [
-	          "(214) 565-5663"
-	        ]
-	      }
-	    ]
-	  },
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:92": {
+        "name": "Texas State House district 92",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 92",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:92",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Cason",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:92",
+        "overwrite_name": "Jeff Cason",
+        "emails": [
+          "jeff.cason@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0522"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:100": {
+        "name": "Texas State House district 100",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 100",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:100",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jasmine Felicia Crockett",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:100",
+        "overwrite_name": "Jasmine Felicia Crockett",
+        "emails": [
+          "jasminefor100@gmail.com"
+        ],
+        "phones": [
+          "(512) 463-0586"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:102": {
@@ -13052,6 +15310,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:119": {
+        "name": "Texas State House district 119",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 119",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:119",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elizabeth \"Liz\" Campos",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:119",
+        "overwrite_name": "Elizabeth \"Liz\" Campos",
+        "emails": [
+          "liz@lizcampos.com"
+        ],
+        "phones": [
+          "(210) 610-9300"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:121": {
@@ -13126,6 +15421,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:134": {
+        "name": "Texas State House district 134",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 134",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:134",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ann Johnson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:134",
+        "overwrite_name": "Ann Johnson",
+        "emails": [
+          "campaign@annjohnson.com"
+        ],
+        "phones": [
+          "(713) 714-7914"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:135": {
@@ -13162,44 +15494,43 @@
         ]
       }
     ]
+  },{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:148": {
+        "name": "Texas State House district 148",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 148",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:148",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Penny Morales Shaw",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:148",
+        "overwrite_name": "Penny Morales Shaw",
+        "emails": [
+          "pennyshawhtx@gmail.com"
+        ],
+        "phones": [
+          "(512) 463-0620"
+        ]
+      }
+    ]
   },
-	{
-	    "divisions": {
-	      "ocd-division/country:us/state:tx/sldl:148": {
-	        "name": "Texas State House district 148",
-	        "overwrite": "true",
-	        "officeIndices": [
-	          0
-	        ]
-	      }
-	    },
-	    "offices": [
-	      {
-	        "name": "TX State House District 148",
-	        "divisionId": "ocd-division/country:us/state:tx/sldl:148",
-	        "roles": [
-	          "legislatorLowerBody"
-	        ],
-	        "officialIndices": [
-	          0
-	        ]
-	      }
-	    ],
-	    "officials": [
-	      {
-	        "name": "Anna Eastman",
-	        "party": "Democratic Party",
-	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:148",
-	        "overwrite_name": "Anna Eastman",
-	        "emails": [
-	          "anna.eastman@house.texas.gov"
-	        ],
-	        "phones": [
-	          "(512) 463-0620"
-	        ]
-	      }
-	    ]
-	  },
   {
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:132": {
@@ -13270,6 +15601,43 @@
         ],
         "phones": [
           "(512) 463-0696"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:138": {
+        "name": "Texas State House district 138",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 138",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:138",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lacey Hull",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:138",
+        "overwrite_name": "Lacey Hull",
+        "emails": [
+          "campaign@laceyhull.com"
+        ],
+        "phones": [
+          "(512) 463-0727"
         ]
       }
     ]
@@ -26798,6 +29166,191 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:3": {
+        "name": "Alaska State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 3",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Glenn M. \"Mike\" Prax",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:3",
+        "overwrite_name": "Glenn M. \"Mike\" Prax",
+        "emails": [
+          "Representative.Mike.Prax@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4797"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:6": {
+        "name": "Alaska State House district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 6",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:6",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Cronk",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:6",
+        "overwrite_name": "Mike Cronk",
+        "emails": [
+          "Representative.Mike.Cronk@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4527"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:7": {
+        "name": "Alaska State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 7",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christopher Kurka",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:7",
+        "overwrite_name": "Christopher Kurka",
+        "emails": [
+          "Representative.Christopher.Kurka@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4833"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:13": {
+        "name": "Alaska State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 13",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:13",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ken McCarty",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:13",
+        "overwrite_name": "Ken McCarty",
+        "emails": [
+          "Representative.Ken.McCarty@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-3783"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:15": {
+        "name": "Alaska State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 15",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:15",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Nelson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:15",
+        "overwrite_name": "David Nelson",
+        "emails": [
+          "Representative.David.Nelson@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4998"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ak/sldl:20": {
@@ -26831,6 +29384,80 @@
         ],
         "phones": [
           "(907) 269-0106"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:24": {
+        "name": "Alaska State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 24",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:24",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas W. \"Tom\" McKay",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:24",
+        "overwrite_name": "Thomas W. \"Tom\" McKay",
+        "emails": [
+          "Representative.Tom.McKay@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4993"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:27": {
+        "name": "Alaska State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 27",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:27",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Liz Snyder",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:27",
+        "overwrite_name": "Liz Snyder",
+        "emails": [
+          "Representative.Liz.Snyder@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-3438"
         ]
       }
     ]
@@ -26946,6 +29573,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:30": {
+        "name": "Alaska State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 30",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:30",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ronald D. \"Ron\" Gillham",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:30",
+        "overwrite_name": "Ronald D. \"Ron\" Gillham",
+        "emails": [
+          "Representative.Ronald.Gillham@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-2693"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ak/sldl:34": {
@@ -26979,6 +29643,43 @@
         ],
         "phones": [
           "(907) 465-3744"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:28": {
+        "name": "Alaska State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 28",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James D. Kaufman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:28",
+        "overwrite_name": "James D. Kaufman",
+        "emails": [
+          ""
+        ],
+        "phones": [
+          "(907) 465-4949"
         ]
       }
     ]
@@ -27127,6 +29828,43 @@
         ],
         "phones": [
           "(907) 465-4942"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:1": {
+        "name": "Arizona State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 1",
+        "divisionId": "ocd-division/country:us/state:az/sldl:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Judy Burges",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:1",
+        "overwrite_name": "Judy Burges",
+        "emails": [
+          "JBurges@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3256"
         ]
       }
     ]
@@ -28981,7 +31719,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:ak/sldl:40": {
         "name": "Alaska State House district 40",
@@ -29005,12 +31743,12 @@
     ],
     "officials": [
       {
-        "name": "John Agnaqluk Lincoln",
-        "party": "Democratic",
+        "name": "Josiah \"Aullaqsruaq\" Patkotak",
+        "party": "Unaffiliated",
         "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:40",
-        "overwrite_name": "John Agnaqluk Lincoln",
+        "overwrite_name": "Josiah \"Aullaqsruaq\" Patkotak",
         "emails": [
-          "Representative.John.Lincoln@akleg.gov"
+          "Representative.Josiah.Patkotak@akleg.gov"
         ],
         "phones": [
           "(907) 465-3473"
@@ -33939,6 +36677,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:3": {
+        "name": "Iowa State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 3",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dennis J. Bush",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:3",
+        "overwrite_name": "Dennis J. Bush",
+        "emails": [
+          "Dennis.Bush@legis.iowa.gov"
+        ],
+        "phones": [
+          "(712) 225-2403"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:5": {
@@ -34013,6 +36788,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:7": {
+        "name": "Iowa State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 7",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Henry Stone",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:7",
+        "overwrite_name": "Henry Stone",
+        "emails": [
+          "Henry.Stone@legis.iowa.gov"
+        ],
+        "phones": [
+          "(702) 533-0614"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:9": {
@@ -34050,10 +36862,10 @@
       }
     ]
   },
-   {
+	{
     "divisions": {
-      "ocd-division/country:us/state:ia/sldl:19": {
-        "name": "Iowa State House district 19",
+      "ocd-division/country:us/state:ia/sldl:14": {
+        "name": "Iowa State House district 14",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -34062,8 +36874,8 @@
     },
     "offices": [
       {
-        "name": "IA State House District 19",
-        "divisionId": "ocd-division/country:us/state:ia/sldl:19",
+        "name": "IA State House District 14",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:14",
         "roles": [
           "legislatorLowerBody"
         ],
@@ -34074,19 +36886,93 @@
     ],
     "officials": [
       {
-        "name": "Chris Hagenow",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:19",
-        "overwrite_name": "Chris Hagenow",
+        "name": "Steve Hansen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:14",
+        "overwrite_name": "Steve Hansen",
         "emails": [
-          "Chris.Hagenow@legis.iowa.gov"
+          "steve.hansen@legis.iowa.gov"
         ],
         "phones": [
-          "(515) 281-3221"
+          "(515) 281-5591"
         ]
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:16": {
+        "name": "Iowa State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 16",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brent Siegrist",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:16",
+        "overwrite_name": "Brent Siegrist",
+        "emails": [
+          "Brent.Siegrist@legis.iowa.gov"
+        ],
+        "phones": [
+          "(712) 256-3826"
+        ]
+      }
+    ]
+  },
+	{
+	 "divisions": {
+		 "ocd-division/country:us/state:ia/sldl:19": {
+			 "name": "Iowa State House district 19",
+			 "overwrite": "true",
+			 "officeIndices": [
+				 0
+			 ]
+		 }
+	 },
+	 "offices": [
+		 {
+			 "name": "IA State House District 19",
+			 "divisionId": "ocd-division/country:us/state:ia/sldl:19",
+			 "roles": [
+				 "legislatorLowerBody"
+			 ],
+			 "officialIndices": [
+				 0
+			 ]
+		 }
+	 ],
+	 "officials": [
+		 {
+			 "name": "Carter Nordman",
+			 "party": "Republican Party",
+			 "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:19",
+			 "overwrite_name": "Carter Nordman",
+			 "emails": [
+				 "Carter.Nordman@legis.iowa.gov"
+			 ],
+			 "phones": [
+				 "(515) 480-7837"
+			 ]
+		 }
+	 ]
+ },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:20": {
@@ -34120,6 +37006,43 @@
         ],
         "phones": [
           "(515) 281-3221"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:26": {
+        "name": "Iowa State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 26",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brooke Boden",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:26",
+        "overwrite_name": "Brooke Boden",
+        "emails": [
+          "Brooke.Boden@legis.iowa.gov"
+        ],
+        "phones": [
+          "(515) 971-7156"
         ]
       }
     ]
@@ -34198,7 +37121,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:38": {
         "name": "Iowa State House district 38",
@@ -34222,15 +37145,15 @@
     ],
     "officials": [
       {
-        "name": "Heather Matson",
-        "party": "Democratic Party",
+        "name": "Garrett Gobble",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:38",
-        "overwrite_name": "Heather Matson",
+        "overwrite_name": "Garrett Gobble",
         "emails": [
-          "Heather.Matson@legis.iowa.gov"
+          "Garrett.Gobble@legis.iowa.gov"
         ],
         "phones": [
-          "(515) 281-3221"
+          "(319) 470-4027"
         ]
       }
     ]
@@ -34268,6 +37191,43 @@
         ],
         "phones": [
           "(515) 281-3221"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:39": {
+        "name": "Iowa State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 39",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:39",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eddie Andrews",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:39",
+        "overwrite_name": "Eddie Andrews",
+        "emails": [
+          "Eddie.Andrews@legis.iowa.gov"
+        ],
+        "phones": [
+          "(515) 800-4692"
         ]
       }
     ]
@@ -34420,6 +37380,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:54": {
+        "name": "Iowa State House district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 54",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:54",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shannon Latham",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:54",
+        "overwrite_name": "Shannon Latham",
+        "emails": [
+          "Shannon.Latham@legis.iowa.gov"
+        ],
+        "phones": [
+          "(515) 371-0450"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:56": {
@@ -34457,6 +37454,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:58": {
+        "name": "Iowa State House district 58",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 58",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:58",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven P. Bradley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:58",
+        "overwrite_name": "Steven P. Bradley",
+        "emails": [
+          "Steven.Bradley@legis.iowa.gov"
+        ],
+        "phones": [
+          "(563) 590-0845"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:60": {
@@ -34490,6 +37524,80 @@
         ],
         "phones": [
           "(515) 281-3221"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:64": {
+        "name": "Iowa State House district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 64",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:64",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chad Ingels",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:64",
+        "overwrite_name": "Chad Ingels",
+        "emails": [
+          "Chad.Ingels@legis.iowa.gov"
+        ],
+        "phones": [
+          "(563) 920-5899"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:67": {
+        "name": "Iowa State House district 67",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 67",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:67",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric Gjerde",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:67",
+        "overwrite_name": "Eric Gjerde",
+        "emails": [
+          "Eric.Gjerde@legis.iowa.gov"
+        ],
+        "phones": [
+          "(319) 320-9384"
         ]
       }
     ]
@@ -34564,6 +37672,43 @@
         ],
         "phones": [
           "(515) 281-3221"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:71": {
+        "name": "Iowa State House district 71",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 71",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:71",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sue Cahill",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:71",
+        "overwrite_name": "Sue Cahill",
+        "emails": [
+          "Sue.Cahill@legis.iowa.gov"
+        ],
+        "phones": [
+          "(641) 485-0608"
         ]
       }
     ]
@@ -34679,6 +37824,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:81": {
+        "name": "Iowa State House district 81",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 81",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:81",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cherielynn Westrich",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:81",
+        "overwrite_name": "Cherielynn Westrich",
+        "emails": [
+          "Cherielynn.Westrich@legis.iowa.gov"
+        ],
+        "phones": [
+          "(641) 777-0174"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:82": {
@@ -34716,7 +37898,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:ia/sldl:83": {
         "name": "Iowa State House district 83",
@@ -34740,15 +37922,15 @@
     ],
     "officials": [
       {
-        "name": "Jeff Kurtz",
-        "party": "Democratic Party",
+        "name": "Martin L. Graber",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:83",
-        "overwrite_name": "Jeff Kurtz",
+        "overwrite_name": "Martin L. Graber",
         "emails": [
-          "Jeff.Kurtz@legis.iowa.gov"
+          "Martin.Graber@legis.iowa.gov"
         ],
         "phones": [
-          "(515) 281-3221"
+          "(319) 372-1896"
         ]
       }
     ]
@@ -34786,6 +37968,117 @@
         ],
         "phones": [
           "(515) 281-3221"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:85": {
+        "name": "Iowa State House district 85",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 85",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:85",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christina Bohannan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:85",
+        "overwrite_name": "Christina Bohannan",
+        "emails": [
+          "Christina.Bohannan@legis.iowa.gov"
+        ],
+        "phones": [
+          "(319) 321-5823"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:91": {
+        "name": "Iowa State House district 91",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 91",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:91",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Cisneros",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:91",
+        "overwrite_name": "Mark Cisneros",
+        "emails": [
+          "Mark.Cisneros@legis.iowa.gov"
+        ],
+        "phones": [
+          "(563) 506-3673"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldl:95": {
+        "name": "Iowa State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State House District 95",
+        "divisionId": "ocd-division/country:us/state:ia/sldl:95",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charlie McClintock",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldl:95",
+        "overwrite_name": "Charlie McClintock",
+        "emails": [
+          "Charlie.McClintock@legis.iowa.gov"
+        ],
+        "phones": [
+          "(319) 842-2732"
         ]
       }
     ]
@@ -36677,7 +39970,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:1": {
         "name": "Georgia State House district 1",
@@ -36701,15 +39994,15 @@
     ],
     "officials": [
       {
-        "name": "Colton Moore",
+        "name": "Mike Cameron",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:1",
-        "overwrite_name": "Colton Moore",
+        "overwrite_name": "Mike Cameron",
         "emails": [
-          "colton@coltonmoore.com"
+          "mike.cameron@house.ga.gov"
         ],
         "phones": [
-          "404.656.0325"
+          "(404) 656-0188"
         ]
       }
     ]
@@ -36744,6 +40037,117 @@
         "overwrite_name": "Matt Barton",
         "emails": [
           "matt.barton@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0325"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:8": {
+        "name": "Georgia State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 8",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stan Gunter",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:8",
+        "overwrite_name": "Stan Gunter",
+        "emails": [
+          "stan.gunter@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0325"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:9": {
+        "name": "Georgia State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 9",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Will Wade",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:9",
+        "overwrite_name": "Will Wade",
+        "emails": [
+          "will.wade@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0188"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:10": {
+        "name": "Georgia State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 10",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Victor E. Anderson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:10",
+        "overwrite_name": "Victor E. Anderson",
+        "emails": [
+          "victor.anderson@house.ga.gov"
         ],
         "phones": [
           "(404) 656-0325"
@@ -36862,6 +40266,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:18": {
+        "name": "Georgia State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 18",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tyler Paul Smith",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:18",
+        "overwrite_name": "Tyler Paul Smith",
+        "emails": [
+          "tyler.smith@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 657-1803"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:19": {
@@ -36899,6 +40340,117 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:20": {
+        "name": "Georgia State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 20",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:20",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charlice Byrd",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:20",
+        "overwrite_name": "Charlice Byrd",
+        "emails": [
+          "charlice.byrd@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0213"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:21": {
+        "name": "Georgia State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 21",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:21",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brad Thomas",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:21",
+        "overwrite_name": "Brad Thomas",
+        "emails": [
+          "brad.thomas@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0152"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ga/sldl:26": {
+	        "name": "Georgia State House district 26",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "GA State House District 26",
+	        "divisionId": "ocd-division/country:us/state:ga/sldl:26",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Lauren W. Mcdonald, III",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:26",
+	        "overwrite_name": "Lauren W. Mcdonald, III",
+	        "emails": [
+	          "lmcdonald@psc.state.ga.us"
+	        ],
+	        "phones": [
+	          "(404) 656-4501"
+	        ]
+	      }
+	    ]
+	  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:28": {
@@ -36926,6 +40478,43 @@
         "name": "Vacant",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:28",
         "overwrite_name": "Chris Erwin"
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:33": {
+        "name": "Georgia State House district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 33",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:33",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rob Leverett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:33",
+        "overwrite_name": "Rob Leverett",
+        "emails": [
+          "rob.leverett@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0188"
+        ]
       }
     ]
   },
@@ -37189,6 +40778,117 @@
     ]
   },
 	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:52": {
+        "name": "Georgia State House district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 52",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:52",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shea Roberts",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:52",
+        "overwrite_name": "Shea Roberts",
+        "emails": [
+          "shea.roberts@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0220"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:57": {
+        "name": "Georgia State House district 57",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 57",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:57",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stacey Evans",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:57",
+        "overwrite_name": "Stacey Evans",
+        "emails": [
+          "stacey.evans@house.ga.gov"
+        ],
+        "phones": [
+          "(770) 710-4087"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:65": {
+        "name": "Georgia State House district 65",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 65",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:65",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mandisha A. Thomas",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:65",
+        "overwrite_name": "Mandisha A. Thomas",
+        "emails": [
+          "mandisha.thomas@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-6372"
+        ]
+      }
+    ]
+  },
+	{
 	    "divisions": {
 	      "ocd-division/country:us/state:ga/sldl:71": {
 	        "name": "Georgia State House district 71",
@@ -37225,6 +40925,43 @@
 	      }
 	    ]
 	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:74": {
+        "name": "Georgia State House district 74",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 74",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:74",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Yasmin Neal",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:74",
+        "overwrite_name": "Yasmin Neal",
+        "emails": [
+          "yasmin.neal@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-6372"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:79": {
@@ -37299,6 +41036,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:86": {
+        "name": "Georgia State House district 86",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 86",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:86",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zulma Lopez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:86",
+        "overwrite_name": "Zulma Lopez",
+        "emails": [
+          "zulma.lopez@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0298"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:87": {
@@ -37332,6 +41106,43 @@
         ],
         "phones": [
           "404.656.0109"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:91": {
+        "name": "Georgia State House district 91",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 91",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:91",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rhonda S. Taylor",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:91",
+        "overwrite_name": "Rhonda S. Taylor",
+        "emails": [
+          "rhonda.taylor@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0265"
         ]
       }
     ]
@@ -37410,6 +41221,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:99": {
+        "name": "Georgia State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 99",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:99",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marvin Lim",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:99",
+        "overwrite_name": "Marvin Lim",
+        "emails": [
+          "marvin.lim@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0314"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:102": {
@@ -37484,6 +41332,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:106": {
+        "name": "Georgia State House district 106",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 106",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:106",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca Mitchell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:106",
+        "overwrite_name": "Rebecca Mitchell",
+        "emails": [
+          "rebecca.mitchell@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0314"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:108": {
@@ -37517,6 +41402,117 @@
         ],
         "phones": [
           "404.656.0287"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:109": {
+        "name": "Georgia State House district 109",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 109",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:109",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Regina Lewis-Ward",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:109",
+        "overwrite_name": "Regina Lewis-Ward",
+        "emails": [
+          "regina.lewis-ward@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0287"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:110": {
+        "name": "Georgia State House district 110",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 110",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:110",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clint Crowe",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:110",
+        "overwrite_name": "Clint Crowe",
+        "emails": [
+          "clint.crowe@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0325"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:113": {
+        "name": "Georgia State House district 113",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 113",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:113",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sharon Henderson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:113",
+        "overwrite_name": "Sharon Henderson",
+        "emails": [
+          "sharon.henderson@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-7859"
         ]
       }
     ]
@@ -37595,7 +41591,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:ga/sldl:131": {
         "name": "Georgia State House district 131",
@@ -37619,15 +41615,52 @@
     ],
     "officials": [
       {
-        "name": "Ken Pullin",
+        "name": "Beth Camp",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:131",
-        "overwrite_name": "Ken Pullin",
+        "overwrite_name": "Beth Camp",
         "emails": [
-          "ken.pullin@house.ga.gov"
+          "beth.camp@house.ga.gov"
         ],
         "phones": [
-          "404.656.0188"
+          "(404) 656-0213"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:132": {
+        "name": "Georgia State House district 132",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 132",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:132",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Jenkins",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:132",
+        "overwrite_name": "David Jenkins",
+        "emails": [
+          "david.jenkins@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0188"
         ]
       }
     ]
@@ -37776,6 +41809,117 @@
         ],
         "phones": [
           "404.656.0254"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:149": {
+        "name": "Georgia State House district 149",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 149",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:149",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Pruitt",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:149",
+        "overwrite_name": "Robert Pruitt",
+        "emails": [
+          "robert.pruitt@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0188"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:163": {
+        "name": "Georgia State House district 163",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 163",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:163",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Derek J. Mallow",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:163",
+        "overwrite_name": "Derek J. Mallow",
+        "emails": [
+          "info@derekforgeorgia.com"
+        ],
+        "phones": [
+          "(404) 656-0298"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:167": {
+        "name": "Georgia State House district 167",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 167",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:167",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Buddy Deloach",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:167",
+        "overwrite_name": "Buddy Deloach",
+        "emails": [
+          "buddy.deloach@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0178"
         ]
       }
     ]
@@ -42415,6 +46559,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:de/sldl:8": {
+        "name": "Delaware State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State House District 8",
+        "divisionId": "ocd-division/country:us/state:de/sldl:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sherae'A Moore",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:8",
+        "overwrite_name": "Sherae'A Moore",
+        "emails": [
+          "info@mooreforde.com"
+        ],
+        "phones": [
+          "(302) 256-9313"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:de/sldl:12": {
@@ -42526,7 +46707,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:de/sldl:7": {
         "name": "Delaware State House district 7",
@@ -42550,15 +46731,15 @@
     ],
     "officials": [
       {
-        "name": "Raymond Seigfried",
+        "name": "Larry D. Lambert, Jr",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:7",
-        "overwrite_name": "Raymond Seigfried",
+        "overwrite_name": "Larry D. Lambert, Jr",
         "emails": [
-          "Raymond.Seigfried@state.de.us"
+          "info@larryfordelaware.com"
         ],
         "phones": [
-          "(302) 744-4351"
+          "(302) 408-0901"
         ]
       }
     ]
@@ -42674,6 +46855,80 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:de/sldl:26": {
+        "name": "Delaware State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State House District 26",
+        "divisionId": "ocd-division/country:us/state:de/sldl:26",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Madinah Wilson-Anton",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:26",
+        "overwrite_name": "Madinah Wilson-Anton",
+        "emails": [
+          "Madinah.Wilson-Anton@delaware.gov"
+        ],
+        "phones": [
+          "(302) 533-8357"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:de/sldl:27": {
+        "name": "Delaware State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State House District 27",
+        "divisionId": "ocd-division/country:us/state:de/sldl:27",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric A. Morrison",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:27",
+        "overwrite_name": "Eric A. Morrison",
+        "emails": [
+          "ericmorrison4the27th@gmail.com"
+        ],
+        "phones": [
+          "(302) 668-6690"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:de/sldl:29": {
@@ -42711,7 +46966,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:de/sldl:30": {
         "name": "Delaware State House district 30",
@@ -42735,12 +46990,12 @@
     ],
     "officials": [
       {
-        "name": "W Shannon Morris",
+        "name": "Shannon W. Morris",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:30",
-        "overwrite_name": "W Shannon Morris",
+        "overwrite_name": "Shannon W. Morris",
         "emails": [
-          "Shannon.Morris@state.de.us"
+          "Shannon.Morris@delaware.gov"
         ],
         "phones": [
           "(302) 744-4171"
@@ -45673,6 +49928,561 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:wa/sldl:4": {
+        "name": "Washington State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 4",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rob Chase",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:4",
+        "overwrite_name": "Rob Chase",
+        "emails": [
+          "Rob.Chase@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7984"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:4": {
+        "name": "Washington State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 4",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob McCaslin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:4",
+        "overwrite_name": "Bob McCaslin",
+        "emails": [
+          "bob.mccaslin@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7820"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:10": {
+        "name": "Washington State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 10",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg Gilday",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:10",
+        "overwrite_name": "Greg Gilday",
+        "emails": [
+          "Greg.Gilday@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7884"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:11": {
+        "name": "Washington State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 11",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:11",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Hackney",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:11",
+        "overwrite_name": "David Hackney",
+        "emails": [
+          "David.Hackney@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7956"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:16": {
+        "name": "Washington State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 16",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Klicker",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:16",
+        "overwrite_name": "Mark Klicker",
+        "emails": [
+          "Mark.Klicker@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7836"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:19": {
+        "name": "Washington State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 19",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:19",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joel McEntire",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:19",
+        "overwrite_name": "Joel McEntire",
+        "emails": [
+          "info@joelmcentire.com"
+        ],
+        "phones": [
+          "(360) 786-7870"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:20": {
+        "name": "Washington State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 20",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:20",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Peter Abbarno",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:20",
+        "overwrite_name": "Peter Abbarno",
+        "emails": [
+          "Peter.Abbarno@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7896"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:wa/sldl:22": {
+	        "name": "Washington State House district 22",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "WA State House District 22",
+	        "divisionId": "ocd-division/country:us/state:wa/sldl:22",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Jessica D Bateman",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:22",
+	        "overwrite_name": "Jessica D Bateman",
+	        "emails": [
+	          "jessica.bateman@leg.wa.gov"
+	        ],
+	        "phones": [
+	          "(360) 786-7992"
+	        ]
+	      }
+	    ]
+	  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:23": {
+        "name": "Washington State House district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 23",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:23",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tarra Simmons",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:23",
+        "overwrite_name": "Tarra Simmons",
+        "emails": [
+          "tara.simmons@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786 - 7934"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:25": {
+        "name": "Washington State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 25",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:25",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cyndy Jacobsen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:25",
+        "overwrite_name": "Cyndy Jacobsen",
+        "emails": [
+          "Cyndy.Jacobsen@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7968"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:28": {
+        "name": "Washington State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 28",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dan Bronoske",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:28",
+        "overwrite_name": "Dan Bronoske",
+        "emails": [
+          "Dan.Bronoske@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7958"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:30": {
+        "name": "Washington State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 30",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:30",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jamila Taylor",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:30",
+        "overwrite_name": "Jamila Taylor",
+        "emails": [
+          "jamila.taylor@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7898"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:31": {
+        "name": "Washington State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 31",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:31",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric E. Robertson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:31",
+        "overwrite_name": "Eric E. Robertson",
+        "emails": [
+          "Eric.Robertson@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7866"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:36": {
+        "name": "Washington State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 36",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:36",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Liz Berry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:36",
+        "overwrite_name": "Liz Berry",
+        "emails": [
+          "Liz.Berry@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7860"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:37": {
+        "name": "Washington State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 37",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:37",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kirsten Harris-Talley",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:37",
+        "overwrite_name": "Kirsten Harris-Talley",
+        "emails": [
+          "Kirsten.Harris-Talley@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7838"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:wa/sldl:40": {
         "name": "Washington State House district 40",
         "overwrite": "true",
@@ -45704,6 +50514,80 @@
         ],
         "phones": [
           "(360) 786-7970"
+        ]
+      }
+    ]
+  },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:wa/sldl:42": {
+				"name": "Washington State House district 42",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "WA State House District 42",
+				"divisionId": "ocd-division/country:us/state:wa/sldl:42",
+				"roles": [
+					"legislatorLowerBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "Alicia Rule",
+				"party": "Democratic Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:42",
+				"overwrite_name": "Alicia Rule",
+				"emails": [
+					"Alicia.Rule@leg.wa.gov"
+				],
+				"phones": [
+					"(360) 786-7980"
+				]
+			}
+		]
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldl:44": {
+        "name": "Washington State House district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State House District 44",
+        "divisionId": "ocd-division/country:us/state:wa/sldl:44",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "April Berg",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:44",
+        "overwrite_name": "April Berg",
+        "emails": [
+          "April.Berg@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7892"
         ]
       }
     ]
@@ -53585,6 +58469,1856 @@
         ],
         "phones": [
           "(405) 557-7314"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:3": {
+        "name": "Kansas State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 3",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles \"Chuck\" Smith",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:3",
+        "overwrite_name": "Charles \"Chuck\" Smith",
+        "emails": [
+          "chuck.smith@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7426"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ks/sldl:6": {
+	        "name": "Kansas State House district 6",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "KS State House District 6",
+	        "divisionId": "ocd-division/country:us/state:ks/sldl:6",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Samantha M. Poetter",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:6",
+	        "overwrite_name": "Samantha M. Poetter",
+	        "emails": [
+	          "samantha.poetter@house.ks.gov"
+	        ],
+	        "phones": [
+	          "(785) 296-7748"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:10": {
+        "name": "Kansas State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 10",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:10",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christina Haswood",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:10",
+        "overwrite_name": "Christina Haswood",
+        "emails": [
+          "christina.haswood@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7652"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:16": {
+        "name": "Kansas State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 16",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Featherston",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:16",
+        "overwrite_name": "Linda Featherston",
+        "emails": [
+          "linda.featherston@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7354"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:17": {
+        "name": "Kansas State House district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 17",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:17",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jo Ella Hoye",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:17",
+        "overwrite_name": "Jo Ella Hoye",
+        "emails": [
+          "JoElla.Hoye@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7331"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:20": {
+        "name": "Kansas State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 20",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:20",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mari-Lynn Poskin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:20",
+        "overwrite_name": "Mari-Lynn Poskin",
+        "emails": [
+          "Mari-Lynn.Poskin@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7436"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:22": {
+        "name": "Kansas State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 22",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lindsay Vaughn",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:22",
+        "overwrite_name": "Lindsay Vaughn",
+        "emails": [
+          "lindsay.vaughn@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-8503"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:28": {
+        "name": "Kansas State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 28",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carl Turner",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:28",
+        "overwrite_name": "Carl Turner",
+        "emails": [
+          "carl.turner@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7301"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:37": {
+        "name": "Kansas State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 37",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:37",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Aaron Coleman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:37",
+        "overwrite_name": "Aaron Coleman",
+        "emails": [
+          "aaron.coleman@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7300"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:38": {
+        "name": "Kansas State House district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 38",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:38",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy H. Johnson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:38",
+        "overwrite_name": "Timothy H. Johnson",
+        "emails": [
+          "timothy.johnson@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7677"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:41": {
+        "name": "Kansas State House district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 41",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:41",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pat Proctor",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:41",
+        "overwrite_name": "Pat Proctor",
+        "emails": [
+          "pat.proctor@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7357"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:42": {
+        "name": "Kansas State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 42",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:42",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lance W. Neelly",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:42",
+        "overwrite_name": "Lance W. Neelly",
+        "emails": [
+          "lance.neelly@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7683"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:48": {
+        "name": "Kansas State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 48",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:48",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer Day",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:48",
+        "overwrite_name": "Jennifer Day",
+        "emails": [
+          "jennifer.day@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7680"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:52": {
+        "name": "Kansas State House district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 52",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:52",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jesse Borjon",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:52",
+        "overwrite_name": "Jesse Borjon",
+        "emails": [
+          "jesse.borjon@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7374"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:67": {
+        "name": "Kansas State House district 67",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 67",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:67",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Dodson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:67",
+        "overwrite_name": "Mike Dodson",
+        "emails": [
+          "mike.dodson@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7402"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:69": {
+        "name": "Kansas State House district 69",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 69",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:69",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clarke Sanders",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:69",
+        "overwrite_name": "Clarke Sanders",
+        "emails": [
+          "clarke.sanders@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7369"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:71": {
+        "name": "Kansas State House district 71",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 71",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:71",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven K. Howe",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:71",
+        "overwrite_name": "Steven K. Howe",
+        "emails": [
+          "steven.howe@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7642"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:72": {
+        "name": "Kansas State House district 72",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 72",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:72",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Avery Anderson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:72",
+        "overwrite_name": "Avery Anderson",
+        "emails": [
+          "avery.anderson@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-2361"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ks/sldl:85": {
+	        "name": "Kansas State House district 85",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "KS State House District 85",
+	        "divisionId": "ocd-division/country:us/state:ks/sldl:85",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Patrick Penn",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:85",
+	        "overwrite_name": "Patrick Penn",
+	        "emails": [
+	          "patrick.penn@house.ks.gov"
+	        ],
+	        "phones": [
+	          "(785) 296-7473"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:86": {
+        "name": "Kansas State House district 86",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 86",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:86",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephanie Byers",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:86",
+        "overwrite_name": "Stephanie Byers",
+        "emails": [
+          "stephanie.byers@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7631"
+        ]
+      }
+    ]
+  },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:ks/sldl:87": {
+	        "name": "Kansas State House district 87",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "KS State House District 87",
+	        "divisionId": "ocd-division/country:us/state:ks/sldl:87",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Susan Oliver Estes",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:87",
+	        "overwrite_name": "Susan Oliver Estes",
+	        "emails": [
+	          "susan.estes@house.ks.gov"
+	        ],
+	        "phones": [
+	          "(785) 296-7388"
+	        ]
+	      }
+	    ]
+	  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:93": {
+        "name": "Kansas State House district 93",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 93",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:93",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Bergkamp",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:93",
+        "overwrite_name": "Brian Bergkamp",
+        "emails": [
+          "Brian.Bergkamp@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-1177"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:96": {
+        "name": "Kansas State House district 96",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 96",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:96",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tom Kessler",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:96",
+        "overwrite_name": "Tom Kessler",
+        "emails": [
+          "tom.kessler@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-8610"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:106": {
+        "name": "Kansas State House district 106",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 106",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:106",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lisa M. Moser",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:106",
+        "overwrite_name": "Lisa M. Moser",
+        "emails": [
+          "lisa.moser@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7637"
+        ]
+      }
+    ]
+  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:113": {
+        "name": "Kansas State House district 113",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 113",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:113",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brett Fairchild",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:113",
+        "overwrite_name": "Brett Fairchild",
+        "emails": [
+          "brett.fairchild@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7667"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:114": {
+        "name": "Kansas State House district 114",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 114",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:114",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Murphy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:114",
+        "overwrite_name": "Michael Murphy",
+        "emails": [
+          "michael.murphy@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7105"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:118": {
+        "name": "Kansas State House district 118",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 118",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:118",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Minnix",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:118",
+        "overwrite_name": "Jim Minnix",
+        "emails": [
+          "jim.minnix@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7384"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:3": {
+        "name": "Tennessee State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 3",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scotty Campbell",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:3",
+        "overwrite_name": "Scotty Campbell",
+        "emails": [
+          "rep.scotty.campbell@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-2050"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:6": {
+        "name": "Tennessee State House district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 6",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:6",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tim Hicks",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:6",
+        "overwrite_name": "Tim Hicks",
+        "emails": [
+          "rep.tim.hicks@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-1717"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:7": {
+        "name": "Tennessee State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 7",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca Keefauver Alexander",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:7",
+        "overwrite_name": "Rebecca Keefauver Alexander",
+        "emails": [
+          "rep.rebecca.alexander@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-2251"
+        ]
+      }
+    ]
+  },
+		{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:15": {
+        "name": "Tennessee State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 15",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:15",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sam McKenzie",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:15",
+        "overwrite_name": "Sam McKenzie",
+        "emails": [
+          "rep.sam.mckenzie@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-0768"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:16": {
+        "name": "Tennessee State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 16",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michele Carringer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:16",
+        "overwrite_name": "Michele Carringer",
+        "emails": [
+          "rep.michele.carringer@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-1721"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:18": {
+        "name": "Tennessee State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 18",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eddie Mannis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:18",
+        "overwrite_name": "Eddie Mannis",
+        "emails": [
+          "rep.eddie.mannis@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-2287"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:76": {
+        "name": "Tennessee State House district 76",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 76",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:76",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tandy Darby",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:76",
+        "overwrite_name": "Tandy Darby",
+        "emails": [
+          "rep.tandy.darby@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-7847"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:90": {
+        "name": "Tennessee State House district 90",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 90",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:90",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Torrey C. Harris",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:90",
+        "overwrite_name": "Torrey C. Harris",
+        "emails": [
+          "rep.torrey.harris@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-2239"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:92": {
+        "name": "Tennessee State House district 92",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 92",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:92",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Todd Warner",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:92",
+        "overwrite_name": "Todd Warner",
+        "emails": [
+          "rep.todd.warner@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-4170"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:95": {
+        "name": "Tennessee State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 95",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:95",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William Kevin Vaughan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:95",
+        "overwrite_name": "William Kevin Vaughan",
+        "emails": [
+          "rep.kevin.vaughan@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-1866"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tn/sldl:97": {
+        "name": "Tennessee State House district 97",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TN State House District 97",
+        "divisionId": "ocd-division/country:us/state:tn/sldl:97",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Gillespie",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:97",
+        "overwrite_name": "John Gillespie",
+        "emails": [
+          "rep.john.gillespie@capitol.tn.gov"
+        ],
+        "phones": [
+          "(615) 741-8201"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:3": {
+        "name": "Oregon State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 3",
+        "divisionId": "ocd-division/country:us/state:or/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lily Morgan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:3",
+        "overwrite_name": "Lily Morgan",
+        "emails": [
+          "Rep.LilyMorgan@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1403"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:9": {
+        "name": "Oregon State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 9",
+        "divisionId": "ocd-division/country:us/state:or/sldl:9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Boomer Wright",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:9",
+        "overwrite_name": "Boomer Wright",
+        "emails": [
+          "Rep.BoomerWright@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1409"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:17": {
+        "name": "Oregon State House district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 17",
+        "divisionId": "ocd-division/country:us/state:or/sldl:17",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jami Cate",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:17",
+        "overwrite_name": "Jami Cate",
+        "emails": [
+          "Rep.JamiCate@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1417"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:28": {
+        "name": "Oregon State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 28",
+        "divisionId": "ocd-division/country:us/state:or/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wlnsvey E Campos",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:28",
+        "overwrite_name": "Wlnsvey E Campos",
+        "emails": [
+          "Rep.WlnsveyCampos@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1428"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:32": {
+        "name": "Oregon State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 32",
+        "divisionId": "ocd-division/country:us/state:or/sldl:32",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Suzanne Weber",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:32",
+        "overwrite_name": "Suzanne Weber",
+        "emails": [
+          "Rep.SuzanneWeber@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1432"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:35": {
+        "name": "Oregon State House district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 35",
+        "divisionId": "ocd-division/country:us/state:or/sldl:35",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dacia Grayber",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:35",
+        "overwrite_name": "Dacia Grayber",
+        "emails": [
+          "Rep.DaciaGrayber@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1435"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:36": {
+        "name": "Oregon State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 36",
+        "divisionId": "ocd-division/country:us/state:or/sldl:36",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lisa Reynolds",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:36",
+        "overwrite_name": "Lisa Reynolds",
+        "emails": [
+          "Rep.LisaReynolds@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1436"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:46": {
+        "name": "Oregon State House district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 46",
+        "divisionId": "ocd-division/country:us/state:or/sldl:46",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Khanh Pham",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:46",
+        "overwrite_name": "Khanh Pham",
+        "emails": [
+          "Rep.KhanhPham@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1446"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:49": {
+        "name": "Oregon State House district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 49",
+        "divisionId": "ocd-division/country:us/state:or/sldl:49",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zach Hudson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:49",
+        "overwrite_name": "Zach Hudson",
+        "emails": [
+          "Rep.ZachHudson@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1449"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:50": {
+        "name": "Oregon State House district 50",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 50",
+        "divisionId": "ocd-division/country:us/state:or/sldl:50",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ricki Ruiz",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:50",
+        "overwrite_name": "Ricki Ruiz",
+        "emails": [
+          "rep.RickiRuiz@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1450"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:54": {
+        "name": "Oregon State House district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 54",
+        "divisionId": "ocd-division/country:us/state:or/sldl:54",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Kropf",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:54",
+        "overwrite_name": "Jason Kropf",
+        "emails": [
+          "Rep.JasonKropf@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1454​"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:or/sldl:58": {
+        "name": "Oregon State House district 58",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OR State House District 58",
+        "divisionId": "ocd-division/country:us/state:or/sldl:58",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bobby Levy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:58",
+        "overwrite_name": "Bobby Levy",
+        "emails": [
+          "Rep.BobbyLevy@oregonlegislature.gov"
+        ],
+        "phones": [
+          "(503) 986-1458"
         ]
       }
     ]

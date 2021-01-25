@@ -3425,10 +3425,10 @@
     ],
     "officials": [
       {
-        "name": "Will Perry",
+        "name": "Perry Will",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:57",
-        "overwrite_name": "Will Perry",
+        "overwrite_name": "Perry Will",
         "emails": [
           "perry.will.house@state.co.us"
         ],
@@ -6489,7 +6489,7 @@
       }
     ]
   },
-  {
+	{
     "divisions": {
       "ocd-division/country:us/state:il/sldl:79": {
         "name": "Illinois State House district 79",
@@ -6513,12 +6513,12 @@
     ],
     "officials": [
       {
-        "name": "Lindsay Parkhurst",
-        "party": "Republican",
+        "name": "Jackie Haas",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:79",
-        "overwrite_name": "Lindsay Parkhurst",
+        "overwrite_name": "Jackie Haas",
         "emails": [
-          "parkhurst@ilhousegop.org"
+          "HaasforRep@gmail.com"
         ],
         "phones": [
           "(217) 782-5981"
@@ -29279,6 +29279,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ak/sldl:8": {
+        "name": "Alaska State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 8",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin J. McCabe",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:8",
+        "overwrite_name": "Kevin J. McCabe",
+        "emails": [
+          "Representative.Kevin.McCabe@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-2679"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ak/sldl:13": {
         "name": "Alaska State House district 13",
         "overwrite": "true",
@@ -29427,6 +29464,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ak/sldl:25": {
+        "name": "Alaska State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 25",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:25",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Calvin R. Schrage",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:25",
+        "overwrite_name": "Calvin R. Schrage",
+        "emails": [
+          "Representative.Calvin.Schrage@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4931"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ak/sldl:27": {
         "name": "Alaska State House district 27",
         "overwrite": "true",
@@ -29458,6 +29532,43 @@
         ],
         "phones": [
           "(907) 465-3438"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ak/sldl:28": {
+        "name": "Alaska State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AK State House District 28",
+        "divisionId": "ocd-division/country:us/state:ak/sldl:28",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James D. Kaufman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:28",
+        "overwrite_name": "James D. Kaufman",
+        "emails": [
+          "Representative.James.Kaufman@akleg.gov"
+        ],
+        "phones": [
+          "(907) 465-4949"
         ]
       }
     ]
@@ -58105,6 +58216,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:mo/sldl:158": {
+        "name": "Missouri State House district 158",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MO State House District 158",
+        "divisionId": "ocd-division/country:us/state:mo/sldl:158",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brenda McKinney",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldl:158",
+        "overwrite_name": "Brenda McKinney",
+        "emails": [
+          ""
+        ],
+        "phones": [
+          ""
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:mo/sldl:162": {
         "name": "Missouri State House district 162",
         "overwrite": "true",
@@ -60319,6 +60467,412 @@
         ],
         "phones": [
           "(503) 986-1458"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:3": {
+        "name": "New Mexico State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 3",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:3",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "T. Ryan Lane",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:3",
+        "overwrite_name": "T. Ryan Lane",
+        "emails": [
+          "RYAN@LANEFORLIBERTY.COM"
+        ],
+        "phones": [
+          "(505) 333-4494"
+        ]
+      }
+    ]
+  },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:nm/sldl:12": {
+				"name": "New Mexico State House district 12",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "NM State House District 12",
+				"divisionId": "ocd-division/country:us/state:nm/sldl:12",
+				"roles": [
+					"legislatorLowerBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "Brittney Aileene Barreras",
+				"party": "Unaffiliated",
+				"overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:12",
+				"overwrite_name": "Brittney Aileene Barreras",
+				"emails": [
+					"BRITTNEYFORNEWMEXICO@GMAIL.COM"
+				],
+				"phones": [
+					"(505) 800-9404"
+				]
+			}
+		]
+	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:20": {
+        "name": "New Mexico State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 20",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:20",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Meredith A Dixon",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:20",
+        "overwrite_name": "Meredith A Dixon",
+        "emails": [
+          "meredith.dixon@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 401-8339"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:22": {
+        "name": "New Mexico State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 22",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stefani Lord",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:22",
+        "overwrite_name": "Stefani Lord",
+        "emails": [
+          "stefani.lord@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 986-4600"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:39": {
+        "name": "New Mexico State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 39",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:39",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Luis M Terrazas",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:39",
+        "overwrite_name": "Luis M Terrazas",
+        "emails": [
+          "luis.terrazas@nmlegis.gov"
+        ],
+        "phones": [
+          "(575) 313-4262"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:40": {
+        "name": "New Mexico State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 40",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Roger Evan Montoya",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:40",
+        "overwrite_name": "Roger Evan Montoya",
+        "emails": [
+          "roddmontoya@gmail.com"
+        ],
+        "phones": [
+          "(505) 927-0108"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:42": {
+        "name": "New Mexico State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 42",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:42",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristina Ortez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:42",
+        "overwrite_name": "Kristina Ortez",
+        "emails": [
+          "kristina.ortez@nmlegis.gov"
+        ],
+        "phones": [
+          "(575) 770-7792"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:45": {
+        "name": "New Mexico State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 45",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:45",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Michelle Serrato",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:45",
+        "overwrite_name": "Linda Michelle Serrato",
+        "emails": [
+          "linda.serrato@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 395-6356"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:60": {
+        "name": "New Mexico State House district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 60",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:60",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joshua Nathaniel Hernandez",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:60",
+        "overwrite_name": "Joshua Nathaniel Hernandez",
+        "emails": [
+          "joshua@hernandeznm.com"
+        ],
+        "phones": [
+          "(505) 234-6337"
+        ]
+      }
+    ]
+  },{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:61": {
+        "name": "New Mexico State House district 61",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 61",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:61",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randall T Pettigrew",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:61",
+        "overwrite_name": "Randall T Pettigrew",
+        "emails": [
+          "randall.pettigrew@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 379-6607"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:70": {
+        "name": "New Mexico State House district 70",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 70",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:70",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ambrose M Castellano",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:70",
+        "overwrite_name": "Ambrose M Castellano",
+        "emails": [
+          "ambrose.castellano@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 429-6072"
         ]
       }
     ]

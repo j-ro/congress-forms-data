@@ -5504,6 +5504,29 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:21": {
+        "name": "Illinois State House district 21",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "IL State House District 21",
+      "divisionId": "ocd-division/country:us/state:il/sldl:21",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Edgar Gonzalez, Jr.",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:21",
+      "overwrite_name": "Edgar Gonzalez, Jr.",
+      "emails": ["repgonzalez21@gmail.com"],
+      "phones": ["(708) 552-5225"]
+    }]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:il/sldl:9": {
@@ -51002,43 +51025,6 @@
         ],
         "phones": [
           "(702) 882-8594"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nv/sldl:12": {
-        "name": "Nevada State House district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NV State House District 12",
-        "divisionId": "ocd-division/country:us/state:nv/sldl:12",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Susie Martinez",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nv/sldl:12",
-        "overwrite_name": "Susie Martinez",
-        "emails": [
-          "Susan.Martinez@asm.state.nv.us"
-        ],
-        "phones": [
-          "(775) 684-8819"
         ]
       }
     ]

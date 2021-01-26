@@ -17639,7 +17639,45 @@
         ]
       }
     ]
-  }, {
+  }, 
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:40": {
+        "name": "Mississippi State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 40",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Hester Jackson McCray",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:40",
+        "overwrite_name": "Hester Jackson McCray",
+        "emails": [
+          "hmccray@house.ms.gov"
+        ],
+        "phones": [
+          "(901) 410-7875"
+        ]
+      }
+    ]
+  },
+	{
     "divisions": {
       "ocd-division/country:us/state:ms/sldl:54": {
         "name": "Mississippi State House district 54",
@@ -18048,6 +18086,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ms/sldl:77": {
+        "name": "Mississippi State House district 77",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 77",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:77",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Price Wallace",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:77",
+        "overwrite_name": "Price Wallace",
+        "emails": [
+          "pwallace@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 382-6848"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ms/sldl:83": {
         "name": "Mississippi State House district 83",
         "overwrite": "true",
@@ -18122,6 +18197,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:ms/sldl:85": {
+        "name": "Mississippi State House district 85",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 85",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:85",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeffery Harness",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:85",
+        "overwrite_name": "Jeffery Harness",
+        "emails": [
+          "jharness@house.ms.gov"
+        ],
+        "phones": [
+          "(601)146-6769"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:ms/sldl:88": {
         "name": "Mississippi State House district 88",
         "overwrite": "true",
@@ -18187,6 +18299,43 @@
         "overwrite_name": "Jay McKnight",
         "emails": [
           "jmcknight@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3360"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:98": {
+        "name": "Mississippi State House district 98",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 98",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:98",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daryl Porter",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:98",
+        "overwrite_name": "Daryl Porter",
+        "emails": [
+          "dporter@house.ms.gov"
         ],
         "phones": [
           "(601) 359-3360"
@@ -18860,6 +19009,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:merrimack_4": {
+	        "name": "New Hampshire State House district MERRIMACK_4",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District MERRIMACK_4",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_4",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Tom Schamberg",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_4",
+	        "overwrite_name": "Tom Schamberg",
+	        "emails": [
+	          "Tom.Schamberg@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 715-6778"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_5": {
         "name": "New Hampshire State House district MERRIMACK_5",
@@ -18929,6 +19115,43 @@
         ],
         "phones": [
           "(603) 428-7042"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_6": {
+        "name": "New Hampshire State House district MERRIMACK_6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District MERRIMACK_6",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_6",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rod Pimentel",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_6",
+        "overwrite_name": "Rod Pimentel",
+        "emails": [
+          "Rod.Pimentel@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 748-0937"
         ]
       }
     ]
@@ -19262,6 +19485,43 @@
         ],
         "phones": [
           "(603) 763-5904"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:sullivan_4": {
+        "name": "New Hampshire State House district SULLIVAN_4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District SULLIVAN_4",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:sullivan_4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gary Merchant",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:sullivan_4",
+        "overwrite_name": "Gary Merchant",
+        "emails": [
+          "Gary.Merchant@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-2548"
         ]
       }
     ]
@@ -23847,6 +24107,9 @@
         "overwrite_name": "Everett P. McBride, Jr.",
         "emails": [
           "Everett.McBride@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-2548"
         ]
       }
     ]
@@ -24180,6 +24443,43 @@
         ],
         "phones": [
           "(781) 248-0600"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:rockingham_29": {
+        "name": "New Hampshire State House district ROCKINGHAM_29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District ROCKINGHAM_29",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_29",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Meuse",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_29",
+        "overwrite_name": "David Meuse",
+        "emails": [
+          "David.Meuse@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 957-8436"
         ]
       }
     ]
@@ -24667,6 +24967,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:strafford_18": {
+        "name": "New Hampshire State House district STRAFFORD_18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District STRAFFORD_18",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:strafford_18",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cecilia Rich",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:strafford_18",
+        "overwrite_name": "Cecilia Rich",
+        "emails": [
+          "Cecilia.Rich@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-3661"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_23": {
         "name": "New Hampshire State House district STRAFFORD_23",
         "overwrite": "true",
@@ -24877,6 +25214,43 @@
         ],
         "phones": [
           "(614) 466-0961"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldl:24": {
+        "name": "Ohio State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State House District 24",
+        "divisionId": "ocd-division/country:us/state:oh/sldl:24",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Allison Russo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:24",
+        "overwrite_name": "Allison Russo",
+        "emails": [
+          "rep24@ohiohouse.gov"
+        ],
+        "phones": [
+          "(614) 466-8012"
         ]
       }
     ]
@@ -42794,7 +43168,10 @@
 			"party": "Democratic Party",
 			"overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:3rd_bristol",
 			"overwrite_name": "Carol Doherty",
-			"emails": ["carol.doherty@mahouse.gov"]
+			"emails": ["carol.doherty@mahouse.gov"],
+        "phones": [
+          "(617) 722-2020"
+        ]
 		}]
 	},
   {
@@ -44695,6 +45072,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:me/sldl:60": {
+        "name": "Maine State House district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 60",
+        "divisionId": "ocd-division/country:us/state:me/sldl:60",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristen S. Cloutier",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:60",
+        "overwrite_name": "Kristen S. Cloutier",
+        "emails": [
+          "Kristen.Cloutier@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 807-1637"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:me/sldl:64": {
         "name": "Maine State House district 64",
         "overwrite": "true",
@@ -45940,6 +46354,43 @@
         ],
         "phones": [
           "(207) 564-0715"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:121": {
+        "name": "Maine State House district 121",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 121",
+        "divisionId": "ocd-division/country:us/state:me/sldl:121",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gary A. Drinkwater",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:121",
+        "overwrite_name": "Gary A. Drinkwater",
+        "emails": [
+          "Gary.Drinkwater@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 356-8198"
         ]
       }
     ]
@@ -53850,6 +54301,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:wv/sldl:7": {
+        "name": "West Virginia State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 7",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Trenton Barnhart",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:7",
+        "overwrite_name": "Trenton Barnhart",
+        "emails": [
+          "trenton.barnhart@wvhouse.gov"
+        ],
+        "phones": [
+          "(304) 340-3195"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:wv/sldl:9": {
         "name": "West Virginia State House district 9",
         "overwrite": "true",
@@ -58238,15 +58726,15 @@
     ],
     "officials": [
       {
-        "name": "Brenda McKinney",
+        "name": "Scott Cupps",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mo/sldl:158",
         "overwrite_name": "Brenda McKinney",
         "emails": [
-          ""
+          "Scott.Cupps@house.mo.gov"
         ],
         "phones": [
-          ""
+          "(573) 751-1488 "
         ]
       }
     ]

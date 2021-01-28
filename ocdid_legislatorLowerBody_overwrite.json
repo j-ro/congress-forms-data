@@ -379,43 +379,6 @@
  ]
 },
 {
-	 "divisions": {
-	  "ocd-division/country:us/state:ny/cd:2": {
-	   "name": "New York's 2nd congressional district",
-	   "overwrite": "true",
-	   "officeIndices": [
-		0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives NY-02",
-	   "divisionId": "ocd-division/country:us/state:ny/cd:2",
-	   "levels": [
-		"country"
-	   ],
-	   "roles": [
-		"legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-		0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Andrew Garbarino",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:2",
-	   "overwrite_name": "Pete King",
-		 "phones": [
-				"(202) 225-7896"
-		 ]
-	  }
-	 ]
-	},
-{
  "divisions": {
 	"ocd-division/country:us/state:ny/cd:27": {
 	 "name": "New York's 27th congressional district",
@@ -564,43 +527,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:al/cd:1": {
-			"name": "Alabama's 1st congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives AL-01",
-			"divisionId": "ocd-division/country:us/state:al/cd:1",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Jerry Carl",
-			"overwrite_ocdid": "ocd-division/country:us/state:al/cd:1",
-			"party": "Republican",
-			"overwrite_name": "Jerry Carl",
-			"phones": [
- 	   		"(202) 225-4931"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
 		"ocd-division/country:us/state:al/cd:2": {
 			"name": "Alabama's 2nd congressional district",
 			"overwrite": "true",
@@ -712,43 +638,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:ca/cd:50": {
-			"name": "California's 50th congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives CA-50",
-			"divisionId": "ocd-division/country:us/state:ca/cd:50",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Darrell Issa",
-			"overwrite_ocdid": "ocd-division/country:us/state:ca/cd:50",
-			"overwrite_name": "Darrell Issa",
-			"party": "Republican",
-			"phones": [
- 	   		"(202) 225-5672"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
 		"ocd-division/country:us/state:ca/cd:53": {
 			"name": "California's 53rd congressional district",
 			"overwrite": "true",
@@ -823,43 +712,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:fl/cd:15": {
-			"name": "Florida's 15th congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives FL-15",
-			"divisionId": "ocd-division/country:us/state:fl/cd:15",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Scott Franklin",
-			"overwrite_ocdid": "ocd-division/country:us/state:fl/cd:15",
-			"overwrite_name": "Scott Franklin",
-			"party": "Republican",
-			"phones": [
- 	   		"(202) 225-1252"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
 		"ocd-division/country:us/state:fl/cd:19": {
 			"name": "Florida's 19th congressional district",
 			"overwrite": "true",
@@ -891,43 +743,6 @@
 			"party": "Republican",
 			"phones": [
  	   		"(202) 225-2536"
- 	   ]
-		}
-	]
-},
-{
-	"divisions": {
-		"ocd-division/country:us/state:fl/cd:26": {
-			"name": "Florida's 26th congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives FL-26",
-			"divisionId": "ocd-division/country:us/state:fl/cd:26",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Carlos Gimenez",
-			"overwrite_ocdid": "ocd-division/country:us/state:fl/cd:26",
-			"overwrite_name": "Carlos Gimenez",
-			"party": "Republican",
-			"phones": [
- 	   		"(202) 225-2778"
  	   ]
 		}
 	]
@@ -1079,43 +894,6 @@
 	 ]
 	}
  ]
-},
-{
-	"divisions": {
-		"ocd-division/country:us/state:hi/cd:2": {
-			"name": "Hawaii's 2nd congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives HI-02",
-			"divisionId": "ocd-division/country:us/state:hi/cd:2",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Kaiali'i \"Kai\" Kahele",
-			"overwrite_ocdid": "ocd-division/country:us/state:hi/cd:2",
-			"overwrite_name": "Tulsi Gabbard",
-			"party": "Democratic",
-			"phones": [
- 	   		"(202) 225-4906"
- 	   ]
-		}
-	]
 },
 {
 	"divisions": {
@@ -1560,191 +1338,6 @@
  	   ]
 		}
 	]
-},
-{
-	"divisions": {
-		"ocd-division/country:us/state:nm/cd:3": {
-			"name": "New Mexico's 3rd congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives NM-03",
-			"divisionId": "ocd-division/country:us/state:nm/cd:3",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Teresa Leger Fernandez",
-			"overwrite_ocdid": "ocd-division/country:us/state:nm/cd:3",
-			"overwrite_name": "Teresa Leger Fernandez",
-			"party": "Democratic",
-			"phones": [
- 	   		"(202) 225-6190"
- 	   ]
-		}
-	]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:ny/cd:11": {
-	 "name": "New York's 11th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives NY-11",
-	 "divisionId": "ocd-division/country:us/state:ny/cd:11",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Nicole Malliotakis",
-	 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:11",
-	 "overwrite_name": "Max Rose",
-	 "party": "Republican",
-	 "phones": [
-			"(202) 225-3371"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:ny/cd:15": {
-	 "name": "New York's 15th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives NY-15",
-	 "divisionId": "ocd-division/country:us/state:ny/cd:15",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Ritchie Torres",
-	 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:15",
-	 "overwrite_name": "José E. Serrano",
-	 "party": "Democratic",
-	 "phones": [
-			"(202) 225-4361"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:ny/cd:16": {
-	 "name": "New York's 16th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives NY-16",
-	 "divisionId": "ocd-division/country:us/state:ny/cd:16",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Jamaal Bowman",
-	 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:16",
-	 "overwrite_name": "Eliot Engel",
-	 "party": "Democratic",
-	 "phones": [
-			"(202) 225-2464"
-	 ]
-	}
- ]
-},
-{
- "divisions": {
-	"ocd-division/country:us/state:ny/cd:17": {
-	 "name": "New York's 17th congressional district",
-	 "overwrite": "true",
-	 "officeIndices": [
-		0
-	 ]
-	}
- },
- "offices": [
-	{
-	 "name": "United States House of Representatives NY-17",
-	 "divisionId": "ocd-division/country:us/state:ny/cd:17",
-	 "levels": [
-		"country"
-	 ],
-	 "roles": [
-		"legislatorLowerBody"
-	 ],
-	 "officialIndices": [
-		0
-	 ]
-	}
- ],
- "officials": [
-	{
-	 "name": "Mondaire Jones",
-	 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:17",
-	 "overwrite_name": "Nita Lowey",
-	 "party": "Democratic",
-	 "phones": [
-			"(202) 225-6506"
-	 ]
-	}
- ]
 },
 {
  "divisions": {
@@ -2192,43 +1785,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:ut/cd:1": {
-			"name": "Utah's 1st congressional district",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "United States House of Representatives UT-01",
-			"divisionId": "ocd-division/country:us/state:ut/cd:1",
-			"levels": [
-				"country"
-			],
-			"roles": [
-				"legislatorLowerBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Blake David Moore",
-			"overwrite_ocdid": "ocd-division/country:us/state:ut/cd:1",
-			"overwrite_name": "Blake David Moore",
-			"party": "Republican",
-			"phones": [
-	 			"(202) 225-0453"
-	 	 ]
-		}
-	]
-},
-{
-	"divisions": {
 		"ocd-division/country:us/state:ut/cd:4": {
 			"name": "Utah's 4th congressional district",
 			"overwrite": "true",
@@ -2374,38 +1930,5 @@
  		]
 	  }
 	 ]
-	},
-	{
-		 "divisions": {
-		  "ocd-division/country:us/state:la/cd:2": {
-		   "name": "Louisiana's 2nd congressional district",
-		   "overwrite": "true",
-		   "officeIndices": [
-			0
-		   ]
-		  }
-		 },
-		 "offices": [
-		  {
-		   "name": "United States House of Representatives LA-02",
-		   "divisionId": "ocd-division/country:us/state:la/cd:2",
-		   "levels": [
-			"country"
-		   ],
-		   "roles": [
-			"legislatorLowerBody"
-		   ],
-		   "officialIndices": [
-			0
-		   ]
-		  }
-		 ],
-		 "officials": [
-		  {
-			 "name": "Vacant",
-			  "overwrite_ocdid": "ocd-division/country:us/state:la/cd:2",
-			  "overwrite_name": "Cedric Richmond"
-		  }
-		 ]
-		}
+	}
 ]

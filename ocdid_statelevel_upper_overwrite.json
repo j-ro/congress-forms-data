@@ -1480,6 +1480,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldu:12": {
+        "name": "Connecticut State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:12",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christine Cohen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:12",
+        "overwrite_name": "Christine Cohen",
+        "emails": [
+          "Sue.Tufts@cga.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-8600"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:ct/sldu:17": {

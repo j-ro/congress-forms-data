@@ -3473,6 +3473,228 @@
 },
 {
 	"divisions": {
+	  "ocd-division/country:us/state:il/sldu:43": {
+		"name": "Illinois State Senate district 43",
+		"overwrite": "true",
+		"officeIndices": [
+		  0
+		]
+	  }
+	},
+	"offices": [
+	  {
+		"name": "IL State Senate District 43",
+		"divisionId": "ocd-division/country:us/state:il/sldu:43",
+		"roles": [
+		  "legislatorUpperBody"
+		],
+		"officialIndices": [
+		  0
+		]
+	  }
+	],
+	"officials": [
+	  {
+		"name": "John Connor",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:43",
+		"overwrite_name": "John Connor",
+		"emails": [
+		  "senatorconnor@gmail.com"
+		],
+		"phones": [
+		  "814-714-8519"
+		]
+	  }
+	]
+  },
+  {
+	  "divisions": {
+		"ocd-division/country:us/state:il/sldu:37": {
+		  "name": "Illinois State Senate district 37",
+		  "overwrite": "true",
+		  "officeIndices": [
+			0
+		  ]
+		}
+	  },
+	  "offices": [
+		{
+		  "name": "IL State Senate District 37",
+		  "divisionId": "ocd-division/country:us/state:il/sldu:37",
+		  "roles": [
+			"legislatorUpperBody"
+		  ],
+		  "officialIndices": [
+			0
+		  ]
+		}
+	  ],
+	  "officials": [
+		{
+		  "name": "Win Stoller",
+		  "party": "Republican Party",
+		  "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:37",
+		  "overwrite_name": "Win Stoller",
+		  "emails": [
+			"win@winstoller.com"
+		  ],
+		  "phones": [
+			"(217) 782-1942"
+		  ]
+		}
+	  ]
+	},
+	{
+		"divisions": {
+		  "ocd-division/country:us/state:il/sldu:25": {
+			"name": "Illinois State Senate district 25",
+			"overwrite": "true",
+			"officeIndices": [
+			  0
+			]
+		  }
+		},
+		"offices": [
+		  {
+			"name": "IL State Senate District 25",
+			"divisionId": "ocd-division/country:us/state:il/sldu:25",
+			"roles": [
+			  "legislatorUpperBody"
+			],
+			"officialIndices": [
+			  0
+			]
+		  }
+		],
+		"officials": [
+		  {
+			"name": "Karina Villa",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:25",
+			"overwrite_name": "Karina Villa",
+			"emails": [
+			  "villacampaign@gmail.com"
+			],
+			"phones": [
+			  "(630) 326-9319"
+			]
+		  }
+		]
+	  },
+	  {
+		  "divisions": {
+			"ocd-division/country:us/state:il/sldu:55": {
+			  "name": "Illinois State Senate district 55",
+			  "overwrite": "true",
+			  "officeIndices": [
+				0
+			  ]
+			}
+		  },
+		  "offices": [
+			{
+			  "name": "IL State Senate District 55",
+			  "divisionId": "ocd-division/country:us/state:il/sldu:55",
+			  "roles": [
+				"legislatorUpperBody"
+			  ],
+			  "officialIndices": [
+				0
+			  ]
+			}
+		  ],
+		  "officials": [
+			{
+			  "name": "Darren Bailey",
+			  "party": "Republican Party",
+			  "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:55",
+			  "overwrite_name": "Darren Bailey",
+			  "emails": [
+				"darren@baileyforillinois.com"
+			  ],
+			  "phones": [
+				"(217) 782-6674"
+			  ]
+			}
+		  ]
+		},
+		{
+			"divisions": {
+			  "ocd-division/country:us/state:il/sldu:49": {
+				"name": "Illinois State Senate district 49",
+				"overwrite": "true",
+				"officeIndices": [
+				  0
+				]
+			  }
+			},
+			"offices": [
+			  {
+				"name": "IL State Senate District 49",
+				"divisionId": "ocd-division/country:us/state:il/sldu:49",
+				"roles": [
+				  "legislatorUpperBody"
+				],
+				"officialIndices": [
+				  0
+				]
+			  }
+			],
+			"officials": [
+			  {
+				"name": "Meg Loughran Cappel",
+				"party": "Democratic Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:il/sldu:49",
+				"overwrite_name": "Meg Loughran Cappel",
+				"emails": [
+				  "comms@megforillinois.com"
+				],
+				"phones": [
+				  "(217) 782-0052"
+				]
+			  }
+			]
+		  },
+		  {
+			  "divisions": {
+				"ocd-division/country:us/state:il/sldu:58": {
+				  "name": "Illinois State Senate district 58",
+				  "overwrite": "true",
+				  "officeIndices": [
+					0
+				  ]
+				}
+			  },
+			  "offices": [
+				{
+				  "name": "IL State Senate District 58",
+				  "divisionId": "ocd-division/country:us/state:il/sldu:58",
+				  "roles": [
+					"legislatorUpperBody"
+				  ],
+				  "officialIndices": [
+					0
+				  ]
+				}
+			  ],
+			  "officials": [
+				{
+				  "name": "Terri Bryant",
+				  "party": "Republican Party",
+				  "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:58",
+				  "overwrite_name": "Terri Bryant",
+				  "emails": [
+					"senterribryant58@gmail.com"
+				  ],
+				  "phones": [
+					"(618) 684-1100"
+				  ]
+				}
+			  ]
+			},
+{
+	"divisions": {
 		"ocd-division/country:us/state:il/sldu:2": {
 			"name": "Illinois State Senate district 2",
 			"overwrite": "true",

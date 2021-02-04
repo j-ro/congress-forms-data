@@ -22988,28 +22988,6 @@
 			]
 		}
 	]
-},{
-	"divisions": {
-		"ocd-division/country:us/state:la/sldu:2": {
-			"name": "Louisiana State Senate district 2",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "LA State Senate District 2",
-		"divisionId": "ocd-division/country:us/state:la/sldu:2",
-		"roles": ["legislatorUpperBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Edward \"Ed\" Price",
-		"party": "Democratic",
-		"overwrite_ocdid": "ocd-division/country:us/state:la/sldu:2",
-		"overwrite_name": "Edward \"Ed\" Price",
-		"emails": ["pricee@legis.la.gov"],
-		"phones": ["(225) 644-6738"]
-	}]
 },
 {
 	"divisions": {
@@ -41264,28 +41242,6 @@
 		"emails": ["Nika.Elugardo@mahouse.gov"],
 		"phones": ["(617) 722-2425"]
 	}]
-}, {
-	"divisions": {
-		"ocd-division/country:us/state:ma/sldu:worcester_and_middlesex": {
-			"name": "Massachusetts Worcester & Middlesex State Senate district",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "MA State Senate District Worcester and Middlesex",
-		"divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex",
-		"roles": ["legislatorUpperBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Dean A. Tran",
-		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex",
-		"overwrite_name": "Dean A. Tran",
-		"emails": ["dean.tran@masenate.gov"],
-		"phones": ["(617) 722-1230"]
-	}]
 },
 {
 	"divisions": {
@@ -50194,31 +50150,7 @@
 		"phones": ["(517) 373-1725"]
 	}]
 },
-	 {
-	"divisions": {
-		"ocd-division/country:us/state:nv/sldu:20": {
-			"name": "Nevada State Senate district 20",
-			"overwrite": "true",
-			"officeIndices": [0]
-		}
-	},
-	"offices": [{
-		"name": "NV State Senate District 20",
-		"divisionId": "ocd-division/country:us/state:nv/sldu:20",
-		"roles": ["legislatorUpperBody"],
-		"officialIndices": [0]
-	}],
-	"officials": [{
-		"name": "Keith Pickard",
-		"party": "Republican Party",
-		"overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:20",
-		"overwrite_name": "Keith Pickard",
-		"emails": ["Keith.Pickard@sen.state.nv.us"],
-		"phones": [
-          "(775) 684-1481"
-        ]
-	}]
-}, {
+ {
 	"divisions": {
 		"ocd-division/country:us/state:nv/sldu:9": {
 			"name": "Nevada State Senate district 9",
@@ -59940,43 +59872,6 @@
 	},
 	{
 	   "divisions": {
-	      "ocd-division/country:us/state:nv/sldu:5": {
-	         "name": "Nevada State Senate district 5",
-	         "overwrite": "true",
-	         "officeIndices": [
-	            0
-	         ]
-	      }
-	   },
-	   "offices": [
-	      {
-	         "name": "NV State Senate District 5",
-	         "divisionId": "ocd-division/country:us/state:nv/sldu:5",
-	         "roles": [
-	            "legislatorUpperBody"
-	         ],
-	         "officialIndices": [
-	            0
-	         ]
-	      }
-	   ],
-	   "officials": [
-	      {
-	         "name": "Carrie Ann Buck",
-	         "party": "Republican Party",
-	         "overwrite_ocdid": "ocd-division/country:us/state:nv/sldu:5",
-	         "overwrite_name": "Carrie Ann Buck",
-	         "emails": [
-	            "Carrie.Buck@sen.state.nv.us"
-	         ],
-	         "phones": [
-	            "(775) 684-1457"
-	         ]
-	      }
-	   ]
-	},
-	{
-	   "divisions": {
 	      "ocd-division/country:us/state:nh/sldu:21": {
 	         "name": "New Hampshire State Senate district 21",
 	         "overwrite": "true",
@@ -64810,43 +64705,6 @@
 	   },
 	{
 	      "divisions": {
-	         "ocd-division/country:us/state:de/sldu:1": {
-	            "name": "Delaware State Senate district 1",
-	            "overwrite": "true",
-	            "officeIndices": [
-	               0
-	            ]
-	         }
-	      },
-	      "offices": [
-	         {
-	            "name": "DE State Senate District 1",
-	            "divisionId": "ocd-division/country:us/state:de/sldu:1",
-	            "roles": [
-	               "legislatorUpperBody"
-	            ],
-	            "officialIndices": [
-	               0
-	            ]
-	         }
-	      ],
-	      "officials": [
-	         {
-	            "name": "Sarah Mcbride",
-	            "party": "Democratic Party",
-	            "overwrite_ocdid": "ocd-division/country:us/state:de/sldu:1",
-	            "overwrite_name": "Sarah Mcbride",
-	            "emails": [
-	               "Sarah.McBride@delaware.gov"
-	            ],
-	            "phones": [
-	               "(302) 744-4147"
-	            ]
-	         }
-	      ]
-	   },
-	{
-	      "divisions": {
 	         "ocd-division/country:us/state:az/sldu:28": {
 	            "name": "Arizona State Senate district 28",
 	            "overwrite": "true",
@@ -64952,43 +64810,6 @@
 	            ],
 	            "phones": [
 	               "303-866-2737"
-	            ]
-	         }
-	      ]
-	   },
-	{
-	      "divisions": {
-	         "ocd-division/country:us/state:az/sldu:8": {
-	            "name": "Arizona State Senate district 8",
-	            "overwrite": "true",
-	            "officeIndices": [
-	               0
-	            ]
-	         }
-	      },
-	      "offices": [
-	         {
-	            "name": "AZ State Senate District 8",
-	            "divisionId": "ocd-division/country:us/state:az/sldu:8",
-	            "roles": [
-	               "legislatorUpperBody"
-	            ],
-	            "officialIndices": [
-	               0
-	            ]
-	         }
-	      ],
-	      "officials": [
-	         {
-	            "name": "Thomas \"T.J.\" Shope",
-	            "party": "Republican Party",
-	            "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:8",
-	            "overwrite_name": "Thomas \"T.J.\" Shope",
-	            "emails": [
-	               "TSHOPE@azleg.gov"
-	            ],
-	            "phones": [
-	               "(602) 926-3012"
 	            ]
 	         }
 	      ]

@@ -3735,6 +3735,43 @@
     ]
   },
 	{
+    "divisions": {
+      "ocd-division/country:us/state:nd/sldl:16": {
+        "name": "North Dakota State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State House District 16",
+        "divisionId": "ocd-division/country:us/state:nd/sldl:16",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Marschall",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:16",
+        "overwrite_name": "Andrew Marschall",
+        "emails": [
+          "amarschall@nd.gov"
+        ],
+        "phones": [
+          "(701) 328-3375"
+        ]
+      }
+    ]
+  },
+	{
 	    "divisions": {
 	      "ocd-division/country:us/state:nd/sldl:18": {
 	        "name": "North Dakota State House district 18",
@@ -4313,6 +4350,43 @@
     ],
     "officials": [
       {
+        "name": "Matthew Ruby",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:40",
+        "overwrite_name": "Matthew Ruby",
+        "emails": [
+          "mruby@nd.gov"
+        ],
+        "phones": [
+          "(701) 720-7442"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nd/sldl:40": {
+        "name": "North Dakota State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State House District 40",
+        "divisionId": "ocd-division/country:us/state:nd/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
         "name": "Randy A. Schobinger",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:40",
@@ -4360,6 +4434,80 @@
 	  }
 	 ]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nd/sldl:42": {
+        "name": "North Dakota State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State House District 42",
+        "divisionId": "ocd-division/country:us/state:nd/sldl:42",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Emily O'Brien",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:42",
+        "overwrite_name": "Emily O'Brien",
+        "emails": [
+          "eobrien@nd.gov"
+        ],
+        "phones": [
+          "(952) 693-3109"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nd/sldl:42": {
+        "name": "North Dakota State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State House District 42",
+        "divisionId": "ocd-division/country:us/state:nd/sldl:42",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Claire Cory",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:42",
+        "overwrite_name": "Claire Cory",
+        "emails": [
+          "clairecory@nd.gov"
+        ],
+        "phones": [
+          "(701) 213-6553"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nd/sldu:42": {
@@ -15329,6 +15477,43 @@
         ],
         "phones": [
           "(512) 463-0522"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:96": {
+        "name": "Texas State House district 96",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 96",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:96",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Cook",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:96",
+        "overwrite_name": "David Cook",
+        "emails": [
+          "david.cook@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0374"
         ]
       }
     ]

@@ -1408,6 +1408,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ct/sldu:26": {
+      "name": "Connecticut State Senate district 26",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+      }
+    },
+    "offices": [
+      {
+      "name": "CT State Senate District 26",
+      "divisionId": "ocd-division/country:us/state:ct/sldu:26",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+      }
+    ],
+    "officials": [
+      {
+      "name": "Will Haskell",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:26",
+      "overwrite_name": "Will Haskell",
+      "emails": [
+        "will.haskell@cga.ct.gov"
+      ],
+      "phones": [
+        "(860) 240-2200"
+      ]
+      }
+    ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ct/sldu:36": {
+          "name": "Connecticut State Senate district 36",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CT State Senate District 36",
+          "divisionId": "ocd-division/country:us/state:ct/sldu:36",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Alex Kasser",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:36",
+          "overwrite_name": "Alex Kasser",
+          "emails": [
+            "alex.kasser@cga.ct.gov"
+          ],
+          "phones": [
+            "(860) 240-8600"
+          ]
+        }
+      ]
+    },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ct/sldu:6": {
         "name": "Connecticut State Senate district 6",
         "overwrite": "true",
@@ -2438,6 +2512,43 @@
         ],
         "phones": [
           "(563) 374-1368"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:id/sldu:23": {
+        "name": "Idaho State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ID State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:id/sldu:23",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christy Zito",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:23",
+        "overwrite_name": "Christy Zito",
+        "emails": [
+          "CZito@senate.idaho.gov"
+        ],
+        "phones": [
+          "(208) 332-1336"
         ]
       }
     ]
@@ -14798,5 +14909,523 @@
       ]
     }
   ]
-}
+},
+{
+  "divisions": {
+    "ocd-division/country:us/state:ks/sldu:9": {
+    "name": "Kansas State Senate district 9",
+    "overwrite": "true",
+    "officeIndices": [
+      0
+    ]
+    }
+  },
+  "offices": [
+    {
+    "name": "KS State Senate District 9",
+    "divisionId": "ocd-division/country:us/state:ks/sldu:9",
+    "roles": [
+      "legislatorUpperBody"
+    ],
+    "officialIndices": [
+      0
+    ]
+    }
+  ],
+  "officials": [
+    {
+    "name": "Beverly Gossage",
+    "party": "Republican Party",
+    "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:9",
+    "overwrite_name": "Beverly Gossage",
+    "emails": [
+      "Beverly.Gossage@senate.ks.gov"
+    ],
+    "phones": [
+      "785-296-7382"
+    ]
+    }
+  ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldu:8": {
+        "name": "Kansas State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ks/sldu:8",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cindy Holscher",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:8",
+        "overwrite_name": "Cindy Holscher",
+        "emails": [
+          "Cindy.Holscher@senate.ks.gov"
+        ],
+        "phones": [
+          "785-296-7659"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldu:18": {
+      "name": "Kansas State Senate district 18",
+      "overwrite": "true",
+      "officeIndices": [
+        0
+      ]
+      }
+    },
+    "offices": [
+      {
+      "name": "KS State Senate District 18",
+      "divisionId": "ocd-division/country:us/state:ks/sldu:18",
+      "roles": [
+        "legislatorUpperBody"
+      ],
+      "officialIndices": [
+        0
+      ]
+      }
+    ],
+    "officials": [
+      {
+      "name": "Kristen O'Shea",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:18",
+      "overwrite_name": "Kristen O'Shea",
+      "emails": [
+        "Kristen.O'Shea@senate.ks.gov"
+      ],
+      "phones": [
+        "785-296-7656"
+      ]
+      }
+    ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ks/sldu:19": {
+          "name": "Kansas State Senate district 19",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "KS State Senate District 19",
+          "divisionId": "ocd-division/country:us/state:ks/sldu:19",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Rick Kloos",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:19",
+          "overwrite_name": "Rick Kloos",
+          "emails": [
+            "Rick.Kloos@senate.ks.gov"
+          ],
+          "phones": [
+            "785-296-7645"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+      "ocd-division/country:us/state:ks/sldu:7": {
+        "name": "Kansas State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+        0
+        ]
+      }
+      },
+      "offices": [
+      {
+        "name": "KS State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:ks/sldu:7",
+        "roles": [
+        "legislatorUpperBody"
+        ],
+        "officialIndices": [
+        0
+        ]
+      }
+      ],
+      "officials": [
+      {
+        "name": "Ethan Corson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:7",
+        "overwrite_name": "Ethan Corson",
+        "emails": [
+        "Ethan.Corson@senate.ks.gov"
+        ],
+        "phones": [
+        "785-296-7390"
+        ]
+      }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ks/sldu:20": {
+        "name": "Kansas State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+        }
+      },
+      "offices": [
+        {
+        "name": "KS State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:ks/sldu:20",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+        }
+      ],
+      "officials": [
+        {
+        "name": "Brenda S. Dietrich",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:20",
+        "overwrite_name": "Brenda S. Dietrich",
+        "emails": [
+          "Brenda.Dietrich@senate.ks.gov"
+        ],
+        "phones": [
+          "785-296-7648"
+        ]
+        }
+      ]
+      },
+      {
+        "divisions": {
+          "ocd-division/country:us/state:ks/sldu:34": {
+            "name": "Kansas State Senate district 34",
+            "overwrite": "true",
+            "officeIndices": [
+              0
+            ]
+          }
+        },
+        "offices": [
+          {
+            "name": "KS State Senate District 34",
+            "divisionId": "ocd-division/country:us/state:ks/sldu:34",
+            "roles": [
+              "legislatorUpperBody"
+            ],
+            "officialIndices": [
+              0
+            ]
+          }
+        ],
+        "officials": [
+          {
+            "name": "Mark Steffen",
+            "party": "Republican Party",
+            "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:34",
+            "overwrite_name": "Mark Steffen",
+            "emails": [
+              "Mark.Steffen@senate.ks.gov"
+            ],
+            "phones": [
+              "785-296-6981"
+            ]
+          }
+        ]
+      },
+      {
+        "divisions": {
+          "ocd-division/country:us/state:ks/sldu:24": {
+          "name": "Kansas State Senate district 24",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+          }
+        },
+        "offices": [
+          {
+          "name": "KS State Senate District 24",
+          "divisionId": "ocd-division/country:us/state:ks/sldu:24",
+          "roles": [
+            "legislatorUpperBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+          }
+        ],
+        "officials": [
+          {
+          "name": "J.R. Claeys",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:24",
+          "overwrite_name": "J.R. Claeys",
+          "emails": [
+            "JRClaeys@senate.ks.gov"
+          ],
+          "phones": [
+            "785-296-7670"
+          ]
+          }
+        ]
+        },
+        {
+          "divisions": {
+            "ocd-division/country:us/state:ks/sldu:11": {
+              "name": "Kansas State Senate district 11",
+              "overwrite": "true",
+              "officeIndices": [
+                0
+              ]
+            }
+          },
+          "offices": [
+            {
+              "name": "KS State Senate District 11",
+              "divisionId": "ocd-division/country:us/state:ks/sldu:11",
+              "roles": [
+                "legislatorUpperBody"
+              ],
+              "officialIndices": [
+                0
+              ]
+            }
+          ],
+          "officials": [
+            {
+              "name": "Kellie Warren",
+              "party": "Republican Party",
+              "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:11",
+              "overwrite_name": "Kellie Warren",
+              "emails": [
+                "Kellie.Warren@senate.ks.gov"
+              ],
+              "phones": [
+                "785-296-7646"
+              ]
+            }
+          ]
+        },
+        {
+          "divisions": {
+             "ocd-division/country:us/state:nm/sldu:35": {
+                "name": "New Mexico State Senate district 35",
+                "overwrite": "true",
+                "officeIndices": [
+                   0
+                ]
+             }
+          },
+          "offices": [
+             {
+                "name": "NM State Senate District 35",
+                "divisionId": "ocd-division/country:us/state:nm/sldu:35",
+                "roles": [
+                   "legislatorUpperBody"
+                ],
+                "officialIndices": [
+                   0
+                ]
+             }
+          ],
+          "officials": [
+             {
+                "name": "Crystal R Diamond",
+                "party": "Republican Party",
+                "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:35",
+                "overwrite_name": "Crystal R Diamond",
+                "emails": [
+                   "crystal.diamond@nmlegis.gov"
+                ],
+                "phones": [
+                   "(575) 740-1539"
+                ]
+             }
+          ]
+       },
+       {
+         "divisions": {
+           "ocd-division/country:us/state:ks/sldu:15": {
+             "name": "Kansas State Senate district 15",
+             "overwrite": "true",
+             "officeIndices": [
+               0
+             ]
+           }
+         },
+         "offices": [
+           {
+             "name": "KS State Senate District 15",
+             "divisionId": "ocd-division/country:us/state:ks/sldu:15",
+             "roles": [
+               "legislatorUpperBody"
+             ],
+             "officialIndices": [
+               0
+             ]
+           }
+         ],
+         "officials": [
+           {
+             "name": "Virgil Peck",
+             "party": "Republican Party",
+             "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:15",
+             "overwrite_name": "Virgil Peck",
+             "emails": [
+               "Virgil.Peck@senate.ks.gov"
+             ],
+             "phones": [
+               "785-296-7742"
+             ]
+           }
+         ]
+       },
+       {
+         "divisions": {
+         "ocd-division/country:us/state:ks/sldu:30": {
+           "name": "Kansas State Senate district 30",
+           "overwrite": "true",
+           "officeIndices": [
+           0
+           ]
+         }
+         },
+         "offices": [
+         {
+           "name": "KS State Senate District 30",
+           "divisionId": "ocd-division/country:us/state:ks/sldu:30",
+           "roles": [
+           "legislatorUpperBody"
+           ],
+           "officialIndices": [
+           0
+           ]
+         }
+         ],
+         "officials": [
+         {
+           "name": "Renee Erickson",
+           "party": "Republican Party",
+           "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:30",
+           "overwrite_name": "Renee Erickson",
+           "emails": [
+           "Renee.Erickson@senate.ks.gov"
+           ],
+           "phones": [
+           "785-296-7476"
+           ]
+         }
+         ]
+       },
+       {
+         "divisions": {
+           "ocd-division/country:us/state:ks/sldu:5": {
+             "name": "Kansas State Senate district 5",
+             "overwrite": "true",
+             "officeIndices": [
+               0
+             ]
+           }
+         },
+         "offices": [
+           {
+             "name": "KS State Senate District 5",
+             "divisionId": "ocd-division/country:us/state:ks/sldu:5",
+             "roles": [
+               "legislatorUpperBody"
+             ],
+             "officialIndices": [
+               0
+             ]
+           }
+         ],
+         "officials": [
+           {
+             "name": "Jeffrey Pittman",
+             "party": "Democratic Party",
+             "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:5",
+             "overwrite_name": "Jeffrey Pittman",
+             "emails": [
+               "Jeff.Pittman@senate.ks.gov"
+             ],
+             "phones": [
+               "785-296-7522"
+             ]
+           }
+         ]
+       },
+       {
+          "divisions": {
+          "ocd-division/country:us/state:ks/sldu:14": {
+            "name": "Kansas State Senate district 14",
+            "overwrite": "true",
+            "officeIndices": [
+            0
+            ]
+          }
+          },
+          "offices": [
+          {
+            "name": "KS State Senate District 14",
+            "divisionId": "ocd-division/country:us/state:ks/sldu:14",
+            "roles": [
+            "legislatorUpperBody"
+            ],
+            "officialIndices": [
+            0
+            ]
+          }
+          ],
+          "officials": [
+          {
+            "name": "Michael A. Fagg",
+            "party": "Republican Party",
+            "overwrite_ocdid": "ocd-division/country:us/state:ks/sldu:14",
+            "overwrite_name": "Michael A. Fagg",
+            "emails": [
+            "Michael.Fagg@senate.ks.gov"
+            ],
+            "phones": [
+            "785-296-7678"
+            ]
+          }
+          ]
+        }
 ]

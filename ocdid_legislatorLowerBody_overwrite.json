@@ -415,6 +415,43 @@
 	}
  ]
 },
+{
+	 "divisions": {
+		"ocd-division/country:us/state:ny/cd:22": {
+		 "name": "New York's 22nd congressional district",
+		 "overwrite": "true",
+		 "officeIndices": [
+			0
+		 ]
+		}
+	 },
+	 "offices": [
+		{
+		 "name": "United States House of Representatives NY-22",
+		 "divisionId": "ocd-division/country:us/state:ny/cd:22",
+		 "levels": [
+			"country"
+		 ],
+		 "roles": [
+			"legislatorLowerBody"
+		 ],
+		 "officialIndices": [
+			0
+		 ]
+		}
+	 ],
+	 "officials": [
+		{
+		 "name": "Claudia Tenney",
+		 "party": "Republican",
+		 "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:22",
+		 "overwrite_name": "VACANT",
+		 "phones": [
+				"202-225-3665"
+		 ]
+		}
+	 ]
+	},
 	{
 	 "divisions": {
 	  "ocd-division/country:us/state:md/cd:7": {

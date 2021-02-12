@@ -52435,6 +52435,43 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldl:40": {
+        "name": "Maryland State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State House District 40",
+        "divisionId": "ocd-division/country:us/state:md/sldl:40",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marlon D. Amprey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:40",
+        "overwrite_name": "Nick J. Mosby",
+        "emails": [
+          "marlon.amprey@house.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3520"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:md/sldl:22": {

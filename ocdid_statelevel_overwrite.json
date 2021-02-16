@@ -7277,6 +7277,75 @@
 	}]
 },
 {
+	"divisions": {
+		"ocd-division/country:us/state:nj/sldu:28": {
+			"name": "New Jersey State Senate district 28",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "NJ State Senate District 28",
+		"divisionId": "ocd-division/country:us/state:nj/sldu:28",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Ronald L. Rice",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:28",
+		"overwrite_name": "Ronald L. Rice",
+		"emails": ["SenRice@njleg.org"],
+		"phones": ["(973) 371-5665"]
+	}]
+},
+{
+	  "divisions": {
+		"ocd-division/country:us/state:nj/sldu:28": {
+		  "name": "New Jersey State Senate district 28",
+		  "overwrite": "true",
+		  "officeIndices": [0]
+		}
+	  },
+	  "offices": [{
+		"name": "NJ State Senate District 28",
+		"divisionId": "ocd-division/country:us/state:nj/sldu:28",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	  }],
+	  "officials": [{
+		"name": "Steve Sweeney",
+		"party": "Democratic",
+		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:28",
+		"overwrite_name": "Steve Sweeney",
+		"emails": ["SenSweeney@njleg.org"],
+		"phones": ["(856) 251-9801"]
+	  }]
+	},
+	{
+		  "divisions": {
+			"ocd-division/country:us/state:nj/sldu:28": {
+			  "name": "New Jersey State Senate district 28",
+			  "overwrite": "true",
+			  "officeIndices": [0]
+			}
+		  },
+		  "offices": [{
+			"name": "NJ State Senate District 28",
+			"divisionId": "ocd-division/country:us/state:nj/sldu:28",
+			"roles": ["legislatorUpperBody"],
+			"officialIndices": [0]
+		  }],
+		  "officials": [{
+			"name": "Kristin M. Corrado",
+			"party": "Republican",
+			"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:28",
+			"overwrite_name": "Kristin M. Corrado",
+			"emails": ["SenCorrado@njleg.org"],
+			"phones": ["(973) 237-1360"]
+		  }]
+		},
+{
     "divisions": {
       "ocd-division/country:us/state:nd/sldl:2": {
         "name": "North Dakota State House district 2",

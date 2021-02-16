@@ -17761,6 +17761,26 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:tx/sldl:68": {
+			"name": "Texas State House district 68",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "TX State House District 68",
+		"divisionId": "ocd-division/country:us/state:tx/sldl:68",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "VACANT",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:68",
+		"overwrite_name": "Drew Springer"
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:tx/sldl:74": {
 			"name": "Texas State House district 74",
 			"overwrite": "true",

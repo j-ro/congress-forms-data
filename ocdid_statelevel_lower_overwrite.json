@@ -15352,6 +15352,7 @@
 			"party": "Democratic Party",
 			"overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:68",
 			"overwrite_name": "Drew Springer"
+    }]
 	},
 	{
     "divisions": {
@@ -35138,74 +35139,23 @@
       "ocd-division/country:us/state:id/sldl:5": {
         "name": "Idaho State House district 5",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 5",
-        "divisionId": "ocd-division/country:us/state:id/sldl:5",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Caroline Nilsson Troy",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:5",
-        "overwrite_name": "Caroline Nilsson Troy",
-        "emails": [
-          "cTroy@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1035"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:5": {
-        "name": "Idaho State House district 5",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 5",
-        "divisionId": "ocd-division/country:us/state:id/sldl:5",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Bill Goesling",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:5",
-        "overwrite_name": "Bill Goesling",
-        "emails": [
-          "bGoesling@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1175"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "ID State House District 5",
+      "divisionId": "ocd-division/country:us/state:id/sldl:5",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Brandon Mitchell",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:5",
+      "overwrite_name": "Bill Goesling",
+      "emails": ["BMitchell@house.idaho.gov"],
+      "phones": ["(208) 332-1175"]
+    }]
   },
   {
     "divisions": {
@@ -35360,37 +35310,23 @@
       "ocd-division/country:us/state:id/sldl:2": {
         "name": "Idaho State House district 2",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 2",
-        "divisionId": "ocd-division/country:us/state:id/sldl:2",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vito Barbieri",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:2",
-        "overwrite_name": "Vito Barbieri",
-        "emails": [
-          "vBarbieri@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1177"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "ID State House District 2",
+      "divisionId": "ocd-division/country:us/state:id/sldl:2",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Doug  Okuniewicz",
+      "party": "Republican",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:2",
+      "overwrite_name": "Timothy D. \"Tim\" Remington",
+      "emails": ["DougO@house.idaho.gov"],
+      "phones": ["(208) 332-1070"]
+    }]
   },
   {
     "divisions": {
@@ -35490,130 +35426,19 @@
     ],
     "officials": [
       {
-        "name": "Thyra K. Stevenson",
+        "name": "Aaron von Ehlinger",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:6",
         "overwrite_name": "Thyra K. Stevenson",
         "emails": [
-          "tStevenson@house.idaho.gov"
+          "AvonEhlinger@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1184"
         ]
       }
     ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:6": {
-        "name": "Idaho State House district 6",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 6",
-        "divisionId": "ocd-division/country:us/state:id/sldl:6",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mike Kingsley",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:6",
-        "overwrite_name": "Mike Kingsley",
-        "emails": [
-          "mKingsley@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1133"
-        ]
-      }
-    ]
-  },
-   {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:7": {
-        "name": "Idaho State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 7",
-        "divisionId": "ocd-division/country:us/state:id/sldl:7",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Paul E. Shepherd",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:7",
-        "overwrite_name": "Paul E. Shepherd",
-        "emails": [
-          "pShepherd@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1067"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:7": {
-        "name": "Idaho State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 7",
-        "divisionId": "ocd-division/country:us/state:id/sldl:7",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Priscilla Giddings",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:7",
-        "overwrite_name": "Priscilla Giddings",
-        "emails": [
-          "pGiddings@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1033"
-        ]
-      }
-    ]
-  },
+},
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:8": {
@@ -35762,80 +35587,29 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:10": {
-        "name": "Idaho State House district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 10",
-        "divisionId": "ocd-division/country:us/state:id/sldl:10",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jarom Wagoner",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:10",
-        "overwrite_name": "Jarom Wagoner",
-        "emails": [
-          "jwagoner@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1052"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:10": {
-        "name": "Idaho State House district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 10",
-        "divisionId": "ocd-division/country:us/state:id/sldl:10",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Greg Chaney",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:10",
-        "overwrite_name": "Greg Chaney",
-        "emails": [
-          "gChaney@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1055"
-        ]
-      }
-    ]
-  },
+ {
+   "divisions": {
+     "ocd-division/country:us/state:id/sldl:10": {
+       "name": "Idaho State House district 10",
+       "overwrite": "true",
+       "officeIndices": [0]
+     }
+   },
+   "offices": [{
+     "name": "ID State House District 10",
+     "divisionId": "ocd-division/country:us/state:id/sldl:10",
+     "roles": ["legislatorLowerBody"],
+     "officialIndices": [0]
+   }],
+   "officials": [{
+     "name": "Julie Yamamoto",
+     "party": "Republican",
+     "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:10",
+     "overwrite_name": "Jarom Wagoner",
+     "emails": ["JYamamoto@house.idaho.gov"],
+     "phones": ["(208) 332-1052"]
+   }]
+ },
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:11": {
@@ -35910,80 +35684,29 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:12": {
-        "name": "Idaho State House district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 12",
-        "divisionId": "ocd-division/country:us/state:id/sldl:12",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert Anderst",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:12",
-        "overwrite_name": "Robert Anderst",
-        "emails": [
-          "Robert.Anderst@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1178"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:12": {
-        "name": "Idaho State House district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 12",
-        "divisionId": "ocd-division/country:us/state:id/sldl:12",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rick D. Youngblood",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:12",
-        "overwrite_name": "Rick D. Youngblood",
-        "emails": [
-          "Rick.Youngblood@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1059"
-        ]
-      }
-    ]
-  },
+ {
+   "divisions": {
+     "ocd-division/country:us/state:id/sldl:12": {
+       "name": "Idaho State House district 12",
+       "overwrite": "true",
+       "officeIndices": [0]
+     }
+   },
+   "offices": [{
+     "name": "ID State House District 12",
+     "divisionId": "ocd-division/country:us/state:id/sldl:12",
+     "roles": ["legislatorLowerBody"],
+     "officialIndices": [0]
+   }],
+   "officials": [{
+     "name": "Bruce D. Skaug",
+     "party": "Republican Party",
+     "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:12",
+     "overwrite_name": "Robert Anderst",
+     "emails": ["BSkaug@house.idaho.gov"],
+     "phones": ["(208) 332-1178"]
+   }]
+ }, 
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:13": {
@@ -36008,12 +35731,12 @@
     ],
     "officials": [
       {
-        "name": "Gary E. Collins",
+        "name": "Ben Adams",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:13",
         "overwrite_name": "Gary E. Collins",
         "emails": [
-          "Gary.Collins@house.idaho.gov"
+          "badams@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1063"
@@ -36137,75 +35860,24 @@
       "ocd-division/country:us/state:id/sldl:15": {
         "name": "Idaho State House district 15",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 15",
-        "divisionId": "ocd-division/country:us/state:id/sldl:15",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Steve Berch",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:15",
-        "overwrite_name": "Steve Berch",
-        "emails": [
-          "Steve.Berch@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1039"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:15": {
-        "name": "Idaho State House district 15",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 15",
-        "divisionId": "ocd-division/country:us/state:id/sldl:15",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jake Ellis",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:15",
-        "overwrite_name": "Jake Ellis",
-        "emails": [
-          "Jake.Ellis@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1176"
-        ]
-      }
-    ]
-  },
+    "offices": [{
+      "name": "ID State House District 15",
+      "divisionId": "ocd-division/country:us/state:id/sldl:15",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Codi  Galloway",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:15",
+      "overwrite_name": "Jake Ellis",
+      "emails": ["CodiGalloway@house.idaho.gov"],
+      "phones": ["(208) 332-1176"]
+    }]
+  }, 
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:16": {
@@ -36230,56 +35902,19 @@
     ],
     "officials": [
       {
-        "name": "Rob Mason",
+        "name": "Colin Nash",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:16",
         "overwrite_name": "Rob Mason",
         "emails": [
-          "Rob.Mason@house.idaho.gov"
+          "CNash@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1075"
         ]
       }
     ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:16": {
-        "name": "Idaho State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 16",
-        "divisionId": "ocd-division/country:us/state:id/sldl:16",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John McCrostie",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:16",
-        "overwrite_name": "John McCrostie",
-        "emails": [
-          "John.McCrostie@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1083"
-        ]
-      }
-    ]
-  },
+},
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:17": {
@@ -36452,15 +36087,15 @@
     ],
     "officials": [
       {
-        "name": "Melissa Wintrow",
+        "name": "Lauren  Necochea",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:19",
         "overwrite_name": "Melissa Wintrow",
         "emails": [
-          "mwintrow@house.idaho.gov"
+          "LNecochea@house.idaho.gov"
         ],
         "phones": [
-          "(208) 332-1076"
+          "(208) 332-1078"
         ]
       }
     ]
@@ -36637,52 +36272,15 @@
     ],
     "officials": [
       {
-        "name": "Christy Zito",
+        "name": "Matthew  \"Matt\"  Bundy",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:23",
         "overwrite_name": "Christy Zito",
         "emails": [
-          "Christy.Zito@house.idaho.gov"
+          "MBundy@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1181"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:23": {
-        "name": "Idaho State House district 23",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 23",
-        "divisionId": "ocd-division/country:us/state:id/sldl:23",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Megan C. Blanksma",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:23",
-        "overwrite_name": "Megan C. Blanksma",
-        "emails": [
-          "Megan.Blanksma@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1054"
         ]
       }
     ]
@@ -37081,12 +36679,12 @@
     ],
     "officials": [
       {
-        "name": "Elaine Smith",
+        "name": "James D. Ruchti",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:29",
         "overwrite_name": "Elaine Smith",
         "emails": [
-          "Elaine.Smith@house.idaho.gov"
+          "JRuchti@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1031"
@@ -37094,154 +36692,29 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:29": {
-        "name": "Idaho State House district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 29",
-        "divisionId": "ocd-division/country:us/state:id/sldl:29",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Chris Abernathy",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:29",
-        "overwrite_name": "Chris Abernathy",
-        "emails": [
-          "Chris.Abernathy@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1079"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:30": {
-        "name": "Idaho State House district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 30",
-        "divisionId": "ocd-division/country:us/state:id/sldl:30",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kevin Cook",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:30",
-        "overwrite_name": "Kevin Cook",
-        "emails": [
-          "KCook@senate.idaho.gov"
-        ],
-        "phones": [
-          "(208) 521-6776"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:30": {
-        "name": "Idaho State House district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 30",
-        "divisionId": "ocd-division/country:us/state:id/sldl:30",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Wendy Horman",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:30",
-        "overwrite_name": "Wendy Horman",
-        "emails": [
-          "Wendy.Horman@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1071"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:30": {
-        "name": "Idaho State House district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 30",
-        "divisionId": "ocd-division/country:us/state:id/sldl:30",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gary L Marshall",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:30",
-        "overwrite_name": "Gary L Marshall",
-        "emails": [
-          "Gary.Marshall@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1081"
-        ]
-      }
-    ]
-  },
+ {
+   "divisions": {
+     "ocd-division/country:us/state:id/sldl:29": {
+       "name": "Idaho State House district 29",
+       "overwrite": "true",
+       "officeIndices": [0]
+     }
+   },
+   "offices": [{
+     "name": "ID State House District 29",
+     "divisionId": "ocd-division/country:us/state:id/sldl:29",
+     "roles": ["legislatorLowerBody"],
+     "officialIndices": [0]
+   }],
+   "officials": [{
+     "name": "Dustin Manwaring",
+     "party": "Republican Party",
+     "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:29",
+     "overwrite_name": "Chris Abernathy",
+     "emails": ["DManwaring@house.idaho.gov"],
+     "phones": ["(208) 332-1079"]
+   }]
+ },
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:31": {
@@ -37266,12 +36739,12 @@
     ],
     "officials": [
       {
-        "name": "Neil A. Anderson",
+        "name": "David M. Cannon",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:31",
         "overwrite_name": "Neil A. Anderson",
         "emails": [
-          "Neil.Anderson@house.idaho.gov"
+          "DCannon@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1086"
@@ -37281,114 +36754,26 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:id/sldl:31": {
-        "name": "Idaho State House district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 31",
-        "divisionId": "ocd-division/country:us/state:id/sldl:31",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Julianne Young",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:31",
-        "overwrite_name": "Julianne Young",
-        "emails": [
-          "Julianne.Young@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1038"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:id/sldl:33": {
         "name": "Idaho State House district 33",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 33",
-        "divisionId": "ocd-division/country:us/state:id/sldl:33",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Bryan N. Zollinger",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:33",
-        "overwrite_name": "Bryan N. Zollinger",
-        "emails": [
-          "Bryan.Zollinger@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1073"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:33": {
-        "name": "Idaho State House district 33",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 33",
-        "divisionId": "ocd-division/country:us/state:id/sldl:33",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Barbara Ehardt",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:33",
-        "overwrite_name": "Barbara Ehardt",
-        "emails": [
-          "Barbara.Ehardt@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1189"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "ID State House District 33",
+      "divisionId": "ocd-division/country:us/state:id/sldl:33",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Marco  Erickson",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:33",
+      "overwrite_name": "Bryan N. Zollinger",
+      "emails": ["MErickson@house.idaho.gov"],
+      "phones": ["(208) 332-1073"]
+    }]
   },
   {
     "divisions": {
@@ -37423,6 +36808,43 @@
         ],
         "phones": [
           "(208) 332-1042"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:id/sldl:21": {
+        "name": "Idaho State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ID State House District 21",
+        "divisionId": "ocd-division/country:us/state:id/sldl:21",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg  Ferch",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:21",
+        "overwrite_name": "Megan Kiska",
+        "emails": [
+          "GFerch@house.idaho.gov"
+        ],
+        "phones": [
+          "(208) 332-1072"
         ]
       }
     ]
@@ -37469,111 +36891,45 @@
       "ocd-division/country:us/state:id/sldl:34": {
         "name": "Idaho State House district 34",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 34",
-        "divisionId": "ocd-division/country:us/state:id/sldl:34",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Doug Ricks",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:34",
-        "overwrite_name": "Doug Ricks",
-        "emails": [
-          "Doug.Ricks@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1053"
-        ]
-      }
-    ]
-  },
-  {
+    "offices": [{
+      "name": "ID State House District 34",
+      "divisionId": "ocd-division/country:us/state:id/sldl:34",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Jon O. Weber",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:34",
+      "overwrite_name": "Britt Raybould",
+      "emails": ["JWeber@house.idaho.gov"],
+      "phones": ["(208) 332-1053"]
+    }]
+  }, {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:34": {
         "name": "Idaho State House district 34",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ID State House District 34",
-        "divisionId": "ocd-division/country:us/state:id/sldl:34",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Britt Raybould",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:34",
-        "overwrite_name": "Britt Raybould",
-        "emails": [
-          "Britt.Raybould@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1173"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:35": {
-        "name": "Idaho State House district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 35",
-        "divisionId": "ocd-division/country:us/state:id/sldl:35",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Van Burtenshaw",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:35",
-        "overwrite_name": "Van Burtenshaw",
-        "emails": [
-          "VBurtenshaw@senate.idaho.gov"
-        ],
-        "phones": [
-          "(208) 663-4607"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "ID State House District 34",
+      "divisionId": "ocd-division/country:us/state:id/sldl:34",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Ron Nate",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:34",
+      "overwrite_name": "Doug Ricks",
+      "emails": ["NateR@house.idaho.gov"],
+      "phones": ["(208) 332-1173"]
+    }]
   },
   {
     "divisions": {
@@ -37599,49 +36955,12 @@
     ],
     "officials": [
       {
-        "name": "Rod Furniss",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:35",
-        "overwrite_name": "Rod Furniss",
-        "emails": [
-          "Rod.Furniss@legis.iowa.gov"
-        ],
-        "phones": [
-          "(208) 332-1056"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:35": {
-        "name": "Idaho State House district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 35",
-        "divisionId": "ocd-division/country:us/state:id/sldl:35",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jerald Raymond",
+        "name": "Karey Hanks",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:35",
         "overwrite_name": "Jerald Raymond",
         "emails": [
-          "Jerald.Raymond@legis.iowa.gov"
+          "KHanks@house.idaho.gov"
         ],
         "phones": [
           "(208) 332-1179"

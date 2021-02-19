@@ -15733,5 +15733,235 @@
             ]
           }
           ]
-        }
+        },
+        {
+          "divisions": {
+          "ocd-division/country:us/state:nj/sldu:18": {
+          "name": "New Jersey State Senate district 18",
+          "overwrite": "true",
+          "officeIndices": [0]
+          }
+          },
+          "offices": [{
+          "name": "NJ State Senate District 18",
+          "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+          "roles": ["legislatorUpperBody"],
+          "officialIndices": [0]
+          }],
+          "officials": [{
+          "name": "Patrick J. Diegnan Jr.",
+          "party": "Democratic",
+          "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:18",
+          "overwrite_name": "Patrick J. Diegnan Jr.",
+          "emails": ["senDiegnan@njleg.org"],
+          "phones": ["(908) 757-1677"]
+          }]
+        },
+        {
+          "divisions": {
+          "ocd-division/country:us/state:nj/sldu:19": {
+          "name": "New Jersey State Senate district 19",
+          "overwrite": "true",
+          "officeIndices": [0]
+          }
+          },
+          "offices": [{
+          "name": "NJ State Senate District 19",
+          "divisionId": "ocd-division/country:us/state:nj/sldu:19",
+          "roles": ["legislatorUpperBody"],
+          "officialIndices": [0]
+          }],
+          "officials": [{
+          "name": "Joseph F. Vitale",
+          "party": "Democratic",
+          "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:19",
+          "overwrite_name": "Joseph F. Vitale",
+          "emails": ["senVitale@njleg.org"],
+          "phones": ["(732) 855-7441"]
+          }]
+          },
+          {
+            "divisions": {
+            "ocd-division/country:us/state:nj/sldu:20": {
+            "name": "New Jersey State Senate district 20",
+            "overwrite": "true",
+            "officeIndices": [0]
+            }
+            },
+            "offices": [{
+            "name": "NJ State Senate District 20",
+            "divisionId": "ocd-division/country:us/state:nj/sldu:20",
+            "roles": ["legislatorUpperBody"],
+            "officialIndices": [0]
+            }],
+            "officials": [{
+            "name": "Joseph P. Cryan",
+            "party": "Democratic",
+            "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:20",
+            "overwrite_name": "Joseph P. Cryan",
+            "emails": ["senCryan@njleg.org"],
+            "phones": ["(908) 624-0880"]
+            }]
+            },
+            {
+              "divisions": {
+              "ocd-division/country:us/state:nj/sldu:29": {
+              "name": "New Jersey State Senate district 29",
+              "overwrite": "true",
+              "officeIndices": [0]
+              }
+              },
+              "offices": [{
+              "name": "NJ State Senate District 29",
+              "divisionId": "ocd-division/country:us/state:nj/sldu:29",
+              "roles": ["legislatorUpperBody"],
+              "officialIndices": [0]
+              }],
+              "officials": [{
+              "name": "M. Teresa Ruiz",
+              "party": "Democratic",
+              "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:29",
+              "overwrite_name": "M. Teresa Ruiz",
+              "emails": ["senRuiz@njleg.org"],
+              "phones": ["(973) 484-1000"]
+              }]
+            },
+            {
+              "divisions": {
+              "ocd-division/country:us/state:nj/sldu:32": {
+              "name": "New Jersey State Senate district 32",
+              "overwrite": "true",
+              "officeIndices": [0]
+              }
+              },
+              "offices": [{
+              "name": "NJ State Senate District 32",
+              "divisionId": "ocd-division/country:us/state:nj/sldu:32",
+              "roles": ["legislatorUpperBody"],
+              "officialIndices": [0]
+              }],
+              "officials": [{
+              "name": "Nicholas J. Sacco",
+              "party": "Democratic",
+              "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:32",
+              "overwrite_name": "Nicholas J. Sacco",
+              "emails": ["senSacco@njleg.org"],
+              "phones": ["(201) 295-0200"]
+              }]
+            },
+            {
+              "divisions": {
+              "ocd-division/country:us/state:nj/sldu:33": {
+              "name": "New Jersey State Senate district 33",
+              "overwrite": "true",
+              "officeIndices": [0]
+              }
+              },
+              "offices": [{
+              "name": "NJ State Senate District 33",
+              "divisionId": "ocd-division/country:us/state:nj/sldu:33",
+              "roles": ["legislatorUpperBody"],
+              "officialIndices": [0]
+              }],
+              "officials": [{
+              "name": "Brian P. Stack",
+              "party": "Democratic",
+              "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:33",
+              "overwrite_name": "Brian P. Stack",
+              "emails": ["senStack@njleg.org"],
+              "phones": ["(201) 721-5263"]
+              }]
+            },
+            {
+              "divisions": {
+              "ocd-division/country:us/state:nj/sldu:35": {
+              "name": "New Jersey State Senate district 35",
+              "overwrite": "true",
+              "officeIndices": [0]
+              }
+              },
+              "offices": [{
+              "name": "NJ State Senate District 35",
+              "divisionId": "ocd-division/country:us/state:nj/sldu:35",
+              "roles": ["legislatorUpperBody"],
+              "officialIndices": [0]
+              }],
+              "officials": [{
+              "name": "Nellie Pou",
+              "party": "Democratic",
+              "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:35",
+              "overwrite_name": "Nellie Pou",
+              "emails": ["senPou@njleg.org"],
+              "phones": ["(973) 247-1555"]
+              }]
+            },
+            {
+              "divisions": {
+              "ocd-division/country:us/state:nj/sldu:37": {
+              "name": "New Jersey State Senate district 37",
+              "overwrite": "true",
+              "officeIndices": [0]
+              }
+              },
+              "offices": [{
+              "name": "NJ State Senate District 37",
+              "divisionId": "ocd-division/country:us/state:nj/sldu:37",
+              "roles": ["legislatorUpperBody"],
+              "officialIndices": [0]
+              }],
+              "officials": [{
+              "name": "Loretta Weinberg",
+              "party": "Democratic",
+              "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:37",
+              "overwrite_name": "Loretta Weinberg",
+              "emails": ["senWeinberg@njleg.org"],
+              "phones": ["(201) 928-0100"]
+              }]
+              },
+              {
+                "divisions": {
+                "ocd-division/country:us/state:nj/sldu:38": {
+                "name": "New Jersey State Senate district 38",
+                "overwrite": "true",
+                "officeIndices": [0]
+                }
+                },
+                "offices": [{
+                "name": "NJ State Senate District 38",
+                "divisionId": "ocd-division/country:us/state:nj/sldu:38",
+                "roles": ["legislatorUpperBody"],
+                "officialIndices": [0]
+                }],
+                "officials": [{
+                "name": "Joseph Lagana",
+                "party": "Democratic",
+                "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:38",
+                "overwrite_name": "Joseph Lagana",
+                "emails": ["senLagana@njleg.org"],
+                "phones": ["(201) 576-9199"]
+                }]
+                },
+                {
+                  "divisions": {
+                  "ocd-division/country:us/state:nj/sldu:40": {
+                  "name": "New Jersey State Senate district 40",
+                  "overwrite": "true",
+                  "officeIndices": [0]
+                  }
+                  },
+                  "offices": [{
+                  "name": "NJ State Senate District 40",
+                  "divisionId": "ocd-division/country:us/state:nj/sldu:40",
+                  "roles": ["legislatorUpperBody"],
+                  "officialIndices": [0]
+                  }],
+                  "officials": [{
+                  "name": "Kristin M. Corrado",
+                  "party": "Republican",
+                  "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:40",
+                  "overwrite_name": "Kristin M. Corrado",
+                  "emails": ["senCorrado@njleg.org"],
+                  "phones": ["(973) 237-1360"]
+                  }]
+                }
 ]

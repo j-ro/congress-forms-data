@@ -7253,7 +7253,31 @@
         ]
       }
     ]
-  }, {
+  }, 
+  {
+	  "divisions": {
+		  "ocd-division/country:us/state:nj/sldu:21": {
+			  "name": "New Jersey State House district 21",
+			  "overwrite": "true",
+			  "officeIndices": [0]
+		  }
+	  },
+	  "offices": [{
+		  "name": "NJ State House District 21",
+		  "divisionId": "ocd-division/country:us/state:nj/sldu:21",
+		  "roles": ["legislatorLowerBody"],
+		  "officialIndices": [0]
+	  }],
+	  "officials": [{
+		  "name": "Jon M. Bramnick",
+		  "party": "Republican",
+		  "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:21",
+		  "overwrite_name": "Jon M. Bramnick",
+		  "emails": ["asmBramnick@njleg.org"],
+		  "phones": ["(908) 232-2073"]
+	  }]
+  },
+  {
 	"divisions": {
 		"ocd-division/country:us/state:nj/sldu:25": {
 			"name": "New Jersey State Senate district 25",

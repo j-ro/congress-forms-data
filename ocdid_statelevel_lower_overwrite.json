@@ -61082,5 +61082,51 @@
       "emails": ["asmBramnick@njleg.org"],
       "phones": ["(908) 232-2073"]
     }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:27": {
+        "name": "New Jersey State House district 27",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "NJ State House District 27",
+      "divisionId": "ocd-division/country:us/state:nj/sldu:27",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Mila M. Jasey",
+      "party": "Democratic",
+      "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:27",
+      "overwrite_name": "Mila M. Jasey",
+      "emails": ["aswJasey@njleg.org"],
+      "phones": ["(973) 762-1886"]
+    }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:34": {
+        "name": "New Jersey State House district 34",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "NJ State House District 34",
+      "divisionId": "ocd-division/country:us/state:nj/sldu:34",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Thomas P. Giblin",
+      "party": "Democratic",
+      "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:34",
+      "overwrite_name": "Thomas P. Giblin",
+      "emails": ["asmGiblin@njleg.org"],
+      "phones": ["(973) 779-3125"]
+    }]
   }
 ]

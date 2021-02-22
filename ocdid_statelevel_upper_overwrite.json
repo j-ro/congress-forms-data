@@ -6192,6 +6192,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldu:32": {
+        "name": "Ohio State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:32",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sandra O'Brien",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:32",
+        "overwrite_name": "Sean J. O'Brien",
+        "emails": [
+          "sd32@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-7182"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
       "ocd-division/country:us/state:or/sldu:5": {

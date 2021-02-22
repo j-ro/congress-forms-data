@@ -51318,7 +51318,33 @@
           "(207) 646-2409"
         ]
 	}]
-}, {
+}, 
+{
+	"divisions": {
+		"ocd-division/country:us/state:me/sldu:13": {
+			"name": "Maine State Senate district 13",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "ME State Senate District 13",
+		"divisionId": "ocd-division/country:us/state:me/sldu:13",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Chloe S. Maxmin",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:me/sldu:13",
+		"overwrite_name": "Dana L. Dow",
+		"emails": ["Chloe.Maxmin@legislature.maine.gov"],
+		"phones": [
+		  "(207) 287-1515"
+		]
+	}]
+},
+{
 	"divisions": {
 		"ocd-division/country:us/state:me/sldu:17": {
 			"name": "Maine State Senate district 17",

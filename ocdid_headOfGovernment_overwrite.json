@@ -615,7 +615,13 @@
         "name": "Greg Gianforte",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:mt",
-        "overwrite_name": "Greg Gianforte"
+        "overwrite_name": "Greg Gianforte",
+		"emails": [
+			  "governor@mt.gov"
+			],
+			"phones": [
+			  "855-318-1330"
+			]
       }
     ]
   },

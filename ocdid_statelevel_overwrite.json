@@ -7302,22 +7302,22 @@
 	},
 	{
 		"divisions": {
-		"ocd-division/country:us/state:nj/sldu:1": {
-		  "name": "New Jersey State House district 1",
+		"ocd-division/country:us/state:nj/sldu:13": {
+		  "name": "New Jersey State House district 13",
 		  "overwrite": "true",
 		  "officeIndices": [0]
 		}
 		},
 		"offices": [{
-		"name": "NJ State House District 1",
-		"divisionId": "ocd-division/country:us/state:nj/sldu:1",
+		"name": "NJ State House District 13",
+		"divisionId": "ocd-division/country:us/state:nj/sldu:13",
 		"roles": ["legislatorLowerBody"],
 		"officialIndices": [0]
 		}],
 		"officials": [{
 		"name": "Gerard Scharfenberger",
 		"party": "Republican",
-		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+		"overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:13",
 		"overwrite_name": "Gerard Scharfenberger",
 		"emails": ["asmScharfenberger@njleg.org"],
 		"phones": ["(732) 856-9294"]

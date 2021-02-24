@@ -2459,37 +2459,22 @@
       "ocd-division/country:us/state:ia/sldu:41": {
         "name": "Iowa State Senate district 41",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "IA State Senate District 41",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:41",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mariannette Miller-Meeks",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
-        "overwrite_name": "Mariannette Miller-Meeks",
-        "emails": [
-          "mariannette.miller-meeks@legis.iowa.gov"
-        ],
-        "phones": [
-          "515.281.3371"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "IA State Senate District 41",
+      "divisionId": "ocd-division/country:us/state:ia/sldu:41",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Adrian Dickey",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
+      "overwrite_name": "Mariannette Miller-Meeks",
+      "emails": ["Adrian.Dickey@legis.iowa.gov"]
+    }]
   },
 	{
     "divisions": {

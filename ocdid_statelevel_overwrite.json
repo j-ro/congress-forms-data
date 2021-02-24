@@ -54987,7 +54987,31 @@
 		"emails": ["susan.rubio@cga.ct.gov"],
 		"phones": ["(626) 430-2499"]
 	}]
-},   {
+}, 
+{
+	"divisions": {
+		"ocd-division/country:us/state:id/sldu:7": {
+			"name": "Idaho State House district 7",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "ID State House District 7",
+		"divisionId": "ocd-division/country:us/state:id/sldu:7",
+		"roles": ["legislatorLowerBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Charlie  Shepherd",
+		"party": "Republican Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:id/sldu:7",
+		"overwrite_name": "Paul E. Shepherd",
+		"emails": ["CShepherd@house.idaho.gov"],
+		"phones": ["(208) 332-1067"]
+	}]
+},
+  {
 	"divisions": {
 		"ocd-division/country:us/state:id/sldu:35": {
 			"name": "Idaho State Senate district 35",

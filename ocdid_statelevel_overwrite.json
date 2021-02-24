@@ -59936,6 +59936,43 @@
 	         }
 	      ]
 	   },
+	   {
+			 "divisions": {
+				"ocd-division/country:us/state:ky/sldu:29": {
+				   "name": "Kentucky State Senate district 29",
+				   "overwrite": "true",
+				   "officeIndices": [
+					  0
+				   ]
+				}
+			 },
+			 "offices": [
+				{
+				   "name": "KY State Senate District 29",
+				   "divisionId": "ocd-division/country:us/state:ky/sldu:29",
+				   "roles": [
+					  "legislatorUpperBody"
+				   ],
+				   "officialIndices": [
+					  0
+				   ]
+				}
+			 ],
+			 "officials": [
+				{
+				   "name": "Johnnie Turner",
+				   "party": "Republican Party",
+				   "overwrite_ocdid": "ocd-division/country:us/state:ky/sldu:29",
+				   "overwrite_name": "Johnny Ray Turner",
+				   "emails": [
+					  "Johnnie.Turner@lrc.ky.gov"
+				   ],
+				   "phones": [
+					  "502-564-8100"
+				   ]
+				}
+			 ]
+		  },
 	{
 	      "divisions": {
 	         "ocd-division/country:us/state:ky/sldu:7": {

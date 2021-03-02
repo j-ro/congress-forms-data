@@ -1967,5 +1967,42 @@
  		]
 	  }
 	 ]
-	}
+	},
+	{
+		 "divisions": {
+		  "ocd-division/country:us/state:oh/cd:8": {
+		   "name": "Ohio's 8th congressional district",
+		   "overwrite": "true",
+		   "officeIndices": [
+			0
+		   ]
+		  }
+		 },
+		 "offices": [
+		  {
+		   "name": "United States House of Representatives OH-08",
+		   "divisionId": "ocd-division/country:us/state:oh/cd:8",
+		   "levels": [
+			"country"
+		   ],
+		   "roles": [
+			"legislatorLowerBody"
+		   ],
+		   "officialIndices": [
+			0
+		   ]
+		  }
+		 ],
+		 "officials": [
+		  {
+			 "name": "Warren Davidson",
+			  "overwrite_ocdid": "ocd-division/country:us/state:oh/cd:8",
+			  "overwrite_name": "Warren Davidson",
+			  "party": "Republican",
+			  "phones": [
+				  "(202) 225-6205"
+			 ]
+		  }
+		 ]
+		}
 ]

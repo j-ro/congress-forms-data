@@ -51342,7 +51342,31 @@
           "(207) 645-2990"
         ]
 	}]
-},  {
+},   {
+	"divisions": {
+		"ocd-division/country:us/state:me/sldu:11": {
+			"name": "Maine State Senate district 11",
+			"overwrite": "true",
+			"officeIndices": [0]
+		}
+	},
+	"offices": [{
+		"name": "ME State Senate District 11",
+		"divisionId": "ocd-division/country:us/state:me/sldu:11",
+		"roles": ["legislatorUpperBody"],
+		"officialIndices": [0]
+	}],
+	"officials": [{
+		"name": "Erin D. Herbig",
+		"party": "Democratic Party",
+		"overwrite_ocdid": "ocd-division/country:us/state:me/sldu:11",
+		"overwrite_name": "Erin D. Herbig",
+		"emails": ["erin.herbig@legislature.maine.gov"],
+    "phones": [
+      "(207) 287-1515"
+    ]
+	}]
+},   {
 	"divisions": {
 		"ocd-division/country:us/state:mi/sldu:34": {
 			"name": "Michigan State Senate district 34",

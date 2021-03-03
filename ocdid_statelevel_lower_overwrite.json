@@ -35136,6 +35136,29 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:id/sldu:7": {
+        "name": "Idaho State House district 7",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "ID State House District 7",
+      "divisionId": "ocd-division/country:us/state:id/sldu:7",
+      "roles": ["legislatorLowerBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Charlie  Shepherd",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:7",
+      "overwrite_name": "Paul E. Shepherd",
+      "emails": ["CShepherd@house.idaho.gov"],
+      "phones": ["(208) 332-1067"]
+    }]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:id/sldl:5": {
         "name": "Idaho State House district 5",
         "overwrite": "true",
@@ -61154,22 +61177,22 @@
   },
   {
     "divisions": {
-    "ocd-division/country:us/state:nj/sldu:1": {
-      "name": "New Jersey State House district 1",
+    "ocd-division/country:us/state:nj/sldu:13": {
+      "name": "New Jersey State House district 13",
       "overwrite": "true",
       "officeIndices": [0]
     }
     },
     "offices": [{
-    "name": "NJ State House District 1",
-    "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+    "name": "NJ State House District 13",
+    "divisionId": "ocd-division/country:us/state:nj/sldu:13",
     "roles": ["legislatorLowerBody"],
     "officialIndices": [0]
     }],
     "officials": [{
     "name": "Gerard Scharfenberger",
     "party": "Republican",
-    "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:1",
+    "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:13",
     "overwrite_name": "Gerard Scharfenberger",
     "emails": ["asmScharfenberger@njleg.org"],
     "phones": ["(732) 856-9294"]

@@ -2459,37 +2459,22 @@
       "ocd-division/country:us/state:ia/sldu:41": {
         "name": "Iowa State Senate district 41",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "IA State Senate District 41",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:41",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mariannette Miller-Meeks",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
-        "overwrite_name": "Mariannette Miller-Meeks",
-        "emails": [
-          "mariannette.miller-meeks@legis.iowa.gov"
-        ],
-        "phones": [
-          "515.281.3371"
-        ]
-      }
-    ]
+    "offices": [{
+      "name": "IA State Senate District 41",
+      "divisionId": "ocd-division/country:us/state:ia/sldu:41",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Adrian Dickey",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
+      "overwrite_name": "Mariannette Miller-Meeks",
+      "emails": ["Adrian.Dickey@legis.iowa.gov"]
+    }]
   },
 	{
     "divisions": {
@@ -3991,6 +3976,43 @@
 	  }
 	 ]
 	},
+  {
+     "divisions": {
+      "ocd-division/country:us/state:ky/sldu:29": {
+         "name": "Kentucky State Senate district 29",
+         "overwrite": "true",
+         "officeIndices": [
+          0
+         ]
+      }
+     },
+     "offices": [
+      {
+         "name": "KY State Senate District 29",
+         "divisionId": "ocd-division/country:us/state:ky/sldu:29",
+         "roles": [
+          "legislatorUpperBody"
+         ],
+         "officialIndices": [
+          0
+         ]
+      }
+     ],
+     "officials": [
+      {
+         "name": "Johnnie Turner",
+         "party": "Republican Party",
+         "overwrite_ocdid": "ocd-division/country:us/state:ky/sldu:29",
+         "overwrite_name": "Johnny Ray Turner",
+         "emails": [
+          "Johnnie.Turner@lrc.ky.gov"
+         ],
+         "phones": [
+          "502-564-8100"
+         ]
+      }
+     ]
+    },
 	{
     "divisions": {
       "ocd-division/country:us/state:ky/sldu:5": {
@@ -4324,6 +4346,131 @@
 	  }
 	 ]
 	},
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:13": {
+        "name": "Maine State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "ME State Senate District 13",
+      "divisionId": "ocd-division/country:us/state:me/sldu:13",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Chloe S. Maxmin",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:13",
+      "overwrite_name": "Dana L. Dow",
+      "emails": ["Chloe.Maxmin@legislature.maine.gov"],
+      "phones": [
+        "(207) 287-1515"
+      ]
+    }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:31": {
+        "name": "Maine State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "ME State Senate District 31",
+      "divisionId": "ocd-division/country:us/state:me/sldu:31",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Donna Bailey",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:31",
+      "overwrite_name": "Justin M. Chenette",
+      "emails": ["Donna.Bailey@legislature.maine.gov"],
+      "phones": [
+        "(207) 287-1515"
+      ]
+    }]
+  },
+  {
+    "divisions": {
+    "ocd-division/country:us/state:me/sldu:9": {
+      "name": "Maine State Senate district 9",
+      "overwrite": "true",
+      "officeIndices": [0]
+    }
+    },
+    "offices": [{
+    "name": "ME State Senate District 9",
+    "divisionId": "ocd-division/country:us/state:me/sldu:9",
+    "roles": ["legislatorUpperBody"],
+    "officialIndices": [0]
+    }],
+    "officials": [{
+    "name": "Joseph Baldacci",
+    "party": "Democratic Party",
+    "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:9",
+    "overwrite_name": "Geoffrey M. Gratwick",
+    "emails": ["Joe.Baldacci@legislature.maine.gov"],
+    "phones": [
+      "(207) 287-1515"
+    ]
+    }]
+  },
+  {
+    "divisions": {
+    "ocd-division/country:us/state:me/sldu:19": {
+      "name": "Maine State Senate district 19",
+      "overwrite": "true",
+      "officeIndices": [0]
+    }
+    },
+    "offices": [{
+    "name": "ME State Senate District 19",
+    "divisionId": "ocd-division/country:us/state:me/sldu:19",
+    "roles": ["legislatorUpperBody"],
+    "officialIndices": [0]
+    }],
+    "officials": [{
+    "name": "Richard Bennett",
+    "party": "Republican Party",
+    "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:19",
+    "overwrite_name": "James M. Hamper",
+    "emails": ["Richard.Bennett@legislature.maine.gov"],
+    "phones": [
+      "(207) 287-1505"
+    ]
+    }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:2": {
+        "name": "Maine State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "ME State Senate District 2",
+      "divisionId": "ocd-division/country:us/state:me/sldu:2",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Trey Stewart",
+      "party": "Republican Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:2",
+      "overwrite_name": "Michael E. Carpenter",
+      "emails": ["Trey.Stewart@Legislature.maine.gov"],
+      "phones": [
+            "(207) 287-1505"
+          ]
+    }]
+  }, 
 	{
 	    "divisions": {
 	      "ocd-division/country:us/state:me/sldu:28": {
@@ -4477,75 +4624,76 @@
       "ocd-division/country:us/state:me/sldu:30": {
         "name": "Maine State Senate district 30",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-		"name": "ME State Senate District 30",
-		"divisionId": "ocd-division/country:us/state:me/sldu:30",
-		"roles": [
-			"legislatorUpperBody"
-		],
-		"officialIndices": [
-			0
-		]
-	}
-],
-"officials": [
-	{
-		"name": "Linda F. Sanborn",
-		"party": "Democratic Party",
-		"overwrite_ocdid": "ocd-division/country:us/state:me/sldu:30",
-		"overwrite_name": "Linda F. Sanborn",
-		"emails": [
-			"linda.sanborn@legislature.maine.gov"
-		],
-        "phones": [
-          "(207) 939-2879"
-        ]
-	}
-]
-},
+    "offices": [{
+      "name": "ME State Senate District 30",
+      "divisionId": "ocd-division/country:us/state:me/sldu:30",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Stacy Brenner",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:30",
+      "overwrite_name": "Linda F. Sanborn",
+      "emails": ["Stacy.Brenner@legislature.maine.gov"],
+          "phones": [
+            "(207) 287-1515"
+          ]
+    }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:29": {
+        "name": "Maine State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [0]
+      }
+    },
+    "offices": [{
+      "name": "ME State Senate District 29",
+      "divisionId": "ocd-division/country:us/state:me/sldu:29",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Anne Carney",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:29",
+      "overwrite_name": "Rebecca J. Millett",
+      "emails": ["Anne.Carney@legislature.maine.gov"],
+          "phones": [
+            "(207) 287-1515"
+          ]
+    }]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:me/sldu:34": {
         "name": "Maine State Senate district 34",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ME State Senate District 34",
-        "divisionId": "ocd-division/country:us/state:me/sldu:34",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert A. Foley",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:34",
-        "overwrite_name": "Robert A. Foley",
-        "emails": [
-          "robert.foley@legislature.maine.gov"
-        ],
-        "phones": [
-          "(207) 646-2409"
-        ]
-      }
-    ]
-  },
+    "offices": [{
+      "name": "ME State Senate District 34",
+      "divisionId": "ocd-division/country:us/state:me/sldu:34",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Joseph Rafferty",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:34",
+      "overwrite_name": "Robert A. Foley",
+      "emails": ["Joe.Rafferty@legislature.maine.gov"],
+      "phones": [
+            "(207) 287-1515"
+          ]
+    }]
+  }, 
 	{
     "divisions": {
       "ocd-division/country:us/state:me/sldu:17": {
@@ -4625,37 +4773,50 @@
       "ocd-division/country:us/state:me/sldu:11": {
         "name": "Maine State Senate district 11",
         "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
+        "officeIndices": [0]
       }
     },
-    "offices": [
-      {
-        "name": "ME State Senate District 11",
-        "divisionId": "ocd-division/country:us/state:me/sldu:11",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
+    "offices": [{
+      "name": "ME State Senate District 11",
+      "divisionId": "ocd-division/country:us/state:me/sldu:11",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Erin D. Herbig",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:11",
+      "overwrite_name": "Chip Curry",
+      "emails": ["Chip.Curry@legislature.maine.gov"],
+      "phones": [
+        "(207) 287-1515"
+      ]
+    }]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:24": {
+        "name": "Maine State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [0]
       }
-    ],
-    "officials": [
-      {
-        "name": "Erin D. Herbig",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:11",
-        "overwrite_name": "Erin D. Herbig",
-        "emails": [
-          "erin.herbig@legislature.maine.gov"
-        ],
-        "phones": [
-          "(207) 287-1515"
-        ]
-      }
-    ]
+    },
+    "offices": [{
+      "name": "ME State Senate District 24",
+      "divisionId": "ocd-division/country:us/state:me/sldu:24",
+      "roles": ["legislatorUpperBody"],
+      "officialIndices": [0]
+    }],
+    "officials": [{
+      "name": "Matthea Daughtry",
+      "party": "Democratic Party",
+      "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:24",
+      "overwrite_name": "Everett Brownie Carson",
+      "emails": ["Mattie.Daughtry@legislature.maine.gov"],
+      "phones": [
+        "(207) 287-1515"
+      ]
+    }]
   },
 	{
 	 "divisions": {

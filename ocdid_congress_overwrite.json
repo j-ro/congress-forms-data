@@ -2448,5 +2448,38 @@
 				  ]
 			   }
 			  ]
-			 }
+			},
+			{
+			 "divisions": {
+			  "ocd-division/country:us/state:nm/cd:1": {
+			   "name": "New Mexico's 1st congressional district",
+			   "overwrite": "true",
+			   "officeIndices": [
+			    0
+			   ]
+			  }
+			 },
+			 "offices": [
+			  {
+			   "name": "United States House of Representatives NM-01",
+			   "divisionId": "ocd-division/country:us/state:nm/cd:1",
+			   "levels": [
+			    "country"
+			   ],
+			   "roles": [
+			    "legislatorLowerBody"
+			   ],
+			   "officialIndices": [
+			    0
+			   ]
+			  }
+			 ],
+			 "officials": [
+			  {
+			   "name": "VACANT",
+			   "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:27",
+			   "overwrite_name": "Debra A. Haaland"
+			  }
+			 ]
+			}
 ]

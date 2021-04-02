@@ -661,5 +661,42 @@
         ]
       }
     ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ri": {
+        "name": "Rhode Island",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ri",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel J. McKee",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ri",
+        "overwrite_name": "Daniel J. McKee",
+				"emails": [
+          "governor@governor.ri.gov"
+        ],
+				"phones": [
+          "(401) 222-2080"
+        ]
+      }
+    ]
   }
 ]

@@ -2037,5 +2037,38 @@
 			 ]
 		  }
 		 ]
-		}
+	 },
+	 {
+ 		 "divisions": {
+ 		  "ocd-division/country:us/state:fl/cd:20": {
+ 		   "name": "Florida's 20th congressional district",
+ 		   "overwrite": "true",
+ 		   "officeIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 },
+ 		 "offices": [
+ 		  {
+ 		   "name": "United States House of Representatives FL-20",
+ 		   "divisionId": "ocd-division/country:us/state:fl/cd:20",
+ 		   "levels": [
+ 			"country"
+ 		   ],
+ 		   "roles": [
+ 			"legislatorLowerBody"
+ 		   ],
+ 		   "officialIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 ],
+ 		 "officials": [
+ 		  {
+ 			 "name": "VACANT",
+ 			  "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:20",
+ 			  "overwrite_name": "Alcee L. Hastings"
+ 		  }
+ 		 ]
+ 		}
 ]

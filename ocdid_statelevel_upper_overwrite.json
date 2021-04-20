@@ -2956,6 +2956,43 @@
       }
     ]
   },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:22": {
+        "name": "Illinois State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:il/sldu:22",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cristina Castro",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:22",
+        "overwrite_name": "Cristina Castro",
+        "emails": [
+          "senatorcastro@gmail.com"
+        ],
+        "phones": [
+          "(847) 214-8864"
+        ]
+      }
+    ]
+  },
   {
     "divisions": {
     "ocd-division/country:us/state:il/sldu:55": {

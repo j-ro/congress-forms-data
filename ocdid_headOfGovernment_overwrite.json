@@ -698,5 +698,39 @@
         ]
       }
     ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:hi": {
+        "name": "Hawaii",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:hi",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Ige",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi",
+        "overwrite_name": "David Ige",
+				"phones": [
+          "(808) 586-0034"
+        ]
+      }
+    ]
   }
 ]

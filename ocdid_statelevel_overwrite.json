@@ -4405,6 +4405,43 @@
     ]
   },
 	{
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:22": {
+        "name": "Illinois State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 22",
+        "divisionId": "ocd-division/country:us/state:il/sldl:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Angelica Guerrero-Cuellar",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:22",
+        "overwrite_name": "Michael J. Madigan",
+        "emails": [
+          "angieguerrerocuellar22@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-0584"
+        ]
+      }
+    ]
+  },
+	{
 	"divisions": {
 		"ocd-division/country:us/state:il/sldl:37": {
 			"name": "Illinois State House district 37",

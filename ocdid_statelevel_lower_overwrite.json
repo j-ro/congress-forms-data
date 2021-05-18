@@ -13659,6 +13659,28 @@
       }
     ]
   },
+	{
+		"divisions": {
+			"ocd-division/country:us/state:pa/sldl:154": {
+				"name": "Pennsylvania State House district 154",
+				"overwrite": "true",
+				"officeIndices": [0]
+			}
+		},
+		"offices": [{
+			"name": "PA State House District 154",
+			"divisionId": "ocd-division/country:us/state:pa/sldl:154",
+			"roles": ["legislatorLowerBody"],
+			"officialIndices": [0]
+		}],
+		"officials": [{
+			"name": "Napoleon Nelson",
+			"party": "Democratic Party",
+			"overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:154",
+			"overwrite_name": "Napoleon Nelson",
+			"phones": ["(717) 783-1079"]
+		}]
+	},
   {
     "divisions": {
       "ocd-division/country:us/state:pa/sldl:155": {

@@ -2141,5 +2141,38 @@
 				"party": "Democratic"
  		  }
  		 ]
- 		}
+	 },
+	 {
+			"divisions": {
+			 "ocd-division/country:us/state:oh/cd:15": {
+			"name": "Ohio's 15th congressional district",
+			"overwrite": "true",
+			"officeIndices": [
+			 0
+			]
+			 }
+			},
+			"offices": [
+			 {
+			"name": "United States House of Representatives OH-15",
+			"divisionId": "ocd-division/country:us/state:oh/cd:15",
+			"levels": [
+			 "country"
+			],
+			"roles": [
+			 "legislatorLowerBody"
+			],
+			"officialIndices": [
+			 0
+			]
+			 }
+			],
+			"officials": [
+			 {
+				"name": "VACANT",
+				 "overwrite_ocdid": "ocd-division/country:us/state:oh/cd:15",
+				 "overwrite_name": "Steve Stivers"
+			 }
+			]
+		}
 ]

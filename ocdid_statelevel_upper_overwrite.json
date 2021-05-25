@@ -11674,6 +11674,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:tx/sldu:30": {
+	        "name": "Texas State Senate district 30",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "TX State Senate District 30",
+	        "divisionId": "ocd-division/country:us/state:tx/sldu:30",
+	        "roles": [
+	          "legislatorUpperBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Drew Springer",
+	        "party": "Republican",
+	        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:30",
+	        "overwrite_name": "Drew Springer",
+	        "emails": [
+	          "Drew.Springer@senate.texas.gov"
+	        ],
+	        "phones": [
+	          "(512) 463-0130"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:tx/sldu:6": {
         "name": "Texas State Senate district 6",

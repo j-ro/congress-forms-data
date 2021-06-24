@@ -51887,42 +51887,6 @@
 },
 {
 	"divisions": {
-		"ocd-division/country:us/state:pa/sldu:37": {
-			"name": "Pennsylvania State Senate district 37",
-			"overwrite": "true",
-			"officeIndices": [
-				0
-			]
-		}
-	},
-	"offices": [
-		{
-			"name": "PA State Senate District 37",
-			"divisionId": "ocd-division/country:us/state:pa/sldu:37",
-			"roles": [
-				"legislatorUpperBody"
-			],
-			"officialIndices": [
-				0
-			]
-		}
-	],
-	"officials": [
-		{
-			"name": "Pam Iovino",
-			"party": "Democratic Party",
-			"overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:37",
-			"overwrite_name": "Pam Iovino",
-			"emails": [
-				"senatoriovino@pasenate.com"
-			],
-			"phones": [
-				"(717) 787-5839"
-			]
-		}
-	]
-},{
-	"divisions": {
 		"ocd-division/country:us/state:pa/sldu:34": {
 			"name": "Pennsylvania State Senate district 34",
 			"overwrite": "true",

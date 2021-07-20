@@ -2510,6 +2510,40 @@
     ]
   },
 	{
+		"divisions": {
+			"ocd-division/country:us/state:ca/sldl:29": {
+				"name": "California State House district 29",
+				"overwrite": "true",
+				"officeIndices": [
+					0
+				]
+			}
+		},
+		"offices": [
+			{
+				"name": "CA State House District 29",
+				"divisionId": "ocd-division/country:us/state:ca/sldl:29",
+				"roles": [
+					"legislatorLowerBody"
+				],
+				"officialIndices": [
+					0
+				]
+			}
+		],
+		"officials": [
+			{
+				"name": "Mark Stone",
+				"party": "Democratic Party",
+				"overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:29",
+				"overwrite_name": "Mark Stone",
+				"phones": [
+					"(916) 319-2029"
+				]
+			}
+		]
+	},
+	{
 	 "divisions": {
 	  "ocd-division/country:us/state:ca/sldl:19": {
 	   "name": "California State House district 19",

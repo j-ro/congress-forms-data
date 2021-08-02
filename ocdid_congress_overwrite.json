@@ -782,6 +782,40 @@
 },
 {
 	"divisions": {
+		"ocd-division/country:us/state:tx/cd:6": {
+			"name": "Texas's 6th congressional district",
+			"overwrite": "true",
+			"officeIndices": [
+				0
+			]
+		}
+	},
+	"offices": [
+		{
+			"name": "United States House of Representatives TX-06",
+			"divisionId": "ocd-division/country:us/state:tx/cd:6",
+			"levels": [
+				"country"
+			],
+			"roles": [
+				"legislatorLowerBody"
+			],
+			"officialIndices": [
+				0
+			]
+		}
+	],
+	"officials": [
+		{
+			"name": "Jake Ellzey",
+			"overwrite_ocdid": "ocd-division/country:us/state:tx/cd:6",
+			"overwrite_name": "VACANT",
+			"party": "Republican"
+		}
+	]
+},
+{
+	"divisions": {
 		"ocd-division/country:us/state:al/cd:2": {
 			"name": "Alabama's 2nd congressional district",
 			"overwrite": "true",

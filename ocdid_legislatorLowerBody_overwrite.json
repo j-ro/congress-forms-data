@@ -34,6 +34,39 @@
 	},
 	{
 	 "divisions": {
+	  "ocd-division/country:us/district:dc": {
+	   "name": "District of Columbia",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "District of Columbia",
+	   "divisionId": "ocd-division/country:us/district:dc",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "headofGovernment"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Vacant",
+	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
+	   "overwrite_name": "Christina D. Henderson"
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
 		"ocd-division/country:us/state:ga/cd:5": {
 		 "name": "Georgia's 5th congressional district",
 		 "overwrite": "true",
@@ -197,7 +230,7 @@
 	  {
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Robert C. White, Jr."
+	   "overwrite_name": "Robert White"
 	  }
 	 ]
 	},

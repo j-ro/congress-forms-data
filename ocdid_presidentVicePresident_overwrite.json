@@ -1,0 +1,71 @@
+[
+	{
+    "divisions": {
+      "ocd-division/country:us": {
+        "name": "President of the United States",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "President of the United States",
+        "divisionId": "ocd-division/country:us",
+        "roles": [
+					"headOfGovernment",
+			    "headOfState"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph R. Biden",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us",
+        "overwrite_name": "Joseph R. Biden",
+        "phones": [
+          "(202) 456-1111"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us": {
+        "name": "Vice President of the United States",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Vice President of the United States",
+        "divisionId": "ocd-division/country:us",
+        "roles": [
+					"deputyHeadOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kamala D. Harris",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us",
+        "overwrite_name": "Kamala D. Harris",
+        "phones": [
+          "(202) 456-1111"
+        ]
+      }
+    ]
+  }
+]

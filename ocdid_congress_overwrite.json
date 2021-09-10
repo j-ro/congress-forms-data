@@ -127,39 +127,6 @@
 	  {
 	   "name": "Vacant",
 	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "David Grosso"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "District of Columbia",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "legislatorUpperBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
 	   "overwrite_name": "Robert White"
 	  }
 	 ]
@@ -2472,7 +2439,7 @@
 			  "name": "Claudia Tenney",
 			  "party": "Republican",
 			  "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:22",
-			  "overwrite_name": "VACANT",
+			  "overwrite_name": "Claudia Tenney",
 			  "phones": [
 					 "202-225-3665"
 			  ]
@@ -2515,142 +2482,5 @@
 				  ]
 			   }
 			  ]
-			},
-			{
-			 "divisions": {
-			  "ocd-division/country:us/state:nm/cd:1": {
-			   "name": "New Mexico's 1st congressional district",
-			   "overwrite": "true",
-			   "officeIndices": [
-			    0
-			   ]
-			  }
-			 },
-			 "offices": [
-			  {
-			   "name": "United States House of Representatives NM-01",
-			   "divisionId": "ocd-division/country:us/state:nm/cd:1",
-			   "levels": [
-			    "country"
-			   ],
-			   "roles": [
-			    "legislatorLowerBody"
-			   ],
-			   "officialIndices": [
-			    0
-			   ]
-			  }
-			 ],
-			 "officials": [
-			  {
-			   "name": "Melanie Stansbury",
-			   "overwrite_ocdid": "ocd-division/country:us/state:nm/cd:1",
-			   "overwrite_name": "VACANT",
-				 "party": "Democratic"
-			  }
-			 ]
-		 },
-		 {
-				"divisions": {
-				 "ocd-division/country:us/state:fl/cd:20": {
-					"name": "Florida's 20th congressional district",
-					"overwrite": "true",
-					"officeIndices": [
-				 0
-					]
-				 }
-				},
-				"offices": [
-				 {
-					"name": "United States House of Representatives FL-20",
-					"divisionId": "ocd-division/country:us/state:fl/cd:20",
-					"levels": [
-				 "country"
-					],
-					"roles": [
-				 "legislatorLowerBody"
-					],
-					"officialIndices": [
-				 0
-					]
-				 }
-				],
-				"officials": [
-				 {
-					"name": "VACANT",
-					 "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:20",
-					 "overwrite_name": "Alcee L. Hastings"
-				 }
-				]
-			},
-			{
-	  		 "divisions": {
-	  		  "ocd-division/country:us/state:la/cd:5": {
-	  		   "name": "Louisiana's 5th congressional district",
-	  		   "overwrite": "true",
-	  		   "officeIndices": [
-	  			0
-	  		   ]
-	  		  }
-	  		 },
-	  		 "offices": [
-	  		  {
-	  		   "name": "United States House of Representatives LA-05",
-	  		   "divisionId": "ocd-division/country:us/state:la/cd:5",
-	  		   "levels": [
-	  			"country"
-	  		   ],
-	  		   "roles": [
-	  			"legislatorLowerBody"
-	  		   ],
-	  		   "officialIndices": [
-	  			0
-	  		   ]
-	  		  }
-	  		 ],
-	  		 "officials": [
-	  		  {
-	  			 "name": "Julia Letlow",
-	  			  "overwrite_ocdid": "ocd-division/country:us/state:la/cd:5",
-	  			  "overwrite_name": "VACANT",
-	 				"party": "Republican",
-	 			  "phones": [
-	 				  "(202) 225-8490"
-	 			 ]
-	  		  }
-	  		 ]
-			 },
-			 {
-				  "divisions": {
-				   "ocd-division/country:us/state:oh/cd:15": {
-					"name": "Ohio's 15th congressional district",
-					"overwrite": "true",
-					"officeIndices": [
-					 0
-					]
-				   }
-				  },
-				  "offices": [
-				   {
-					"name": "United States House of Representatives OH-15",
-					"divisionId": "ocd-division/country:us/state:oh/cd:15",
-					"levels": [
-					 "country"
-					],
-					"roles": [
-					 "legislatorLowerBody"
-					],
-					"officialIndices": [
-					 0
-					]
-				   }
-				  ],
-				  "officials": [
-				   {
-					  "name": "VACANT",
-					   "overwrite_ocdid": "ocd-division/country:us/state:oh/cd:15",
-					   "overwrite_name": "Steve Stivers"
-				   }
-				  ]
-				}
+			}
 ]

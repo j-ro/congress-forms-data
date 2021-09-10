@@ -19828,6 +19828,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:merrimack_2": {
+        "name": "New Hampshire State House district MERRIMACK_2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District MERRIMACK_2",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_2",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James L. Mason",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_2",
+        "overwrite_name": "James L. Mason",
+        "emails": [
+          "james.mason@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 271-3661"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_3": {
         "name": "New Hampshire State House district MERRIMACK_3",
         "overwrite": "true",
@@ -20123,6 +20160,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:merrimack_12": {
+	        "name": "New Hampshire State House district MERRIMACK_12",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District MERRIMACK_12",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_12",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Connie Lane",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_12",
+	        "overwrite_name": "Connie Lane",
+	        "emails": [
+	          "connie.lane@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 491-7379"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_15": {
         "name": "New Hampshire State House district MERRIMACK_15",
@@ -20159,6 +20233,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:merrimack_20": {
+	        "name": "New Hampshire State House district MERRIMACK_20",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District MERRIMACK_20",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:merrimack_20",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Nick White",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_20",
+	        "overwrite_name": "Nick White",
+	        "emails": [
+	          "nickdwhite+staterep@gmail.com"
+	        ],
+	        "phones": [
+	          "(775) 230-4642"
+	        ]
+	      }
+	    ]
+	  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_22": {
@@ -21456,6 +21567,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:belknap_4": {
+        "name": "New Hampshire State House district BELKNAP_4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District BELKNAP_4",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:belknap_4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Juliet Harvey-Bolia",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:belknap_4",
+        "overwrite_name": "Juliet Harvey-Bolia",
+        "emails": [
+          "juliet.harveybolia@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 238-6627"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_5": {
         "name": "New Hampshire State House district BELKNAP_5",
         "overwrite": "true",
@@ -21789,6 +21937,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:grafton_9": {
+        "name": "New Hampshire State House district GRAFTON_9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District GRAFTON_9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lex Berezhny",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_9",
+        "overwrite_name": "Lex Berezhny",
+        "emails": [
+          "lex@berezhny.com"
+        ],
+        "phones": [
+          "(603) 271-3661"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_11": {
         "name": "New Hampshire State House district GRAFTON_11",
         "overwrite": "true",
@@ -21824,6 +22009,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:grafton_12": {
+	        "name": "New Hampshire State House district GRAFTON_12",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District GRAFTON_12",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:grafton_12",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Mary A. Hakken-Phillips",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_12",
+	        "overwrite_name": "Mary A. Hakken-Phillips",
+	        "emails": [
+	          "mary.hakkenphillips@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 271-3661"
+	        ]
+	      }
+	    ]
+	  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_12": {
@@ -22122,6 +22344,43 @@
   },
 	{
     "divisions": {
+      "ocd-division/country:us/state:nh/sldl:cheshire_11": {
+        "name": "New Hampshire State House district CHESHIRE_11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District CHESHIRE_11",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_11",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Qualey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_11",
+        "overwrite_name": "Jim Qualey",
+        "emails": [
+          "jim.qualey@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 562-8951"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_12": {
         "name": "New Hampshire State House district CHESHIRE_12",
         "overwrite": "true",
@@ -22343,6 +22602,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:hillsborough_3": {
+	        "name": "New Hampshire State House district HILLSBOROUGH_3",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District HILLSBOROUGH_3",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Dan Pickering",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_3",
+	        "overwrite_name": "Dan Pickering",
+	        "emails": [
+	          "dan.pickering@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 525-3731"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_5": {
         "name": "New Hampshire State House district HILLSBOROUGH_5",
@@ -22477,6 +22773,43 @@
     ],
     "officials": [
       {
+        "name": "Ted Gorski",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_7",
+        "overwrite_name": "Ted Gorski",
+        "emails": [
+          "ted@getyouredge.com"
+        ],
+        "phones": [
+          "(603) 472-3821"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_7": {
+        "name": "New Hampshire State House district HILLSBOROUGH_7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District HILLSBOROUGH_7",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
         "name": "Sue Mullen",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_7",
@@ -22523,6 +22856,43 @@
         ],
         "phones": [
           "(603) 669-3626"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_9": {
+        "name": "New Hampshire State House district HILLSBOROUGH_9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District HILLSBOROUGH_9",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_9",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Israel F. Piedra",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_9",
+        "overwrite_name": "Israel F. Piedra",
+        "emails": [
+          "israel.piedra@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 563-0675"
         ]
       }
     ]
@@ -22898,6 +23268,80 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
+	        "name": "New Hampshire State House district HILLSBOROUGH_21",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District HILLSBOROUGH_21",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_21",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Melissa Blasek",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_21",
+	        "overwrite_name": "Melissa Blasek",
+	        "emails": [
+	          "melissa.blasek@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 401-2542"
+	        ]
+	      }
+	    ]
+	  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
+        "name": "New Hampshire State House district HILLSBOROUGH_21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District HILLSBOROUGH_21",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_21",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maureen Mooney",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_21",
+        "overwrite_name": "Maureen Mooney",
+        "emails": [
+          "maureen.mooney@leg.state.nh.us"
+        ],
+        "phones": [
+          "(603) 233-0319"
+        ]
+      }
+    ]
+  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
         "name": "New Hampshire State House district HILLSBOROUGH_21",
@@ -23157,6 +23601,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:hillsborough_22": {
+	        "name": "New Hampshire State House district HILLSBOROUGH_22",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District HILLSBOROUGH_22",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_22",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Tony Labranche",
+	        "party": "Democratic Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_22",
+	        "overwrite_name": "Tony Labranche",
+	        "emails": [
+	          "tony.labranche@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(978) 743-6911"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_22": {
         "name": "New Hampshire State House district HILLSBOROUGH_22",
@@ -23378,6 +23859,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:hillsborough_28": {
+	        "name": "New Hampshire State House district HILLSBOROUGH_28",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District HILLSBOROUGH_28",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_28",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Tom E. Lanzara",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_28",
+	        "overwrite_name": "Tom E. Lanzara",
+	        "emails": [
+	          "tomlanzara@gmail.com"
+	        ],
+	        "phones": [
+	          "(603) 271-3661"
+	        ]
+	      }
+	    ]
+	  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_29": {
@@ -24156,6 +24674,43 @@
     ]
   },
 	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:carroll_5": {
+	        "name": "New Hampshire State House district CARROLL_5",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District CARROLL_5",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:carroll_5",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Jonathan H. Smith",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:carroll_5",
+	        "overwrite_name": "Jonathan H. Smith",
+	        "emails": [
+	          "jhsmithnh5@gmail.com"
+	        ],
+	        "phones": [
+	          "(603) 271-2548"
+	        ]
+	      }
+	    ]
+	  },
+	{
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:carroll_7": {
         "name": "New Hampshire State House district CARROLL_7",
@@ -24377,6 +24932,43 @@
       }
     ]
   },
+	{
+	    "divisions": {
+	      "ocd-division/country:us/state:nh/sldl:rockingham_3": {
+	        "name": "New Hampshire State House district ROCKINGHAM_3",
+	        "overwrite": "true",
+	        "officeIndices": [
+	          0
+	        ]
+	      }
+	    },
+	    "offices": [
+	      {
+	        "name": "NH State House District ROCKINGHAM_3",
+	        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_3",
+	        "roles": [
+	          "legislatorLowerBody"
+	        ],
+	        "officialIndices": [
+	          0
+	        ]
+	      }
+	    ],
+	    "officials": [
+	      {
+	        "name": "Dustin Dodge",
+	        "party": "Republican Party",
+	        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_3",
+	        "overwrite_name": "Dustin Dodge",
+	        "emails": [
+	          "dustin.dodge@leg.state.nh.us"
+	        ],
+	        "phones": [
+	          "(603) 271-3661"
+	        ]
+	      }
+	    ]
+	  },
 	{
 	    "divisions": {
 	      "ocd-division/country:us/state:nh/sldl:rockingham_5": {
@@ -31467,6 +32059,43 @@
         ],
         "phones": [
           "(602) 926-3157"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:7": {
+        "name": "Arizona State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 7",
+        "divisionId": "ocd-division/country:us/state:az/sldl:7",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jasmine Blackwater-Nygren",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
+        "overwrite_name": "Jasmine Blackwater-Nygren",
+        "emails": [
+          "jblackwater-nygren@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3069"
         ]
       }
     ]
@@ -42059,6 +42688,43 @@
         ],
         "phones": [
           "(404) 656-0188"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldl:156": {
+        "name": "Georgia State House district 156",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State House District 156",
+        "divisionId": "ocd-division/country:us/state:ga/sldl:156",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Leesa Hagan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:156",
+        "overwrite_name": "Leesa Hagan",
+        "emails": [
+          "leesa.hagan@house.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-5115"
         ]
       }
     ]
@@ -59618,6 +60284,43 @@
 	  },
 		{
     "divisions": {
+      "ocd-division/country:us/state:ks/sldl:88": {
+        "name": "Kansas State House district 88",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 88",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:88",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chuck Schmidt",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:88",
+        "overwrite_name": "Chuck Schmidt",
+        "emails": [
+          "chuck.schmidt@house.ks.gov"
+        ],
+        "phones": [
+          "(620) 330-4576"
+        ]
+      }
+    ]
+  },
+		{
+    "divisions": {
       "ocd-division/country:us/state:ks/sldl:93": {
         "name": "Kansas State House district 93",
         "overwrite": "true",
@@ -60763,6 +61466,80 @@
 			}
 		]
 	},
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:19": {
+        "name": "New Mexico State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 19",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:19",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kay Bounkeua",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:19",
+        "overwrite_name": "Kay Bounkeua",
+        "emails": [
+          "kay.bounkeua@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 986-4751"
+        ]
+      }
+    ]
+  },
+	{
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldl:19": {
+        "name": "New Mexico State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 19",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:19",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kay Bounkeua",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:19",
+        "overwrite_name": "Kay Bounkeua",
+        "emails": [
+          "kay.bounkeua@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 986-4751"
+        ]
+      }
+    ]
+  },
 	{
     "divisions": {
       "ocd-division/country:us/state:nm/sldl:20": {

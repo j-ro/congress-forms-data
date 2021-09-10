@@ -15536,43 +15536,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:tx/sldl:118": {
-        "name": "Texas State House district 118",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "TX State House District 118",
-        "divisionId": "ocd-division/country:us/state:tx/sldl:118",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Leo Pacheco",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:118",
-        "overwrite_name": "Leo Pacheco",
-        "emails": [
-          "Leo.Pacheco@house.tx.us"
-        ],
-        "phones": [
-          "(512) 463-0714"
-        ]
-      }
-    ]
-  },
 	{
     "divisions": {
       "ocd-division/country:us/state:tx/sldl:119": {
@@ -18814,10 +18777,10 @@
     ],
     "officials": [
       {
-        "name": "Kevin W. Felsher",
+        "name": "Kevin Felsher",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:117",
-        "overwrite_name": "Kevin W. Felsher",
+        "overwrite_name": "Kevin Felsher",
         "emails": [
           "kfelsher@house.ms.gov"
         ],
@@ -19295,10 +19258,10 @@
     ],
     "officials": [
       {
-        "name": "Daniel Wolf",
+        "name": "Dan H. Wolf",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:merrimack_5",
-        "overwrite_name": "Daniel Wolf",
+        "overwrite_name": "Dan H. Wolf",
         "emails": [
           "Dan.Wolf@leg.state.nh.us"
         ],
@@ -19665,10 +19628,10 @@
     ],
     "officials": [
       {
-        "name": "Lee Oxenham",
+        "name": "Lee Walker Oxenham",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:sullivan_1",
-        "overwrite_name": "Lee Oxenham",
+        "overwrite_name": "Lee Walker Oxenham",
         "emails": [
           "leeoxenham@comcast.net"
         ],
@@ -19887,10 +19850,10 @@
     ],
     "officials": [
       {
-        "name": "Charlie Miller",
+        "name": "Charles W. Miller,
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:19",
-        "overwrite_name": "Charlie Miller",
+        "overwrite_name": "Charles W. Miller",
         "emails": [
           "Charles.Miller@ncleg.gov"
         ],
@@ -19961,10 +19924,10 @@
     ],
     "officials": [
       {
-        "name": "Raymond E. Smith Jr.",
+        "name": "Raymond E. Smith, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:21",
-        "overwrite_name": "Brent Heath",
+        "overwrite_name": "Raymond E. Smith, Jr.",
         "emails": [
           "Raymond.Smith@ncleg.gov"
         ],
@@ -19998,10 +19961,10 @@
     ],
     "officials": [
       {
-        "name": "Erin Pare",
+        "name": "Erin Paré",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:37",
-        "overwrite_name": "Erin Pare",
+        "overwrite_name": "Erin Paré",
         "emails": [
           "Erin.Pare@ncleg.gov"
         ],
@@ -20109,10 +20072,10 @@
     ],
     "officials": [
       {
-        "name": "Howard Penny Jr.",
+        "name": "Howard Penny, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:53",
-        "overwrite_name": "Howard Penny Jr.",
+        "overwrite_name": "Howard Penny, Jr.",
         "emails": [
           "Howard.Penny@ncleg.gov"
         ],
@@ -20220,10 +20183,10 @@
     ],
     "officials": [
       {
-        "name": "Ben Moss",
+        "name": "Ben Moss, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:66",
-        "overwrite_name": "Ben Moss",
+        "overwrite_name": "Ben Moss, Jr.",
         "emails": [
           "Ben.Moss@ncleg.gov"
         ],
@@ -20442,10 +20405,10 @@
     ],
     "officials": [
       {
-        "name": "Terry Brown",
+        "name": "Terry M. Brown, Jr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/sldl:92",
-        "overwrite_name": "Terry Brown",
+        "overwrite_name": "Terry M. Brown, Jr.",
         "emails": [
           "Terry.Brown@ncleg.gov"
         ],
@@ -20960,10 +20923,10 @@
     ],
     "officials": [
       {
-        "name": "Linda Massimilla",
+        "name": "Linda A. Massimilla",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:grafton_1",
-        "overwrite_name": "Linda Massimilla",
+        "overwrite_name": "Linda A. Massimilla",
         "emails": [
           "Linda.Massimilla@leg.state.nh.us"
         ],
@@ -21413,43 +21376,6 @@
         ],
         "phones": [
           "(706) 399-0349"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:cheshire_9": {
-        "name": "New Hampshire State House district CHESHIRE_9",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District CHESHIRE_9",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:cheshire_9",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Douglas Ley",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:cheshire_9",
-        "overwrite_name": "Douglas Ley",
-        "emails": [
-          "Douglas.Ley@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 532-8556"
         ]
       }
     ]
@@ -21922,10 +21848,10 @@
     ],
     "officials": [
       {
-        "name": "Patrick Long",
+        "name": "Patrick T. Long",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_10",
-        "overwrite_name": "Patrick Long",
+        "overwrite_name": "Patrick T. Long",
         "emails": [
           "long55@comcast.net"
         ],
@@ -22736,10 +22662,10 @@
     ],
     "officials": [
       {
-        "name": "Ivy Vann",
+        "name": "Ivy C. Vann",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_24",
-        "overwrite_name": "Ivy Vann",
+        "overwrite_name": "Ivy C. Vann",
         "emails": [
           "Ivy.Vann@leg.state.nh.us"
         ],
@@ -23476,10 +23402,10 @@
     ],
     "officials": [
       {
-        "name": "Jane Beaulieu",
+        "name": "Jane E. Beaulieu",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_45",
-        "overwrite_name": "Jane Beaulieu",
+        "overwrite_name": "Jane E. Beaulieu",
         "emails": [
           "Jane.Beaulieu@leg.state.nh.us"
         ],
@@ -24401,10 +24327,10 @@
     ],
     "officials": [
       {
-        "name": "J D Bernardy",
+        "name": "J D. Bernardy",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_16",
-        "overwrite_name": "J D Bernardy",
+        "overwrite_name": "J D. Bernardy",
         "emails": [
           "jd.bernardy@comcast.net"
         ],
@@ -24475,10 +24401,10 @@
     ],
     "officials": [
       {
-        "name": "Patrick Abrami",
+        "name": "Patrick F. Abrami",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_19",
-        "overwrite_name": "Patrick Abrami",
+        "overwrite_name": "Patrick F. Abrami",
         "emails": [
           "patrick.abrami@leg.state.nh.us"
         ],
@@ -24882,10 +24808,10 @@
     ],
     "officials": [
       {
-        "name": "Kurt Wuelper",
+        "name": "Kurt F. Wuelper",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:strafford_3",
-        "overwrite_name": "Kurt Wuelper",
+        "overwrite_name": "Kurt F. Wuelper",
         "emails": [
           "kurt.wuelper@leg.state.nh.us"
         ],
@@ -24919,10 +24845,10 @@
     ],
     "officials": [
       {
-        "name": "Len Turcotte",
+        "name": "Leonard P. Turcotte",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:strafford_4",
-        "overwrite_name": "Len Turcotte",
+        "overwrite_name": "Leonard P. Turcotte",
         "emails": [
           "lenturcotte@metrocast.net"
         ],
@@ -26064,40 +25990,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldl:72": {
-        "name": "Ohio State House district 72",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 72",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:72",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Larry Householder",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:72",
-        "overwrite_name": "Larry Householder",
-        "phones": [
-          "(614) 466-2500"
-        ]
-      }
-    ]
-  },
 	{
     "divisions": {
       "ocd-division/country:us/state:oh/sldl:73": {
@@ -26896,10 +26788,10 @@
     ],
     "officials": [
       {
-        "name": "Roger A Nutt",
+        "name": "Roger A. Nutt",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:34",
-        "overwrite_name": "Roger A Nutt",
+        "overwrite_name": "Roger A. Nutt",
         "emails": [
           "roger@rogernutt.com"
         ],
@@ -26933,10 +26825,10 @@
     ],
     "officials": [
       {
-        "name": "Annie E McDaniel",
+        "name": "Annie E. McDaniel",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:41",
-        "overwrite_name": "Annie E McDaniel",
+        "overwrite_name": "Annie E. McDaniel",
         "emails": [
           "AnnieMcDaniel@schouse.gov"
         ],
@@ -26970,10 +26862,10 @@
     ],
     "officials": [
       {
-        "name": "Doug Gilliam",
+        "name": "Leon D. \"Doug\" Gilliam",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:42",
-        "overwrite_name": "Doug Gilliam",
+        "overwrite_name": "Leon D. \"Doug\" Gilliam",
         "emails": [
           "LeonGilliam@schouse.gov"
         ],
@@ -27007,10 +26899,10 @@
     ],
     "officials": [
       {
-        "name": "Randy Ligon",
+        "name": "Thomas R. \"Randy\" Ligon",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:43",
-        "overwrite_name": "Randy Ligon",
+        "overwrite_name": "Thomas R. \"Randy\" Ligon",
         "emails": [
           "ThomasLigon@schouse.gov"
         ],
@@ -27081,10 +26973,10 @@
     ],
     "officials": [
       {
-        "name": "Bruce M Bryant",
+        "name": "Bruce M. Bryant",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:48",
-        "overwrite_name": "Bruce M Bryant",
+        "overwrite_name": "Bruce M. Bryant",
         "emails": [
           "BruceBryant@schouse.gov"
         ],
@@ -27118,10 +27010,10 @@
     ],
     "officials": [
       {
-        "name": "Vic Dabney",
+        "name": "Vctor M. \"Vic\" Dabney",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:52",
-        "overwrite_name": "Vic Dabney",
+        "overwrite_name": "Vctor M. \"Vic\" Dabney",
         "emails": [
           "VicDabney@schouse.gov"
         ],
@@ -27155,10 +27047,10 @@
     ],
     "officials": [
       {
-        "name": "Timothy A \"Tim\" McGinnis",
+        "name": "Timothy A. \"Tim\" McGinnis",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:56",
-        "overwrite_name": "Timothy A \"Tim\" McGinnis",
+        "overwrite_name": "Timothy A. \"Tim\" McGinnis",
         "emails": [
           "TimothyMcGinnis@schouse.gov"
         ],
@@ -27192,10 +27084,10 @@
     ],
     "officials": [
       {
-        "name": "Kimberly O Johnson",
+        "name": "Kimberly O. Johnson",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:64",
-        "overwrite_name": "Kimberly O Johnson",
+        "overwrite_name": "Kimberly O. Johnson",
         "emails": [
           "KimberlyOJohnson@schouse.gov"
         ],
@@ -27377,10 +27269,10 @@
     ],
     "officials": [
       {
-        "name": "Jermaine Johnson",
+        "name": "Jermaine L. Johnson, Sr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:80",
-        "overwrite_name": "Jermaine Johnson",
+        "overwrite_name": "Jermaine L. Johnson, Sr.",
         "emails": [
           "JermaineJohnson@schouse.gov"
         ],
@@ -27488,10 +27380,10 @@
     ],
     "officials": [
       {
-        "name": "RJ May",
+        "name": "Robert J. \"RJ\" May III",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:88",
-        "overwrite_name": "RJ May",
+        "overwrite_name": "Robert J. \"RJ\" May III",
         "emails": [
           "RJMay@schouse.gov"
         ],
@@ -27562,10 +27454,10 @@
     ],
     "officials": [
       {
-        "name": "D Ryan McCabe",
+        "name": "Donlad R. \"Ryan\" McCabe, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:96",
-        "overwrite_name": "D Ryan McCabe",
+        "overwrite_name": "Donlad R. \"Ryan\" McCabe, Jr.",
         "emails": [
           "d.ryan.mccabe@gmail.com"
         ],
@@ -27599,10 +27491,10 @@
     ],
     "officials": [
       {
-        "name": "Mandy W Kimmons",
+        "name": "Mandy W. Kimmons",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:97",
-        "overwrite_name": "Mandy W Kimmons",
+        "overwrite_name": "Mandy W. Kimmons",
         "emails": [
           "MandyKimmons@schouse.gov"
         ],
@@ -27636,10 +27528,10 @@
     ],
     "officials": [
       {
-        "name": "Mark Smith",
+        "name": "Marvin \"Mark\" Smith",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:99",
-        "overwrite_name": "Mark Smith",
+        "overwrite_name": "Marvin \"Mark\" Smith",
         "emails": [
           "MarkSmith@schouse.gov"
         ],
@@ -27784,10 +27676,10 @@
     ],
     "officials": [
       {
-        "name": "Joe Bustos",
+        "name": "Joseph M. \"Joe\" Bustos",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:112",
-        "overwrite_name": "Joe Bustos",
+        "overwrite_name": "Joseph M. \"Joe\" Bustos",
         "emails": [
           "JoeBustos@schouse.gov"
         ],
@@ -27858,10 +27750,10 @@
     ],
     "officials": [
       {
-        "name": "Spencer Wetmore",
+        "name": "Elizabeth \"Spencer\" Wetmore",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:115",
-        "overwrite_name": "Spencer Wetmore",
+        "overwrite_name": "Elizabeth \"Spencer\" Wetmore",
         "emails": [
           "spencer@spencerwetmore.com"
         ],
@@ -28043,89 +27935,15 @@
     ],
     "officials": [
       {
-        "name": "G. \"John\" Avoli",
+        "name": "G. John Avoli",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:20",
-        "overwrite_name": "G. \"John\" Avoli",
+        "overwrite_name": "G. John Avoli",
         "emails": [
           "DelJAvoli@house.virginia.gov"
         ],
         "phones": [
           "(804) 698-1020"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:va/sldl:2": {
-      "name": "Virginia State House district 2",
-      "overwrite": "true",
-      "officeIndices": [
-        0
-      ]
-      }
-    },
-    "offices": [
-      {
-      "name": "VA State House District 2",
-      "divisionId": "ocd-division/country:us/state:va/sldl:2",
-      "roles": [
-        "legislatorLowerBody"
-      ],
-      "officialIndices": [
-        0
-      ]
-      }
-    ],
-    "officials": [
-      {
-      "name": "Candi Mundon King",
-      "party": "Democratic",
-      "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:2",
-      "overwrite_name": "VACANT",
-      "emails": [
-        "DelCMundonKing@house.virginia.gov"
-      ],
-      "phones": [
-        "(804) 698-1002"
-      ]
-      }
-    ]
-    },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:va/sldl:29": {
-        "name": "Virginia State House district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "VA State House District 29",
-        "divisionId": "ocd-division/country:us/state:va/sldl:29",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "William \"Bill\" D. Wiley",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:29",
-        "overwrite_name": "Christopher E. Collins",
-        "emails": [
-          "DelBWiley@house.virginia.gov"
-        ],
-        "phones": [
-          "(804) 698-1029"
         ]
       }
     ]
@@ -28388,7 +28206,7 @@
 		"name": "Don L. Scott, Jr.",
 		"party": "Democratic",
 		"overwrite_ocdid": "ocd-division/country:us/state:va/sldl:80",
-		"overwrite_name": "Don L. Scott Jr.",
+		"overwrite_name": "Don L. Scott, Jr.",
 		"emails": ["DelDScott@house.virginia.gov"],
 		"phones": ["(804) 698-1080"]
 	}]
@@ -28443,7 +28261,7 @@
     "name": "Angelia Williams Graves",
     "party": "Democratic",
     "overwrite_ocdid": "ocd-division/country:us/state:va/sldl:90",
-    "overwrite_name": "VACANT",
+    "overwrite_name": "Angelia Williams Graves",
     "emails": [
       "DelAWilliamsGraves@house.virginia.gov"
     ],
@@ -28606,10 +28424,10 @@
     ],
     "officials": [
       {
-        "name": "Mike Petersen",
+        "name": "Mike J. Petersen",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:3",
-        "overwrite_name": "Mike Petersen",
+        "overwrite_name": "Mike J. Petersen",
         "emails": [
           "mpetersen@le.utah.gov"
         ],
@@ -28806,43 +28624,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ut/sldl:10": {
-        "name": "Utah State House district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "UT State House District 10",
-        "divisionId": "ocd-division/country:us/state:ut/sldl:10",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Lawanna \"Lou\" Shurtliff",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:10",
-        "overwrite_name": "Lawanna \"Lou\" Shurtliff",
-        "emails": [
-          "LawannaShurtliff@le.utah.gov"
-        ],
-        "phones": [
-          "(801) 479-0289"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ut/sldl:20": {
         "name": "Utah State House district 20",
         "overwrite": "true",
@@ -28865,10 +28646,10 @@
     ],
     "officials": [
       {
-        "name": "Melissa Garff Ballard",
+        "name": "Melissa G. Ballard",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:20",
-        "overwrite_name": "Melissa Garff Ballard",
+        "overwrite_name": "Melissa G. Ballard",
         "emails": [
           "MelissaBallard@le.utah.gov"
         ],
@@ -28939,10 +28720,10 @@
     ],
     "officials": [
       {
-        "name": "Jen Dailey-Provost",
+        "name": "Jennifer Dailey-Provost",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:24",
-        "overwrite_name": "Jen Dailey-Provost",
+        "overwrite_name": "Jennifer Dailey-Provost",
         "emails": [
           "JenDailey-Provost@le.utah.gov"
         ],
@@ -29013,10 +28794,10 @@
     ],
     "officials": [
       {
-        "name": "Matt Gwynn",
+        "name": "Matthew Gwynn",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:29",
-        "overwrite_name": "Matt Gwynn",
+        "overwrite_name": "Matthew Gwynn",
         "emails": [
           "mgwynn@le.utah.gov"
         ],
@@ -29235,10 +29016,10 @@
     ],
     "officials": [
       {
-        "name": "Jordan Teuscher",
+        "name": "Jordan D. Teuscher",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:42",
-        "overwrite_name": "Jordan Teuscher",
+        "overwrite_name": "Jordan D. Teuscher",
         "emails": [
           "jteuscher@le.utah.gov"
         ],
@@ -29383,10 +29164,10 @@
     ],
     "officials": [
       {
-        "name": "Jeff Stenquist",
+        "name": "Jeffrey D. Stenquist",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:51",
-        "overwrite_name": "Jeff Stenquist",
+        "overwrite_name": "Jeffrey D. Stenquist",
         "emails": [
           "JeffStenquist@le.utah.gov"
         ],
@@ -29457,10 +29238,10 @@
     ],
     "officials": [
       {
-        "name": "Mike Kohler",
+        "name": "Mike L. Kohler",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:54",
-        "overwrite_name": "Mike Kohler",
+        "overwrite_name": "Mike L. Kohler",
         "emails": [
           "mkohler@le.utah.gov"
         ],
@@ -29568,10 +29349,10 @@
 	    ],
 	    "officials": [
 	      {
-	        "name": "Nelson Abbott",
+	        "name": "Nelson T. Abbott",
 	        "party": "Republican Party",
 	        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:60",
-	        "overwrite_name": "Nelson Abbott",
+	        "overwrite_name": "Nelson T. Abbott",
 	        "emails": [
 	          "nabbott@le.utah.gov"
 	        ],
@@ -29642,10 +29423,10 @@
     ],
     "officials": [
       {
-        "name": "Travis Seegmiller",
+        "name": "Travis M. Seegmiller",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:62",
-        "overwrite_name": "Travis Seegmiller",
+        "overwrite_name": "Travis M. Seegmiller",
         "emails": [
           "TravisSeegmiller@le.utah.gov"
         ],
@@ -29753,10 +29534,10 @@
     ],
     "officials": [
       {
-        "name": "Doug Welton",
+        "name": "Doug R. Welton",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:67",
-        "overwrite_name": "Doug Welton",
+        "overwrite_name": "Doug R. Welton",
         "emails": [
           "dwelton@le.utah.gov"
         ],
@@ -29790,10 +29571,10 @@
     ],
     "officials": [
       {
-        "name": "Rex P Shipp",
+        "name": "Rex P. Shipp",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:72",
-        "overwrite_name": "Rex P Shipp",
+        "overwrite_name": "Rex P. Shipp",
         "emails": [
           "RexShipp@le.utah.gov"
         ],
@@ -30419,10 +30200,10 @@
     ],
     "officials": [
       {
-        "name": "Andrea Story",
+        "name": "Andi Story",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:34",
-        "overwrite_name": "Andrea Story",
+        "overwrite_name": "Andi Story",
         "emails": [
           "Representative.Andrea.Story@akleg.gov"
         ],
@@ -30872,43 +30653,6 @@
         ],
         "phones": [
           "(602) 926-3043"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az/sldl:7": {
-        "name": "Arizona State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State House District 7",
-        "divisionId": "ocd-division/country:us/state:az/sldl:7",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Arlando S. Teller",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
-        "overwrite_name": "Arlando S. Teller",
-        "emails": [
-          "aTeller@azleg.gov"
-        ],
-        "phones": [
-          "(602) 926-3069"
         ]
       }
     ]
@@ -31976,7 +31720,7 @@
         "name": "Frank P Carroll",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:22",
-        "overwrite_name": "Frank P Carroll",
+        "overwrite_name": "David Livingston",
         "emails": [
           "fCarroll@azleg.gov"
         ],
@@ -33786,10 +33530,10 @@
     ],
     "officials": [
       {
-        "name": "Jenna Persons",
+        "name": "Jenna Persons-Mulicka",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:78",
-        "overwrite_name": "Jenna Persons",
+        "overwrite_name": "Jenna Persons-Mulicka",
         "emails": [
           "Jenna.Persons@myfloridahouse.gov"
         ],
@@ -34045,10 +33789,10 @@
     ],
     "officials": [
       {
-        "name": "Mike Caruso",
+        "name": "Michael A. \"Mike\" Caruso",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:89",
-        "overwrite_name": "Mike Caruso",
+        "overwrite_name": "Michael A. \"Mike\" Caruso",
         "emails": [
           "Mike.Caruso@myfloridahouse.gov"
         ],
@@ -34082,10 +33826,10 @@
     ],
     "officials": [
       {
-        "name": "Joseph A. Casello",
+        "name": "Joseph A. \"Joe\" Casello",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:90",
-        "overwrite_name": "Joseph A. Casello",
+        "overwrite_name": "Joseph A. \"Joe\" Casello",
         "emails": [
           "Joseph.Casello@myfloridahouse.gov"
         ],
@@ -34689,43 +34433,6 @@
   },
 	{
     "divisions": {
-      "ocd-division/country:us/state:fl/sldl:120": {
-        "name": "Florida State House district 120",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "FL State House District 120",
-        "divisionId": "ocd-division/country:us/state:fl/sldl:120",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "James Vernon \"Jim\" Mooney, Jr",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:120",
-        "overwrite_name": "James Vernon \"Jim\" Mooney, Jr",
-        "emails": [
-          "jim.mooney@myfloridahouse.gov"
-        ],
-        "phones": [
-          "(850) 717-5120"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
       "ocd-division/country:us/state:id/sldl:3": {
         "name": "Idaho State House district 3",
         "overwrite": "true",
@@ -34782,29 +34489,6 @@
       "overwrite_name": "Paul E. Shepherd",
       "emails": ["CShepherd@house.idaho.gov"],
       "phones": ["(208) 332-1067"]
-    }]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:5": {
-        "name": "Idaho State House district 5",
-        "overwrite": "true",
-        "officeIndices": [0]
-      }
-    },
-    "offices": [{
-      "name": "ID State House District 5",
-      "divisionId": "ocd-division/country:us/state:id/sldl:5",
-      "roles": ["legislatorLowerBody"],
-      "officialIndices": [0]
-    }],
-    "officials": [{
-      "name": "Brandon Mitchell",
-      "party": "Republican Party",
-      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:5",
-      "overwrite_name": "Bill Goesling",
-      "emails": ["BMitchell@house.idaho.gov"],
-      "phones": ["(208) 332-1175"]
     }]
   },
   {
@@ -34957,29 +34641,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:id/sldl:2": {
-        "name": "Idaho State House district 2",
-        "overwrite": "true",
-        "officeIndices": [0]
-      }
-    },
-    "offices": [{
-      "name": "ID State House District 2",
-      "divisionId": "ocd-division/country:us/state:id/sldl:2",
-      "roles": ["legislatorLowerBody"],
-      "officialIndices": [0]
-    }],
-    "officials": [{
-      "name": "Doug  Okuniewicz",
-      "party": "Republican",
-      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:2",
-      "overwrite_name": "Timothy D. \"Tim\" Remington",
-      "emails": ["DougO@house.idaho.gov"],
-      "phones": ["(208) 332-1070"]
-    }]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:id/sldl:1": {
         "name": "Idaho State House district 1",
         "overwrite": "true",
@@ -35052,43 +34713,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:6": {
-        "name": "Idaho State House district 6",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 6",
-        "divisionId": "ocd-division/country:us/state:id/sldl:6",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Aaron von Ehlinger",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:6",
-        "overwrite_name": "Thyra K. Stevenson",
-        "emails": [
-          "AvonEhlinger@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1184"
-        ]
-      }
-    ]
-},
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:8": {
@@ -35237,29 +34861,6 @@
       }
     ]
   },
- {
-   "divisions": {
-     "ocd-division/country:us/state:id/sldl:10": {
-       "name": "Idaho State House district 10",
-       "overwrite": "true",
-       "officeIndices": [0]
-     }
-   },
-   "offices": [{
-     "name": "ID State House District 10",
-     "divisionId": "ocd-division/country:us/state:id/sldl:10",
-     "roles": ["legislatorLowerBody"],
-     "officialIndices": [0]
-   }],
-   "officials": [{
-     "name": "Julie Yamamoto",
-     "party": "Republican",
-     "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:10",
-     "overwrite_name": "Jarom Wagoner",
-     "emails": ["JYamamoto@house.idaho.gov"],
-     "phones": ["(208) 332-1052"]
-   }]
- },
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:11": {
@@ -35330,66 +34931,6 @@
         ],
         "phones": [
           "(208) 332-1044"
-        ]
-      }
-    ]
-  },
- {
-   "divisions": {
-     "ocd-division/country:us/state:id/sldl:12": {
-       "name": "Idaho State House district 12",
-       "overwrite": "true",
-       "officeIndices": [0]
-     }
-   },
-   "offices": [{
-     "name": "ID State House District 12",
-     "divisionId": "ocd-division/country:us/state:id/sldl:12",
-     "roles": ["legislatorLowerBody"],
-     "officialIndices": [0]
-   }],
-   "officials": [{
-     "name": "Bruce D. Skaug",
-     "party": "Republican Party",
-     "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:12",
-     "overwrite_name": "Robert Anderst",
-     "emails": ["BSkaug@house.idaho.gov"],
-     "phones": ["(208) 332-1178"]
-   }]
- }, 
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:13": {
-        "name": "Idaho State House district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 13",
-        "divisionId": "ocd-division/country:us/state:id/sldl:13",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ben Adams",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:13",
-        "overwrite_name": "Gary E. Collins",
-        "emails": [
-          "badams@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1063"
         ]
       }
     ]
@@ -35505,66 +35046,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:15": {
-        "name": "Idaho State House district 15",
-        "overwrite": "true",
-        "officeIndices": [0]
-      }
-    },
-    "offices": [{
-      "name": "ID State House District 15",
-      "divisionId": "ocd-division/country:us/state:id/sldl:15",
-      "roles": ["legislatorLowerBody"],
-      "officialIndices": [0]
-    }],
-    "officials": [{
-      "name": "Codi  Galloway",
-      "party": "Republican Party",
-      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:15",
-      "overwrite_name": "Jake Ellis",
-      "emails": ["CodiGalloway@house.idaho.gov"],
-      "phones": ["(208) 332-1176"]
-    }]
-  }, 
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:16": {
-        "name": "Idaho State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 16",
-        "divisionId": "ocd-division/country:us/state:id/sldl:16",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Colin Nash",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:16",
-        "overwrite_name": "Rob Mason",
-        "emails": [
-          "CNash@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1075"
-        ]
-      }
-    ]
-},
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:17": {
@@ -36305,43 +35786,6 @@
       }
     ]
   },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:29": {
-        "name": "Idaho State House district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 29",
-        "divisionId": "ocd-division/country:us/state:id/sldl:29",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "James D. Ruchti",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:29",
-        "overwrite_name": "Elaine Smith",
-        "emails": [
-          "JRuchti@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1031"
-        ]
-      }
-    ]
-  },
  {
    "divisions": {
      "ocd-division/country:us/state:id/sldl:29": {
@@ -36357,51 +35801,14 @@
      "officialIndices": [0]
    }],
    "officials": [{
-     "name": "Dustin Manwaring",
+     "name": "Dustin Whitney Manwaring",
      "party": "Republican Party",
      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:29",
-     "overwrite_name": "Chris Abernathy",
+     "overwrite_name": "Dustin Whitney Manwaring",
      "emails": ["DManwaring@house.idaho.gov"],
      "phones": ["(208) 332-1079"]
    }]
  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:31": {
-        "name": "Idaho State House district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 31",
-        "divisionId": "ocd-division/country:us/state:id/sldl:31",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "David M. Cannon",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:31",
-        "overwrite_name": "Neil A. Anderson",
-        "emails": [
-          "DCannon@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1086"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:33": {
@@ -36420,7 +35827,7 @@
       "name": "Marco  Erickson",
       "party": "Republican Party",
       "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:33",
-      "overwrite_name": "Bryan N. Zollinger",
+      "overwrite_name": "Marco Erickson",
       "emails": ["MErickson@house.idaho.gov"],
       "phones": ["(208) 332-1073"]
     }]
@@ -36464,43 +35871,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:id/sldl:21": {
-        "name": "Idaho State House district 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 21",
-        "divisionId": "ocd-division/country:us/state:id/sldl:21",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Greg  Ferch",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:21",
-        "overwrite_name": "Megan Kiska",
-        "emails": [
-          "GFerch@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1072"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:id/sldl:32": {
         "name": "Idaho State House district 32",
         "overwrite": "true",
@@ -36535,29 +35905,6 @@
         ]
       }
     ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:34": {
-        "name": "Idaho State House district 34",
-        "overwrite": "true",
-        "officeIndices": [0]
-      }
-    },
-    "offices": [{
-      "name": "ID State House District 34",
-      "divisionId": "ocd-division/country:us/state:id/sldl:34",
-      "roles": ["legislatorLowerBody"],
-      "officialIndices": [0]
-    }],
-    "officials": [{
-      "name": "Jon O. Weber",
-      "party": "Republican Party",
-      "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:34",
-      "overwrite_name": "Britt Raybould",
-      "emails": ["JWeber@house.idaho.gov"],
-      "phones": ["(208) 332-1053"]
-    }]
   }, {
     "divisions": {
       "ocd-division/country:us/state:id/sldl:34": {
@@ -36580,43 +35927,6 @@
       "emails": ["NateR@house.idaho.gov"],
       "phones": ["(208) 332-1173"]
     }]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:35": {
-        "name": "Idaho State House district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 35",
-        "divisionId": "ocd-division/country:us/state:id/sldl:35",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Karey Hanks",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:35",
-        "overwrite_name": "Jerald Raymond",
-        "emails": [
-          "KHanks@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1179"
-        ]
-      }
-    ]
   },
 	{
     "divisions": {
@@ -40046,10 +39356,10 @@
     ],
     "officials": [
       {
-        "name": "Victor E. Anderson",
+        "name": "Victor Anderson",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:10",
-        "overwrite_name": "Victor E. Anderson",
+        "overwrite_name": "Victor Anderson",
         "emails": [
           "victor.anderson@house.ga.gov"
         ],
@@ -40342,10 +39652,10 @@
 	    ],
 	    "officials": [
 	      {
-	        "name": "Lauren W. Mcdonald, III",
+	        "name": "Lauren McDonald",
 	        "party": "Republican Party",
 	        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:26",
-	        "overwrite_name": "Lauren W. Mcdonald, III",
+	        "overwrite_name": "Lauren McDonald",
 	        "emails": [
 	          "lmcdonald@psc.state.ga.us"
 	        ],
@@ -40779,10 +40089,10 @@
     ],
     "officials": [
       {
-        "name": "Mandisha A. Thomas",
+        "name": "Mandisha Thomas",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:65",
-        "overwrite_name": "Mandisha A. Thomas",
+        "overwrite_name": "Mandisha Thomas",
         "emails": [
           "mandisha.thomas@house.ga.gov"
         ],
@@ -41038,10 +40348,10 @@
     ],
     "officials": [
       {
-        "name": "Rhonda S. Taylor",
+        "name": "Rhonda Taylor",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:91",
-        "overwrite_name": "Rhonda S. Taylor",
+        "overwrite_name": "Rhonda Taylor",
         "emails": [
           "rhonda.taylor@house.ga.gov"
         ],
@@ -41223,10 +40533,10 @@
     ],
     "officials": [
       {
-        "name": "Donna Mcleod",
+        "name": "Donna McLeod",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:105",
-        "overwrite_name": "Donna Mcleod",
+        "overwrite_name": "Donna McLeod",
         "emails": [
           "Donna.Mcleod@house.ga.gov"
         ],
@@ -41482,10 +40792,10 @@
     ],
     "officials": [
       {
-        "name": "Marcus A Wiedower",
+        "name": "Marcus A. Wiedower",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:119",
-        "overwrite_name": "Marcus A Wiedower",
+        "overwrite_name": "Marcus A. Wiedower",
         "emails": [
           "Marcus.Wiedower@house.ga.gov"
         ],
@@ -41704,10 +41014,10 @@
     ],
     "officials": [
       {
-        "name": "Noel Williams Jr",
+        "name": "Noel Williams, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:148",
-        "overwrite_name": "Noel Williams Jr",
+        "overwrite_name": "Noel Williams, Jr.",
         "emails": [
           "Noel.Williams@house.ga.gov"
         ],
@@ -41778,10 +41088,10 @@
     ],
     "officials": [
       {
-        "name": "Derek J. Mallow",
+        "name": "Derek Mallow",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:163",
-        "overwrite_name": "Derek J. Mallow",
+        "overwrite_name": "Derek Mallow",
         "emails": [
           "info@derekforgeorgia.com"
         ],
@@ -41815,10 +41125,10 @@
     ],
     "officials": [
       {
-        "name": "Buddy Deloach",
+        "name": "Buddy DeLoach",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ga/sldl:167",
-        "overwrite_name": "Buddy Deloach",
+        "overwrite_name": "Buddy DeLoach",
         "emails": [
           "buddy.deloach@house.ga.gov"
         ],
@@ -43355,10 +42665,10 @@
     ],
     "officials": [
       {
-        "name": "Tiffany Danielle Roberts",
+        "name": "Tiffany Roberts",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:6",
-        "overwrite_name": "Tiffany Danielle Roberts",
+        "overwrite_name": "Tiffany Roberts",
         "emails": [
           "Tiffany.Roberts-Lovell@legislature.maine.gov"
         ],
@@ -43501,10 +42811,10 @@
     ],
     "officials": [
       {
-        "name": "Lori Kathryn Gramlich",
+        "name": "Lori K. Gramlich",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:13",
-        "overwrite_name": "Lori Kathryn Gramlich",
+        "overwrite_name": "Lori K. Gramlich",
         "emails": [
           "Lori.Gramlich@legislature.maine.gov"
         ],
@@ -43573,10 +42883,10 @@
     ],
     "officials": [
       {
-        "name": "Nathan Michael Carlow",
+        "name": "Nathan M. Carlow",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:16",
-        "overwrite_name": "Nathan Michael Carlow",
+        "overwrite_name": "Nathan M. Carlow",
         "emails": [
           "Nathan.Carlow@legislature.maine.gov"
         ],
@@ -43647,10 +42957,10 @@
     ],
     "officials": [
       {
-        "name": "Theodore J. Kryzak Jr.",
+        "name": "Theodore Joseph Kryzak, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:20",
-        "overwrite_name": "Theodore J. Kryzak Jr.",
+        "overwrite_name": "Theodore Joseph Kryzak, Jr.",
         "emails": [
           "Theodore.Kryzak@legislature.maine.gov"
         ],
@@ -43754,10 +43064,10 @@
     ],
     "officials": [
       {
-        "name": "Christopher J. Caiazzo",
+        "name": "Christopher James Caiazzo",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:28",
-        "overwrite_name": "Christopher J. Caiazzo",
+        "overwrite_name": "Christopher James Caiazzo",
         "emails": [
           "Christopher.Caiazzo@legislature.maine.gov"
         ],
@@ -44225,10 +43535,10 @@
     ],
     "officials": [
       {
-        "name": "Braden K. Sharpe",
+        "name": "Braden Sharpe",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:46",
-        "overwrite_name": "Braden K. Sharpe",
+        "overwrite_name": "Braden Sharpe",
         "emails": [
           "Braden.Sharpe@legislature.maine.gov"
         ],
@@ -44371,10 +43681,10 @@
     ],
     "officials": [
       {
-        "name": "Allison L. Hepler",
+        "name": "Allison Hepler",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:53",
-        "overwrite_name": "Allison L. Hepler",
+        "overwrite_name": "Allison Hepler",
         "emails": [
           "Allison.Hepler@legislature.maine.gov"
         ],
@@ -44406,10 +43716,10 @@
     ],
     "officials": [
       {
-        "name": "Thomas H. Martin Jr.",
+        "name": "Thomas H. Martin, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:57",
-        "overwrite_name": "Thomas H. Martin Jr.",
+        "overwrite_name": "Thomas H. Martin, Jr.",
         "emails": [
           "Thomas.Martin@legislature.maine.gov"
         ],
@@ -44478,10 +43788,10 @@
     ],
     "officials": [
       {
-        "name": "Margaret M. Craven",
+        "name": "Margaret Craven",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:59",
-        "overwrite_name": "Margaret M. Craven",
+        "overwrite_name": "Margaret Craven",
         "emails": [
           "Margaret.Craven@legislature.maine.gov"
         ],
@@ -44513,10 +43823,10 @@
     ],
     "officials": [
       {
-        "name": "Kristen S. Cloutier",
+        "name": "Kristen Cloutier",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:60",
-        "overwrite_name": "Kristen S. Cloutier",
+        "overwrite_name": "Kristen Cloutier",
         "emails": [
           "Kristen.Cloutier@legislature.maine.gov"
         ],
@@ -44587,10 +43897,10 @@
     ],
     "officials": [
       {
-        "name": "Amy B. Arata",
+        "name": "Amy Bradstreet Arata",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:65",
-        "overwrite_name": "Amy B. Arata",
+        "overwrite_name": "Amy Bradstreet Arata",
         "emails": [
           "Amy.Arata@legislature.maine.gov"
         ],
@@ -44657,10 +43967,10 @@
     ],
     "officials": [
       {
-        "name": "H. Sawin Millett Jr.",
+        "name": "H. Sawin Millett, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:71",
-        "overwrite_name": "H. Sawin Millett Jr.",
+        "overwrite_name": "H. Sawin Millett, Jr.",
         "emails": [
           "Sawin.Millett@legislature.maine.gov"
         ],
@@ -44692,10 +44002,10 @@
     ],
     "officials": [
       {
-        "name": "John E. Andrews",
+        "name": "John Andrews",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:73",
-        "overwrite_name": "John E. Andrews",
+        "overwrite_name": "John Andrews",
         "emails": [
           "John.Andrews@legislature.maine.gov"
         ],
@@ -44764,10 +44074,10 @@
     ],
     "officials": [
       {
-        "name": "Joshua K. Morris",
+        "name": "Joshua Morris",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:75",
-        "overwrite_name": "Joshua K. Morris",
+        "overwrite_name": "Joshua Morris",
         "emails": [
           "Joshua.Morris@legislature.maine.gov"
         ],
@@ -44910,49 +44220,14 @@
     ],
     "officials": [
       {
-        "name": "Thomas A. Harnett",
+        "name": "Thom Harnett",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:83",
-        "overwrite_name": "Thomas A. Harnett",
+        "overwrite_name": "Thom Harnett",
         "emails": [
           "Thomas.Harnett@legislature.maine.gov"
         ],
         "phones": ["(207) 522-1254"]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:me/sldl:86": {
-        "name": "Maine State House district 86",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ME State House District 86",
-        "divisionId": "ocd-division/country:us/state:me/sldl:86",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Justin J. Fecteau",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:86",
-        "overwrite_name": "Justin J. Fecteau",
-        "emails": [
-          "Justin.Fecteau@legislature.maine.gov"
-        ],
-        "phones": ["(207) 248-7183"]
       }
     ]
   },
@@ -45124,10 +44399,10 @@
     ],
     "officials": [
       {
-        "name": "Ann H. Matlack",
+        "name": "Ann Higgins Matlack",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:92",
-        "overwrite_name": "Ann H. Matlack",
+        "overwrite_name": "Ann Higgins Matlack",
         "emails": [
           "Ann.Matlack@legislature.maine.gov"
         ],
@@ -45231,10 +44506,10 @@
     ],
     "officials": [
       {
-        "name": "William Donohue Pluecker",
+        "name": "William D. Pluecker",
         "party": "Independent for Maine Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:95",
-        "overwrite_name": "William Donohue Pluecker",
+        "overwrite_name": "William D. Pluecker",
         "emails": [
           "William.Pluecker@legislature.maine.gov"
         ],
@@ -45336,10 +44611,10 @@
     ],
     "officials": [
       {
-        "name": "Danny E. Costain",
+        "name": "Danny Edward Costain",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:100",
-        "overwrite_name": "Danny E. Costain",
+        "overwrite_name": "Danny Edward Costain",
         "emails": [
           "Danny.Costain@legislature.maine.gov"
         ],
@@ -45478,10 +44753,10 @@
 	    ],
 	    "officials": [
 	      {
-	        "name": "Amanda Noelle Collamore",
+	        "name": "Amanda N. Collamore",
 	        "party": "Republican Party",
 	        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:106",
-	        "overwrite_name": "Amanda Noelle Collamore",
+	        "overwrite_name": "Amanda N. Collamore",
 	        "emails": [
 	          "Amanda.Collamore@legislature.maine.gov"
 	        ],
@@ -45552,10 +44827,10 @@
     ],
     "officials": [
       {
-        "name": "Shelley J. Rudnicki",
+        "name": "Shelley Rudnicki",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:108",
-        "overwrite_name": "Shelley J. Rudnicki",
+        "overwrite_name": "Shelley Rudnicki",
         "emails": [
           "Shelley.Rudnicki@legislature.maine.gov"
         ],
@@ -45622,10 +44897,10 @@
     ],
     "officials": [
       {
-        "name": "John E. Ducharme, III",
+        "name": "John \"Jack\" Ducharme III",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:111",
-        "overwrite_name": "John E. Ducharme, III",
+        "overwrite_name": "John \"Jack\" Ducharme III",
         "emails": [
           "Jack.Ducharme@legislature.maine.gov"
         ],
@@ -45659,10 +44934,10 @@
     ],
     "officials": [
       {
-        "name": "H. Scott Landry Jr.",
+        "name": "H. Scott Landry, Jr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:113",
-        "overwrite_name": "H. Scott Landry Jr.",
+        "overwrite_name": "H. Scott Landry, Jr.",
         "emails": [
           "Scott.Landry@legislature.maine.gov"
         ],
@@ -46128,10 +45403,10 @@
     ],
     "officials": [
       {
-        "name": "Sarah A. Pebworth",
+        "name": "Sarah Pebworth",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:133",
-        "overwrite_name": "Sarah A. Pebworth",
+        "overwrite_name": "Sarah Pebworth",
         "emails": [
           "Sarah.Pebworth@legislature.maine.gov"
         ],
@@ -46163,10 +45438,10 @@
     ],
     "officials": [
       {
-        "name": "Genevieve L. McDonald",
+        "name": "Genevieve McDonald",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:134",
-        "overwrite_name": "Genevieve L. McDonald",
+        "overwrite_name": "Genevieve McDonald",
         "emails": [
           "Genevieve.McDonald@legislature.maine.gov"
         ],
@@ -46235,10 +45510,10 @@
     ],
     "officials": [
       {
-        "name": "William R. Faulkingham",
+        "name": "Billy Bob Faulkingham",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:136",
-        "overwrite_name": "William R. Faulkingham",
+        "overwrite_name": "Billy Bob Faulkingham",
         "emails": [
           "William.Faulkingham@legislature.maine.gov"
         ],
@@ -46307,10 +45582,10 @@
     ],
     "officials": [
       {
-        "name": "Kathy I. Javner",
+        "name": "Kathy Irene Javner",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:141",
-        "overwrite_name": "Kathy I. Javner",
+        "overwrite_name": "Kathy Irene Javner",
         "emails": [
           "Kathy.Javner@legislature.maine.gov"
         ],
@@ -46342,10 +45617,10 @@
     ],
     "officials": [
       {
-        "name": "Jeffery A. Gifford",
+        "name": "Jeffery Allen Gifford",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:142",
-        "overwrite_name": "Jeffery A. Gifford",
+        "overwrite_name": "Jeffery Allen Gifford",
         "emails": [
           "Jeffery.Gifford@legislature.maine.gov"
         ],
@@ -46527,10 +45802,10 @@
     ],
     "officials": [
       {
-        "name": "Nnamdi O Chukwuocha",
+        "name": "Nnamdi O. Chukwuocha",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:1",
-        "overwrite_name": "Nnamdi O Chukwuocha",
+        "overwrite_name": "Nnamdi O. Chukwuocha",
         "emails": [
           "Nnamdi.Chukwuocha@state.de.us"
         ],
@@ -46749,10 +46024,10 @@
     ],
     "officials": [
       {
-        "name": "Franklin D Cooke, Jr.",
+        "name": "Franklin D. Cooke, Jr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:16",
-        "overwrite_name": "Franklin D Cooke, Jr.",
+        "overwrite_name": "Franklin D. Cooke, Jr.",
         "emails": [
           "Franklin.Cooke@state.de.us"
         ],
@@ -46823,10 +46098,10 @@
     ],
     "officials": [
       {
-        "name": "Michael F Smith",
+        "name": "Michael F. Smith",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:22",
-        "overwrite_name": "Michael F Smith",
+        "overwrite_name": "Michael F. Smith",
         "emails": [
           "Michael.F.Smith@state.de.us"
         ],
@@ -47008,10 +46283,10 @@
     ],
     "officials": [
       {
-        "name": "Jesse R Vanderwende",
+        "name": "Jesse R. Vanderwende",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:35",
-        "overwrite_name": "Jesse R Vanderwende",
+        "overwrite_name": "Jesse R. Vanderwende",
         "emails": [
           "Jesse.Vanderwende@state.de.us"
         ],
@@ -47045,10 +46320,10 @@
     ],
     "officials": [
       {
-        "name": "Bryan W Shupe",
+        "name": "Bryan W. Shupe",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:36",
-        "overwrite_name": "Bryan W Shupe",
+        "overwrite_name": "Bryan W. Shupe",
         "emails": [
           "Bryan.Shupe@state.de.us"
         ],
@@ -47526,10 +46801,10 @@
     ],
     "officials": [
       {
-        "name": "Pepper L Ottman",
+        "name": "Pepper L. Ottman",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wy/sldl:34",
-        "overwrite_name": "Pepper L Ottman",
+        "overwrite_name": "Pepper L. Ottman",
         "emails": [
           "Pepper.Ottman@wyoleg.gov"
         ],
@@ -48192,10 +47467,10 @@
     ],
     "officials": [
       {
-        "name": "Patricia A. (Pat) Boy",
+        "name": "Patricia A. \"Pat\" Boy",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:in/sldl:9",
-        "overwrite_name": "Patricia A. (Pat) Boy",
+        "overwrite_name": "Patricia A. \"Pat\" Boy",
         "emails": [
           "h9@iga.in.gov"
         ],
@@ -48414,10 +47689,10 @@
     ],
     "officials": [
       {
-        "name": "John (J.D.) Prescott",
+        "name": "John \"J.D.\" Prescott",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:in/sldl:33",
-        "overwrite_name": "John (J.D.) Prescott",
+        "overwrite_name": "John \"J.D.\" Prescott",
         "emails": [
           "h33@iga.in.gov"
         ],
@@ -49154,10 +48429,10 @@
     ],
     "officials": [
       {
-        "name": "Nathan W Biah",
+        "name": "Nathan W. Biah",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:3",
-        "overwrite_name": "Nathan W Biah",
+        "overwrite_name": "Nathan W. Biah",
         "emails": [
           "rep-biah@rilegislature.gov"
         ],
@@ -49265,10 +48540,10 @@
     ],
     "officials": [
       {
-        "name": "Jose F Batista",
+        "name": "Jose F. Batista",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:12",
-        "overwrite_name": "Jose F Batista",
+        "overwrite_name": "Jose F. Batista",
         "emails": [
           "rep-batista@rilegislature.gov"
         ],
@@ -49339,10 +48614,10 @@
     ],
     "officials": [
       {
-        "name": "Brandon C Potter",
+        "name": "Brandon C. Potter",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:16",
-        "overwrite_name": "Brandon C Potter",
+        "overwrite_name": "Brandon C. Potter",
         "emails": [
           "rep-potter@rilegislature.gov"
         ],
@@ -49376,10 +48651,10 @@
     ],
     "officials": [
       {
-        "name": "Jacquelyn M Baginski",
+        "name": "Jacquelyn M. Baginski",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:17",
-        "overwrite_name": "Jacquelyn M Baginski",
+        "overwrite_name": "Jacquelyn M. Baginski",
         "emails": [
           "rep-baginski@rilegislature.gov"
         ],
@@ -49487,10 +48762,10 @@
     ],
     "officials": [
       {
-        "name": "Edward T Cardillo, Jr",
+        "name": "Edward T. Cardillo, Jr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:42",
-        "overwrite_name": "Edward T Cardillo, Jr",
+        "overwrite_name": "Edward T. Cardillo, Jr.",
         "emails": [
           "rep-cardillo@rilegislature.gov"
         ],
@@ -49598,10 +48873,10 @@
     ],
     "officials": [
       {
-        "name": "Steven J Lima",
+        "name": "Steven J. Lima",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:49",
-        "overwrite_name": "Steven J Lima",
+        "overwrite_name": "Steven J. Lima",
         "emails": [
           "rep-lima@rilegislature.gov"
         ],
@@ -49635,10 +48910,10 @@
     ],
     "officials": [
       {
-        "name": "Bernard A Hawkins",
+        "name": "Bernard A. Hawkins",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:53",
-        "overwrite_name": "Bernard A Hawkins",
+        "overwrite_name": "Bernard A. Hawkins",
         "emails": [
           "rep-Hawkins@rilegislature.gov"
         ],
@@ -49746,10 +49021,10 @@
     ],
     "officials": [
       {
-        "name": "Brianna E Henries",
+        "name": "Brianna E. Henries",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:64",
-        "overwrite_name": "Brianna E Henries",
+        "overwrite_name": "Brianna E. Henries",
         "emails": [
           "rep-henries@rilegislature.gov"
         ],
@@ -49820,10 +49095,10 @@
     ],
     "officials": [
       {
-        "name": "Michelle E McGaw",
+        "name": "Michelle E. McGaw",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldl:71",
-        "overwrite_name": "Michelle E McGaw",
+        "overwrite_name": "Michelle E. McGaw",
         "emails": [
           "rep-mcgaw@rilegislature.gov"
         ],
@@ -50153,10 +49428,10 @@
 	    ],
 	    "officials": [
 	      {
-	        "name": "Jessica D Bateman",
+	        "name": "Jessica D. Bateman",
 	        "party": "Democratic Party",
 	        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldl:22",
-	        "overwrite_name": "Jessica D Bateman",
+	        "overwrite_name": "Jessica D. Bateman",
 	        "emails": [
 	          "jessica.bateman@leg.wa.gov"
 	        ],
@@ -51448,10 +50723,10 @@
     ],
     "officials": [
       {
-        "name": "Marlon D. Amprey",
+        "name": "Marlon Amprey",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:40",
-        "overwrite_name": "Nick J. Mosby",
+        "overwrite_name": "Marlon Amprey",
         "emails": [
           "marlon.amprey@house.state.md.us"
         ],
@@ -51559,10 +50834,10 @@
     ],
     "officials": [
       {
-        "name": "Mike Mccarthy",
+        "name": "Mike McCarthy",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:franklin-3-1",
-        "overwrite_name": "Mike Mccarthy",
+        "overwrite_name": "Mike McCarthy",
         "emails": [
           "mmccarthy@leg.state.vt.us"
         ],
@@ -51818,10 +51093,10 @@
     ],
     "officials": [
       {
-        "name": "Warren Kitzmiller",
+        "name": "Warren F. Kitzmiller",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:washington-4",
-        "overwrite_name": "Warren Kitzmiller",
+        "overwrite_name": "Warren F. Kitzmiller",
         "emails": [
           "wkitzmiller@leg.state.vt.us"
         ],
@@ -51855,10 +51130,10 @@
     ],
     "officials": [
       {
-        "name": "Robert \"Bob\" Helm",
+        "name": "Robert Helm",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:rutland-3",
-        "overwrite_name": "Robert \"Bob\" Helm",
+        "overwrite_name": "Robert Helm",
         "emails": [
           "rhelm@leg.state.vt.us"
         ],
@@ -52003,10 +51278,10 @@
     ],
     "officials": [
       {
-        "name": "Francis \"Topper\" Mcfaun",
+        "name": "Francis McFaun",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:washington-2",
-        "overwrite_name": "Francis \"Topper\" Mcfaun",
+        "overwrite_name": "Francis McFaun",
         "emails": [
           "fmcfaun@leg.state.vt.us"
         ],
@@ -52040,10 +51315,10 @@
     ],
     "officials": [
       {
-        "name": "Theresa A. M. Wood",
+        "name": "Theresa Wood",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:washington-chittenden",
-        "overwrite_name": "Theresa A. M. Wood",
+        "overwrite_name": "Theresa Wood",
         "emails": [
           "twood@leg.state.vt.us"
         ],
@@ -52077,10 +51352,10 @@
     ],
     "officials": [
       {
-        "name": "John Bartholomew",
+        "name": "John L. Bartholomew",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:windsor-1",
-        "overwrite_name": "John Bartholomew",
+        "overwrite_name": "John L. Bartholomew",
         "emails": [
           "jbartholomew@leg.state.vt.us"
         ],
@@ -52225,10 +51500,10 @@
     ],
     "officials": [
       {
-        "name": "Lynn D. Batchelor",
+        "name": "Lynn Batchelor",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:orleans-1",
-        "overwrite_name": "Lynn D. Batchelor",
+        "overwrite_name": "Lynn Batchelor",
         "emails": [
           "lbatchelor@leg.state.vt.us"
         ],
@@ -52262,10 +51537,10 @@
     ],
     "officials": [
       {
-        "name": "Michael J. Marcotte",
+        "name": "Michael Marcotte",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:orleans-2",
-        "overwrite_name": "Michael J. Marcotte",
+        "overwrite_name": "Michael Marcotte",
         "emails": [
           "mmarcotte@leg.state.vt.us"
         ],
@@ -52558,10 +51833,10 @@
     ],
     "officials": [
       {
-        "name": "George Till",
+        "name": "George W. Till",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:chittenden-3",
-        "overwrite_name": "George Till",
+        "overwrite_name": "George W. Till",
         "emails": [
           "gtill@leg.state.vt.us"
         ],
@@ -52669,10 +51944,10 @@
     ],
     "officials": [
       {
-        "name": "Curt Mccormack",
+        "name": "Curt McCormack",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:chittenden-6-3",
-        "overwrite_name": "Curt Mccormack",
+        "overwrite_name": "Curt McCormack",
         "emails": [
           "cmccormack@leg.state.vt.us"
         ],
@@ -52706,10 +51981,10 @@
     ],
     "officials": [
       {
-        "name": "Hal Colston",
+        "name": "Harold Colston",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:chittenden-6-7",
-        "overwrite_name": "Hal Colston",
+        "overwrite_name": "Harold Colston",
         "emails": [
           "hcolston@leg.state.vt.us"
         ],
@@ -52817,10 +52092,10 @@
     ],
     "officials": [
       {
-        "name": "Chris Mattos",
+        "name": "Christopher Mattos",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:vt/sldl:chittenden-10",
-        "overwrite_name": "Chris Mattos",
+        "overwrite_name": "Christopher Mattos",
         "emails": [
           "cmattos@leg.state.vt.us"
         ],
@@ -53816,10 +53091,10 @@
     ],
     "officials": [
       {
-        "name": "Johnnie Wamsley, II",
+        "name": "Johnnie Wamsley II",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:14",
-        "overwrite_name": "Johnnie Wamsley, II",
+        "overwrite_name": "Johnnie Wamsley II",
         "emails": [
           "johnnie.wamsley@wvhouse.gov"
         ],
@@ -53853,10 +53128,10 @@
     ],
     "officials": [
       {
-        "name": "John Mandt, Jr",
+        "name": "John Mandt, Jr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:16",
-        "overwrite_name": "John Mandt, Jr",
+        "overwrite_name": "John Mandt, Jr.",
         "emails": [
           "john.mandt@wvhouse.gov"
         ],
@@ -54038,10 +53313,10 @@
     ],
     "officials": [
       {
-        "name": "Doug Skaff, Jr",
+        "name": "Doug Skaff, Jr.",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:35",
-        "overwrite_name": "Doug Skaff, Jr",
+        "overwrite_name": "Doug Skaff, Jr.",
         "emails": [
           "doug.skaff@wvhouse.gov"
         ],
@@ -54445,10 +53720,10 @@
     ],
     "officials": [
       {
-        "name": "George A Miller",
+        "name": "George A. Miller",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:58",
-        "overwrite_name": "George A Miller",
+        "overwrite_name": "George A. Miller",
         "emails": [
           "george.miller@wvhouse.gov"
         ],
@@ -54556,10 +53831,10 @@
     ],
     "officials": [
       {
-        "name": "Charles K. \"Chuck\" Horst, Sr",
+        "name": "Charles K. \"Chuck\" Horst, Sr.",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:62",
-        "overwrite_name": "Charles K. \"Chuck\" Horst, Sr",
+        "overwrite_name": "Charles K. \"Chuck\" Horst, Sr.",
         "emails": [
           "charles.horst@wvhouse.gov"
         ],
@@ -56678,43 +55953,6 @@
       }
     ]
   },
-		{
-    "divisions": {
-      "ocd-division/country:us/state:mo/sldl:34": {
-        "name": "Missouri State House district 34",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MO State House District 34",
-        "divisionId": "ocd-division/country:us/state:mo/sldl:34",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rick Roeber",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldl:34",
-        "overwrite_name": "Rick Roeber",
-        "emails": [
-          "Rick.Roeber@house.mo.gov"
-        ],
-        "phones": [
-          "(573) 751-1456"
-        ]
-      }
-    ]
-  },
 	{
 	    "divisions": {
 	      "ocd-division/country:us/state:mo/sldl:37": {
@@ -57035,10 +56273,10 @@
     ],
     "officials": [
       {
-        "name": "Richard W West",
+        "name": "Richard W. West",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mo/sldl:63",
-        "overwrite_name": "Richard W West",
+        "overwrite_name": "Richard W. West",
         "emails": [
           "Richard.West@house.mo.gov"
         ],
@@ -58074,7 +57312,7 @@
         "name": "Scott Cupps",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mo/sldl:158",
-        "overwrite_name": "Brenda McKinney",
+        "overwrite_name": "Scott Cupps",
         "emails": [
           "Scott.Cupps@house.mo.gov"
         ],
@@ -58145,10 +57383,10 @@
     ],
     "officials": [
       {
-        "name": "Bob Ed Culver",
+        "name": "Bob Culver",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:4",
-        "overwrite_name": "Bob Ed Culver",
+        "overwrite_name": "Bob Culver",
         "emails": [
           "bobedculver@gmail.com"
         ],
@@ -58900,43 +58138,6 @@
   },
 	{
     "divisions": {
-      "ocd-division/country:us/state:ks/sldl:48": {
-        "name": "Kansas State House district 48",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "KS State House District 48",
-        "divisionId": "ocd-division/country:us/state:ks/sldl:48",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jennifer Day",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:48",
-        "overwrite_name": "Jennifer Day",
-        "emails": [
-          "jennifer.day@house.ks.gov"
-        ],
-        "phones": [
-          "(785) 296-7680"
-        ]
-      }
-    ]
-  },
-	{
-    "divisions": {
       "ocd-division/country:us/state:ks/sldl:52": {
         "name": "Kansas State House district 52",
         "overwrite": "true",
@@ -59295,7 +58496,7 @@
         "name": "Tom Kessler",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:96",
-        "overwrite_name": "Tom Kessler",
+        "overwrite_name": "Christopher Parisho",
         "emails": [
           "tom.kessler@house.ks.gov"
         ],
@@ -59810,10 +59011,10 @@
     ],
     "officials": [
       {
-        "name": "William Kevin Vaughan",
+        "name": "Kevin Vaughan",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:95",
-        "overwrite_name": "William Kevin Vaughan",
+        "overwrite_name": "Kevin Vaughan",
         "emails": [
           "rep.kevin.vaughan@capitol.tn.gov"
         ],
@@ -59995,10 +59196,10 @@
     ],
     "officials": [
       {
-        "name": "Wlnsvey E Campos",
+        "name": "Wlnsvey E. Campos",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:or/sldl:28",
-        "overwrite_name": "Wlnsvey E Campos",
+        "overwrite_name": "Wlnsvey E. Campos",
         "emails": [
           "Rep.WlnsveyCampos@oregonlegislature.gov"
         ],
@@ -60365,10 +59566,10 @@
 		],
 		"officials": [
 			{
-				"name": "Brittney Aileene Barreras",
+				"name": "Brittney Barreras",
 				"party": "Unaffiliated",
 				"overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:12",
-				"overwrite_name": "Brittney Aileene Barreras",
+				"overwrite_name": "Brittney Barreras",
 				"emails": [
 					"BRITTNEYFORNEWMEXICO@GMAIL.COM"
 				],
@@ -60402,10 +59603,10 @@
     ],
     "officials": [
       {
-        "name": "Meredith A Dixon",
+        "name": "Meredith A. Dixon",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:20",
-        "overwrite_name": "Meredith A Dixon",
+        "overwrite_name": "Meredith A. Dixon",
         "emails": [
           "meredith.dixon@nmlegis.gov"
         ],
@@ -60476,10 +59677,10 @@
     ],
     "officials": [
       {
-        "name": "Luis M Terrazas",
+        "name": "Luis M. Terrazas",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:39",
-        "overwrite_name": "Luis M Terrazas",
+        "overwrite_name": "Luis M. Terrazas",
         "emails": [
           "luis.terrazas@nmlegis.gov"
         ],
@@ -60513,10 +59714,10 @@
     ],
     "officials": [
       {
-        "name": "Roger Evan Montoya",
+        "name": "Roger E. Montoya",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:40",
-        "overwrite_name": "Roger Evan Montoya",
+        "overwrite_name": "Roger E. Montoya",
         "emails": [
           "roddmontoya@gmail.com"
         ],
@@ -60587,10 +59788,10 @@
     ],
     "officials": [
       {
-        "name": "Linda Michelle Serrato",
+        "name": "Linda Serrato",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:45",
-        "overwrite_name": "Linda Michelle Serrato",
+        "overwrite_name": "Linda Serrato",
         "emails": [
           "linda.serrato@nmlegis.gov"
         ],
@@ -60624,10 +59825,10 @@
     ],
     "officials": [
       {
-        "name": "Joshua Nathaniel Hernandez",
+        "name": "Joshua Hernandez",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:60",
-        "overwrite_name": "Joshua Nathaniel Hernandez",
+        "overwrite_name": "Joshua Hernandez",
         "emails": [
           "joshua@hernandeznm.com"
         ],
@@ -60660,10 +59861,10 @@
     ],
     "officials": [
       {
-        "name": "Randall T Pettigrew",
+        "name": "Randall T. Pettigrew",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:61",
-        "overwrite_name": "Randall T Pettigrew",
+        "overwrite_name": "Randall T. Pettigrew",
         "emails": [
           "randall.pettigrew@nmlegis.gov"
         ],
@@ -60697,10 +59898,10 @@
     ],
     "officials": [
       {
-        "name": "Ambrose M Castellano",
+        "name": "Ambrose Castellano",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:70",
-        "overwrite_name": "Ambrose M Castellano",
+        "overwrite_name": "Ambrose Castellano",
         "emails": [
           "ambrose.castellano@nmlegis.gov"
         ],
@@ -61001,35 +60202,12 @@
     "officialIndices": [0]
     }],
     "officials": [{
-    "name": "Robert D. Clifton",
+    "name": "Robert D. Clifton"",
     "party": "Republican",
     "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:12",
-    "overwrite_name": "Robert D. Clifton",
+    "overwrite_name": "Robert D. Clifton"",
     "emails": ["asmClifton@njleg.org"],
     "phones": ["(732) 970-6386"]
-    }]
-  },
-  {
-    "divisions": {
-    "ocd-division/country:us/state:nj/sldu:12": {
-    "name": "New Jersey State House district 12",
-    "overwrite": "true",
-    "officeIndices": [0]
-    }
-    },
-    "offices": [{
-    "name": "NJ State House District 12",
-    "divisionId": "ocd-division/country:us/state:nj/sldu:12",
-    "roles": ["legislatorLowerBody"],
-    "officialIndices": [0]
-    }],
-    "officials": [{
-    "name": "Gerard Scharfenberger",
-    "party": "Republican",
-    "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:12",
-    "overwrite_name": "Gerard Scharfenberger",
-    "emails": ["asmScharfenberger@njleg.org"],
-    "phones": ["(732) 856-9294"]
     }]
   },
   {

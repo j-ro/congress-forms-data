@@ -1,172 +1,446 @@
 [
-  {
-    "divisions": {
-      "ocd-division/country:us/state:co": {
-        "name": "Colorado",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:co",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Michael F. Bennet",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:co",
-        "overwrite_name": "Michael F. Bennet"
-      }
-    ],
-    "phones": [
-      "(303) 455-7600"
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az": {
-        "name": "Arizona",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:az",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kyrsten Sinema",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:az",
-        "overwrite_name": "Kyrsten Sinema"
-      }
-    ],
-    "phones": [
-      "(202) 224-4521"
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:fl": {
-        "name": "Florida",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:fl",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rick Scott",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl",
-        "overwrite_name": "Rick Scott"
-      }
-    ],
-    "phones": [
-      "(202) 224-5274"
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:md": {
-        "name": "Maryland",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:md",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Chris Van Hollen",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:md",
-        "overwrite_name": "Chris Van Hollen"
-      }
-    ],
-    "phones": [
-      "(202) 224-4654"
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mo": {
-        "name": "Missouri",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:mo",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Josh Hawley",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mo",
-        "overwrite_name": "Josh Hawley"
-      }
-    ],
-    "phones": [
-      "(202) 224-6154"
-    ]
-  }
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:md": {
+	   "name": "Maryland",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:md",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Chris Van Hollen",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:md",
+	   "overwrite_name": "Chris Van Hollen",
+	   "phones": [
+	   		"(202) 224-4654"
+	   ]
+	  }
+	 ]
+	},
+	{
+		 "divisions": {
+		  "ocd-division/country:us/state:az": {
+		   "name": "Arizona",
+		   "overwrite": "true",
+		   "officeIndices": [
+		    0
+		   ]
+		  }
+		 },
+		 "offices": [
+		  {
+		   "name": "United States Senate",
+		   "divisionId": "ocd-division/country:us/state:az",
+		   "levels": [
+		    "country"
+		   ],
+		   "roles": [
+		    "legislatorUpperBody"
+		   ],
+		   "officialIndices": [
+		    0
+		   ]
+		  }
+		 ],
+		 "officials": [
+		  {
+		   "name": "Mark Kelly",
+		   "party": "Democratic",
+		   "overwrite_ocdid": "ocd-division/country:us/state:az",
+		   "overwrite_name": "Mark Kelly",
+		   "phones": [
+		   		"(202) 224-2235"
+		   ]
+		  }
+		 ]
+		},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:az": {
+	   "name": "Arizona",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:az",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Kyrsten Sinema",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:az",
+	   "overwrite_name": "Kyrsten Sinema",
+	   "phones": [
+	   		"(202) 224-4521"
+	   ]
+	  }
+	 ]
+	},
+	{
+	 "divisions": {
+	  "ocd-division/country:us/state:mo": {
+	   "name": "Missouri",
+	   "overwrite": "true",
+	   "officeIndices": [
+	    0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:mo",
+	   "levels": [
+	    "country"
+	   ],
+	   "roles": [
+	    "legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+	    0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Josh Hawley",
+	   "party": "Republican",
+	   "overwrite_ocdid": "ocd-division/country:us/state:mo",
+	   "overwrite_name": "Josh Hawley",
+	   "phones": [
+	   		"(202) 224-6154"
+	   ]
+	  }
+	 ]
+ },
+{
+ "divisions": {
+	"ocd-division/country:us/state:fl": {
+	 "name": "Florida",
+	 "overwrite": "true",
+	 "officeIndices": [
+		0
+	 ]
+	}
+ },
+ "offices": [
+	{
+	 "name": "United States Senate",
+	 "divisionId": "ocd-division/country:us/state:fl",
+	 "levels": [
+		"country"
+	 ],
+	 "roles": [
+		"legislatorUpperBody"
+	 ],
+	 "officialIndices": [
+		0
+	 ]
+	}
+ ],
+ "officials": [
+	{
+	 "name": "Rick Scott",
+	 "party": "Republican",
+	 "overwrite_ocdid": "ocd-division/country:us/state:fl",
+	 "overwrite_name": "Rick Scott",
+	 "phones": [
+			"(202) 224-5274"
+	 ]
+	}
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:tn": {
+	"name": "Tennessee",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:tn",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Bill Hagerty",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:tn",
+	"overwrite_name": "Bill Hagerty",
+	"phones": [
+		 "(202) 224-4944"
+	]
+ }
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:wy": {
+	"name": "Wyoming",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:wy",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Cynthia M. Lummis",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:wy",
+	"overwrite_name": "Cynthia M. Lummis",
+	"phones": [
+		 "(202) 224-3424"
+	]
+ }
+ ]
+},
+{
+ "divisions": {
+ "ocd-division/country:us/state:al": {
+	"name": "Alabama",
+	"overwrite": "true",
+	"officeIndices": [
+	 0
+	]
+ }
+ },
+ "offices": [
+ {
+	"name": "United States Senate",
+	"divisionId": "ocd-division/country:us/state:al",
+	"levels": [
+	 "country"
+	],
+	"roles": [
+	 "legislatorUpperBody"
+	],
+	"officialIndices": [
+	 0
+	]
+ }
+ ],
+ "officials": [
+ {
+	"name": "Tommy Tuberville",
+	"party": "Republican",
+	"overwrite_ocdid": "ocd-division/country:us/state:al",
+	"overwrite_name": "Tommy Tuberville",
+	"phones": [
+		 "(202) 224-4124"
+	]
+ }
+ ]
+},
+{
+	 "divisions": {
+	  "ocd-division/country:us/state:ca": {
+	   "name": "California",
+	   "overwrite": "true",
+	   "officeIndices": [
+		0
+	   ]
+	  }
+	 },
+	 "offices": [
+	  {
+	   "name": "United States Senate",
+	   "divisionId": "ocd-division/country:us/state:ca",
+	   "levels": [
+		"country"
+	   ],
+	   "roles": [
+		"legislatorUpperBody"
+	   ],
+	   "officialIndices": [
+		0
+	   ]
+	  }
+	 ],
+	 "officials": [
+	  {
+	   "name": "Alex Padilla",
+	   "party": "Democratic",
+	   "overwrite_ocdid": "ocd-division/country:us/state:ca",
+	   "overwrite_name": "Alex Padilla",
+		 "phones": [
+	 		 " (202) 224–3553"
+	 	]
+	  }
+	 ]
+ },
+	{
+		 "divisions": {
+		  "ocd-division/country:us/state:ga": {
+		   "name": "Georgia",
+		   "overwrite": "true",
+		   "officeIndices": [
+			0
+		   ]
+		  }
+		 },
+		 "offices": [
+		  {
+		   "name": "United States Senate",
+		   "divisionId": "ocd-division/country:us/state:ga",
+		   "levels": [
+			"country"
+		   ],
+		   "roles": [
+			"legislatorUpperBody"
+		   ],
+		   "officialIndices": [
+			0
+		   ]
+		  }
+		 ],
+		 "officials": [
+		  {
+		   "name": "Raphael Warnock",
+		   "party": "Democratic",
+		   "overwrite_ocdid": "ocd-division/country:us/state:ga",
+		   "overwrite_name": "Raphael Warnock",
+			 "phones": [
+		 		 " (202) 224-3643"
+		 	]
+		  }
+		 ]
+	 },
+	 {
+ 		 "divisions": {
+ 		  "ocd-division/country:us/state:ga": {
+ 		   "name": "Georgia",
+ 		   "overwrite": "true",
+ 		   "officeIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 },
+ 		 "offices": [
+ 		  {
+ 		   "name": "United States Senate",
+ 		   "divisionId": "ocd-division/country:us/state:ga",
+ 		   "levels": [
+ 			"country"
+ 		   ],
+ 		   "roles": [
+ 			"legislatorUpperBody"
+ 		   ],
+ 		   "officialIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 ],
+ 		 "officials": [
+ 		  {
+ 		   "name": "Jon Ossoff",
+ 		   "party": "Democratic",
+ 		   "overwrite_ocdid": "ocd-division/country:us/state:ga",
+ 		   "overwrite_name": "Jon Ossoff",
+ 			 "phones": [
+ 		 		 " (202) 224-3521"
+ 		 	]
+ 		  }
+ 		 ]
+	 },
+	 {
+ 		 "divisions": {
+ 		  "ocd-division/country:us/state:co": {
+ 		   "name": "Colorado",
+ 		   "overwrite": "true",
+ 		   "officeIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 },
+ 		 "offices": [
+ 		  {
+ 		   "name": "United States Senate",
+ 		   "divisionId": "ocd-division/country:us/state:co",
+ 		   "levels": [
+ 			"country"
+ 		   ],
+ 		   "roles": [
+ 			"legislatorUpperBody"
+ 		   ],
+ 		   "officialIndices": [
+ 			0
+ 		   ]
+ 		  }
+ 		 ],
+ 		 "officials": [
+ 		  {
+ 		   "name": "Michael F. Bennet",
+ 		   "party": "Democratic",
+ 		   "overwrite_ocdid": "ocd-division/country:us/state:co",
+ 		   "overwrite_name": "Michael F. Bennet",
+ 			 "phones": [
+ 		 		 "(303) 455-7600"
+ 		 	]
+ 		  }
+ 		 ]
+ 		}
 ]

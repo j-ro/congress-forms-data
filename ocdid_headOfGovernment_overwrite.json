@@ -1,530 +1,39 @@
 [
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ks": {
-	   "name": "Kansas",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:ks",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Laura Kelly",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ks",
-	   "overwrite_name": "Laura Kelly",
-	   "emails": [
-	   		"governor@ks.gov"
-	   ],
-	   "phones": [
-	   		"(785) 296-3232"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:mn": {
-	   "name": "Minnesota",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:mn",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Tim Walz",
-	   "party": "Democratic-Farmer-Labor",
-	   "overwrite_ocdid": "ocd-division/country:us/state:mn",
-	   "overwrite_name": "Tim Walz",
-	   "emails": [
-	   		"gov.contact@state.mn.us"
-	   ],
-	   "phones": [
-	   		"(651) 201-3400"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-		"ocd-division/country:us/state:wv": {
-		 "name": "West Virginia",
-		 "overwrite": "true",
-		 "officeIndices": [
-			0
-		 ]
-		}
-	 },
-	 "offices": [
-		{
-		 "name": "Governor",
-		 "divisionId": "ocd-division/country:us/state:wv",
-		 "levels": [
-			"country"
-		 ],
-		 "roles": [
-			"headOfGovernment"
-		 ],
-		 "officialIndices": [
-			0
-		 ]
-		}
-	 ],
-	 "officials": [
-		{
-		 "name": "Jim Justice",
-		 "party": "Republican",
-		 "overwrite_ocdid": "ocd-division/country:us/state:wv",
-		 "overwrite_name": "Jim Justice",
-		 "emails": [
-				"governor@state.wv.us"
-		 ],
-		 "phones": [
-				"(304) 558-2000"
-		 ]
-		}
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:oh": {
-	   "name": "Ohio",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:oh",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Mike DeWine",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:oh",
-	   "overwrite_name": "Mike DeWine",
-	   "phones": [
-	   		"(614) 644-4357"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ga": {
-	   "name": "Georgia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:ga",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Brian Kemp",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ga",
-	   "overwrite_name": "Brian Kemp",
-	   "phones": [
-	   		"(614) 644-4357"
-			],
-		 "emails": [
-			 "Tim.fleming@georgia.gov"
-		 	]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:ma": {
-	   "name": "Massachusetts",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:ma",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Charles D. Baker",
-	   "party": "Republican",
-	   "overwrite_ocdid": "ocd-division/country:us/state:ma",
-	   "overwrite_name": "Charlie Baker",
-	   "phones": [
-	   		"(617) 725-4005"
-			]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:mo": {
-	   "name": "Missouri",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:mo",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Michael L. Parson",
-	   "party": "Republican Party",
-	   "overwrite_ocdid": "ocd-division/country:us/state:mo",
-	   "overwrite_name": "Michael L. Parson",
-	   "phones": [
-	   		"(573) 751-3222"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives DC",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Eleanor Holmes Norton",
-	   "phones": [
-	   		"(202) 225-8050"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives DC",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Robert White",
-	   "phones": [
-	   		"(202) 225-8050"
-	   ]
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "United States House of Representatives DC",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "roles": [
-	    "legislatorLowerBody"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Karl A. Racine"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Phil Mendelson"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Anita Bonds"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/district:dc": {
-	   "name": "District of Columbia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "County Council, District At-Large",
-	   "divisionId": "ocd-division/country:us/district:dc",
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Vacant",
-	   "overwrite_ocdid": "ocd-division/country:us/district:dc",
-	   "overwrite_name": "Elissa Silverman"
-	  }
-	 ]
-	},
-	{
-	 "divisions": {
-	  "ocd-division/country:us/state:va": {
-	   "name": "Virginia",
-	   "overwrite": "true",
-	   "officeIndices": [
-	    0
-	   ]
-	  }
-	 },
-	 "offices": [
-	  {
-	   "name": "Governor",
-	   "divisionId": "ocd-division/country:us/state:va",
-	   "levels": [
-	    "country"
-	   ],
-	   "roles": [
-	    "headOfGovernment"
-	   ],
-	   "officialIndices": [
-	    0
-	   ]
-	  }
-	 ],
-	 "officials": [
-	  {
-	   "name": "Ralph S. Northam",
-	   "party": "Democratic",
-	   "overwrite_ocdid": "ocd-division/country:us/state:va",
-	   "overwrite_name": "Ralph S. Northam",
-	   "phones": [
-	   		"(804) 786-2211"
-	   ]
-	  }
-	 ]
- },
-		{
-		 "divisions": {
-		  "ocd-division/country:us/state:wy": {
-		   "name": "Wyoming",
-		   "overwrite": "true",
-		   "officeIndices": [
-		    0
-		   ]
-		  }
-		 },
-		 "offices": [
-		  {
-		   "name": "Governor",
-		   "divisionId": "ocd-division/country:us/state:wy",
-		   "levels": [
-		    "country"
-		   ],
-		   "roles": [
-		    "headOfGovernment"
-		   ],
-		   "officialIndices": [
-		    0
-		   ]
-		  }
-		 ],
-		 "officials": [
-		  {
-		   "name": "Mark Gordon",
-		   "party": "Republican",
-		   "overwrite_ocdid": "ocd-division/country:us/state:wy",
-		   "overwrite_name": "Mark Gordon",
-		   "emails": [
-		   		"buck.mcveigh@wyo.gov"
-		   ],
-		   "phones": [
-		   		"(307) 777-7434"
-		   ]
-		  }
-		 ]
-		},
-	{
+  {
+    "divisions": {
+      "ocd-division/country:us/state:va": {
+        "name": "Virginia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:va",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ralph S. Northam",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:va",
+        "overwrite_name": "Ralph S. Northam",
+        "phones": [
+          "(804) 786-2211"
+        ]
+      }
+    ]
+  },
+  {
     "divisions": {
       "ocd-division/country:us/state:ct": {
         "name": "Connecticut",
@@ -561,10 +70,10 @@
       }
     ]
   },
-	{
+  {
     "divisions": {
-      "ocd-division/country:us/state:mt": {
-        "name": "Montana",
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -573,8 +82,8 @@
     },
     "offices": [
       {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:mt",
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
         "roles": [
           "headOfGovernment"
         ],
@@ -585,94 +94,212 @@
     ],
     "officials": [
       {
-        "name": "Greg Gianforte",
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Eleanor Holmes Norton",
+        "phones": [
+          "(202) 225-8050"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Karl A. Racine"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Anita Bonds"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Elissa Silverman"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Robert White",
+        "phones": [
+          "(202) 225-8050"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga": {
+        "name": "Georgia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ga",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Kemp",
         "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt",
-        "overwrite_name": "Greg Gianforte",
-		"emails": [
-			  "governor@mt.gov"
-			],
-			"phones": [
-			  "855-318-1330"
-			]
-      }
-    ]
-  },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:ut": {
-        "name": "Utah",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:ut",
-        "roles": [
-          "headOfGovernment"
+        "overwrite_ocdid": "ocd-division/country:us/state:ga",
+        "overwrite_name": "Brian Kemp",
+        "emails": [
+          "Tim.fleming@georgia.gov"
         ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Spencer J. Cox",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ut",
-        "overwrite_name": "Spencer J. Cox",
-				"emails": [
-          "governor@utah.gov"
-        ],
-				"phones": [
-          "(801) 538-2464"
+        "phones": [
+          "(614) 644-4357"
         ]
       }
     ]
   },
-	{
-    "divisions": {
-      "ocd-division/country:us/state:ri": {
-        "name": "Rhode Island",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:ri",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Daniel J. McKee",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ri",
-        "overwrite_name": "Daniel J. McKee",
-				"emails": [
-          "governor@governor.ri.gov"
-        ],
-				"phones": [
-          "(401) 222-2080"
-        ]
-      }
-    ]
-  },
-	{
+  {
     "divisions": {
       "ocd-division/country:us/state:hi": {
         "name": "Hawaii",
@@ -700,8 +327,301 @@
         "party": "Democratic",
         "overwrite_ocdid": "ocd-division/country:us/state:hi",
         "overwrite_name": "David Ige",
-				"phones": [
+        "phones": [
           "(808) 586-0034"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ks": {
+        "name": "Kansas",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ks",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laura Kelly",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks",
+        "overwrite_name": "Laura Kelly",
+        "emails": [
+          "governor@ks.gov"
+        ],
+        "phones": [
+          "(785) 296-3232"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma": {
+        "name": "Massachusetts",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ma",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles D. Baker",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma",
+        "overwrite_name": "Charlie Baker",
+        "phones": [
+          "(617) 725-4005"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn": {
+        "name": "Minnesota",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:mn",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tim Walz",
+        "party": "Democratic-Farmer-Labor",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn",
+        "overwrite_name": "Tim Walz",
+        "emails": [
+          "gov.contact@state.mn.us"
+        ],
+        "phones": [
+          "(651) 201-3400"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mt": {
+        "name": "Montana",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:mt",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg Gianforte",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt",
+        "overwrite_name": "Greg Gianforte",
+        "emails": [
+          "governor@mt.gov"
+        ],
+        "phones": [
+          "855-318-1330"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ri": {
+        "name": "Rhode Island",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ri",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel J. McKee",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ri",
+        "overwrite_name": "Daniel J. McKee",
+        "emails": [
+          "governor@governor.ri.gov"
+        ],
+        "phones": [
+          "(401) 222-2080"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ut": {
+        "name": "Utah",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ut",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Spencer J. Cox",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut",
+        "overwrite_name": "Spencer J. Cox",
+        "emails": [
+          "governor@utah.gov"
+        ],
+        "phones": [
+          "(801) 538-2464"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wv": {
+        "name": "West Virginia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:wv",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Justice",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv",
+        "overwrite_name": "Jim Justice",
+        "emails": [
+          "governor@state.wv.us"
+        ],
+        "phones": [
+          "(304) 558-2000"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wy": {
+        "name": "Wyoming",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:wy",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Gordon",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:wy",
+        "overwrite_name": "Mark Gordon",
+        "emails": [
+          "buck.mcveigh@wyo.gov"
+        ],
+        "phones": [
+          "(307) 777-7434"
         ]
       }
     ]

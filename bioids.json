@@ -734,7 +734,7 @@
 		"example_district": "7",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Andre Carson"
+		"name": "André Carson"
 	},
 	"G000577": {
 		"example_address": "PO Box 426 ",
@@ -954,7 +954,7 @@
 		"example_district": "7",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Danny Davis"
+		"name": "Danny K. Davis"
 	},
 	"D000191": {
 		"example_address": "PO Box 2460 ",
@@ -2395,7 +2395,7 @@
 		"example_district": "2",
 		"type": "Rep",
 		"mark": "true",
-		"name": "James Langevin"
+		"name": "Jim Langevin"
 	},
 	"L000560": {
 		"example_address": "2930 Wetmore Avenue",
@@ -2868,7 +2868,7 @@
 		"example_district": "1",
 		"type": "Rep",
 		"mark": "true",
-		"name": "David McKinley"
+		"name": "David B. McKinley"
 	},
 	"S001205": {
 		"example_address": "107 Old Airport Road",
@@ -3880,7 +3880,7 @@
 		"example_district": "9",
 		"type": "Rep",
 		"mark": "true",
-		"name": "Janice Schakowsky"
+		"name": "Jan Schakowsky"
 	},
 	"S001148": {
 		"example_address": "1341 Fillmore Street",
@@ -5773,7 +5773,7 @@
 	},
 	"state_ca_sldl_51_state_rep_jimmy_gomez": {
 		"mark": "true",
-		"name": "Jimmy Gomez",
+		"name": "Wendy Carrillo",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:51",
 		"state": "CA"
@@ -5792,9 +5792,16 @@
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:3",
 		"state": "CA"
 	},
+	"state_ca_sldl_35_state_rep_jordan_cunningham": {
+		"mark": "true",
+		"name": "Jordan Cunningham",
+		"type": "Rep",
+		"ocd_id": "ocd-division/country:us/state:ca/sldl:35",
+		"state": "CA"
+	},
 	"state_ca_sldl_74_state_rep_matthew_harper": {
 		"mark": "true",
-		"name": "Matthew Harper",
+		"name": "Cottie Petrie-Norris",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:74",
 		"state": "CA"
@@ -6585,7 +6592,7 @@
 	},
 	"state_ca_sldl_66_state_rep_david_hadley": {
 		"mark": "true",
-		"name": "David Hadley",
+		"name": "Al Muratsuchi",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:66",
 		"state": "CA"
@@ -6613,7 +6620,7 @@
 	},
 	"SLe000431": {
 		"mark": "true",
-		"name": "Beth Gaines",
+		"name": "Kevin Kiley",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:6",
 		"state": "CA"
@@ -6646,6 +6653,13 @@
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:70",
 		"state": "CA"
 	},
+	"state_ca_sldl_71_state_rep_randy_voepel": {
+		"mark": "true",
+		"name": "Randy Voepel",
+		"type": "Rep",
+		"ocd_id": "ocd-division/country:us/state:ca/sldl:71",
+		"state": "CA"
+	},
 	"SLe000426": {
 		"mark": "true",
 		"name": "Megan Dahle",
@@ -6676,7 +6690,7 @@
 	},
 	"SLe000472": {
 		"mark": "true",
-		"name": "Cheryl R. Brown",
+		"name": "Eloise Gómez Reyes",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:47",
 		"state": "CA"
@@ -6704,7 +6718,7 @@
 	},
 	"state_ca_sldl_55_state_rep_ling_ling_chang": {
 		"mark": "true",
-		"name": "Ling Ling Chang",
+		"name": "Phillip Chen",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:55",
 		"state": "CA"
@@ -6718,7 +6732,7 @@
 	},
 	"SLe000493": {
 		"mark": "true",
-		"name": "Donald P. Wagner",
+		"name": "Steven S. Choi",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:68",
 		"state": "CA"
@@ -6732,7 +6746,7 @@
 	},
 	"SLe000485": {
 		"mark": "true",
-		"name": "Eric Linder",
+		"name": "Sabrina Cervantes",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:60",
 		"state": "CA"
@@ -6774,7 +6788,7 @@
 	},
 	"SLe000489": {
 		"mark": "true",
-		"name": "Isadore Hall III",
+		"name": "Steven Bradford",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:35",
 		"state": "CA"
@@ -6795,7 +6809,7 @@
 	},
 	"SLe000436": {
 		"mark": "true",
-		"name": "Jim Frazier",
+		"name": "Scott D. Wiener",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:11",
 		"state": "CA"
@@ -6814,16 +6828,9 @@
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:23",
 		"state": "CA"
 	},
-	"SLe000476": {
-		"mark": "true",
-		"name": "Not Seated Right Now",
-		"type": "Rep",
-		"ocd_id": "ocd-division/country:us/state:ca/sldl:51",
-		"state": "CA"
-	},
 	"state_ca_sldl_16_state_rep_chatharine_b_baker": {
 		"mark": "true",
-		"name": "Catharine B. Baker",
+		"name": "Rebecca Bauer-Kahan",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:16",
 		"state": "CA"
@@ -6851,7 +6858,7 @@
 	},
 	"SLe000527": {
 		"mark": "true",
-		"name": "Maria Elena Durazo",
+		"name": "María Elena Durazo",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:24",
 		"state": "CA"
@@ -6865,7 +6872,7 @@
 	},
 	"SLe000437": {
 		"mark": "true",
-		"name": "Kristin Olsen",
+		"name": "Heath Flora",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:12",
 		"state": "CA"
@@ -6893,7 +6900,7 @@
 	},
 	"state_ca_sldl_4_state_rep_bill_dodd": {
 		"mark": "true",
-		"name": "Bill Dodd",
+		"name": "Cecilia M. Aguiar-Curry",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:4",
 		"state": "CA"
@@ -6914,14 +6921,14 @@
 	},
 	"SLe000544": {
 		"mark": "true",
-		"name": "Marty Block",
+		"name": "Toni G. Atkins",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:39",
 		"state": "CA"
 	},
 	"SLe000470": {
 		"mark": "true",
-		"name": "Matthew Dababneh",
+		"name": "Jesse Gabriel",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:45",
 		"state": "CA"
@@ -6942,16 +6949,23 @@
 	},
 	"state_ca_sldl_15_state_rep_tony_thurmond": {
 		"mark": "true",
-		"name": "Tony Thurmond",
+		"name": "Buffy Wicks",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:15",
 		"state": "CA"
 	},
 	"SLe000452": {
 		"mark": "true",
-		"name": "Nora Campos",
+		"name": "Ash Kalra",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:27",
+		"state": "CA"
+	},
+	"state_ca_sldl_30_state_rep_robert_rivas": {
+		"mark": "true",
+		"name": "Robert Rivas",
+		"type": "Rep",
+		"ocd_id": "ocd-division/country:us/state:ca/sldl:30",
 		"state": "CA"
 	},
 	"state_ca_sldl_28_state_rep_evan_low": {
@@ -6963,28 +6977,28 @@
 	},
 	"state_ca_sldl_39_state_rep_patty_lopez": {
 		"mark": "true",
-		"name": "Patty Lopez",
+		"name": "Luz M. Rivas",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:39",
 		"state": "CA"
 	},
 	"state_ca_sldl_40_state_rep_marc_steinorth": {
 		"mark": "true",
-		"name": "Marc Steinorth",
+		"name": "James C. Ramos",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:40",
 		"state": "CA"
 	},
 	"SLe000484": {
 		"mark": "true",
-		"name": "Reginald B. Jones-Sawyer Sr.",
+		"name": "Reginald Byron Jones-Sawyer, Sr.",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:59",
 		"state": "CA"
 	},
 	"SLe000538": {
 		"mark": "true",
-		"name": "Ricardo Lara",
+		"name": "Lena A. Gonzalez",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:33",
 		"state": "CA"
@@ -7012,7 +7026,7 @@
 	},
 	"SLe000449": {
 		"mark": "true",
-		"name": "Richard S. Gordon",
+		"name": "Marc Berman",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:24",
 		"state": "CA"
@@ -7026,7 +7040,7 @@
 	},
 	"SLe000501": {
 		"mark": "true",
-		"name": "Rocky J. Chavez",
+		"name": "Tasha Boerner Horvath",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:76",
 		"state": "CA"
@@ -7040,7 +7054,7 @@
 	},
 	"state_ca_sldl_9_state_rep_jim_cooper": {
 		"mark": "true",
-		"name": "Jim Cooper",
+		"name": "Nancy Skinner",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:9",
 		"state": "CA"
@@ -7054,7 +7068,7 @@
 	},
 	"SLe000457": {
 		"mark": "true",
-		"name": "Rudy Salas Jr.",
+		"name": "Rudy Salas, Jr.",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:32",
 		"state": "CA"
@@ -7075,14 +7089,14 @@
 	},
 	"SLe000459": {
 		"mark": "true",
-		"name": "Shannon L. Grove",
+		"name": "Vince Fong",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:34",
 		"state": "CA"
 	},
 	"state_ca_sldl_65_state_rep_young_o_kim": {
 		"mark": "true",
-		"name": "Young O. Kim",
+		"name": "Sharon Quirk-Silva",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:65",
 		"state": "CA"
@@ -7103,9 +7117,30 @@
 	},
 	"state_ca_sldu_21_state_sen_sharon_runner": {
 		"mark": "true",
-		"name": "Sharon Runner",
+		"name": "Scott Wilk",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:21",
+		"state": "CA"
+	},
+	"state_ca_sldu_22_state_sen_susan_rubio": {
+		"mark": "true",
+		"name": "Susan Rubio",
+		"type": "Sen",
+		"ocd_id": "ocd-division/country:us/state:ca/sldu:22",
+		"state": "CA"
+	},
+	"state_ca_sldu_25_state_sen_anthony_portantino": {
+		"mark": "true",
+		"name": "Anthony J. Portantino",
+		"type": "Sen",
+		"ocd_id": "ocd-division/country:us/state:ca/sldu:27",
+		"state": "CA"
+	},
+	"state_ca_sldu_27_state_sen_henry_stern": {
+		"mark": "true",
+		"name": "Henry I. Stern",
+		"type": "Sen",
+		"ocd_id": "ocd-division/country:us/state:ca/sldu:27",
 		"state": "CA"
 	},
 	"state_ca_sldl_62_state_rep_autumn_r_burke": {
@@ -7124,7 +7159,7 @@
 	},
 	"SLe000439": {
 		"mark": "true",
-		"name": "Susan A. Bonilla",
+		"name": "Timothy S. Grayson",
 		"type": "Rep",
 		"ocd_id": "ocd-division/country:us/state:ca/sldl:14",
 		"state": "CA"
@@ -7260,6 +7295,13 @@
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:2",
 		"state": "CA"
 	},
+	"state_ca_sldu_3_state_sen_bill_dodd": {
+		"mark": "true",
+		"name": "Bill Dodd",
+		"type": "Sen",
+		"ocd_id": "ocd-division/country:us/state:ca/sldu:3",
+		"state": "CA"
+	},
 	"state_pa_sldu_21_state_sen_scott_e_hutchinson": {
 		"mark": "true",
 		"name": "Scott E. Hutchinson",
@@ -7283,7 +7325,7 @@
 	},
 	"state_ca_sldu_12_state_sen_anna_caballero": {
 		"mark": "true",
-		"name": "Anna Caballero",
+		"name": "Anna M. Caballero",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:12",
 		"state": "CA"
@@ -7325,14 +7367,14 @@
 	},
 	"state_ca_sldu_32_state_sen_tony_mendoza": {
 		"mark": "true",
-		"name": "Bob J. Archuleta",
+		"name": "Bob Archuleta",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:32",
 		"state": "CA"
 	},
 	"state_ca_sldu_34_state_sen_janet_nguyen": {
 		"mark": "true",
-		"name": "Janet Nguyen",
+		"name": "Thomas J. Umberg",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:34",
 		"state": "CA"
@@ -7645,7 +7687,7 @@
 	},
 	"state_ca_sldu_29_state_sen_josh_newman": {
 		"mark": "true",
-		"name": "Ling Ling Chang",
+		"name": "Josh Newman",
 		"type": "Sen",
 		"ocd_id": "ocd-division/country:us/state:ca/sldu:29",
 		"state": "CA"

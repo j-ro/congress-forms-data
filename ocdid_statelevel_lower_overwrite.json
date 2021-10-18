@@ -1,1369 +1,6 @@
 [
   {
     "divisions": {
-      "ocd-division/country:us/state:nj/sldl:18": {
-        "name": "New Jersey State House district 18",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 18",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:18",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Sterley S. Stanley",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:18",
-        "overwrite_name": "Sterley S. Stanley",
-        "emails": [
-          "AsmStanley@njleg.org"
-        ],
-        "phones": [
-          "(732) 875-3833"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ks/sldl:29": {
-        "name": "Kansas State House district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "KS State House District 29",
-        "divisionId": "ocd-division/country:us/state:ks/sldl:29",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Heather Meyer",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:29",
-        "overwrite_name": "Heather Meyer",
-        "emails": [
-          "heather.meyer@house.ks.gov"
-        ],
-        "phones": [
-          "(913-735-0304"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ks/sldl:98": {
-        "name": "Kansas State House district 98",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "KS State House District 98",
-        "divisionId": "ocd-division/country:us/state:ks/sldl:98",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Cyndi Howerton",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:98",
-        "overwrite_name": "Cyndi Howerton",
-        "emails": [
-          "cyndi.howerton@house.ks.gov"
-        ],
-        "phones": [
-          "(785) 296-7468"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:pa/sldl:150": {
-        "name": "Pennsylvania State House district 150",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "PA State House District 150",
-        "divisionId": "ocd-division/country:us/state:pa/sldl:150",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Joe Webster",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:150",
-        "overwrite_name": "Joe Webster",
-        "emails": [
-          "jWebster@pahouse.net"
-        ],
-        "phones": [
-          "(484) 200-8263"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:19": {
-        "name": "California State House district 19",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 19",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:19",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Philip Y. Ting",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:19",
-        "overwrite_name": "Philip Y. Ting",
-        "phones": [
-          "(916) 319-2019"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:78": {
-        "name": "California State House district 78",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 78",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:78",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Christopher M. Ward",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:78",
-        "overwrite_name": "Christopher M. Ward",
-        "phones": [
-          "(916) 319-2078"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:1": {
-        "name": "New Jersey State House district 1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 1",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:1",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Antwan L. McClellan",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:1",
-        "overwrite_name": "Antwan L. McClellan",
-        "emails": [
-          "AsmMcClellan@njleg.org"
-        ],
-        "phones": [
-          "(609) 778-2012"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:3": {
-        "name": "New Jersey State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 3",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adam J. Taliaferro",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
-        "overwrite_name": "Adam J. Taliaferro",
-        "emails": [
-          "AsmTaliaferro@njleg.org"
-        ],
-        "phones": [
-          "(856) 339-0808"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:3": {
-        "name": "New Jersey State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 3",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John J. Burzichelli",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
-        "overwrite_name": "John J. Burzichelli",
-        "emails": [
-          "AsmBurzichelli@njleg.org"
-        ],
-        "phones": [
-          "(856) 251-9801"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:4": {
-        "name": "New Jersey State House district 4",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 4",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:4",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Paul D. Moriarty",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:4",
-        "overwrite_name": "Paul D. Moriarty",
-        "emails": [
-          "AsmMoriarty@njleg.org"
-        ],
-        "phones": [
-          "(856) 232-6700"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:9": {
-        "name": "New Jersey State House district 9",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 9",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:9",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Brian E. Rumpf",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:9",
-        "overwrite_name": "Brian E. Rumpf",
-        "emails": [
-          "AsmRumpf@njleg.org"
-        ],
-        "phones": [
-          "(609) 693-6700"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:9": {
-        "name": "New Jersey State House district 9",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 9",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:9",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "DiAnne C. Gove",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:9",
-        "overwrite_name": "DiAnne C. Gove",
-        "emails": [
-          "AswGove@njleg.org"
-        ],
-        "phones": [
-          "(609) 693-6700"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:10": {
-        "name": "New Jersey State House district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 10",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:10",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gregory P. McGuckin",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:10",
-        "overwrite_name": "Gregory P. McGuckin",
-        "emails": [
-          "AsmMcGuckin@njleg.org"
-        ],
-        "phones": [
-          "(732) 840-9028"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:10": {
-        "name": "New Jersey State House district 10",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 10",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:10",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Catalano",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:10",
-        "overwrite_name": "John Catalano",
-        "emails": [
-          "AsmCatalano@njleg.org"
-        ],
-        "phones": [
-          "(732) 840-9028"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:12": {
-        "name": "New Jersey State House district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 12",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:12",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert D. Clifton",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:12",
-        "overwrite_name": "Robert D. Clifton",
-        "emails": [
-          "AsmClifton@njleg.org"
-        ],
-        "phones": [
-          "(732) 970-6386"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:13": {
-        "name": "New Jersey State House district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 13",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:13",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gerard Scharfenberger",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:13",
-        "overwrite_name": "Gerard Scharfenberger",
-        "emails": [
-          "AsmScharfenberger@njleg.org"
-        ],
-        "phones": [
-          "(732) 856-9294"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:14": {
-        "name": "New Jersey State House district 14",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 14",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:14",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Daniel R. Benson",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:14",
-        "overwrite_name": "Daniel R. Benson",
-        "emails": [
-          "AsmBenson@njleg.org"
-        ],
-        "phones": [
-          "(609) 631-0198"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:16": {
-        "name": "New Jersey State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 16",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:16",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Roy Freiman",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:16",
-        "overwrite_name": "Roy Freiman",
-        "emails": [
-          "AsmFreiman@njleg.org"
-        ],
-        "phones": [
-          "(908) 829-4191"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:17": {
-        "name": "New Jersey State House district 17",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 17",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:17",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Joseph V. Egan",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:17",
-        "overwrite_name": "Joseph V. Egan",
-        "emails": [
-          "AsmEgan@njleg.org"
-        ],
-        "phones": [
-          "(732) 249-4550"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:19": {
-        "name": "New Jersey State House district 19",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 19",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:19",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Yvonne Lopez",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:19",
-        "overwrite_name": "Yvonne Lopez",
-        "emails": [
-          "AswLopez@njleg.org"
-        ],
-        "phones": [
-          "(732) 638-5057"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:20": {
-        "name": "New Jersey State House district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 20",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:20",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Annette Quijano",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:20",
-        "overwrite_name": "Annette Quijano",
-        "emails": [
-          "AswQuijano@njleg.org"
-        ],
-        "phones": [
-          "(908) 327-9119"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:21": {
-        "name": "New Jersey State House district 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 21",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:21",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jon M. Bramnick",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:21",
-        "overwrite_name": "Jon M. Bramnick",
-        "emails": [
-          "AsmBramnick@njleg.org"
-        ],
-        "phones": [
-          "(908) 232-2073"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:24": {
-        "name": "New Jersey State House district 24",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 24",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:24",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Harold J. Wirths",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:24",
-        "overwrite_name": "Harold J. Wirths",
-        "emails": [
-          "AsmWirths@njleg.org"
-        ],
-        "phones": [
-          "(973) 300-0200"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:24": {
-        "name": "New Jersey State House district 24",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 24",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:24",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Parker Space",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:24",
-        "overwrite_name": "Parker Space",
-        "emails": [
-          "AsmSpace@njleg.org"
-        ],
-        "phones": [
-          "(973) 300-0200"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:25": {
-        "name": "New Jersey State House district 25",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 25",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:25",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Brian Bergen",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:25",
-        "overwrite_name": "Brian Bergen",
-        "emails": [
-          "AsmBergen@njleg.org"
-        ],
-        "phones": [
-          "(973) 539-8113"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:26": {
-        "name": "New Jersey State House district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 26",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:26",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "BettyLou DeCroce",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:26",
-        "overwrite_name": "BettyLou DeCroce",
-        "emails": [
-          "AswDeCroce@njleg.org"
-        ],
-        "phones": [
-          "(862) 701-5156"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:27": {
-        "name": "New Jersey State House district 27",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 27",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:27",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mila M. Jasey",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:27",
-        "overwrite_name": "Mila M. Jasey",
-        "emails": [
-          "AswJasey@njleg.org"
-        ],
-        "phones": [
-          "(973) 762-1886"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:29": {
-        "name": "New Jersey State House district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 29",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:29",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Eliana Pintor Marin",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:29",
-        "overwrite_name": "Eliana Pintor Marin",
-        "emails": [
-          "AswPintorMarin@njleg.org"
-        ],
-        "phones": [
-          "(973) 589-0713"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:30": {
-        "name": "New Jersey State House district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 30",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:30",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Edward H. Thomson",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:30",
-        "overwrite_name": "Edward H. Thomson",
-        "emails": [
-          "AsmThomson@njleg.org"
-        ],
-        "phones": [
-          "(732) 974-0400"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:31": {
-        "name": "New Jersey State House district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 31",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:31",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Nicholas Chiaravalloti",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:31",
-        "overwrite_name": "Nicholas Chiaravalloti",
-        "emails": [
-          "AsmChiaravalloti@njleg.org"
-        ],
-        "phones": [
-          "(201) 471-2347"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:32": {
-        "name": "New Jersey State House district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 32",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:32",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Pedro Mejia",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:32",
-        "overwrite_name": "Pedro Mejia",
-        "emails": [
-          "AsmMejia@njleg.org"
-        ],
-        "phones": [
-          "(201) 770-1303"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:34": {
-        "name": "New Jersey State House district 34",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 34",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:34",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Thomas P. Giblin",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:34",
-        "overwrite_name": "Thomas P. Giblin",
-        "emails": [
-          "AsmGiblin@njleg.org"
-        ],
-        "phones": [
-          "(973) 779-3125"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:35": {
-        "name": "New Jersey State House district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 35",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:35",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Benjie E. Wimberly",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:35",
-        "overwrite_name": "Benjie E. Wimberly",
-        "emails": [
-          "AsmWimberly@njleg.org"
-        ],
-        "phones": [
-          "(973) 925-7061"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:35": {
-        "name": "New Jersey State House district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 35",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:35",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Shavonda E. Sumter",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:35",
-        "overwrite_name": "Shavonda E. Sumter",
-        "emails": [
-          "AswSumter@njleg.org"
-        ],
-        "phones": [
-          "(973) 925-7063"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:36": {
-        "name": "New Jersey State House district 36",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 36",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:36",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Clinton Calabrese",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:36",
-        "overwrite_name": "Clinton Calabrese",
-        "emails": [
-          "AsmCalabrese@njleg.org"
-        ],
-        "phones": [
-          "(201) 943-0615"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:37": {
-        "name": "New Jersey State House district 37",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 37",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:37",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gordon M. Johnson",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:37",
-        "overwrite_name": "Gordon M. Johnson",
-        "emails": [
-          "AsmJohnson@njleg.org"
-        ],
-        "phones": [
-          "(201) 530-0469"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:39": {
-        "name": "New Jersey State House district 39",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 39",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:39",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert Auth",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:39",
-        "overwrite_name": "Robert Auth",
-        "emails": [
-          "AsmAuth@njleg.org"
-        ],
-        "phones": [
-          "(862) 248-0491"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:al/sldl:3": {
         "name": "Alabama State House district 3",
         "overwrite": "true",
@@ -3610,8 +2247,45 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:13",
         "overwrite_name": "Carlos Villapudua",
+        "emails": [
+          "assemblymember.villapudua@assembly.ca.gov"
+        ],
         "phones": [
           "(209) 948-7479"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:19": {
+        "name": "California State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 19",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:19",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Philip Y. Ting",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:19",
+        "overwrite_name": "Philip Y. Ting",
+        "phones": [
+          "(916) 319-2019"
         ]
       }
     ]
@@ -3850,6 +2524,40 @@
         "overwrite_name": "Laurie Davies",
         "phones": [
           "(916) 319-2073"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:78": {
+        "name": "California State House district 78",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 78",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:78",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christopher M. Ward",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:78",
+        "overwrite_name": "Christopher M. Ward",
+        "phones": [
+          "(916) 319-2078"
         ]
       }
     ]
@@ -12064,6 +10772,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ks/sldl:29": {
+        "name": "Kansas State House district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 29",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:29",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Heather Meyer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:29",
+        "overwrite_name": "Heather Meyer",
+        "emails": [
+          "heather.meyer@house.ks.gov"
+        ],
+        "phones": [
+          "(913-735-0304"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ks/sldl:88": {
         "name": "Kansas State House district 88",
         "overwrite": "true",
@@ -12132,6 +10877,43 @@
         ],
         "phones": [
           "(785) 296-8610"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ks/sldl:98": {
+        "name": "Kansas State House district 98",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "KS State House District 98",
+        "divisionId": "ocd-division/country:us/state:ks/sldl:98",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cyndi Howerton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:98",
+        "overwrite_name": "Cyndi Howerton",
+        "emails": [
+          "cyndi.howerton@house.ks.gov"
+        ],
+        "phones": [
+          "(785) 296-7468"
         ]
       }
     ]
@@ -22646,6 +21428,1190 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nj/sldl:1": {
+        "name": "New Jersey State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 1",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:1",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Antwan L. McClellan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:1",
+        "overwrite_name": "Antwan L. McClellan",
+        "emails": [
+          "AsmMcClellan@njleg.org"
+        ],
+        "phones": [
+          "(609) 778-2012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:3": {
+        "name": "New Jersey State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 3",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adam J. Taliaferro",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
+        "overwrite_name": "Adam J. Taliaferro",
+        "emails": [
+          "AsmTaliaferro@njleg.org"
+        ],
+        "phones": [
+          "(856) 339-0808"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:3": {
+        "name": "New Jersey State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 3",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John J. Burzichelli",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
+        "overwrite_name": "John J. Burzichelli",
+        "emails": [
+          "AsmBurzichelli@njleg.org"
+        ],
+        "phones": [
+          "(856) 251-9801"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:4": {
+        "name": "New Jersey State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 4",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:4",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul D. Moriarty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:4",
+        "overwrite_name": "Paul D. Moriarty",
+        "emails": [
+          "AsmMoriarty@njleg.org"
+        ],
+        "phones": [
+          "(856) 232-6700"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:9": {
+        "name": "New Jersey State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 9",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:9",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian E. Rumpf",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:9",
+        "overwrite_name": "Brian E. Rumpf",
+        "emails": [
+          "AsmRumpf@njleg.org"
+        ],
+        "phones": [
+          "(609) 693-6700"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:9": {
+        "name": "New Jersey State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 9",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:9",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "DiAnne C. Gove",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:9",
+        "overwrite_name": "DiAnne C. Gove",
+        "emails": [
+          "AswGove@njleg.org"
+        ],
+        "phones": [
+          "(609) 693-6700"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:10": {
+        "name": "New Jersey State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 10",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:10",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregory P. McGuckin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:10",
+        "overwrite_name": "Gregory P. McGuckin",
+        "emails": [
+          "AsmMcGuckin@njleg.org"
+        ],
+        "phones": [
+          "(732) 840-9028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:10": {
+        "name": "New Jersey State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 10",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:10",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Catalano",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:10",
+        "overwrite_name": "John Catalano",
+        "emails": [
+          "AsmCatalano@njleg.org"
+        ],
+        "phones": [
+          "(732) 840-9028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:12": {
+        "name": "New Jersey State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 12",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:12",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert D. Clifton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:12",
+        "overwrite_name": "Robert D. Clifton",
+        "emails": [
+          "AsmClifton@njleg.org"
+        ],
+        "phones": [
+          "(732) 970-6386"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:13": {
+        "name": "New Jersey State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 13",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:13",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gerard Scharfenberger",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:13",
+        "overwrite_name": "Gerard Scharfenberger",
+        "emails": [
+          "AsmScharfenberger@njleg.org"
+        ],
+        "phones": [
+          "(732) 856-9294"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:14": {
+        "name": "New Jersey State House district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 14",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:14",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel R. Benson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:14",
+        "overwrite_name": "Daniel R. Benson",
+        "emails": [
+          "AsmBenson@njleg.org"
+        ],
+        "phones": [
+          "(609) 631-0198"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:16": {
+        "name": "New Jersey State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 16",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:16",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Roy Freiman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:16",
+        "overwrite_name": "Roy Freiman",
+        "emails": [
+          "AsmFreiman@njleg.org"
+        ],
+        "phones": [
+          "(908) 829-4191"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:17": {
+        "name": "New Jersey State House district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 17",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:17",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph V. Egan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:17",
+        "overwrite_name": "Joseph V. Egan",
+        "emails": [
+          "AsmEgan@njleg.org"
+        ],
+        "phones": [
+          "(732) 249-4550"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:18": {
+        "name": "New Jersey State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 18",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:18",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sterley S. Stanley",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:18",
+        "overwrite_name": "Sterley S. Stanley",
+        "emails": [
+          "AsmStanley@njleg.org"
+        ],
+        "phones": [
+          "(732) 875-3833"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:19": {
+        "name": "New Jersey State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 19",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:19",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Yvonne Lopez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:19",
+        "overwrite_name": "Yvonne Lopez",
+        "emails": [
+          "AswLopez@njleg.org"
+        ],
+        "phones": [
+          "(732) 638-5057"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:20": {
+        "name": "New Jersey State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 20",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:20",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Annette Quijano",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:20",
+        "overwrite_name": "Annette Quijano",
+        "emails": [
+          "AswQuijano@njleg.org"
+        ],
+        "phones": [
+          "(908) 327-9119"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:21": {
+        "name": "New Jersey State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 21",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:21",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jon M. Bramnick",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:21",
+        "overwrite_name": "Jon M. Bramnick",
+        "emails": [
+          "AsmBramnick@njleg.org"
+        ],
+        "phones": [
+          "(908) 232-2073"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:24": {
+        "name": "New Jersey State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 24",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:24",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Harold J. Wirths",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:24",
+        "overwrite_name": "Harold J. Wirths",
+        "emails": [
+          "AsmWirths@njleg.org"
+        ],
+        "phones": [
+          "(973) 300-0200"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:24": {
+        "name": "New Jersey State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 24",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:24",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Parker Space",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:24",
+        "overwrite_name": "Parker Space",
+        "emails": [
+          "AsmSpace@njleg.org"
+        ],
+        "phones": [
+          "(973) 300-0200"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:25": {
+        "name": "New Jersey State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 25",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:25",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Bergen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:25",
+        "overwrite_name": "Brian Bergen",
+        "emails": [
+          "AsmBergen@njleg.org"
+        ],
+        "phones": [
+          "(973) 539-8113"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:26": {
+        "name": "New Jersey State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 26",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:26",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "BettyLou DeCroce",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:26",
+        "overwrite_name": "BettyLou DeCroce",
+        "emails": [
+          "AswDeCroce@njleg.org"
+        ],
+        "phones": [
+          "(862) 701-5156"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:27": {
+        "name": "New Jersey State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 27",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:27",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mila M. Jasey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:27",
+        "overwrite_name": "Mila M. Jasey",
+        "emails": [
+          "AswJasey@njleg.org"
+        ],
+        "phones": [
+          "(973) 762-1886"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:29": {
+        "name": "New Jersey State House district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 29",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:29",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eliana Pintor Marin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:29",
+        "overwrite_name": "Eliana Pintor Marin",
+        "emails": [
+          "AswPintorMarin@njleg.org"
+        ],
+        "phones": [
+          "(973) 589-0713"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:30": {
+        "name": "New Jersey State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 30",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:30",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Edward H. Thomson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:30",
+        "overwrite_name": "Edward H. Thomson",
+        "emails": [
+          "AsmThomson@njleg.org"
+        ],
+        "phones": [
+          "(732) 974-0400"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:31": {
+        "name": "New Jersey State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 31",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:31",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nicholas Chiaravalloti",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:31",
+        "overwrite_name": "Nicholas Chiaravalloti",
+        "emails": [
+          "AsmChiaravalloti@njleg.org"
+        ],
+        "phones": [
+          "(201) 471-2347"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:32": {
+        "name": "New Jersey State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 32",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:32",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pedro Mejia",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:32",
+        "overwrite_name": "Pedro Mejia",
+        "emails": [
+          "AsmMejia@njleg.org"
+        ],
+        "phones": [
+          "(201) 770-1303"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:34": {
+        "name": "New Jersey State House district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 34",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:34",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas P. Giblin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:34",
+        "overwrite_name": "Thomas P. Giblin",
+        "emails": [
+          "AsmGiblin@njleg.org"
+        ],
+        "phones": [
+          "(973) 779-3125"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:35": {
+        "name": "New Jersey State House district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 35",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:35",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Benjie E. Wimberly",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:35",
+        "overwrite_name": "Benjie E. Wimberly",
+        "emails": [
+          "AsmWimberly@njleg.org"
+        ],
+        "phones": [
+          "(973) 925-7061"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:35": {
+        "name": "New Jersey State House district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 35",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:35",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shavonda E. Sumter",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:35",
+        "overwrite_name": "Shavonda E. Sumter",
+        "emails": [
+          "AswSumter@njleg.org"
+        ],
+        "phones": [
+          "(973) 925-7063"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:36": {
+        "name": "New Jersey State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 36",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:36",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clinton Calabrese",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:36",
+        "overwrite_name": "Clinton Calabrese",
+        "emails": [
+          "AsmCalabrese@njleg.org"
+        ],
+        "phones": [
+          "(201) 943-0615"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:37": {
+        "name": "New Jersey State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 37",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:37",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gordon M. Johnson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:37",
+        "overwrite_name": "Gordon M. Johnson",
+        "emails": [
+          "AsmJohnson@njleg.org"
+        ],
+        "phones": [
+          "(201) 530-0469"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:39": {
+        "name": "New Jersey State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 39",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:39",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Auth",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:39",
+        "overwrite_name": "Robert Auth",
+        "emails": [
+          "AsmAuth@njleg.org"
+        ],
+        "phones": [
+          "(862) 248-0491"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nm/sldl:3": {
         "name": "New Mexico State House district 3",
         "overwrite": "true",
@@ -26988,6 +26954,43 @@
         ],
         "phones": [
           "(717) 787-9501"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldl:150": {
+        "name": "Pennsylvania State House district 150",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State House District 150",
+        "divisionId": "ocd-division/country:us/state:pa/sldl:150",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joe Webster",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:150",
+        "overwrite_name": "Joe Webster",
+        "emails": [
+          "jWebster@pahouse.net"
+        ],
+        "phones": [
+          "(484) 200-8263"
         ]
       }
     ]

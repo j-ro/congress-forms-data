@@ -1,40 +1,6 @@
 [
   {
     "divisions": {
-      "ocd-division/country:us/state:va": {
-        "name": "Virginia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:va",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ralph S. Northam",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:va",
-        "overwrite_name": "Ralph S. Northam",
-        "phones": [
-          "(804) 786-2211"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ct": {
         "name": "Connecticut",
         "overwrite": "true",
@@ -548,6 +514,40 @@
         ],
         "phones": [
           "(801) 538-2464"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:va": {
+        "name": "Virginia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:va",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ralph S. Northam",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:va",
+        "overwrite_name": "Ralph S. Northam",
+        "phones": [
+          "(804) 786-2211"
         ]
       }
     ]

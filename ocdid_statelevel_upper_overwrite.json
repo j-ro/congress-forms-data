@@ -1,185 +1,6 @@
 [
   {
     "divisions": {
-      "ocd-division/country:us/state:az/sldu:30": {
-        "name": "Arizona State Senate district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State Senate District 30",
-        "divisionId": "ocd-division/country:us/state:az/sldu:30",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Raquel Terán",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:30",
-        "overwrite_name": "Raquel Terán",
-        "emails": [
-          "rteran@azleg.gov"
-        ],
-        "phones": [
-          "(609) 847-3500"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ct/sldu:3": {
-        "name": "Connecticut State Senate district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CT State Senate District 3",
-        "divisionId": "ocd-division/country:us/state:ct/sldu:3",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Saud Anwar",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:3",
-        "overwrite_name": "Saud Anwar",
-        "emails": [
-          "saud.anwar@cga.ct.gov"
-        ],
-        "phones": [
-          "(860) 240-0347"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:41": {
-        "name": "Iowa State Senate district 41",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 41",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:41",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adrian Dickey",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
-        "overwrite_name": "Adrian Dickey",
-        "emails": [
-          "Adrian.Dickey@legis.iowa.gov"
-        ],
-        "phones": [
-          "(515) 281-3371"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldu:18": {
-        "name": "California State Senate district 18",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State Senate District 18",
-        "divisionId": "ocd-division/country:us/state:ca/sldu:18",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert M. Hertzberg",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:18",
-        "overwrite_name": "Robert M. Hertzberg",
-        "phones": [
-          "(818) 901-5588"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:30": {
-        "name": "Illinois State Senate district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 30",
-        "divisionId": "ocd-division/country:us/state:il/sldu:30",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adriane Johnson",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
-        "overwrite_name": "Terry Link",
-        "phones": [
-          "(217) 782-8181"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:al/sldu:1": {
         "name": "Alabama State Senate district 1",
         "overwrite": "true",
@@ -396,6 +217,43 @@
         ],
         "phones": [
           "(907) 622-8950"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:30": {
+        "name": "Arizona State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:az/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Raquel Terán",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:30",
+        "overwrite_name": "Raquel Terán",
+        "emails": [
+          "rteran@azleg.gov"
+        ],
+        "phones": [
+          "(609) 847-3500"
         ]
       }
     ]
@@ -658,6 +516,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:18": {
+        "name": "California State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert M. Hertzberg",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:18",
+        "overwrite_name": "Robert M. Hertzberg",
+        "phones": [
+          "(818) 901-5588"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:22": {
         "name": "California State Senate district 22",
         "overwrite": "true",
@@ -871,6 +763,43 @@
         ],
         "phones": [
           "303-866-4875"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct/sldu:3": {
+        "name": "Connecticut State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CT State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ct/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Saud Anwar",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct/sldu:3",
+        "overwrite_name": "Saud Anwar",
+        "emails": [
+          "saud.anwar@cga.ct.gov"
+        ],
+        "phones": [
+          "(860) 240-0347"
         ]
       }
     ]
@@ -3005,6 +2934,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:30": {
+        "name": "Illinois State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:il/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adriane Johnson",
+        "party": "Democratic",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
+        "overwrite_name": "Terry Link",
+        "emails": [
+          "info@senatoradrianejohnson.com"
+        ],
+        "phones": [
+          "(217) 782-8181"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:32": {
         "name": "Illinois State Senate district 32",
         "overwrite": "true",
@@ -3961,6 +3927,43 @@
         ],
         "phones": [
           "(319) 351-0988"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ia/sldu:41": {
+        "name": "Iowa State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IA State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:ia/sldu:41",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adrian Dickey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
+        "overwrite_name": "Adrian Dickey",
+        "emails": [
+          "Adrian.Dickey@legis.iowa.gov"
+        ],
+        "phones": [
+          "(515) 281-3371"
         ]
       }
     ]

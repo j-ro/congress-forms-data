@@ -2293,12 +2293,12 @@
         "name": "Mike Simmons",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:7",
-        "overwrite_name": "Heather A. Steans",
+        "overwrite_name": "Mike Simmons",
         "emails": [
-          "hello@mikesimmons.org"
+          "senatormikesimmons@gmail.com"
         ],
         "phones": [
-          "(217) 782-8492"
+          "(773) 769-1717"
         ]
       }
     ]
@@ -3298,6 +3298,43 @@
         ],
         "phones": [
           "(309) 677-0120"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:48": {
+        "name": "Illinois State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:il/sldu:48",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Doris Turner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:48",
+        "overwrite_name": "Doris Turner",
+        "emails": [
+          "senatorturnermac@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-0228"
         ]
       }
     ]

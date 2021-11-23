@@ -8629,6 +8629,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:wa/sldu:27": {
+        "name": "Washington State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WA State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Yasmin Trudeau",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:27",
+        "overwrite_name": "Yasmin Trudeau",
+        "emails": [
+          "yasmin.trudeau@leg.wa.gov"
+        ],
+        "phones": [
+          "(360) 786-7652"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:wa/sldu:28": {
         "name": "Washington State Senate district 28",
         "overwrite": "true",

@@ -5225,6 +5225,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nj/sldu:2": {
+        "name": "New Jersey State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:2",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vincent J. Polistina",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:2",
+        "overwrite_name": "Vincent J. Polistina",
+        "emails": [
+          "senpolistina@njleg.org"
+        ],
+        "phones": [
+          "(609) 677-8266"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nj/sldu:3": {
         "name": "New Jersey State Senate district 3",
         "overwrite": "true",
@@ -28021,43 +28058,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nh/sldl:coos_1": {
-        "name": "New Hampshire State House district COOS_1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District COOS_1",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:coos_1",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Donald Dostie",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:coos_1",
-        "overwrite_name": "Donald Dostie",
-        "emails": [
-          "Donald.Dostie@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 991-3478"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_2": {
         "name": "New Hampshire State House district COOS_2",
         "overwrite": "true",
@@ -28533,6 +28533,43 @@
         ],
         "phones": [
           "(603) 525-3731"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:hillsborough_7": {
+        "name": "New Hampshire State House district HILLSBOROUGH_7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District HILLSBOROUGH_7",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_7",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Catherine Rombeau",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_7",
+        "overwrite_name": "Catherine Rombeau",
+        "emails": [
+          "catherinerombeau@gmail.com"
+        ],
+        "phones": [
+          "(603) 271-2154"
         ]
       }
     ]
@@ -39574,7 +39611,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:15",
         "overwrite_name": "Steve Toth",
         "emails": [
-          "Steve.Toth@house.tx.us"
+          "brian@votebrianharrison.com"
         ],
         "phones": [
           "(512) 463-0797"

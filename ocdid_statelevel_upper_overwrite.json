@@ -2661,11 +2661,11 @@
     "officials": [
       {
         "name": "Cristina Pacione-Zayas",
-        "party": "Democratic",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:20",
-        "overwrite_name": "Iris Y. Martinez",
+        "overwrite_name": "Cristina Pacione-Zayas",
         "emails": [
-          "chpacione-za@latinopolicyforum.org"
+          "senatedistrict20@outlook.com"
         ],
         "phones": [
           "(773) 278-2020"
@@ -2928,43 +2928,6 @@
         ],
         "phones": [
           "(847) 945-5200"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:30": {
-        "name": "Illinois State Senate district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 30",
-        "divisionId": "ocd-division/country:us/state:il/sldu:30",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adriane Johnson",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
-        "overwrite_name": "Terry Link",
-        "emails": [
-          "info@senatoradrianejohnson.com"
-        ],
-        "phones": [
-          "(217) 782-8181"
         ]
       }
     ]
@@ -4229,6 +4192,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:la/sldu:27": {
+        "name": "Louisiana State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:la/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeremy Stine",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldu:27",
+        "overwrite_name": "Jeremy Stine",
+        "emails": [
+          "sen27@legis.la.gov"
+        ],
+        "phones": [
+          "(337) 491-2016"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:me/sldu:3": {
         "name": "Maine State Senate district 3",
         "overwrite": "true",
@@ -4334,6 +4334,43 @@
         ],
         "phones": [
           "(207) 645-2990"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldu:32": {
+        "name": "Mississippi State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ms/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rod Hickman",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldu:32",
+        "overwrite_name": "Rod Hickman",
+        "emails": [
+          "rhickman@senate.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-3237"
         ]
       }
     ]
@@ -5728,12 +5765,12 @@
     ],
     "officials": [
       {
-        "name": "Holly Schepisi",
-        "party": "Republican",
+        "name": "Holly T. Schepisi",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:39",
-        "overwrite_name": "Gerald Cardinale",
+        "overwrite_name": "Holly T. Schepisi",
         "emails": [
-          "aswschepisi@njleg.org"
+          "senschepisi@njleg.org"
         ],
         "phones": [
           "(201) 666-0881"
@@ -7439,6 +7476,43 @@
         ],
         "phones": [
           "(717) 787-5708"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ri/sldu:3": {
+        "name": "Rhode Island State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "RI State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ri/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Samuel D. Zurier",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:3",
+        "overwrite_name": "Samuel D. Zurier",
+        "emails": [
+          "sen-zurier@rilegislature.gov"
+        ],
+        "phones": [
+          "(401) 276-5507"
         ]
       }
     ]

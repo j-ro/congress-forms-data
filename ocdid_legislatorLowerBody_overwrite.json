@@ -1,6 +1,37 @@
 [
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/cd:22": {
+        "name": "California's 22nd congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives CA-22",
+        "divisionId": "ocd-division/country:us/state:ca/cd:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:22",
+        "overwrite_name": "Devin Nunes"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/cd:30": {
         "name": "California's 30th congressional district",
         "overwrite": "true",

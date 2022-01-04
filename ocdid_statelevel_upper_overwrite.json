@@ -3230,6 +3230,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:44": {
+        "name": "Illinois State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:il/sldu:44",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sally J. Turner",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:44",
+        "overwrite_name": "Sally J. Turner",
+        "emails": [
+          "senatorsallyjturner44@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-6216"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:46": {
         "name": "Illinois State Senate district 46",
         "overwrite": "true",
@@ -4186,43 +4223,6 @@
         ],
         "phones": [
           "502-564-8100"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:la/sldu:27": {
-        "name": "Louisiana State Senate district 27",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "LA State Senate District 27",
-        "divisionId": "ocd-division/country:us/state:la/sldu:27",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jeremy Stine",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:la/sldu:27",
-        "overwrite_name": "Jeremy Stine",
-        "emails": [
-          "sen27@legis.la.gov"
-        ],
-        "phones": [
-          "(337) 491-2016"
         ]
       }
     ]
@@ -6181,6 +6181,43 @@
         ],
         "phones": [
           "(518) 455-3451"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:30": {
+        "name": "New York State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cordell Cleare",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:30",
+        "overwrite_name": "Cordell Cleare",
+        "emails": [
+          "cleare@nysenate.gov"
+        ],
+        "phones": [
+          "212-222-7315"
         ]
       }
     ]

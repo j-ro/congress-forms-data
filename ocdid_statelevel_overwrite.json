@@ -3230,6 +3230,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:44": {
+        "name": "Illinois State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:il/sldu:44",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sally J. Turner",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:44",
+        "overwrite_name": "Sally J. Turner",
+        "emails": [
+          "senatorsallyjturner44@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-6216"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:46": {
         "name": "Illinois State Senate district 46",
         "overwrite": "true",
@@ -4186,43 +4223,6 @@
         ],
         "phones": [
           "502-564-8100"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:la/sldu:27": {
-        "name": "Louisiana State Senate district 27",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "LA State Senate District 27",
-        "divisionId": "ocd-division/country:us/state:la/sldu:27",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jeremy Stine",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:la/sldu:27",
-        "overwrite_name": "Jeremy Stine",
-        "emails": [
-          "sen27@legis.la.gov"
-        ],
-        "phones": [
-          "(337) 491-2016"
         ]
       }
     ]
@@ -6181,6 +6181,43 @@
         ],
         "phones": [
           "(518) 455-3451"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:30": {
+        "name": "New York State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cordell Cleare",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:30",
+        "overwrite_name": "Cordell Cleare",
+        "emails": [
+          "cleare@nysenate.gov"
+        ],
+        "phones": [
+          "212-222-7315"
         ]
       }
     ]
@@ -17291,6 +17328,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldl:15": {
+        "name": "Illinois State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 15",
+        "divisionId": "ocd-division/country:us/state:il/sldl:15",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Kelly",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:15",
+        "overwrite_name": "Michael Kelly",
+        "phones": [
+          "(773)-736-0218"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldl:16": {
         "name": "Illinois State House district 16",
         "overwrite": "true",
@@ -21614,43 +21685,6 @@
         ],
         "phones": [
           "(207) 712-5705"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:me/sldl:27": {
-        "name": "Maine State House district 27",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ME State House District 27",
-        "divisionId": "ocd-division/country:us/state:me/sldl:27",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kyle R. Bailey",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:27",
-        "overwrite_name": "Kyle R. Bailey",
-        "emails": [
-          "Kyle.Bailey@legislature.maine.gov"
-        ],
-        "phones": [
-          "(207) 939-8600"
         ]
       }
     ]
@@ -36439,6 +36473,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:pa/sldl:164": {
+        "name": "Pennsylvania State House district 164",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State House District 164",
+        "divisionId": "ocd-division/country:us/state:pa/sldl:164",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gina H. Curry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:164",
+        "overwrite_name": "Gina H. Curry",
+        "emails": [
+          "FriendsofGinaHCurry@gmail.com"
+        ],
+        "phones": [
+          "(717) 783-4907"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:pa/sldl:165": {
         "name": "Pennsylvania State House district 165",
         "overwrite": "true",
@@ -40910,43 +40981,6 @@
         ],
         "phones": [
           "(512) 463-0616"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:tx/sldl:118": {
-        "name": "Texas State House district 118",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "TX State House District 118",
-        "divisionId": "ocd-division/country:us/state:tx/sldl:118",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Lujan",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:118",
-        "overwrite_name": "John Lujan",
-        "emails": [
-          "john.lujan@house.texas.gov"
-        ],
-        "phones": [
-          "(512) 463-0714"
         ]
       }
     ]

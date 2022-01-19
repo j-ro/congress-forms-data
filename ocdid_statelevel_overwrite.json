@@ -482,6 +482,414 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:1": {
+        "name": "California State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Dahle",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:1",
+        "overwrite_name": "Brian Dahle",
+        "phones": [
+          "(916) 651-4001"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:2": {
+        "name": "California State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:2",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike McGuire",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:2",
+        "overwrite_name": "Mike McGuire",
+        "phones": [
+          "(916) 651-4002"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:3": {
+        "name": "California State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bill Dodd",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:3",
+        "overwrite_name": "Bill Dodd",
+        "phones": [
+          "(916) 651-4003"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:4": {
+        "name": "California State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Nielsen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:4",
+        "overwrite_name": "Jim Nielsen",
+        "phones": [
+          "(916) 651-4004"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:6": {
+        "name": "California State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard Pan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:6",
+        "overwrite_name": "Richard Pan",
+        "phones": [
+          "(916) 651-4006"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:7": {
+        "name": "California State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:7",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven M. Glazer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:7",
+        "overwrite_name": "Steven M. Glazer",
+        "phones": [
+          "(916) 651-4007"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:8": {
+        "name": "California State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andreas Borgeas",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:8",
+        "overwrite_name": "Andreas Borgeas",
+        "phones": [
+          "(916) 651-4008"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:9": {
+        "name": "California State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:9",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nancy Skinner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:9",
+        "overwrite_name": "Nancy Skinner",
+        "phones": [
+          "(916) 651-4009"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:10": {
+        "name": "California State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Wieckowski",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:10",
+        "overwrite_name": "Bob Wieckowski",
+        "phones": [
+          "(916) 651-4010"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:11": {
+        "name": "California State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott D. Wiener",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:11",
+        "overwrite_name": "Scott D. Wiener",
+        "phones": [
+          "(916) 651-4011"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:12": {
+        "name": "California State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anna M. Caballero",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:12",
+        "overwrite_name": "Anna M. Caballero",
+        "phones": [
+          "(916) 651-4012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:14": {
+        "name": "California State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:14",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Democratic Party",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
+        "overwrite_name": "Melissa Hurtado",
+        "phones": [
+          "(916) 651-4014"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:15": {
         "name": "California State Senate district 15",
         "overwrite": "true",
@@ -510,6 +918,40 @@
         "overwrite_name": "Dave Cortese",
         "phones": [
           "(916) 651-4015"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:16": {
+        "name": "California State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shannon Grove",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:16",
+        "overwrite_name": "Shannon Grove",
+        "phones": [
+          "(916) 651-4016"
         ]
       }
     ]
@@ -550,6 +992,74 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:20": {
+        "name": "California State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Connie M. Leyva",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:20",
+        "overwrite_name": "Connie M. Leyva",
+        "phones": [
+          "(916) 651-4020"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:21": {
+        "name": "California State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott Wilk",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:21",
+        "overwrite_name": "Scott Wilk",
+        "phones": [
+          "(916) 651-4021"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:22": {
         "name": "California State Senate district 22",
         "overwrite": "true",
@@ -576,11 +1086,382 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:22",
         "overwrite_name": "Susan Rubio",
-        "emails": [
-          "susan.rubio@cga.ct.gov"
-        ],
         "phones": [
-          "(626) 430-2499"
+          "(916) 651-4022"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:24": {
+        "name": "California State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "María Elena Durazo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:24",
+        "overwrite_name": "María Elena Durazo",
+        "phones": [
+          "(916) 651-4024"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:25": {
+        "name": "California State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:25",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony J. Portantino",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:25",
+        "overwrite_name": "Anthony J. Portantino",
+        "phones": [
+          "(916) 651-4025"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:26": {
+        "name": "California State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Benjamin Allen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:26",
+        "overwrite_name": "Benjamin Allen",
+        "phones": [
+          "(916) 651-4026"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:27": {
+        "name": "California State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Henry I. Stern",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:27",
+        "overwrite_name": "Henry I. Stern",
+        "phones": [
+          "(916) 651-4027"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:29": {
+        "name": "California State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:29",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Josh Newman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:29",
+        "overwrite_name": "Josh Newman",
+        "phones": [
+          "(916) 651-4029"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:31": {
+        "name": "California State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:31",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard D. Roth",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:31",
+        "overwrite_name": "Richard D. Roth",
+        "phones": [
+          "(916) 651-4031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:32": {
+        "name": "California State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Archuleta",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:32",
+        "overwrite_name": "Bob Archuleta",
+        "phones": [
+          "(916) 651-4032"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:33": {
+        "name": "California State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lena A. Gonzalez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:33",
+        "overwrite_name": "Lena A. Gonzalez",
+        "phones": [
+          "(916) 651-4033"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:34": {
+        "name": "California State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas J. Umberg",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:34",
+        "overwrite_name": "Thomas J. Umberg",
+        "phones": [
+          "(916) 651-4034"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:35": {
+        "name": "California State Senate district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 35",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:35",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven Bradford",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:35",
+        "overwrite_name": "Steven Bradford",
+        "phones": [
+          "(916) 651-4035"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:36": {
+        "name": "California State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:36",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Patricia C. Bates",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:36",
+        "overwrite_name": "Patricia C. Bates",
+        "phones": [
+          "(916) 651-4036"
         ]
       }
     ]
@@ -615,6 +1496,108 @@
         "overwrite_name": "Dave Min",
         "phones": [
           "(916) 651-4037"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:38": {
+        "name": "California State Senate district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 38",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:38",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian W. Jones",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:38",
+        "overwrite_name": "Brian W. Jones",
+        "phones": [
+          "(916) 651-4038"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:39": {
+        "name": "California State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:39",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Toni G. Atkins",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:39",
+        "overwrite_name": "Toni G. Atkins",
+        "phones": [
+          "(916) 651-4039"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:40": {
+        "name": "California State Senate district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 40",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:40",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ben Hueso",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:40",
+        "overwrite_name": "Ben Hueso",
+        "phones": [
+          "(916) 651-4040"
         ]
       }
     ]
@@ -11219,6 +12202,380 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldl:2": {
+        "name": "California State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 2",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:2",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Wood",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:2",
+        "overwrite_name": "Jim Wood",
+        "phones": [
+          "(916) 319-2002"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:3": {
+        "name": "California State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 3",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:3",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James Gallagher",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:3",
+        "overwrite_name": "James Gallagher",
+        "phones": [
+          "(916) 319-2003"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:4": {
+        "name": "California State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 4",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:4",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cecilia M. Aguiar-Curry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:4",
+        "overwrite_name": "Cecilia M. Aguiar-Curry",
+        "phones": [
+          "(916) 319-2004"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:5": {
+        "name": "California State House district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 5",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:5",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Frank Bigelow",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:5",
+        "overwrite_name": "Frank Bigelow",
+        "phones": [
+          "(916) 319-2005"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:6": {
+        "name": "California State House district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 6",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:6",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Kiley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:6",
+        "overwrite_name": "Kevin Kiley",
+        "phones": [
+          "(916) 319-2006"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:7": {
+        "name": "California State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 7",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:7",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin McCarty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:7",
+        "overwrite_name": "Kevin McCarty",
+        "phones": [
+          "(916) 319-2007"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:8": {
+        "name": "California State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 8",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:8",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ken Cooley",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:8",
+        "overwrite_name": "Ken Cooley",
+        "phones": [
+          "(916) 319-2008"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:9": {
+        "name": "California State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 9",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:9",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Cooper",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:9",
+        "overwrite_name": "Jim Cooper",
+        "phones": [
+          "(916) 319-2009"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:10": {
+        "name": "California State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 10",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:10",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marc Levine",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:10",
+        "overwrite_name": "Marc Levine",
+        "phones": [
+          "(916) 319-2010"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:11": {
+        "name": "California State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 11",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:11",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Frazier",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:11",
+        "overwrite_name": "Jim Frazier",
+        "phones": [
+          "(916) 319-2011"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:12": {
+        "name": "California State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 12",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:12",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Heath Flora",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:12",
+        "overwrite_name": "Heath Flora",
+        "phones": [
+          "(916) 319-2012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldl:13": {
         "name": "California State House district 13",
         "overwrite": "true",
@@ -11245,11 +12602,110 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:13",
         "overwrite_name": "Carlos Villapudua",
-        "emails": [
-          "assemblymember.villapudua@assembly.ca.gov"
-        ],
         "phones": [
-          "(209) 948-7479"
+          "(916) 319-2013"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:14": {
+        "name": "California State House district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 14",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:14",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy S. Grayson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:14",
+        "overwrite_name": "Timothy S. Grayson",
+        "phones": [
+          "(916) 319-2014"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:15": {
+        "name": "California State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 15",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:15",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Buffy Wicks",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:15",
+        "overwrite_name": "Buffy Wicks",
+        "phones": [
+          "(916) 319-2015"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:16": {
+        "name": "California State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 16",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:16",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca Bauer-Kahan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:16",
+        "overwrite_name": "Rebecca Bauer-Kahan",
+        "phones": [
+          "(916) 319-2016"
         ]
       }
     ]
@@ -11324,6 +12780,142 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldl:21": {
+        "name": "California State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 21",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:21",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adam C. Gray",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:21",
+        "overwrite_name": "Adam C. Gray",
+        "phones": [
+          "(916) 319-2021"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:22": {
+        "name": "California State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 22",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:22",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Mullin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:22",
+        "overwrite_name": "Kevin Mullin",
+        "phones": [
+          "(916) 319-2022"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:23": {
+        "name": "California State House district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 23",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:23",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Patterson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:23",
+        "overwrite_name": "Jim Patterson",
+        "phones": [
+          "(916) 319-2023"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:24": {
+        "name": "California State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 24",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:24",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marc Berman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:24",
+        "overwrite_name": "Marc Berman",
+        "phones": [
+          "(916) 319-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldl:25": {
         "name": "California State House district 25",
         "overwrite": "true",
@@ -11351,7 +12943,109 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:25",
         "overwrite_name": "Alex Lee",
         "phones": [
-          "(408) 262-2501"
+          "(916) 319-2025"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:26": {
+        "name": "California State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 26",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:26",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Devon J. Mathis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:26",
+        "overwrite_name": "Devon J. Mathis",
+        "phones": [
+          "(916) 319-2026"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:27": {
+        "name": "California State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 27",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:27",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ash Kalra",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:27",
+        "overwrite_name": "Ash Kalra",
+        "phones": [
+          "(916) 319-2027"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:28": {
+        "name": "California State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 28",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:28",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Evan Low",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:28",
+        "overwrite_name": "Evan Low",
+        "phones": [
+          "(916) 319-2028"
         ]
       }
     ]
@@ -11392,6 +13086,210 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldl:30": {
+        "name": "California State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 30",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:30",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Rivas",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:30",
+        "overwrite_name": "Robert Rivas",
+        "phones": [
+          "(916) 319-2030"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:31": {
+        "name": "California State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 31",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:31",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joaquin Arambula",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:31",
+        "overwrite_name": "Joaquin Arambula",
+        "phones": [
+          "(916) 319-2031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:32": {
+        "name": "California State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 32",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:32",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rudy Salas, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:32",
+        "overwrite_name": "Rudy Salas, Jr.",
+        "phones": [
+          "(916) 319-2032"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:34": {
+        "name": "California State House district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 34",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:34",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vince Fong",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:34",
+        "overwrite_name": "Vince Fong",
+        "phones": [
+          "(916) 319-2034"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:35": {
+        "name": "California State House district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 35",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:35",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jordan Cunningham",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:35",
+        "overwrite_name": "Jordan Cunningham",
+        "phones": [
+          "(916) 319-2035"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:36": {
+        "name": "California State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 36",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:36",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tom Lackey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:36",
+        "overwrite_name": "Tom Lackey",
+        "phones": [
+          "(916) 319-2036"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldl:37": {
         "name": "California State House district 37",
         "overwrite": "true",
@@ -11426,6 +13324,788 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldl:39": {
+        "name": "California State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 39",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:39",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Luz M. Rivas",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:39",
+        "overwrite_name": "Luz M. Rivas",
+        "phones": [
+          "(916) 319-2039"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:40": {
+        "name": "California State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 40",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:40",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James C. Ramos",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:40",
+        "overwrite_name": "James C. Ramos",
+        "phones": [
+          "(916) 319-2040"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:41": {
+        "name": "California State House district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 41",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:41",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris R. Holden",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:41",
+        "overwrite_name": "Chris R. Holden",
+        "phones": [
+          "(916) 319-2041"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:42": {
+        "name": "California State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 42",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:42",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chad Mayes",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:42",
+        "overwrite_name": "Chad Mayes",
+        "phones": [
+          "(916) 319-2042"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:43": {
+        "name": "California State House district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 43",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:43",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laura Friedman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:43",
+        "overwrite_name": "Laura Friedman",
+        "phones": [
+          "(916) 319-2043"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:44": {
+        "name": "California State House district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 44",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:44",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacqui Irwin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:44",
+        "overwrite_name": "Jacqui Irwin",
+        "phones": [
+          "(916) 319-2044"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:45": {
+        "name": "California State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 45",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:45",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jesse Gabriel",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:45",
+        "overwrite_name": "Jesse Gabriel",
+        "phones": [
+          "(916) 319-2045"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:46": {
+        "name": "California State House district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 46",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:46",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adrin Nazarian",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:46",
+        "overwrite_name": "Adrin Nazarian",
+        "phones": [
+          "(916) 319-2046"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:47": {
+        "name": "California State House district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 47",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:47",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eloise Gómez Reyes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:47",
+        "overwrite_name": "Eloise Gómez Reyes",
+        "phones": [
+          "(916) 319-2047"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:48": {
+        "name": "California State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 48",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:48",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Blanca E. Rubio",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:48",
+        "overwrite_name": "Blanca E. Rubio",
+        "phones": [
+          "(916) 319-2048"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:50": {
+        "name": "California State House district 50",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 50",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:50",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard Bloom",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:50",
+        "overwrite_name": "Richard Bloom",
+        "phones": [
+          "(916) 319-2050"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:51": {
+        "name": "California State House district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 51",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:51",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wendy Carrillo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:51",
+        "overwrite_name": "Wendy Carrillo",
+        "phones": [
+          "(916) 319-2051"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:52": {
+        "name": "California State House district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 52",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:52",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Freddie Rodriguez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:52",
+        "overwrite_name": "Freddie Rodriguez",
+        "phones": [
+          "(916) 319-2052"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:53": {
+        "name": "California State House district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 53",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:53",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Miguel Santiago",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:53",
+        "overwrite_name": "Miguel Santiago",
+        "phones": [
+          "(916) 319-2053"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:55": {
+        "name": "California State House district 55",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 55",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:55",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Phillip Chen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:55",
+        "overwrite_name": "Phillip Chen",
+        "phones": [
+          "(916) 319-2055"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:59": {
+        "name": "California State House district 59",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 59",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:59",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Reginald Byron Jones-Sawyer, Sr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:59",
+        "overwrite_name": "Reginald Byron Jones-Sawyer, Sr.",
+        "phones": [
+          "(916) 319-2059"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:60": {
+        "name": "California State House district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 60",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:60",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sabrina Cervantes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:60",
+        "overwrite_name": "Sabrina Cervantes",
+        "phones": [
+          "(916) 319-2060"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:61": {
+        "name": "California State House district 61",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 61",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:61",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jose Medina",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:61",
+        "overwrite_name": "Jose Medina",
+        "phones": [
+          "(916) 319-2061"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:62": {
+        "name": "California State House district 62",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 62",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:62",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Autumn R. Burke",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:62",
+        "overwrite_name": "Autumn R. Burke",
+        "phones": [
+          "(916) 319-2062"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:63": {
+        "name": "California State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 63",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:63",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony Rendon",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:63",
+        "overwrite_name": "Anthony Rendon",
+        "phones": [
+          "(916) 319-2063"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:64": {
+        "name": "California State House district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 64",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:64",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike A. Gipson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:64",
+        "overwrite_name": "Mike A. Gipson",
+        "phones": [
+          "(916) 319-2064"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:65": {
+        "name": "California State House district 65",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 65",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:65",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sharon Quirk-Silva",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:65",
+        "overwrite_name": "Sharon Quirk-Silva",
+        "phones": [
+          "(916) 319-2065"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:66": {
+        "name": "California State House district 66",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 66",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:66",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Al Muratsuchi",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:66",
+        "overwrite_name": "Al Muratsuchi",
+        "phones": [
+          "(916) 319-2066"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldl:67": {
         "name": "California State House district 67",
         "overwrite": "true",
@@ -11454,6 +14134,142 @@
         "overwrite_name": "Kelly Seyarto",
         "phones": [
           "(916) 319-2067"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:68": {
+        "name": "California State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 68",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:68",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven S. Choi",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:68",
+        "overwrite_name": "Steven S. Choi",
+        "phones": [
+          "(916) 319-2068"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:69": {
+        "name": "California State House district 69",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 69",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:69",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tom Daly",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:69",
+        "overwrite_name": "Tom Daly",
+        "phones": [
+          "(916) 319-2069"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:70": {
+        "name": "California State House district 70",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 70",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:70",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Patrick O'Donnell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:70",
+        "overwrite_name": "Patrick O'Donnell",
+        "phones": [
+          "(916) 319-2070"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:71": {
+        "name": "California State House district 71",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 71",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:71",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randy Voepel",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:71",
+        "overwrite_name": "Randy Voepel",
+        "phones": [
+          "(916) 319-2071"
         ]
       }
     ]
@@ -11528,6 +14344,142 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldl:74": {
+        "name": "California State House district 74",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 74",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:74",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cottie Petrie-Norris",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:74",
+        "overwrite_name": "Cottie Petrie-Norris",
+        "phones": [
+          "(916) 319-2074"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:75": {
+        "name": "California State House district 75",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 75",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:75",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marie Waldron",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:75",
+        "overwrite_name": "Marie Waldron",
+        "phones": [
+          "(916) 319-2075"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:76": {
+        "name": "California State House district 76",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 76",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:76",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tasha Boerner Horvath",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:76",
+        "overwrite_name": "Tasha Boerner Horvath",
+        "phones": [
+          "(916) 319-2076"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:77": {
+        "name": "California State House district 77",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 77",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:77",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Maienschein",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:77",
+        "overwrite_name": "Brian Maienschein",
+        "phones": [
+          "(916) 319-2077"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldl:78": {
         "name": "California State House district 78",
         "overwrite": "true",
@@ -11556,6 +14508,40 @@
         "overwrite_name": "Christopher M. Ward",
         "phones": [
           "(916) 319-2078"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldl:80": {
+        "name": "California State House district 80",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State House District 80",
+        "divisionId": "ocd-division/country:us/state:ca/sldl:80",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lorena Gonzalez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:80",
+        "overwrite_name": "Lorena Gonzalez",
+        "phones": [
+          "(916) 319-2080"
         ]
       }
     ]
@@ -17354,6 +20340,9 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:15",
         "overwrite_name": "Michael Kelly",
+        "emails": [
+          "mike@repkelly.com"
+        ],
         "phones": [
           "(773)-736-0218"
         ]

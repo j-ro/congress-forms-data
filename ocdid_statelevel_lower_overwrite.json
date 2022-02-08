@@ -2519,42 +2519,11 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:10",
         "overwrite_name": "Marc Levine",
+        "emails": [
+          "assemblymember.levine@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2010"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:11": {
-        "name": "California State House district 11",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 11",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:11",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jim Frazier",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:11",
-        "overwrite_name": "Jim Frazier",
-        "phones": [
-          "(916) 319-2011"
         ]
       }
     ]
@@ -4527,40 +4496,6 @@
         "overwrite_name": "Christopher M. Ward",
         "phones": [
           "(916) 319-2078"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:80": {
-        "name": "California State House district 80",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 80",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:80",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Lorena Gonzalez",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:80",
-        "overwrite_name": "Lorena Gonzalez",
-        "phones": [
-          "(916) 319-2080"
         ]
       }
     ]
@@ -8008,43 +7943,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:fl/sldl:88": {
-        "name": "Florida State House district 88",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "FL State House District 88",
-        "divisionId": "ocd-division/country:us/state:fl/sldl:88",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Omari Hardy",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:88",
-        "overwrite_name": "Omari Hardy",
-        "emails": [
-          "Omari.Hardy@myfloridahouse.gov"
-        ],
-        "phones": [
-          "(850) 717-5088"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:fl/sldl:89": {
         "name": "Florida State House district 89",
         "overwrite": "true",
@@ -9920,43 +9818,6 @@
         ],
         "phones": [
           "(208) 332-1024"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:id/sldl:26": {
-        "name": "Idaho State House district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 26",
-        "divisionId": "ocd-division/country:us/state:id/sldl:26",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Muffy Davis",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:26",
-        "overwrite_name": "Muffy Davis",
-        "emails": [
-          "Muffy.Davis@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1174"
         ]
       }
     ]
@@ -14218,6 +14079,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:la/sldl:102": {
+        "name": "Louisiana State House district 102",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "LA State House District 102",
+        "divisionId": "ocd-division/country:us/state:la/sldl:102",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Delisha Boyd",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:la/sldl:102",
+        "overwrite_name": "Delisha Boyd",
+        "emails": [
+          "hse102@legis.la.gov"
+        ],
+        "phones": [
+          "504-605-5622"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:la/sldl:105": {
         "name": "Louisiana State House district 105",
         "overwrite": "true",
@@ -17542,6 +17440,43 @@
         ],
         "phones": [
           "(410) 841-3692"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldl:25": {
+        "name": "Maryland State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State House District 25",
+        "divisionId": "ocd-division/country:us/state:md/sldl:25",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen Toles",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
+        "overwrite_name": "Karen Toles",
+        "emails": [
+          "karen.toles@house.state.md.us"
+        ],
+        "phones": [
+          "301-858-3524"
         ]
       }
     ]
@@ -22861,6 +22796,43 @@
     ],
     "officials": [
       {
+        "name": "Jodi Nelson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_6",
+        "overwrite_name": "Jodi Nelson",
+        "emails": [
+          "Jodi@JodiForDerry.org"
+        ],
+        "phones": [
+          "(508) 397-9999"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nh/sldl:rockingham_6": {
+        "name": "New Hampshire State House district ROCKINGHAM_6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NH State House District ROCKINGHAM_6",
+        "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_6",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
         "name": "Katherine Prudhomme O'Brien",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_6",
@@ -23579,80 +23551,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nj/sldl:3": {
-        "name": "New Jersey State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 3",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adam J. Taliaferro",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
-        "overwrite_name": "Adam J. Taliaferro",
-        "emails": [
-          "AsmTaliaferro@njleg.org"
-        ],
-        "phones": [
-          "(856) 339-0808"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:3": {
-        "name": "New Jersey State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 3",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John J. Burzichelli",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:3",
-        "overwrite_name": "John J. Burzichelli",
-        "emails": [
-          "AsmBurzichelli@njleg.org"
-        ],
-        "phones": [
-          "(856) 251-9801"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nj/sldl:4": {
         "name": "New Jersey State House district 4",
         "overwrite": "true",
@@ -24134,43 +24032,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nj/sldl:21": {
-        "name": "New Jersey State House district 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 21",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:21",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jon M. Bramnick",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:21",
-        "overwrite_name": "Jon M. Bramnick",
-        "emails": [
-          "AsmBramnick@njleg.org"
-        ],
-        "phones": [
-          "(908) 232-2073"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nj/sldl:24": {
         "name": "New Jersey State House district 24",
         "overwrite": "true",
@@ -24282,43 +24143,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nj/sldl:26": {
-        "name": "New Jersey State House district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 26",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:26",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "BettyLou DeCroce",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:26",
-        "overwrite_name": "BettyLou DeCroce",
-        "emails": [
-          "AswDeCroce@njleg.org"
-        ],
-        "phones": [
-          "(862) 701-5156"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nj/sldl:27": {
         "name": "New Jersey State House district 27",
         "overwrite": "true",
@@ -24424,43 +24248,6 @@
         ],
         "phones": [
           "(732) 974-0400"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:31": {
-        "name": "New Jersey State House district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 31",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:31",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Nicholas Chiaravalloti",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:31",
-        "overwrite_name": "Nicholas Chiaravalloti",
-        "emails": [
-          "AsmChiaravalloti@njleg.org"
-        ],
-        "phones": [
-          "(201) 471-2347"
         ]
       }
     ]
@@ -24646,43 +24433,6 @@
         ],
         "phones": [
           "(201) 943-0615"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nj/sldl:37": {
-        "name": "New Jersey State House district 37",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NJ State House District 37",
-        "divisionId": "ocd-division/country:us/state:nj/sldl:37",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gordon M. Johnson",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:37",
-        "overwrite_name": "Gordon M. Johnson",
-        "emails": [
-          "AsmJohnson@njleg.org"
-        ],
-        "phones": [
-          "(201) 530-0469"
         ]
       }
     ]
@@ -31288,43 +31038,6 @@
         ],
         "phones": [
           "(803) 724-5005"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:sc/sldl:97": {
-        "name": "South Carolina State House district 97",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SC State House District 97",
-        "divisionId": "ocd-division/country:us/state:sc/sldl:97",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mandy W. Kimmons",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:97",
-        "overwrite_name": "Mandy W. Kimmons",
-        "emails": [
-          "MandyKimmons@schouse.gov"
-        ],
-        "phones": [
-          "(843) 697-1304"
         ]
       }
     ]

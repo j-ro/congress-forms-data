@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -6831,6 +6831,43 @@
         ],
         "phones": [
           "(973) 247-1555"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldu:37": {
+        "name": "New Jersey State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:nj/sldu:37",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gordon M. Johnson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldu:37",
+        "overwrite_name": "Gordon M. Johnson",
+        "emails": [
+          "senJohnson@njleg.org"
+        ],
+        "phones": [
+          "(201) 928-0100"
         ]
       }
     ]

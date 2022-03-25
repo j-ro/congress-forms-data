@@ -2451,6 +2451,9 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:8",
         "overwrite_name": "Ken Cooley",
+        "emails": [
+          "assemblymember.cooley@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2008"
         ]
@@ -6062,6 +6065,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:de/sldl:4": {
+        "name": "Delaware State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "DE State House District 4",
+        "divisionId": "ocd-division/country:us/state:de/sldl:4",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles M. \"Bud\" Freel",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:de/sldl:4",
+        "overwrite_name": "Charles M. \"Bud\" Freel",
+        "emails": [
+          "bfreel2206@gmail.com"
+        ],
+        "phones": [
+          "(302) 547-6215"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:de/sldl:5": {
         "name": "Delaware State House district 5",
         "overwrite": "true",
@@ -7906,6 +7946,43 @@
         ],
         "phones": [
           "(850) 717-5084"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldl:88": {
+        "name": "Florida State House district 88",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State House District 88",
+        "divisionId": "ocd-division/country:us/state:fl/sldl:88",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jervonte \"Tae\" Edmonds",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:88",
+        "overwrite_name": "Jervonte \"Tae\" Edmonds",
+        "emails": [
+          "jervonte.edmonds@myfloridahouse.gov"
+        ],
+        "phones": [
+          "(850) 717-5088"
         ]
       }
     ]
@@ -19635,43 +19712,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:mt/sldl:51": {
-        "name": "Montana State House district 51",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MT State House District 51",
-        "divisionId": "ocd-division/country:us/state:mt/sldl:51",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Frank Fleming",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldl:51",
-        "overwrite_name": "Frank Fleming",
-        "emails": [
-          "flemingLor5@gmail.com"
-        ],
-        "phones": [
-          "(406) 652-6673"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:mt/sldl:54": {
         "name": "Montana State House district 54",
         "overwrite": "true",
@@ -23483,6 +23523,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nj/sldl:2": {
+        "name": "New Jersey State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 2",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:2",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Claire S. Swift",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:2",
+        "overwrite_name": "Claire S. Swift",
+        "emails": [
+          "AswSwift@njleg.org"
+        ],
+        "phones": [
+          "(609) 677-8266"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:2": {
+        "name": "New Jersey State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 2",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:2",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Donald A. Guardian",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:2",
+        "overwrite_name": "Donald A. Guardian",
+        "emails": [
+          "AsmGuardian@njleg.org"
+        ],
+        "phones": [
+          "(609) 677-8266"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nj/sldl:3": {
         "name": "New Jersey State House district 3",
         "overwrite": "true",
@@ -23964,6 +24078,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nj/sldl:13": {
+        "name": "New Jersey State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 13",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:13",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Victoria A. Flynn",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:13",
+        "overwrite_name": "Victoria A. Flynn",
+        "emails": [
+          "asmflynn@njleg.org"
+        ],
+        "phones": [
+          "(732) 856-9294"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nj/sldl:14": {
         "name": "New Jersey State House district 14",
         "overwrite": "true",
@@ -24217,6 +24368,43 @@
         ],
         "phones": [
           "(908) 327-9119"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:20": {
+        "name": "New Jersey State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 20",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:20",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Reginald W. Atkins",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:20",
+        "overwrite_name": "Reginald W. Atkins",
+        "emails": [
+          "asmatkins@njleg.org"
+        ],
+        "phones": [
+          "(908) 624-0880"
         ]
       }
     ]
@@ -24624,6 +24812,43 @@
         ],
         "phones": [
           "(732) 974-0400"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nj/sldl:31": {
+        "name": "New Jersey State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NJ State House District 31",
+        "divisionId": "ocd-division/country:us/state:nj/sldl:31",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William B. Sampson IV",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:31",
+        "overwrite_name": "William B. Sampson IV",
+        "emails": [
+          "asmsampson@njleg.org"
+        ],
+        "phones": [
+          "(609) 847-3500"
         ]
       }
     ]

@@ -915,8 +915,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -2844,6 +2844,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:fl/sldu:33": {
+        "name": "Florida State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rosalind Osgood",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:33",
+        "overwrite_name": "Rosalind Osgood",
+        "emails": [
+          "rosalind.osgood@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5033"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/sldu:35": {
         "name": "Florida State Senate district 35",
         "overwrite": "true",
@@ -3763,6 +3800,43 @@
         ],
         "phones": [
           "(847) 214-8864"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:23": {
+        "name": "Illinois State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:il/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Diane Pappas",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:23",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "RepDPappas@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-4014"
         ]
       }
     ]
@@ -9976,43 +10050,6 @@
         ],
         "phones": [
           "(360) 786 - 7654"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wa/sldu:42": {
-        "name": "Washington State Senate district 42",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WA State Senate District 42",
-        "divisionId": "ocd-division/country:us/state:wa/sldu:42",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Simon Sefzik",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:42",
-        "overwrite_name": "Simon Sefzik",
-        "emails": [
-          "Simon.Sefzik@leg.wa.gov"
-        ],
-        "phones": [
-          "(360) 786-7682"
         ]
       }
     ]

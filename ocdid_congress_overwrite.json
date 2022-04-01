@@ -156,37 +156,6 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -281,6 +250,37 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Robert White"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -558,6 +558,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ne/cd:1": {
+        "name": "Nebraska's 1st congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives NE-1",
+        "divisionId": "ocd-division/country:us/state:ne/cd:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "VACANT",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/cd:1",
+        "overwrite_name": "Jeff Fortenberry"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/cd:27": {
         "name": "New York's 27th congressional district",
         "overwrite": "true",
@@ -791,6 +822,37 @@
         "phones": [
           "(202) 224-3706"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tx/cd:34": {
+        "name": "Texas's 34th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives TX-34",
+        "divisionId": "ocd-division/country:us/state:tx/cd:34",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": " VACANT",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:34",
+        "overwrite_name": "Filemon Vela"
       }
     ]
   },

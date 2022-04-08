@@ -482,43 +482,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ak/sldl:20": {
-        "name": "Alaska State House district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AK State House District 20",
-        "divisionId": "ocd-division/country:us/state:ak/sldl:20",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "William Z. Fields",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:20",
-        "overwrite_name": "William Z. Fields",
-        "emails": [
-          "Representative.William.Fields@akleg.gov"
-        ],
-        "phones": [
-          "(907) 269-0106"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ak/sldl:22": {
         "name": "Alaska State House district 22",
         "overwrite": "true",
@@ -2419,43 +2382,6 @@
         "overwrite_name": "Kevin McCarty",
         "phones": [
           "(916) 319-2007"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:8": {
-        "name": "California State House district 8",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 8",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:8",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ken Cooley",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:8",
-        "overwrite_name": "Ken Cooley",
-        "emails": [
-          "assemblymember.cooley@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2008"
         ]
       }
     ]
@@ -10203,6 +10129,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldl:4": {
+        "name": "Illinois State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 4",
+        "divisionId": "ocd-division/country:us/state:il/sldl:4",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Delia C. Ramirez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:4",
+        "overwrite_name": "Delia C. Ramirez",
+        "emails": [
+          "info@repdeliaramirez.com"
+        ],
+        "phones": [
+          "217-782-0150"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldl:9": {
         "name": "Illinois State House district 9",
         "overwrite": "true",
@@ -10388,6 +10351,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldl:18": {
+        "name": "Illinois State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 18",
+        "divisionId": "ocd-division/country:us/state:il/sldl:18",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robyn Gabel",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:18",
+        "overwrite_name": "Robyn Gabel",
+        "emails": [
+          "staterepgabel@robyngabel.com"
+        ],
+        "phones": [
+          "(217) 782-8052"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldl:20": {
         "name": "Illinois State House district 20",
         "overwrite": "true",
@@ -10456,6 +10456,43 @@
         ],
         "phones": [
           "(708) 552-5225"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldl:25": {
+        "name": "Illinois State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State House District 25",
+        "divisionId": "ocd-division/country:us/state:il/sldl:25",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Curtis J. Tarver II",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:25",
+        "overwrite_name": "Curtis J. Tarver II",
+        "emails": [
+          "rep25th@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-8121"
         ]
       }
     ]
@@ -31417,43 +31454,6 @@
         ],
         "phones": [
           "(803) 212-6929"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:sc/sldl:69": {
-        "name": "South Carolina State House district 69",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SC State House District 69",
-        "divisionId": "ocd-division/country:us/state:sc/sldl:69",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Christopher Sloan \"Chris\" Wooten",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:69",
-        "overwrite_name": "Christopher Sloan \"Chris\" Wooten",
-        "emails": [
-          "ChristopherWooten@schouse.gov"
-        ],
-        "phones": [
-          "(803) 609-1084"
         ]
       }
     ]

@@ -796,37 +796,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:tx/cd:34": {
-        "name": "Texas's 34th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives TX-34",
-        "divisionId": "ocd-division/country:us/state:tx/cd:34",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": " VACANT",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:34",
-        "overwrite_name": "Filemon Vela"
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:az": {
         "name": "Arizona",
         "overwrite": "true",

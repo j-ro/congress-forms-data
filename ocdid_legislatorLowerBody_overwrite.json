@@ -558,6 +558,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/cd:23": {
+        "name": "New York's 23rd congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives NY-23",
+        "divisionId": "ocd-division/country:us/state:ny/cd:23",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:23",
+        "overwrite_name": "Tom Reed"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/cd:27": {
         "name": "New York's 27th congressional district",
         "overwrite": "true",

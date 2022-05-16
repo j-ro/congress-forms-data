@@ -10093,43 +10093,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:wi/sldu:13": {
-        "name": "Wisconsin State Senate district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WI State Senate District 13",
-        "divisionId": "ocd-division/country:us/state:wi/sldu:13",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Jagler",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:13",
-        "overwrite_name": "John Jagler",
-        "emails": [
-          "Sen.Jagler@legis.wisconsin.gov"
-        ],
-        "phones": [
-          "(608) 266-9650"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:wi/sldu:30": {
         "name": "Wisconsin State Senate district 30",
         "overwrite": "true",

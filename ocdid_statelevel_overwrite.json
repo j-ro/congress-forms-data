@@ -10093,43 +10093,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:wi/sldu:13": {
-        "name": "Wisconsin State Senate district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WI State Senate District 13",
-        "divisionId": "ocd-division/country:us/state:wi/sldu:13",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Jagler",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldu:13",
-        "overwrite_name": "John Jagler",
-        "emails": [
-          "Sen.Jagler@legis.wisconsin.gov"
-        ],
-        "phones": [
-          "(608) 266-9650"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:wi/sldu:30": {
         "name": "Wisconsin State Senate district 30",
         "overwrite": "true",
@@ -12551,43 +12514,6 @@
         "overwrite_name": "Kevin Kiley",
         "phones": [
           "(916) 319-2006"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:7": {
-        "name": "California State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 7",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:7",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kevin McCarty",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:7",
-        "overwrite_name": "Kevin McCarty",
-        "emails": [
-          "assemblymember.mccarty@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2007"
         ]
       }
     ]
@@ -35838,6 +35764,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldl:20": {
+        "name": "New York State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 20",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:20",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ari Brown",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:20",
+        "overwrite_name": "Ari Brown",
+        "emails": [
+          "browna@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-3028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldl:21": {
         "name": "New York State House district 21",
         "overwrite": "true",
@@ -46507,43 +46470,6 @@
         ],
         "phones": [
           "(608) 266-3070"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wi/sldl:89": {
-        "name": "Wisconsin State House district 89",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WI State House District 89",
-        "divisionId": "ocd-division/country:us/state:wi/sldl:89",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Elijah Behnke",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wi/sldl:89",
-        "overwrite_name": "Elijah Behnke",
-        "emails": [
-          "Rep.Behnke@legis.wisconsin.gov"
-        ],
-        "phones": [
-          "(608) 266-2343"
         ]
       }
     ]

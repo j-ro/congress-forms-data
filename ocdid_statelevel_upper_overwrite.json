@@ -260,43 +260,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ar/sldu:7": {
-        "name": "Arkansas State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AR State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:ar/sldu:7",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Colby Fulfer",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ar/sldu:7",
-        "overwrite_name": "Colby Fulfer",
-        "emails": [
-          "colby.fulfer@senate.ar.gov"
-        ],
-        "phones": [
-          "(501) 682-2902"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ar/sldu:12": {
         "name": "Arkansas State Senate district 12",
         "overwrite": "true",
@@ -915,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Melissa Hurtado",
-        "party": "Democratic Party",
+        "name": "Democratic Party",
+        "party": "",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -3831,12 +3794,12 @@
         "name": "Diane Pappas",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:23",
-        "overwrite_name": "VACANT",
+        "overwrite_name": "Diane Pappas",
         "emails": [
           "RepDPappas@gmail.com"
         ],
         "phones": [
-          "(217) 782-4014"
+          "(217) 782-9463"
         ]
       }
     ]
@@ -4309,15 +4272,15 @@
     ],
     "officials": [
       {
-        "name": "John Connor",
+        "name": "Eric Mattson",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:43",
-        "overwrite_name": "John Connor",
+        "overwrite_name": "Eric Mattson",
         "emails": [
-          "senatorconnor@gmail.com"
+          "emattson@senatedem.illinois.gov"
         ],
         "phones": [
-          "814-714-8519"
+          "(217) 782-8800"
         ]
       }
     ]

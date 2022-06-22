@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -2875,43 +2875,6 @@
         ],
         "phones": [
           "(850) 487-5035"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:fl/sldu:36": {
-        "name": "Florida State Senate district 36",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "FL State Senate District 36",
-        "divisionId": "ocd-division/country:us/state:fl/sldu:36",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Manny Diaz, Jr.",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:36",
-        "overwrite_name": "Manny Diaz, Jr.",
-        "emails": [
-          "diaz.manny.web@flsenate.gov"
-        ],
-        "phones": [
-          "(305) 364-3073"
         ]
       }
     ]
@@ -12443,43 +12406,6 @@
           "overwrite_name": "Frank Bigelow",
           "phones": [
             "(916) 319-2005"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:ca/sldl:6": {
-          "name": "California State House district 6",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "CA State House District 6",
-          "divisionId": "ocd-division/country:us/state:ca/sldl:6",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Kevin Kiley",
-          "party": "Republican Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:6",
-          "overwrite_name": "Kevin Kiley",
-          "emails": [
-            "assemblymember.kiley@assembly.ca.gov"
-          ],
-          "phones": [
-            "(916) 319-2006"
           ]
         }
       ]
@@ -35909,6 +35835,43 @@
           ],
           "phones": [
             "(718) 266-0267"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ny/sldl:58": {
+          "name": "New York State House district 58",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "NY State House District 58",
+          "divisionId": "ocd-division/country:us/state:ny/sldl:58",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Monique Chandler-Waterman",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:58",
+          "overwrite_name": "Monique Chandler-Waterman",
+          "emails": [
+            "monique4ny@gmail.com"
+          ],
+          "phones": [
+            "(518) 455-4166"
           ]
         }
       ]

@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -2875,43 +2875,6 @@
         ],
         "phones": [
           "(850) 487-5035"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:fl/sldu:36": {
-        "name": "Florida State Senate district 36",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "FL State Senate District 36",
-        "divisionId": "ocd-division/country:us/state:fl/sldu:36",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Manny Diaz, Jr.",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:36",
-        "overwrite_name": "Manny Diaz, Jr.",
-        "emails": [
-          "diaz.manny.web@flsenate.gov"
-        ],
-        "phones": [
-          "(305) 364-3073"
         ]
       }
     ]

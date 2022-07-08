@@ -1,6 +1,40 @@
 [
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/cd:22": {
+        "name": "California's 22nd congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives CA-22",
+        "divisionId": "ocd-division/country:us/state:ca/cd:22",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Connie Conway",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:22",
+        "overwrite_name": "Connie Conway",
+        "phones": [
+          "(202) 225-2523"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/cd:30": {
         "name": "California's 30th congressional district",
         "overwrite": "true",
@@ -794,6 +828,41 @@
       }
     ]
   },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tx/cd:34": {
+        "name": "Texas's 34th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives TX-34",
+        "divisionId": "ocd-division/country:us/state:tx/cd:34",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mayra Flores",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:34",
+        "overwrite_name": "Mayra Flores",
+        "phones": [
+          "(202) 225-9901"
+        ]
+      }
+    ]
+  },
+  [
   {
     "divisions": {
       "ocd-division/country:us/state:az": {

@@ -2312,6 +2312,9 @@
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:5",
         "overwrite_name": "Frank Bigelow",
+        "emails": [
+          "assemblymember.bigelow@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2005"
         ]
@@ -4289,6 +4292,43 @@
         ],
         "phones": [
           "(303) 866-2950"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldl:43": {
+        "name": "Colorado State House district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State House District 43",
+        "divisionId": "ocd-division/country:us/state:co/sldl:43",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kurt Huffman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:43",
+        "overwrite_name": "Kurt Huffman",
+        "emails": [
+          "kurt.huffman@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-2936"
         ]
       }
     ]
@@ -25595,43 +25635,6 @@
         ],
         "phones": [
           "(631) 207-0073"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ny/sldl:20": {
-        "name": "New York State House district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State House District 20",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:20",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ari Brown",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:20",
-        "overwrite_name": "Ari Brown",
-        "emails": [
-          "browna@nyassembly.gov"
-        ],
-        "phones": [
-          "(518) 455-3028"
         ]
       }
     ]

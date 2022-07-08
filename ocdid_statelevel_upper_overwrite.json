@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Melissa Hurtado",
-        "party": "Democratic Party",
+        "name": "Democratic Party",
+        "party": "",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -1709,6 +1709,43 @@
         ],
         "phones": [
           "303-866-4883"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:30": {
+        "name": "Colorado State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:co/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Van Winkle",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:30",
+        "overwrite_name": "Kevin Van Winkle",
+        "emails": [
+          "kevin.vanwinkle.house@state.co.us"
+        ],
+        "phones": [
+          "(303) 866-4881"
         ]
       }
     ]
@@ -6171,6 +6208,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mt/sldu:39": {
+        "name": "Montana State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MT State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:mt/sldu:39",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jessica Wicks",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldu:39",
+        "overwrite_name": "Jessica Wicks",
+        "emails": [
+          "jessica.wicks@mtleg.gov"
+        ],
+        "phones": [
+          "(406) 560-0171"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mt/sldu:44": {
         "name": "Montana State Senate district 44",
         "overwrite": "true",
@@ -6239,6 +6313,43 @@
         ],
         "phones": [
           "(406) 274-3805"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne/sldu:31": {
+        "name": "Nebraska State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NE State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:ne/sldu:31",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kathleen Kauth",
+        "party": "Nonpartisan",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:31",
+        "overwrite_name": "Kathleen Kauth",
+        "emails": [
+          "kkauth@leg.ne.gov"
+        ],
+        "phones": [
+          "(402) 471-2327"
         ]
       }
     ]

@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -4605,15 +4605,15 @@
     ],
     "officials": [
       {
-        "name": "Rachelle Aud Crowe",
+        "name": "Kris Tharp",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:56",
-        "overwrite_name": "Rachelle Aud Crowe",
+        "overwrite_name": "Kris Tharp",
         "emails": [
-          "info@senatorcrowe.com"
+          "tracy@senatortharp.com"
         ],
         "phones": [
-          "(618) 251-9840"
+          "(217) 782-5247"
         ]
       }
     ]
@@ -6313,6 +6313,43 @@
         ],
         "phones": [
           "(406) 274-3805"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne/sldu:19": {
+        "name": "Nebraska State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NE State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:ne/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert \"Rob\" Dover",
+        "party": "Nonpartisan",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:19",
+        "overwrite_name": "Robert \"Rob\" Dover",
+        "emails": [
+          "rdover@leg.ne.gov"
+        ],
+        "phones": [
+          "(402) 471-2929"
         ]
       }
     ]
@@ -8533,6 +8570,43 @@
         ],
         "phones": [
           "(405) 521-5618"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldu:5": {
+        "name": "Pennsylvania State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:pa/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jimmy Dillon",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldu:5",
+        "overwrite_name": "Jimmy Dillon",
+        "emails": [
+          "info@dillonforpasenate.com"
+        ],
+        "phones": [
+          "(717) 787-9608"
         ]
       }
     ]

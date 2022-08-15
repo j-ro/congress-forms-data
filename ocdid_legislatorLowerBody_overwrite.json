@@ -558,6 +558,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/cd:1": {
+        "name": "Minnesota's 1st congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives MN-1",
+        "divisionId": "ocd-division/country:us/state:mn/cd:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brad Finstad",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/cd:1",
+        "overwrite_name": "VACANT",
+        "phones": [
+          "202-222-2222"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mo/cd:6": {
         "name": "Missouri's 6th congressional district",
         "overwrite": "true",
@@ -586,6 +620,40 @@
         "overwrite_name": "Sam Graves",
         "phones": [
           "(202) 225-7041"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne/cd:1": {
+        "name": "Nebraska's 1st congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives NE-1",
+        "divisionId": "ocd-division/country:us/state:ne/cd:1",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Flood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/cd:1",
+        "overwrite_name": "Mike Flood",
+        "phones": [
+          "(202) 225-4806"
         ]
       }
     ]
@@ -824,40 +892,6 @@
         "overwrite_name": "Ronny Jackson",
         "phones": [
           "(202) 224-3706"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:tx/cd:34": {
-        "name": "Texas's 34th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives TX-34",
-        "divisionId": "ocd-division/country:us/state:tx/cd:34",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mayra Flores",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:34",
-        "overwrite_name": "Mayra Flores",
-        "phones": [
-          "(202) 225-9901"
         ]
       }
     ]

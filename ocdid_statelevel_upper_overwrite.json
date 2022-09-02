@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Melissa Hurtado",
-        "party": "Democratic Party",
+        "name": "Democratic Party",
+        "party": "",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -3134,6 +3134,43 @@
         ],
         "phones": [
           "(208) 332-1345"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:id/sldu:29": {
+        "name": "Idaho State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ID State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:id/sldu:29",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eva Nye",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:id/sldu:29",
+        "overwrite_name": "Eva Nye",
+        "emails": [
+          "enye@senate.idaho.gov"
+        ],
+        "phones": [
+          "(208) 332-1406"
         ]
       }
     ]

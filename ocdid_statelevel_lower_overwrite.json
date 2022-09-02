@@ -2278,6 +2278,9 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:4",
         "overwrite_name": "Cecilia M. Aguiar-Curry",
+        "emails": [
+          "assemblymember.aguiar-curry@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2004"
         ]
@@ -18938,6 +18941,43 @@
         ],
         "phones": [
           "(228) 769-0501"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ms/sldl:119": {
+        "name": "Mississippi State House district 119",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MS State House District 119",
+        "divisionId": "ocd-division/country:us/state:ms/sldl:119",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeffrey Hulum III",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ms/sldl:119",
+        "overwrite_name": "Jeffrey Hulum III",
+        "emails": [
+          "JHulum@house.ms.gov"
+        ],
+        "phones": [
+          "(601) 359-4074"
         ]
       }
     ]

@@ -462,37 +462,6 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -592,6 +561,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/cd:7": {
         "name": "Florida's 7th congressional district",
         "overwrite": "true",
@@ -621,6 +621,37 @@
         "phones": [
           "(202) 225-4035"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/cd:13": {
+        "name": "Florida's 13th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives FL-13",
+        "divisionId": "ocd-division/country:us/state:fl/cd:13",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "VACANT",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:13",
+        "overwrite_name": "Charlie Crist"
       }
     ]
   },
@@ -824,40 +855,6 @@
         "overwrite_name": "Bill Huizenga",
         "phones": [
           "(202) 225-4401"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mn/cd:1": {
-        "name": "Minnesota's 1st congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives MN-1",
-        "divisionId": "ocd-division/country:us/state:mn/cd:1",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Brad Finstad",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:mn/cd:1",
-        "overwrite_name": "VACANT",
-        "phones": [
-          "202-222-2222"
         ]
       }
     ]

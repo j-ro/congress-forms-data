@@ -2252,43 +2252,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ca/sldl:4": {
-        "name": "California State House district 4",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 4",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:4",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Cecilia M. Aguiar-Curry",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:4",
-        "overwrite_name": "Cecilia M. Aguiar-Curry",
-        "emails": [
-          "assemblymember.aguiar-curry@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2004"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ca/sldl:12": {
         "name": "California State House district 12",
         "overwrite": "true",

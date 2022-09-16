@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -7904,6 +7904,43 @@
         ],
         "phones": [
           "518-455-3161"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nc/sldu:1": {
+        "name": "North Carolina State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NC State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:nc/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bobby Hanig",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:1",
+        "overwrite_name": "Bobby Hanig",
+        "emails": [
+          "bobby.hanig@ncleg.net"
+        ],
+        "phones": [
+          "(919) 733-5906"
         ]
       }
     ]

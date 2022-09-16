@@ -929,6 +929,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/cd:19": {
+        "name": "New York's 19th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives NY-19",
+        "divisionId": "ocd-division/country:us/state:ny/cd:19",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pat Ryan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:19",
+        "overwrite_name": "Pat Ryan",
+        "phones": [
+          "202-225-5614"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/cd:27": {
         "name": "New York's 27th congressional district",
         "overwrite": "true",
@@ -1161,6 +1195,40 @@
         "overwrite_name": "Ronny Jackson",
         "phones": [
           "(202) 224-3706"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ak": {
+        "name": "Alaska's 0th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives AK-",
+        "divisionId": "ocd-division/country:us/state:ak",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary Peltola",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ak",
+        "overwrite_name": "VACANT",
+        "phones": [
+          "(202) 225-5765"
         ]
       }
     ]

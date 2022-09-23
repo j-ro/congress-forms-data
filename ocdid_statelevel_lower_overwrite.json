@@ -2244,6 +2244,9 @@
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:3",
         "overwrite_name": "James Gallagher",
+        "emails": [
+          "assemblymember.gallagher@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2003"
         ]
@@ -24978,6 +24981,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nm/sldl:17": {
+        "name": "New Mexico State House district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State House District 17",
+        "divisionId": "ocd-division/country:us/state:nm/sldl:17",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Garcia Benavides",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldl:17",
+        "overwrite_name": "Linda Garcia Benavides",
+        "emails": [
+          "linda.benavides@nmlegis.gov"
+        ],
+        "phones": [
+          "(505) 986-4344"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nm/sldl:19": {
         "name": "New Mexico State House district 19",
         "overwrite": "true",
@@ -34762,43 +34802,6 @@
         ],
         "phones": [
           "(512) 463-0620"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ut/sldl:1": {
-        "name": "Utah State House district 1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "UT State House District 1",
-        "divisionId": "ocd-division/country:us/state:ut/sldl:1",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Joel Ferry",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldl:1",
-        "overwrite_name": "Joel Ferry",
-        "emails": [
-          "JoelFerry@le.utah.gov"
-        ],
-        "phones": [
-          "(435) 465-8887"
         ]
       }
     ]

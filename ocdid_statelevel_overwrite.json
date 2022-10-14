@@ -878,8 +878,8 @@
     ],
     "officials": [
       {
-        "name": "Democratic Party",
-        "party": "",
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
         "overwrite_name": "Melissa Hurtado",
         "phones": [
@@ -3245,6 +3245,43 @@
         ],
         "phones": [
           "(773) 292-0202"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:3": {
+        "name": "Illinois State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:il/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mattie Hunter",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:3",
+        "overwrite_name": "Mattie Hunter",
+        "emails": [
+          "senator03district@gmail.com"
+        ],
+        "phones": [
+          "(312) 949-1908"
         ]
       }
     ]
@@ -12563,43 +12600,6 @@
         "overwrite_name": "Jim Wood",
         "phones": [
           "(916) 319-2002"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:3": {
-        "name": "California State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 3",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "James Gallagher",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:3",
-        "overwrite_name": "James Gallagher",
-        "emails": [
-          "assemblymember.gallagher@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2003"
         ]
       }
     ]
@@ -28339,43 +28339,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldl:4th_plymouth": {
-        "name": "Massachusetts State House district 4TH_PLYMOUTH",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State House District 4TH_PLYMOUTH",
-        "divisionId": "ocd-division/country:us/state:ma/sldl:4th_plymouth",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Patrick Joseph Kearney",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:4th_plymouth",
-        "overwrite_name": "Patrick Joseph Kearney",
-        "emails": [
-          "Patrick.Kearney@mahouse.gov"
-        ],
-        "phones": [
-          "(617) 722-2425"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ma/sldl:7th_plymouth": {
         "name": "Massachusetts State House district 7TH_PLYMOUTH",
         "overwrite": "true",
@@ -30294,43 +30257,6 @@
         ],
         "phones": [
           "(406) 218-9608"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mt/sldl:91": {
-        "name": "Montana State House district 91",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MT State House District 91",
-        "divisionId": "ocd-division/country:us/state:mt/sldl:91",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Connie Keogh",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mt/sldl:91",
-        "overwrite_name": "Connie Keogh",
-        "emails": [
-          "rep.Connie.Keogh@mt.gov"
-        ],
-        "phones": [
-          "(406) 546-3629"
         ]
       }
     ]
@@ -32329,80 +32255,6 @@
         ],
         "phones": [
           "(978) 483-0182"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:hillsborough_37": {
-        "name": "New Hampshire State House district HILLSBOROUGH_37",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District HILLSBOROUGH_37",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_37",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Alicia Lekas",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_37",
-        "overwrite_name": "Alicia Lekas",
-        "emails": [
-          "Alicia.Lekas@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 881-8960"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nh/sldl:hillsborough_37": {
-        "name": "New Hampshire State House district HILLSBOROUGH_37",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NH State House District HILLSBOROUGH_37",
-        "divisionId": "ocd-division/country:us/state:nh/sldl:hillsborough_37",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Tony Lekas",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:hillsborough_37",
-        "overwrite_name": "Tony Lekas",
-        "emails": [
-          "Tony.Lekas@leg.state.nh.us"
-        ],
-        "phones": [
-          "(603) 881-8960"
         ]
       }
     ]

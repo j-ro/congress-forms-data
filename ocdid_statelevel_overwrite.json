@@ -12609,43 +12609,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ca/sldl:2": {
-        "name": "California State House district 2",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 2",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:2",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jim Wood",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:2",
-        "overwrite_name": "Jim Wood",
-        "emails": [
-          "assemblymember.wood@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2002"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ca/sldl:12": {
         "name": "California State House district 12",
         "overwrite": "true",
@@ -27714,7 +27677,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:1st_berkshire": {
-        "name": "Massachusetts State House district 1ST_BERKSHIRE",
+        "name": "Massachusetts State House district 1st Berkshire",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27751,7 +27714,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:2nd_bristol": {
-        "name": "Massachusetts State House district 2ND_BRISTOL",
+        "name": "Massachusetts State House district 2nd Bristol",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27788,7 +27751,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:11th_bristol": {
-        "name": "Massachusetts State House district 11TH_BRISTOL",
+        "name": "Massachusetts State House district 11th Bristol",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27825,7 +27788,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:12th_bristol": {
-        "name": "Massachusetts State House district 12TH_BRISTOL",
+        "name": "Massachusetts State House district 12th Bristol",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27862,7 +27825,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:3rd_essex": {
-        "name": "Massachusetts State House district 3RD_ESSEX",
+        "name": "Massachusetts State House district 3rd Essex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27899,7 +27862,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:11th_essex": {
-        "name": "Massachusetts State House district 11TH_ESSEX",
+        "name": "Massachusetts State House district 11th Essex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27936,7 +27899,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:14th_essex": {
-        "name": "Massachusetts State House district 14TH_ESSEX",
+        "name": "Massachusetts State House district 14th Essex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -27973,7 +27936,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:16th_essex": {
-        "name": "Massachusetts State House district 16TH_ESSEX",
+        "name": "Massachusetts State House district 16th Essex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28010,7 +27973,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:1st_franklin": {
-        "name": "Massachusetts State House district 1ST_FRANKLIN",
+        "name": "Massachusetts State House district 1st Franklin",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28047,7 +28010,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:18th_essex": {
-        "name": "Massachusetts State House district 18TH_ESSEX",
+        "name": "Massachusetts State House district 18th Essex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28084,7 +28047,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:1st_hampshire": {
-        "name": "Massachusetts State House district 1ST_HAMPSHIRE",
+        "name": "Massachusetts State House district 1st Hampshire",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28121,7 +28084,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:2nd_hampshire": {
-        "name": "Massachusetts State House district 2ND_HAMPSHIRE",
+        "name": "Massachusetts State House district 2nd Hampshire",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28158,7 +28121,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:3rd_hampshire": {
-        "name": "Massachusetts State House district 3RD_HAMPSHIRE",
+        "name": "Massachusetts State House district 3rd Hampshire",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28195,7 +28158,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:14th_middlesex": {
-        "name": "Massachusetts State House district 14TH_MIDDLESEX",
+        "name": "Massachusetts State House district 14th Middlesex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28232,7 +28195,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:15th_middlesex": {
-        "name": "Massachusetts State House district 15TH_MIDDLESEX",
+        "name": "Massachusetts State House district 15th Middlesex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28269,7 +28232,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:19th_middlesex": {
-        "name": "Massachusetts State House district 19TH_MIDDLESEX",
+        "name": "Massachusetts State House district 19th Middlesex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28306,7 +28269,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:30th_middlesex": {
-        "name": "Massachusetts State House district 30TH_MIDDLESEX",
+        "name": "Massachusetts State House district 30th Middlesex",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28343,7 +28306,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:15th_norfolk": {
-        "name": "Massachusetts State House district 15TH_NORFOLK",
+        "name": "Massachusetts State House district 15th Norfolk",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28380,7 +28343,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:7th_plymouth": {
-        "name": "Massachusetts State House district 7TH_PLYMOUTH",
+        "name": "Massachusetts State House district 7th Plymouth",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28417,7 +28380,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:8th_plymouth": {
-        "name": "Massachusetts State House district 8TH_PLYMOUTH",
+        "name": "Massachusetts State House district 8th Plymouth",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28454,7 +28417,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:12th_plymouth": {
-        "name": "Massachusetts State House district 12TH_PLYMOUTH",
+        "name": "Massachusetts State House district 12th Plymouth",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28491,7 +28454,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:4th_suffolk": {
-        "name": "Massachusetts State House district 4TH_SUFFOLK",
+        "name": "Massachusetts State House district 4th Suffolk",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28528,7 +28491,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:5th_suffolk": {
-        "name": "Massachusetts State House district 5TH_SUFFOLK",
+        "name": "Massachusetts State House district 5th Suffolk",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28565,7 +28528,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:9th_suffolk": {
-        "name": "Massachusetts State House district 9TH_SUFFOLK",
+        "name": "Massachusetts State House district 9th Suffolk",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28602,7 +28565,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:15th_suffolk": {
-        "name": "Massachusetts State House district 15TH_SUFFOLK",
+        "name": "Massachusetts State House district 15th Suffolk",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28639,7 +28602,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:8th_worcester": {
-        "name": "Massachusetts State House district 8TH_WORCESTER",
+        "name": "Massachusetts State House district 8th Worcester",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28676,7 +28639,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:ma/sldl:17th_worcester": {
-        "name": "Massachusetts State House district 17TH_WORCESTER",
+        "name": "Massachusetts State House district 17th Worcester",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -28713,7 +28676,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:mn/sldl:5b": {
-        "name": "Minnesota State House district 5B",
+        "name": "Minnesota State House district 5b",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -30859,7 +30822,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_3": {
-        "name": "New Hampshire State House district BELKNAP_3",
+        "name": "New Hampshire State House district Belknap 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -30896,7 +30859,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_3": {
-        "name": "New Hampshire State House district BELKNAP_3",
+        "name": "New Hampshire State House district Belknap 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -30933,7 +30896,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_3": {
-        "name": "New Hampshire State House district BELKNAP_3",
+        "name": "New Hampshire State House district Belknap 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -30970,7 +30933,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_4": {
-        "name": "New Hampshire State House district BELKNAP_4",
+        "name": "New Hampshire State House district Belknap 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31007,7 +30970,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:belknap_5": {
-        "name": "New Hampshire State House district BELKNAP_5",
+        "name": "New Hampshire State House district Belknap 5",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31044,7 +31007,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:carroll_5": {
-        "name": "New Hampshire State House district CARROLL_5",
+        "name": "New Hampshire State House district Carroll 5",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31081,7 +31044,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_4": {
-        "name": "New Hampshire State House district CHESHIRE_4",
+        "name": "New Hampshire State House district Cheshire 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31118,7 +31081,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_7": {
-        "name": "New Hampshire State House district CHESHIRE_7",
+        "name": "New Hampshire State House district Cheshire 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31155,7 +31118,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_9": {
-        "name": "New Hampshire State House district CHESHIRE_9",
+        "name": "New Hampshire State House district Cheshire 9",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31192,7 +31155,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_11": {
-        "name": "New Hampshire State House district CHESHIRE_11",
+        "name": "New Hampshire State House district Cheshire 11",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31229,7 +31192,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:cheshire_13": {
-        "name": "New Hampshire State House district CHESHIRE_13",
+        "name": "New Hampshire State House district Cheshire 13",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31266,7 +31229,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_1": {
-        "name": "New Hampshire State House district COOS_1",
+        "name": "New Hampshire State House district Coos 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31303,7 +31266,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_2": {
-        "name": "New Hampshire State House district COOS_2",
+        "name": "New Hampshire State House district Coos 2",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31340,7 +31303,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:coos_7": {
-        "name": "New Hampshire State House district COOS_7",
+        "name": "New Hampshire State House district Coos 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31377,7 +31340,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_6": {
-        "name": "New Hampshire State House district GRAFTON_6",
+        "name": "New Hampshire State House district Grafton 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31414,7 +31377,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_7": {
-        "name": "New Hampshire State House district GRAFTON_7",
+        "name": "New Hampshire State House district Grafton 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31451,7 +31414,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_8": {
-        "name": "New Hampshire State House district GRAFTON_8",
+        "name": "New Hampshire State House district Grafton 8",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31488,7 +31451,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_9": {
-        "name": "New Hampshire State House district GRAFTON_9",
+        "name": "New Hampshire State House district Grafton 9",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31525,7 +31488,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_12": {
-        "name": "New Hampshire State House district GRAFTON_12",
+        "name": "New Hampshire State House district Grafton 12",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31562,7 +31525,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_12": {
-        "name": "New Hampshire State House district GRAFTON_12",
+        "name": "New Hampshire State House district Grafton 12",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31599,7 +31562,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_13": {
-        "name": "New Hampshire State House district GRAFTON_13",
+        "name": "New Hampshire State House district Grafton 13",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31636,7 +31599,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:grafton_16": {
-        "name": "New Hampshire State House district GRAFTON_16",
+        "name": "New Hampshire State House district Grafton 16",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31673,7 +31636,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_2": {
-        "name": "New Hampshire State House district HILLSBOROUGH_2",
+        "name": "New Hampshire State House district Hillsborough 2",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31710,7 +31673,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_7": {
-        "name": "New Hampshire State House district HILLSBOROUGH_7",
+        "name": "New Hampshire State House district Hillsborough 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31747,7 +31710,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_7": {
-        "name": "New Hampshire State House district HILLSBOROUGH_7",
+        "name": "New Hampshire State House district Hillsborough 7",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31784,7 +31747,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_9": {
-        "name": "New Hampshire State House district HILLSBOROUGH_9",
+        "name": "New Hampshire State House district Hillsborough 9",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31821,7 +31784,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_11": {
-        "name": "New Hampshire State House district HILLSBOROUGH_11",
+        "name": "New Hampshire State House district Hillsborough 11",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31858,7 +31821,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_12": {
-        "name": "New Hampshire State House district HILLSBOROUGH_12",
+        "name": "New Hampshire State House district Hillsborough 12",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31895,7 +31858,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_19": {
-        "name": "New Hampshire State House district HILLSBOROUGH_19",
+        "name": "New Hampshire State House district Hillsborough 19",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31932,7 +31895,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_20": {
-        "name": "New Hampshire State House district HILLSBOROUGH_20",
+        "name": "New Hampshire State House district Hillsborough 20",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31969,7 +31932,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
-        "name": "New Hampshire State House district HILLSBOROUGH_21",
+        "name": "New Hampshire State House district Hillsborough 21",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32006,7 +31969,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
-        "name": "New Hampshire State House district HILLSBOROUGH_21",
+        "name": "New Hampshire State House district Hillsborough 21",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32043,7 +32006,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
-        "name": "New Hampshire State House district HILLSBOROUGH_21",
+        "name": "New Hampshire State House district Hillsborough 21",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32080,7 +32043,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_21": {
-        "name": "New Hampshire State House district HILLSBOROUGH_21",
+        "name": "New Hampshire State House district Hillsborough 21",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32117,7 +32080,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_22": {
-        "name": "New Hampshire State House district HILLSBOROUGH_22",
+        "name": "New Hampshire State House district Hillsborough 22",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32154,7 +32117,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_22": {
-        "name": "New Hampshire State House district HILLSBOROUGH_22",
+        "name": "New Hampshire State House district Hillsborough 22",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32191,7 +32154,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_28": {
-        "name": "New Hampshire State House district HILLSBOROUGH_28",
+        "name": "New Hampshire State House district Hillsborough 28",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32228,7 +32191,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_33": {
-        "name": "New Hampshire State House district HILLSBOROUGH_33",
+        "name": "New Hampshire State House district Hillsborough 33",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32265,7 +32228,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_34": {
-        "name": "New Hampshire State House district HILLSBOROUGH_34",
+        "name": "New Hampshire State House district Hillsborough 34",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32302,7 +32265,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:hillsborough_38": {
-        "name": "New Hampshire State House district HILLSBOROUGH_38",
+        "name": "New Hampshire State House district Hillsborough 38",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32339,7 +32302,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_2": {
-        "name": "New Hampshire State House district MERRIMACK_2",
+        "name": "New Hampshire State House district Merrimack 2",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32376,7 +32339,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_3": {
-        "name": "New Hampshire State House district MERRIMACK_3",
+        "name": "New Hampshire State House district Merrimack 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32413,7 +32376,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_4": {
-        "name": "New Hampshire State House district MERRIMACK_4",
+        "name": "New Hampshire State House district Merrimack 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32450,7 +32413,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_6": {
-        "name": "New Hampshire State House district MERRIMACK_6",
+        "name": "New Hampshire State House district Merrimack 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32487,7 +32450,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_12": {
-        "name": "New Hampshire State House district MERRIMACK_12",
+        "name": "New Hampshire State House district Merrimack 12",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32524,7 +32487,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_15": {
-        "name": "New Hampshire State House district MERRIMACK_15",
+        "name": "New Hampshire State House district Merrimack 15",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32561,7 +32524,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:merrimack_20": {
-        "name": "New Hampshire State House district MERRIMACK_20",
+        "name": "New Hampshire State House district Merrimack 20",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32598,7 +32561,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_1": {
-        "name": "New Hampshire State House district ROCKINGHAM_1",
+        "name": "New Hampshire State House district Rockingham 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32635,7 +32598,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_3": {
-        "name": "New Hampshire State House district ROCKINGHAM_3",
+        "name": "New Hampshire State House district Rockingham 3",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32672,7 +32635,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_5": {
-        "name": "New Hampshire State House district ROCKINGHAM_5",
+        "name": "New Hampshire State House district Rockingham 5",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32709,7 +32672,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_6": {
-        "name": "New Hampshire State House district ROCKINGHAM_6",
+        "name": "New Hampshire State House district Rockingham 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32746,7 +32709,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_6": {
-        "name": "New Hampshire State House district ROCKINGHAM_6",
+        "name": "New Hampshire State House district Rockingham 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32783,7 +32746,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_6": {
-        "name": "New Hampshire State House district ROCKINGHAM_6",
+        "name": "New Hampshire State House district Rockingham 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32820,7 +32783,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_6": {
-        "name": "New Hampshire State House district ROCKINGHAM_6",
+        "name": "New Hampshire State House district Rockingham 6",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32857,7 +32820,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_8": {
-        "name": "New Hampshire State House district ROCKINGHAM_8",
+        "name": "New Hampshire State House district Rockingham 8",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32894,7 +32857,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_12": {
-        "name": "New Hampshire State House district ROCKINGHAM_12",
+        "name": "New Hampshire State House district Rockingham 12",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32931,7 +32894,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_18": {
-        "name": "New Hampshire State House district ROCKINGHAM_18",
+        "name": "New Hampshire State House district Rockingham 18",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -32968,7 +32931,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district ROCKINGHAM_20",
+        "name": "New Hampshire State House district Rockingham 20",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33005,7 +32968,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district ROCKINGHAM_20",
+        "name": "New Hampshire State House district Rockingham 20",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33042,7 +33005,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_20": {
-        "name": "New Hampshire State House district ROCKINGHAM_20",
+        "name": "New Hampshire State House district Rockingham 20",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33079,7 +33042,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_29": {
-        "name": "New Hampshire State House district ROCKINGHAM_29",
+        "name": "New Hampshire State House district Rockingham 29",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33116,7 +33079,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:rockingham_36": {
-        "name": "New Hampshire State House district ROCKINGHAM_36",
+        "name": "New Hampshire State House district Rockingham 36",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33153,7 +33116,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_1": {
-        "name": "New Hampshire State House district STRAFFORD_1",
+        "name": "New Hampshire State House district Strafford 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33190,7 +33153,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_5": {
-        "name": "New Hampshire State House district STRAFFORD_5",
+        "name": "New Hampshire State House district Strafford 5",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33227,7 +33190,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_10": {
-        "name": "New Hampshire State House district STRAFFORD_10",
+        "name": "New Hampshire State House district Strafford 10",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33264,7 +33227,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_15": {
-        "name": "New Hampshire State House district STRAFFORD_15",
+        "name": "New Hampshire State House district Strafford 15",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33301,7 +33264,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:strafford_18": {
-        "name": "New Hampshire State House district STRAFFORD_18",
+        "name": "New Hampshire State House district Strafford 18",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33338,7 +33301,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:sullivan_1": {
-        "name": "New Hampshire State House district SULLIVAN_1",
+        "name": "New Hampshire State House district Sullivan 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33375,7 +33338,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:sullivan_4": {
-        "name": "New Hampshire State House district SULLIVAN_4",
+        "name": "New Hampshire State House district Sullivan 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -33412,7 +33375,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:nh/sldl:sullivan_8": {
-        "name": "New Hampshire State House district SULLIVAN_8",
+        "name": "New Hampshire State House district Sullivan 8",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -45718,7 +45681,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:vt/sldl:chittenden-6-2": {
-        "name": "Vermont State House district CHITTENDEN-6-2",
+        "name": "Vermont State House district Chittenden 6 2",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -45755,7 +45718,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:vt/sldl:windsor-rutland": {
-        "name": "Vermont State House district WINDSOR-RUTLAND",
+        "name": "Vermont State House district Windsor Rutland",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -45792,7 +45755,7 @@
   {
     "divisions": {
       "ocd-division/country:us/state:vt/sldl:windsor-4-1": {
-        "name": "Vermont State House district WINDSOR-4-1",
+        "name": "Vermont State House district Windsor 4 1",
         "overwrite": "true",
         "officeIndices": [
           0

@@ -524,6 +524,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:az/cd:2": {
+        "name": "Arizona's 2nd congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives AZ-2",
+        "divisionId": "ocd-division/country:us/state:az/cd:2",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eli Crane",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/cd:2",
+        "overwrite_name": "Ann Kirkpatrick",
+        "phones": [
+          "202-225-3361"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:az/cd:3": {
         "name": "Arizona's 3rd congressional district",
         "overwrite": "true",
@@ -2077,7 +2111,7 @@
     "officials": [
       {
         "name": "Yadira Caraveo",
-        "party": "Democratic",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:co/cd:8",
         "overwrite_name": "",
         "phones": [
@@ -5660,7 +5694,7 @@
     "officials": [
       {
         "name": "Wesley Hunt",
-        "party": "Democratic Party",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:38",
         "overwrite_name": "",
         "phones": [

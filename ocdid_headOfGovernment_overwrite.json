@@ -1,6 +1,74 @@
 [
   {
     "divisions": {
+      "ocd-division/country:us/state:ar": {
+        "name": "Arkansas",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ar",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sarah Huckabee Sanders",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar",
+        "overwrite_name": "Asa Hutchinson",
+        "phones": [
+          "(501) 682-2345"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az": {
+        "name": "Arizona",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:az",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Katie Hobbs",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az",
+        "overwrite_name": "Doug Ducey",
+        "phones": [
+          "602-542-4331"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ct": {
         "name": "Connecticut",
         "overwrite": "true",
@@ -128,6 +196,37 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -199,37 +298,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ga": {
         "name": "Georgia",
         "overwrite": "true",
@@ -261,6 +329,40 @@
         ],
         "phones": [
           "(614) 644-4357"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi": {
+        "name": "Hawaii",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:hi",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Josh Green",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi",
+        "overwrite_name": "Josh Green",
+        "phones": [
+          "(808) 586-0034"
         ]
       }
     ]
@@ -326,12 +428,46 @@
     ],
     "officials": [
       {
-        "name": "Charles D. Baker",
-        "party": "Republican",
+        "name": "Maura Healey",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ma",
         "overwrite_name": "Charlie Baker",
         "phones": [
           "(617) 725-4005"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md": {
+        "name": "Maryland",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:md",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wes Moore",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md",
+        "overwrite_name": "Larry Hogan",
+        "phones": [
+          "(410) 974-3901"
         ]
       }
     ]
@@ -406,6 +542,145 @@
         ],
         "phones": [
           "855-318-1330"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne": {
+        "name": "Nebraska",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ne",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Pillen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne",
+        "overwrite_name": "Pete Ricketts",
+        "phones": [
+          "(402) 471-2244"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nv": {
+        "name": "Nevada",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:nv",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joe Lombardo",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nv",
+        "overwrite_name": "Steve Sisolak",
+        "phones": [
+          "(775) 684-5670"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:or": {
+        "name": "Oregon",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:or",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tina Kotek",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:or",
+        "overwrite_name": "Kate Brown",
+        "phones": [
+          "(503) 378-4582"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:pa": {
+        "name": "Pennsylvania",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:pa",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Josh Shapiro",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa",
+        "overwrite_name": "Tom Wolf",
+        "emails": [
+          "governor@pa.gov"
+        ],
+        "phones": [
+          "(717) 787-2500"
         ]
       }
     ]

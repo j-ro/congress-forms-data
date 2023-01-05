@@ -128,37 +128,6 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -230,6 +199,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ga": {
         "name": "Georgia",
         "overwrite": "true",
@@ -261,40 +261,6 @@
         ],
         "phones": [
           "(614) 644-4357"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:hi": {
-        "name": "Hawaii",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:hi",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "David Ige",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:hi",
-        "overwrite_name": "David Ige",
-        "phones": [
-          "(808) 586-0034"
         ]
       }
     ]
@@ -477,43 +443,6 @@
         ],
         "phones": [
           "(401) 222-2080"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ut": {
-        "name": "Utah",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:ut",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Spencer J. Cox",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:ut",
-        "overwrite_name": "Spencer J. Cox",
-        "emails": [
-          "governor@utah.gov"
-        ],
-        "phones": [
-          "(801) 538-2464"
         ]
       }
     ]

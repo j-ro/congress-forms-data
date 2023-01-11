@@ -26,7 +26,7 @@
         "name": "Katie Britt",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:al",
-        "overwrite_name": "Richard C. Shelby",
+        "overwrite_name": "Katie Britt",
         "phones": [
           "202-224-5744"
         ]
@@ -227,12 +227,12 @@
     ],
     "officials": [
       {
-        "name": "Josh Hawley",
-        "party": "Republican",
+        "name": "Eric Schmitt",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mo",
-        "overwrite_name": "Josh Hawley",
+        "overwrite_name": "Eric Schmitt",
         "phones": [
-          "(202) 224-6154"
+          "202-224-5721"
         ]
       }
     ]
@@ -261,12 +261,12 @@
     ],
     "officials": [
       {
-        "name": "Eric Schmitt",
-        "party": "Republican Party",
+        "name": "Josh Hawley",
+        "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:mo",
-        "overwrite_name": "Roy Blunt",
+        "overwrite_name": "Josh Hawley",
         "phones": [
-          "202-224-5721"
+          "(202) 224-6154"
         ]
       }
     ]
@@ -298,7 +298,7 @@
         "name": "Ted Budd",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc",
-        "overwrite_name": "Richard Burr",
+        "overwrite_name": "Ted Budd",
         "phones": [
           "202-224-3154"
         ]
@@ -329,10 +329,10 @@
     ],
     "officials": [
       {
-        "name": "J. D. Vance",
+        "name": "JD Vance",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh",
-        "overwrite_name": "Rob Portman",
+        "overwrite_name": "JD Vance",
         "phones": [
           "202-224-3353"
         ]
@@ -400,7 +400,7 @@
         "name": "John Fetterman",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:pa",
-        "overwrite_name": "Patrick J. Toomey",
+        "overwrite_name": "John Fetterman",
         "phones": [
           "202-224-4254"
         ]
@@ -437,40 +437,6 @@
         "overwrite_name": "Mike Lee",
         "phones": [
           "(202) 224-5444"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:vt": {
-        "name": "Vermont",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:vt",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Peter Welch",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt",
-        "overwrite_name": "Patrick J. Leahy",
-        "phones": [
-          "202-224-3310"
         ]
       }
     ]

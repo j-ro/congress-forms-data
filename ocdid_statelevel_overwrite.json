@@ -15013,43 +15013,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:al/sldu:3": {
-        "name": "Alabama State Senate district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AL State Senate District 3",
-        "divisionId": "ocd-division/country:us/state:al/sldu:3",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Amy Chin-Lai",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:al/sldu:3",
-        "overwrite_name": "Axel the Baby Boy",
-        "emails": [
-          "amy.chinlai@gmail.com"
-        ],
-        "phones": [
-          "(214) 493-8888"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:al/sldl:27": {
         "name": "Alabama State House district 27",
         "overwrite": "true",

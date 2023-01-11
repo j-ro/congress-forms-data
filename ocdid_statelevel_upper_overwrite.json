@@ -223,43 +223,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:az/sldu:30": {
-        "name": "Arizona State Senate district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State Senate District 30",
-        "divisionId": "ocd-division/country:us/state:az/sldu:30",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Raquel Terán",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:30",
-        "overwrite_name": "Raquel Terán",
-        "emails": [
-          "rteran@azleg.gov"
-        ],
-        "phones": [
-          "(609) 847-3500"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ar/sldu:12": {
         "name": "Arkansas State Senate district 12",
         "overwrite": "true",
@@ -2892,74 +2855,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Karl A. Racine"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ga/sldu:3": {
-        "name": "Georgia State Senate district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "GA State Senate District 3",
-        "divisionId": "ocd-division/country:us/state:ga/sldu:3",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Sheila McNeill",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:3",
-        "overwrite_name": "Sheila McNeill",
-        "emails": [
-          "Sheila.McNeill@senate.ga.gov"
-        ],
-        "phones": [
-          "(404) 463-6597"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ga/sldu:13": {
         "name": "Georgia State Senate district 13",
         "overwrite": "true",
@@ -4662,80 +4557,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ia/sldu:7": {
-        "name": "Iowa State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:7",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jackie Smith",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:7",
-        "overwrite_name": "Jackie Smith",
-        "emails": [
-          "jackie.smith@legis.iowa.gov"
-        ],
-        "phones": [
-          "(712) 253-7096"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:15": {
-        "name": "Iowa State Senate district 15",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 15",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:15",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Zach Nunn",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:15",
-        "overwrite_name": "Zach Nunn",
-        "emails": [
-          "zach.nunn@legis.iowa.gov"
-        ],
-        "phones": [
-          "(641) 521-6297"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ia/sldu:22": {
         "name": "Iowa State Senate district 22",
         "overwrite": "true",
@@ -4767,191 +4588,6 @@
         ],
         "phones": [
           "515.207.9464"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:29": {
-        "name": "Iowa State Senate district 29",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 29",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:29",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Carrie Koelker",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:29",
-        "overwrite_name": "Carrie Koelker",
-        "emails": [
-          "carrie.koelker@legis.iowa.gov"
-        ],
-        "phones": [
-          "(563) 652-5499"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:35": {
-        "name": "Iowa State Senate district 35",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 35",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:35",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Todd Taylor",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:35",
-        "overwrite_name": "Todd Taylor",
-        "emails": [
-          "todd.taylor@legis.iowa.gov"
-        ],
-        "phones": [
-          "(319) 396-3131"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:37": {
-        "name": "Iowa State Senate district 37",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 37",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:37",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Zach Wahls",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:37",
-        "overwrite_name": "Zach Wahls",
-        "emails": [
-          "zach.wahls@legis.iowa.gov"
-        ],
-        "phones": [
-          "(319) 351-0988"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:41": {
-        "name": "Iowa State Senate district 41",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 41",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:41",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adrian Dickey",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:41",
-        "overwrite_name": "Adrian Dickey",
-        "emails": [
-          "Adrian.Dickey@legis.iowa.gov"
-        ],
-        "phones": [
-          "(515) 281-3371"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ia/sldu:49": {
-        "name": "Iowa State Senate district 49",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IA State Senate District 49",
-        "divisionId": "ocd-division/country:us/state:ia/sldu:49",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Chris Cournoyer",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ia/sldu:49",
-        "overwrite_name": "Chris Cournoyer",
-        "emails": [
-          "chris.cournoyer@legis.iowa.gov"
-        ],
-        "phones": [
-          "(563) 374-1368"
         ]
       }
     ]
@@ -9272,49 +8908,12 @@
         "name": "Brad Von Gillern",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:4",
-        "overwrite_name": "Robert Hilkemann",
+        "overwrite_name": "R. Brad von Gillern",
         "emails": [
           "bvongillern@leg.ne.gov"
         ],
         "phones": [
           "(402) 471-2621"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ne/sldu:12": {
-        "name": "Nebraska State Senate district 12",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NE State Senate District 12",
-        "divisionId": "ocd-division/country:us/state:ne/sldu:12",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Merv Riepe",
-        "party": "Nonpartisan",
-        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:12",
-        "overwrite_name": "Steve Lathrop",
-        "emails": [
-          "mriepe@leg.ne.gov"
-        ],
-        "phones": [
-          "(402) 471-2623"
         ]
       }
     ]
@@ -9346,7 +8945,7 @@
         "name": "Christy Armendariz",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:18",
-        "overwrite_name": "Brett Lindstrom",
+        "overwrite_name": "Christy Armendariz",
         "emails": [
           "carmendariz@leg.ne.gov"
         ],
@@ -9389,43 +8988,6 @@
         ],
         "phones": [
           "(402) 471-2929"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ne/sldu:20": {
-        "name": "Nebraska State Senate district 20",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NE State Senate District 20",
-        "divisionId": "ocd-division/country:us/state:ne/sldu:20",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Fredrickson",
-        "party": "Nonpartisan",
-        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:20",
-        "overwrite_name": "John S. McCollister",
-        "emails": [
-          "jfredrickson@leg.ne.gov"
-        ],
-        "phones": [
-          "(402) 471-2622"
         ]
       }
     ]
@@ -9494,7 +9056,7 @@
         "name": "Jana Hughes",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:24",
-        "overwrite_name": "Mark A. Kolterman",
+        "overwrite_name": "Jana Hughes",
         "emails": [
           "jhughes@leg.ne.gov"
         ],
@@ -9531,7 +9093,7 @@
         "name": "George Dungan",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:26",
-        "overwrite_name": "Matt Hansen",
+        "overwrite_name": "George C. Dungan III",
         "emails": [
           "gdungan@leg.ne.gov"
         ],
@@ -9568,7 +9130,7 @@
         "name": "Jane Raybould",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:28",
-        "overwrite_name": "Patty Pansing Brooks",
+        "overwrite_name": "Jane Raybould",
         "emails": [
           "jraybould@leg.ne.gov"
         ],
@@ -9642,7 +9204,7 @@
         "name": "Loren Lippincott",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:34",
-        "overwrite_name": "Curt Friesen",
+        "overwrite_name": "Loren Lippincott",
         "emails": [
           "llippincott@leg.ne.gov"
         ],
@@ -9679,7 +9241,7 @@
         "name": "Rick Holdcroft",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:36",
-        "overwrite_name": "Matt Williams",
+        "overwrite_name": "Rick Holdcroft",
         "emails": [
           "rholdcroft@leg.ne.gov"
         ],
@@ -9716,12 +9278,49 @@
         "name": "Barry DeKay",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:40",
-        "overwrite_name": "Tim Gragert",
+        "overwrite_name": "Barry DeKay",
         "emails": [
           "bdekay@leg.ne.gov"
         ],
         "phones": [
           "(402) 471-2801"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ne/sldu:42": {
+        "name": "Nebraska State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NE State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:ne/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Jacobson",
+        "party": "Nonpartisan",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:42",
+        "overwrite_name": "Mike Jacobson",
+        "emails": [
+          "mjacobson@leg.ne.gov"
+        ],
+        "phones": [
+          "(402) 471-2729"
         ]
       }
     ]
@@ -9753,7 +9352,7 @@
         "name": "Teresa Ibach",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:44",
-        "overwrite_name": "Dan Hughes",
+        "overwrite_name": "Teresa J. Ibach",
         "emails": [
           "tibach@leg.ne.gov"
         ],
@@ -9790,7 +9389,7 @@
         "name": "Danielle Conrad",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:46",
-        "overwrite_name": "Adam Morfeld",
+        "overwrite_name": "Danielle Conrad",
         "emails": [
           "dconrad@leg.ne.gov"
         ],
@@ -9827,7 +9426,7 @@
         "name": "Brian Hardin",
         "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:48",
-        "overwrite_name": "John P. Stinner",
+        "overwrite_name": "Brian Hardin",
         "emails": [
           "bhardin@leg.ne.gov"
         ],
@@ -11319,80 +10918,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:nc/sldu:1": {
-        "name": "North Carolina State Senate district 1",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NC State Senate District 1",
-        "divisionId": "ocd-division/country:us/state:nc/sldu:1",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Bobby Hanig",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:1",
-        "overwrite_name": "Bobby Hanig",
-        "emails": [
-          "bobby.hanig@ncleg.net"
-        ],
-        "phones": [
-          "(919) 733-5906"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nc/sldu:26": {
-        "name": "North Carolina State Senate district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NC State Senate District 26",
-        "divisionId": "ocd-division/country:us/state:nc/sldu:26",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Dave W. Craven, Jr.",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nc/sldu:26",
-        "overwrite_name": "Dave W. Craven, Jr.",
-        "emails": [
-          "David.Craven@ncleg.net"
-        ],
-        "phones": [
-          "(919) 733-5870"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nd/sldu:12": {
         "name": "North Dakota State Senate district 12",
         "overwrite": "true",
@@ -11640,7 +11165,7 @@
         "name": "Michele Reynolds",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:3",
-        "overwrite_name": "Tina Maharath",
+        "overwrite_name": "Michele Reynolds",
         "emails": [
           "sd03@ohiosenate.gov"
         ],
@@ -11714,7 +11239,7 @@
         "name": "Catherine Ingram",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:9",
-        "overwrite_name": "Cecil Thomas",
+        "overwrite_name": "Catherine D. Ingram",
         "emails": [
           "sd09@ohiosenate.gov"
         ],
@@ -11751,7 +11276,7 @@
         "name": "Paula Hicks-Hudson",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:11",
-        "overwrite_name": "Teresa Fedor",
+        "overwrite_name": "Paula Hicks-Hudson",
         "emails": [
           "sd11@ohiosenate.gov"
         ],
@@ -11788,7 +11313,7 @@
         "name": "Shane Wilkin",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:17",
-        "overwrite_name": "Bob Peterson",
+        "overwrite_name": "Shane Wilkin",
         "emails": [
           "sd17@ohiosenate.gov"
         ],
@@ -11825,7 +11350,7 @@
         "name": "Kent Smith",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:21",
-        "overwrite_name": "Sandra R. Williams",
+        "overwrite_name": "Kent Smith",
         "emails": [
           "sd21@ohiosenate.gov"
         ],
@@ -11862,7 +11387,7 @@
         "name": "William DeMora",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:25",
-        "overwrite_name": "Kenny Yuko",
+        "overwrite_name": "Bill DeMora",
         "emails": [
           "sd25@ohiosenate.gov"
         ],
@@ -11899,7 +11424,7 @@
         "name": "Al Landis",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:31",
-        "overwrite_name": "Jay Hottinger",
+        "overwrite_name": "Al Landis",
         "emails": [
           "sd31@ohiosenate.gov"
         ],
@@ -12892,7 +12417,7 @@
         "name": "Linda Ujifusa",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:11",
-        "overwrite_name": "James A. Seveney",
+        "overwrite_name": "Linda L. Ujifusa",
         "emails": [
           "sen-ujifusa@rilegislature.gov"
         ],
@@ -13003,7 +12528,7 @@
         "name": "Robert Britto",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:18",
-        "overwrite_name": "Cynthia M. Mendes",
+        "overwrite_name": "Robert Britto",
         "emails": [
           "sen-britto@rilegislature.gov"
         ],
@@ -13114,7 +12639,7 @@
         "name": "David Tikoian",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:22",
-        "overwrite_name": "Stephen R. Archambault",
+        "overwrite_name": "David P. Tikoian",
         "emails": [
           "sen-tikoian@rilegislature.gov"
         ],
@@ -13262,7 +12787,7 @@
         "name": "Anthony DeLuca",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:29",
-        "overwrite_name": "Michael J. McCaffrey",
+        "overwrite_name": "Anthony Phillip DeLuca II",
         "emails": [
           "sen-deluca@rilegislature.gov"
         ],
@@ -13299,7 +12824,7 @@
         "name": "Mark McKenney",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:30",
-        "overwrite_name": "Jeanine Calkin",
+        "overwrite_name": "Mark P. McKenney",
         "emails": [
           "sen-mckenney@rilegislature.gov"
         ],
@@ -13336,7 +12861,7 @@
         "name": "Matthew LaMountain",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:31",
-        "overwrite_name": "Kendra Anderson",
+        "overwrite_name": "Matthew L. LaMountain",
         "emails": [
           "sen-lamountain@rilegislature.gov"
         ],
@@ -13373,7 +12898,7 @@
         "name": "Pamela Lauria",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:32",
-        "overwrite_name": "Cynthia Armour Coyne",
+        "overwrite_name": "Pamela J. Lauria",
         "emails": [
           "sen-lauria@rilegislature.gov"
         ],
@@ -13447,7 +12972,7 @@
         "name": "Victoria Gu",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ri/sldu:38",
-        "overwrite_name": "Dennis L. Algiere",
+        "overwrite_name": "Victoria Gu",
         "emails": [
           "sen-gu@rilegislature.gov"
         ],
@@ -13866,80 +13391,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:sd/sldu:24": {
-        "name": "South Dakota State Senate district 24",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SD State Senate District 24",
-        "divisionId": "ocd-division/country:us/state:sd/sldu:24",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mary Duvall",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:24",
-        "overwrite_name": "Mary Duvall",
-        "emails": [
-          "Mary.Duvall@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-224-4070"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:sd/sldu:25": {
-        "name": "South Dakota State Senate district 25",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SD State Senate District 25",
-        "divisionId": "ocd-division/country:us/state:sd/sldu:25",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Marsha Symens",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:25",
-        "overwrite_name": "Marsha Symens",
-        "emails": [
-          "Marsha.Symens@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-428-3323"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:sd/sldu:30": {
         "name": "South Dakota State Senate district 30",
         "overwrite": "true",
@@ -13971,43 +13422,6 @@
         ],
         "phones": [
           "605-342-2782"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:sd/sldu:31": {
-        "name": "South Dakota State Senate district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "SD State Senate District 31",
-        "divisionId": "ocd-division/country:us/state:sd/sldu:31",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Timothy R. Johns",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:sd/sldu:31",
-        "overwrite_name": "Timothy R. Johns",
-        "emails": [
-          "Timothy.Johns@sdlegislature.gov"
-        ],
-        "phones": [
-          "605-722-3189"
         ]
       }
     ]

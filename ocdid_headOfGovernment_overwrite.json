@@ -60,7 +60,7 @@
         "name": "Katie Hobbs",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az",
-        "overwrite_name": "Doug Ducey",
+        "overwrite_name": "Katie Hobbs",
         "phones": [
           "602-542-4331"
         ]
@@ -165,7 +165,38 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Karl A. Racine"
+        "overwrite_name": "Brian Schwalb"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -262,37 +293,6 @@
         "phones": [
           "(202) 225-8050"
         ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -431,7 +431,7 @@
         "name": "Maura Healey",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ma",
-        "overwrite_name": "Charlie Baker",
+        "overwrite_name": "Maura Healey",
         "phones": [
           "(617) 725-4005"
         ]
@@ -573,9 +573,9 @@
         "name": "Jim Pillen",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ne",
-        "overwrite_name": "Pete Ricketts",
+        "overwrite_name": "Jim Pillen",
         "phones": [
-          "(402) 471-2244"
+          "402-471-2244"
         ]
       }
     ]

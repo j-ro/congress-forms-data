@@ -273,6 +273,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ne": {
+        "name": "Nebraska",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States Senate",
+        "divisionId": "ocd-division/country:us/state:ne",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne",
+        "overwrite_name": "Ben Sasse"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nc": {
         "name": "North Carolina",
         "overwrite": "true",

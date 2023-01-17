@@ -69,6 +69,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca": {
+        "name": "California",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ca",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gavin Newsom",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca",
+        "overwrite_name": "Gavin Newsom",
+        "emails": [
+          "StateInfo@state.ca.gov"
+        ],
+        "phones": [
+          "(916) 445-2841"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ct": {
         "name": "Connecticut",
         "overwrite": "true",
@@ -718,6 +755,43 @@
         ],
         "phones": [
           "(401) 222-2080"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt": {
+        "name": "Vermont",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:vt",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Phil Scott",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt",
+        "overwrite_name": "Phil Scott",
+        "emails": [
+          "phil@philscott.org"
+        ],
+        "phones": [
+          "(802) 828-3333"
         ]
       }
     ]

@@ -223,6 +223,1116 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:az/sldu:1": {
+        "name": "Arizona State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:az/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ken Bennett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:1",
+        "overwrite_name": "Ken Bennett",
+        "emails": [
+          "kbennett@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5874"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:2": {
+        "name": "Arizona State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:az/sldu:2",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Kaiser",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:2",
+        "overwrite_name": "Steve Kaiser",
+        "emails": [
+          "skaiser@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3314"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:3": {
+        "name": "Arizona State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:az/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Kavanagh",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:3",
+        "overwrite_name": "John Kavanagh",
+        "emails": [
+          "jkavanagh@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5170"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:4": {
+        "name": "Arizona State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:az/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christine Marsh",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:4",
+        "overwrite_name": "Christine Marsh",
+        "emails": [
+          "cmarsh@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3184"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:5": {
+        "name": "Arizona State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:az/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lela Alston",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:5",
+        "overwrite_name": "Lela Alston",
+        "emails": [
+          "lalston@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5829"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:6": {
+        "name": "Arizona State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:az/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Theresa Hatathlie",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:6",
+        "overwrite_name": "Theresa Hatathlie",
+        "emails": [
+          "thatathlie@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5160"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:7": {
+        "name": "Arizona State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:az/sldu:7",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wendy Rogers",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:7",
+        "overwrite_name": "Wendy Rogers",
+        "emails": [
+          "wrogers@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3042"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:8": {
+        "name": "Arizona State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:az/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Juan Mendez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:8",
+        "overwrite_name": "Juan Mendez",
+        "emails": [
+          "jmendez@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4124"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:9": {
+        "name": "Arizona State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:az/sldu:9",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eva Burch",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:9",
+        "overwrite_name": "Eva Burch",
+        "emails": [
+          "eburch@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3374"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:10": {
+        "name": "Arizona State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:az/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David C. Farnsworth",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:10",
+        "overwrite_name": "David Christian Farnsworth",
+        "emails": [
+          "dfarnsworth@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3387"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:11": {
+        "name": "Arizona State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:az/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Catherine Miranda",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:11",
+        "overwrite_name": "Catherine Miranda",
+        "emails": [
+          "cmiranda@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3413"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:12": {
+        "name": "Arizona State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:az/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Denise “Mitzi” Epstein -- Assistant Minority Leader",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:12",
+        "overwrite_name": "Mitzi Epstein",
+        "emails": [
+          "mepstein@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4870"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:13": {
+        "name": "Arizona State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:az/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "J.D. Mesnard",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:13",
+        "overwrite_name": "J.D. Mesnard",
+        "emails": [
+          "jmesnard@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4481"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:14": {
+        "name": "Arizona State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:az/sldu:14",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Warren Petersen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:14",
+        "overwrite_name": "Warren Petersen",
+        "emails": [
+          "wpetersen@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4136"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:15": {
+        "name": "Arizona State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:az/sldu:15",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jake Hoffman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:15",
+        "overwrite_name": "Jake Hoffman",
+        "emails": [
+          "jake.hoffman@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3292"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:16": {
+        "name": "Arizona State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:az/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas \"T.J.\" Shope",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:16",
+        "overwrite_name": "Thomas \"T.J.\" Shope",
+        "emails": [
+          "tshope@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:17": {
+        "name": "Arizona State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:az/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Justine Wadsack",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:17",
+        "overwrite_name": "Justine Wadsack",
+        "emails": [
+          "jwadsack@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3106"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:18": {
+        "name": "Arizona State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:az/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Priya Sundareshan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:18",
+        "overwrite_name": "Priya Sundareshan",
+        "emails": [
+          "psundareshan@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3437"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:19": {
+        "name": "Arizona State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:az/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Gowan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:19",
+        "overwrite_name": "David Gowan",
+        "emails": [
+          "dgowan@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5154"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:20": {
+        "name": "Arizona State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:az/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sally Ann Gonzales",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:20",
+        "overwrite_name": "Sally Gonzales",
+        "emails": [
+          "sgonzales@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3278"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:21": {
+        "name": "Arizona State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:az/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rosanna Gabaldón",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:21",
+        "overwrite_name": "Rosanna Gabaldón",
+        "emails": [
+          "rgabaldon@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3424"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:22": {
+        "name": "Arizona State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:az/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eva Diaz",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:22",
+        "overwrite_name": "David Livingston",
+        "emails": [
+          "eva.diaz@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3473"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:23": {
+        "name": "Arizona State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:az/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Fernandez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:23",
+        "overwrite_name": "Brian Fernandez",
+        "emails": [
+          "bfernandez@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3098"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:24": {
+        "name": "Arizona State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:az/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anna Hernandez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:24",
+        "overwrite_name": "Anna Hernandez",
+        "emails": [
+          "anna.hernandez@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3492"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:25": {
+        "name": "Arizona State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:az/sldu:25",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sine Kerr",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:25",
+        "overwrite_name": "Sine Kerr",
+        "emails": [
+          "skerr@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5955"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:26": {
+        "name": "Arizona State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:az/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Raquel Terán",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:26",
+        "overwrite_name": "Raquel Terán",
+        "emails": [
+          "rteran@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3308"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:27": {
+        "name": "Arizona State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:az/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anthony Kern",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:27",
+        "overwrite_name": "Anthony Kern",
+        "emails": [
+          "akern@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3497"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:28": {
+        "name": "Arizona State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:az/sldu:28",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Frank Carroll",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:28",
+        "overwrite_name": "Frank Carroll",
+        "emails": [
+          "fcarroll@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3249"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:29": {
+        "name": "Arizona State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:az/sldu:29",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Janae Shamp",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:29",
+        "overwrite_name": "Janae Shamp",
+        "emails": [
+          "jshamp@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3499"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldu:30": {
+        "name": "Arizona State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:az/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sonny Borrelli",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldu:30",
+        "overwrite_name": "Sonny Borrelli",
+        "emails": [
+          "sborrelli@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-5051"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ar/sldu:12": {
         "name": "Arkansas State Senate district 12",
         "overwrite": "true",
@@ -4847,6 +5957,635 @@
         ],
         "phones": [
           "(207) 454-0501"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:2nd_suffolk": {
+        "name": "Massachusetts State Senate district 2nd_suffolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 2ND_SUFFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:2nd_suffolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Liz Miranda",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_suffolk",
+        "overwrite_name": "Liz Miranda",
+        "emails": [
+          "Liz.Miranda@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1673"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:3rd_suffolk": {
+        "name": "Massachusetts State Senate district 3rd_suffolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 3RD_SUFFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:3rd_suffolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lydia Edwards",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:3rd_suffolk",
+        "overwrite_name": "",
+        "emails": [
+          "Lydia.Edwards@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1634"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire": {
+        "name": "Massachusetts State Senate district berkshire_hampden_franklin_and_hampshire",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District BERKSHIRE_HAMPDEN_FRANKLIN_AND_HAMPSHIRE",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Mark",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire",
+        "overwrite_name": "",
+        "emails": [
+          "Paul.Mark@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1625"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire": {
+        "name": "Massachusetts State Senate district hampden_and_hampshire",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District HAMPDEN_AND_HAMPSHIRE",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Velis",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire",
+        "overwrite_name": "",
+        "emails": [
+          "john.velis@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1415"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester": {
+        "name": "Massachusetts State Senate district hampden_hampshire_and_worcester",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District HAMPDEN_HAMPSHIRE_AND_WORCESTER",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacob Oliveira",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester",
+        "overwrite_name": "",
+        "emails": [
+          "Jacob.Oliveira@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1291"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire": {
+        "name": "Massachusetts State Senate district worcester_and_hampshire",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District WORCESTER_AND_HAMPSHIRE",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anne Gobi",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire",
+        "overwrite_name": "",
+        "emails": [
+          "anne.gobi@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1540"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:worcester_and_hampden": {
+        "name": "Massachusetts State Senate district worcester_and_hampden",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District WORCESTER_AND_HAMPDEN",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_hampden",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ryan Fattman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_hampden",
+        "overwrite_name": "",
+        "emails": [
+          "Ryan.Fattman@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1420"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:1st_worcester": {
+        "name": "Massachusetts State Senate district 1st_worcester",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 1ST_WORCESTER",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:1st_worcester",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robyn K. Kennedy",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:1st_worcester",
+        "overwrite_name": "Robyn K. Kennedy",
+        "emails": [
+          "Robyn.Kennedy@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1544"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex": {
+        "name": "Massachusetts State Senate district norfolk_worcester_and_middlesex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District NORFOLK_WORCESTER_AND_MIDDLESEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca Rausch",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
+        "overwrite_name": "",
+        "emails": [
+          "Becca.Rausch@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1555"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:1st_essex": {
+        "name": "Massachusetts State Senate district 1st_essex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 1ST_ESSEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:1st_essex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pavel Payano",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:1st_essex",
+        "overwrite_name": "Pavel Payano",
+        "emails": [
+          "Pavel.Payano@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1604"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex": {
+        "name": "Massachusetts State Senate district suffolk_and_middlesex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District SUFFOLK_AND_MIDDLESEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William Brownsberger",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex",
+        "overwrite_name": "",
+        "emails": [
+          "William.Brownsberger@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1280"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex": {
+        "name": "Massachusetts State Senate district norfolk_and_middlesex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District NORFOLK_AND_MIDDLESEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cynthia Creem",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex",
+        "overwrite_name": "",
+        "emails": [
+          "Cynthia.Creem@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1639"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk": {
+        "name": "Massachusetts State Senate district middlesex_and_norfolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District MIDDLESEX_AND_NORFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen Spika",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk",
+        "overwrite_name": "",
+        "emails": [
+          "Karen.Spilka@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1500"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol": {
+        "name": "Massachusetts State Senate district norfolk_plymouth_and_bristol",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District NORFOLK_PLYMOUTH_AND_BRISTOL",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Walter Timilty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol",
+        "overwrite_name": "",
+        "emails": [
+          "Walter.Timilty@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1643"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth": {
+        "name": "Massachusetts State Senate district 3rd_bristol_and_plymouth",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 3RD_BRISTOL_AND_PLYMOUTH",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marc Pacheco",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth",
+        "overwrite_name": "",
+        "emails": [
+          "Marc.Pacheco@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1551"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk": {
+        "name": "Massachusetts State Senate district 1st_plymouth_and_norfolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 1ST_PLYMOUTH_AND_NORFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Patrick O'Connor",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk",
+        "overwrite_name": "",
+        "emails": [
+          "Patrick.OConnor@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1646"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk": {
+        "name": "Massachusetts State Senate district 2nd_plymouth_and_norfolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 2ND_PLYMOUTH_AND_NORFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Brady",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk",
+        "overwrite_name": "",
+        "emails": [
+          "Michael.Brady@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1200"
         ]
       }
     ]
@@ -13539,6 +15278,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:tx/sldu:12": {
+        "name": "Texas State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tan Parker",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:12",
+        "overwrite_name": "Tan Parker",
+        "emails": [
+          "tan.parker@senate.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0112"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:tx/sldu:14": {
         "name": "Texas State Senate district 14",
         "overwrite": "true",
@@ -13613,6 +15389,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:tx/sldu:24": {
+        "name": "Texas State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pete Flores",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:24",
+        "overwrite_name": "Pete Flores",
+        "emails": [
+          "pete.flores@senate.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0124"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldu:27": {
+        "name": "Texas State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Morgan LaMantia",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:27",
+        "overwrite_name": "Morgan LaMantia",
+        "emails": [
+          "morgan.lamantia@senate.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0127"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:tx/sldu:29": {
         "name": "Texas State Senate district 29",
         "overwrite": "true",
@@ -13673,7 +15523,7 @@
     "officials": [
       {
         "name": "Drew Springer",
-        "party": "Republican",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:30",
         "overwrite_name": "Drew Springer",
         "emails": [

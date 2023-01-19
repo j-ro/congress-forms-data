@@ -30820,8 +30820,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:3": {
-        "name": "New York State House district 3",
+      "ocd-division/country:us/state:ny/sldl:4": {
+        "name": "New York State House district 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -30830,8 +30830,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 3",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:3",
+        "name": "NY State House District 4",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:4",
         "roles": [
           "statelevel_lower"
         ],
@@ -30842,15 +30842,49 @@
     ],
     "officials": [
       {
-        "name": "Joseph P. De Stefano",
+        "name": "Ed Flood",
         "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:3",
-        "overwrite_name": "Joseph P. De Stefano",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:4",
+        "overwrite_name": "Steven Englebright",
         "emails": [
-          "DeStefanoj@assembly.state.ny.us"
+          "floode@nyassembly.gov"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:15": {
+        "name": "New York State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 15",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:15",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jake Blumencranz",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:15",
+        "overwrite_name": "Michael Montesano",
+        "emails": [
+          "blumencranzj@nyassembly.gov"
         ],
         "phones": [
-          "(631) 207-0073"
+          "(518) 455-4684"
         ]
       }
     ]
@@ -30879,15 +30913,89 @@
     ],
     "officials": [
       {
-        "name": "Judy A. Griffin",
-        "party": "Democratic Party",
+        "name": "Brian Curran",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:21",
         "overwrite_name": "Judy A. Griffin",
         "emails": [
-          "Griffinj@nyassembly.gov"
+          "curranb@nyassembly.gov"
         ],
         "phones": [
-          "(516) 561-8216"
+          "(518) 455-5801"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:30": {
+        "name": "New York State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 30",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:30",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven Raga",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:30",
+        "overwrite_name": "Brian Barnwell",
+        "emails": [
+          "ragas@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4755"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:37": {
+        "name": "New York State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 37",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:37",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Juan Ardila",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:37",
+        "overwrite_name": "Catherine Nolan",
+        "emails": [
+          "ardilaj@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4851"
         ]
       }
     ]
@@ -30931,6 +31039,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldl:45": {
+        "name": "New York State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 45",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:45",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Novakhov",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:45",
+        "overwrite_name": "Steven Cymbrowitz",
+        "emails": [
+          "novakhovm@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5403"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldl:46": {
         "name": "New York State House district 46",
         "overwrite": "true",
@@ -30953,15 +31098,52 @@
     ],
     "officials": [
       {
-        "name": "Mathylde Frontus",
-        "party": "Democratic Party",
+        "name": "Alec Brook-Krasny",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:46",
         "overwrite_name": "Mathylde Frontus",
         "emails": [
-          "Frontusm@nyassembly.gov"
+          "brookkrasnya@nyassembly.gov"
         ],
         "phones": [
-          "(718) 266-0267"
+          "(518) 455-5434"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:49": {
+        "name": "New York State House district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 49",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:49",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lester Chang",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:49",
+        "overwrite_name": "Peter Abbate, Jr.",
+        "emails": [
+          "changl@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-3060"
         ]
       }
     ]
@@ -30995,7 +31177,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:58",
         "overwrite_name": "Monique Chandler-Waterman",
         "emails": [
-          "monique4ny@gmail.com"
+          "chandlerwatermanm@nyassembly.gov"
         ],
         "phones": [
           "(518) 455-4166"
@@ -31042,8 +31224,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:61": {
-        "name": "New York State House district 61",
+      "ocd-division/country:us/state:ny/sldl:63": {
+        "name": "New York State House district 63",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31052,8 +31234,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 61",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:61",
+        "name": "NY State House District 63",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:63",
         "roles": [
           "statelevel_lower"
         ],
@@ -31064,23 +31246,23 @@
     ],
     "officials": [
       {
-        "name": "Charles D. Fall",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:61",
-        "overwrite_name": "Charles D. Fall",
+        "name": "Sam Pirozzolo",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:63",
+        "overwrite_name": "Michael Cusick",
         "emails": [
-          "Fallc@nyassembly.gov"
+          "pirozzolos@nyassembly.gov"
         ],
         "phones": [
-          "(718) 442-9932"
+          "(518) 455-5481"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:62": {
-        "name": "New York State House district 62",
+      "ocd-division/country:us/state:ny/sldl:65": {
+        "name": "New York State House district 65",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31089,8 +31271,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 62",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:62",
+        "name": "NY State House District 65",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:65",
         "roles": [
           "statelevel_lower"
         ],
@@ -31101,15 +31283,15 @@
     ],
     "officials": [
       {
-        "name": "Michael W. Reilly, Jr.",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:62",
-        "overwrite_name": "Michael W. Reilly, Jr.",
+        "name": "Grace Lee",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:65",
+        "overwrite_name": "Yuh-Line Niou",
         "emails": [
-          "Reillym@nyassembly.gov"
+          "leeg@nyassembyl.gov"
         ],
         "phones": [
-          "(718) 967-5194"
+          "(518) 455-3640"
         ]
       }
     ]
@@ -31180,7 +31362,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:72",
         "overwrite_name": "Manny De Los Santos",
         "emails": [
-          "delossantosm@nyassembly.gov"
+          "delossm@nyassembly.gov"
         ],
         "phones": [
           "(518) 455-5807"
@@ -31190,8 +31372,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:74": {
-        "name": "New York State House district 74",
+      "ocd-division/country:us/state:ny/sldl:73": {
+        "name": "New York State House district 73",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31200,8 +31382,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 74",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:74",
+        "name": "NY State House District 73",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:73",
         "roles": [
           "statelevel_lower"
         ],
@@ -31212,15 +31394,126 @@
     ],
     "officials": [
       {
-        "name": "Harvey Epstein",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:74",
-        "overwrite_name": "Harvey Epstein",
+        "name": "Alex Bores",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:73",
+        "overwrite_name": "Dan Quart",
         "emails": [
-          "epsteinh@nyassembly.gov"
+          "boresa@nyassembly.gov"
         ],
         "phones": [
-          "212-979-9696"
+          "(518) 455-4794"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:75": {
+        "name": "New York State House district 75",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 75",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:75",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tony Simone",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:75",
+        "overwrite_name": "Richard Gottfried",
+        "emails": [
+          "simonet@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4941"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:78": {
+        "name": "New York State House district 78",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 78",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:78",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "George Alvarez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:78",
+        "overwrite_name": "José Rivera",
+        "emails": [
+          "alvarezg@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5414"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:80": {
+        "name": "New York State House district 80",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 80",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:80",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Zaccaro, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:80",
+        "overwrite_name": "Nathalia Fernandez",
+        "emails": [
+          "zaccaroj@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5844"
         ]
       }
     ]
@@ -31264,8 +31557,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:90": {
-        "name": "New York State House district 90",
+      "ocd-division/country:us/state:ny/sldl:92": {
+        "name": "New York State House district 92",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31274,8 +31567,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 90",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:90",
+        "name": "NY State House District 92",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:92",
         "roles": [
           "statelevel_lower"
         ],
@@ -31286,23 +31579,23 @@
     ],
     "officials": [
       {
-        "name": "Nader Sayegh",
+        "name": "Maryjane Shimsky",
         "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:90",
-        "overwrite_name": "Nader Sayegh",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:92",
+        "overwrite_name": "Thomas Abinanti",
         "emails": [
-          "Sayeghn@nyassembly.gov"
+          "shimskym@nyassembly.gov"
         ],
         "phones": [
-          "(914) 779-8805"
+          "(518) 455-5753"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:114": {
-        "name": "New York State House district 114",
+      "ocd-division/country:us/state:ny/sldl:94": {
+        "name": "New York State House district 94",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31311,8 +31604,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 114",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:114",
+        "name": "NY State House District 94",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:94",
         "roles": [
           "statelevel_lower"
         ],
@@ -31323,23 +31616,23 @@
     ],
     "officials": [
       {
-        "name": "Matthew J. Simpson",
+        "name": "Matt Slater",
         "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:114",
-        "overwrite_name": "Matthew J. Simpson",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:94",
+        "overwrite_name": "Kevin M. Byrne",
         "emails": [
-          "SimpsonM@nyassembly.gov"
+          "slaterm@nyassembly.gov"
         ],
         "phones": [
-          "(518) 792-4546"
+          "(518) 455-5783"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:119": {
-        "name": "New York State House district 119",
+      "ocd-division/country:us/state:ny/sldl:95": {
+        "name": "New York State House district 95",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31348,8 +31641,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 119",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:119",
+        "name": "NY State House District 95",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:95",
         "roles": [
           "statelevel_lower"
         ],
@@ -31360,23 +31653,23 @@
     ],
     "officials": [
       {
-        "name": "Marianne Buttenschon",
+        "name": "Dana Levenberg",
         "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:119",
-        "overwrite_name": "Marianne Buttenschon",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:95",
+        "overwrite_name": "Sandra R. Galef",
         "emails": [
-          "Buttenschonm@nyassembly.gov"
+          "levenbergd@nyassembly.gov"
         ],
         "phones": [
-          "(315) 732-1055"
+          "(518) 455-5348"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldl:130": {
-        "name": "New York State House district 130",
+      "ocd-division/country:us/state:ny/sldl:97": {
+        "name": "New York State House district 97",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -31385,8 +31678,8 @@
     },
     "offices": [
       {
-        "name": "NY State House District 130",
-        "divisionId": "ocd-division/country:us/state:ny/sldl:130",
+        "name": "NY State House District 97",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:97",
         "roles": [
           "statelevel_lower"
         ],
@@ -31397,15 +31690,348 @@
     ],
     "officials": [
       {
-        "name": "Brian D. Manktelow",
+        "name": "John W. McGowan",
         "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:130",
-        "overwrite_name": "Brian D. Manktelow",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:97",
+        "overwrite_name": "Michael V. Lawler",
         "emails": [
-          "Manktelowb@nyassembly.gov"
+          "mcgowanj@nyassembly.gov"
         ],
         "phones": [
-          "(315) 946-5166"
+          "(518) 455-5118"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:99": {
+        "name": "New York State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 99",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:99",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris Eachus",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:99",
+        "overwrite_name": "Colin J. Schmitt",
+        "emails": [
+          "eachusc@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5441"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:101": {
+        "name": "New York State House district 101",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 101",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:101",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian Maher",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:101",
+        "overwrite_name": "Brian D. Miller",
+        "emails": [
+          "maherb@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4807"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:103": {
+        "name": "New York State House district 103",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 103",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:103",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sarahana Shrestha",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:103",
+        "overwrite_name": "Kevin Cahill",
+        "emails": [
+          "shresthas@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4436"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:105": {
+        "name": "New York State House district 105",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 105",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:105",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anil Beephan, Jr.",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:105",
+        "overwrite_name": "Kieran Michael Lalor",
+        "emails": [
+          "beephana@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5725"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:107": {
+        "name": "New York State House district 107",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 107",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:107",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott Bendett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:107",
+        "overwrite_name": "Jacob C. Ashby",
+        "emails": [
+          "bendetts@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5777"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:116": {
+        "name": "New York State House district 116",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 116",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:116",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott Gray",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:116",
+        "overwrite_name": "Mark C. Walczyk",
+        "emails": [
+          "grays@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5545"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:121": {
+        "name": "New York State House district 121",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 121",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:121",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joe G. Angelino",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:121",
+        "overwrite_name": "John J. Salka",
+        "emails": [
+          "angelinoj@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5741"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:122": {
+        "name": "New York State House district 122",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 122",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:122",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian D. Miller",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:122",
+        "overwrite_name": "Joe G. Angelino",
+        "emails": [
+          "millerb@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5334"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldl:141": {
+        "name": "New York State House district 141",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 141",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:141",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Crystal D. Peoples-Stokes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:141",
+        "overwrite_name": "Crystal D. Peoples",
+        "emails": [
+          "peoplec@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-5005"
         ]
       }
     ]
@@ -43536,6 +44162,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:tx/sldl:79": {
+        "name": "Texas State House district 79",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 79",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:79",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Claudia Ordaz",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:79",
+        "overwrite_name": "Art Fierro",
+        "emails": [
+          "claudia.ordaz@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0622"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:84": {
+        "name": "Texas State House district 84",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 84",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:84",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carl Tepper",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:84",
+        "overwrite_name": "John Frullo",
+        "emails": [
+          "carl.tepper@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0676"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:tx/sldl:85": {
         "name": "Texas State House district 85",
         "overwrite": "true",
@@ -43712,9 +44412,6 @@
         "overwrite_name": "Venton C. Jones",
         "emails": [
           "venton.jones@house.texas.gov"
-        ],
-        "phones": [
-          "512-463-0586"
         ]
       }
     ]
@@ -44048,6 +44745,43 @@
         ],
         "phones": [
           "(512) 463-0634"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:tx/sldl:127": {
+        "name": "Texas State House district 127",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 127",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:127",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles Cunningham",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:127",
+        "overwrite_name": "Dan Huberty",
+        "emails": [
+          "charles.cunningham@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0520"
         ]
       }
     ]

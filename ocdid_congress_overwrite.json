@@ -2227,37 +2227,6 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -2352,6 +2321,37 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Robert White"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
       }
     ]
   },

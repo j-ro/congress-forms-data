@@ -26,9 +26,9 @@
         "name": "Sarah Huckabee Sanders",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ar",
-        "overwrite_name": "Asa Hutchinson",
+        "overwrite_name": "Sarah Huckabee Sanders",
         "phones": [
-          "(501) 682-2345"
+          "501-682-2345"
         ]
       }
     ]
@@ -233,6 +233,37 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -264,7 +295,7 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Elissa Silverman"
+        "overwrite_name": "Kenyan McDuffie"
       }
     ]
   },
@@ -299,37 +330,6 @@
         "phones": [
           "(202) 225-8050"
         ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -641,12 +641,12 @@
     ],
     "officials": [
       {
-        "name": "Joe Lombardo",
-        "party": "Republican Party",
+        "name": "Joseph Lombardo",
+        "party": "Nonpartisan",
         "overwrite_ocdid": "ocd-division/country:us/state:nv",
-        "overwrite_name": "Steve Sisolak",
+        "overwrite_name": "Joseph Lombardo",
         "phones": [
-          "(775) 684-5670"
+          "775-684-5670"
         ]
       }
     ]
@@ -678,9 +678,9 @@
         "name": "Tina Kotek",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:or",
-        "overwrite_name": "Kate Brown",
+        "overwrite_name": "Tina Kotek",
         "phones": [
-          "(503) 378-4582"
+          "503-378-4582"
         ]
       }
     ]

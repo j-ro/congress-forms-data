@@ -273,37 +273,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ne": {
-        "name": "Nebraska",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:ne",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/state:ne",
-        "overwrite_name": "Ben Sasse"
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nc": {
         "name": "North Carolina",
         "overwrite": "true",
@@ -366,40 +335,6 @@
         "overwrite_name": "JD Vance",
         "phones": [
           "202-224-3353"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ok": {
-        "name": "Oklahoma",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:ok",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Markwayne Mullin",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ok",
-        "overwrite_name": "James M. Inhofe",
-        "phones": [
-          "202-224-4721"
         ]
       }
     ]

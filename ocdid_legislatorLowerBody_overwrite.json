@@ -1633,40 +1633,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:co/cd:8": {
-        "name": "Colorado's 8th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives CO-8",
-        "divisionId": "ocd-division/country:us/state:co/cd:8",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Yadira Caraveo",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:co/cd:8",
-        "overwrite_name": "",
-        "phones": [
-          "202-225-5625"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/district:dc": {
         "name": "District of Columbia",
         "overwrite": "true",
@@ -1724,6 +1690,37 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Brian Schwalb"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -1816,7 +1813,7 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Elissa Silverman"
+        "overwrite_name": "Kenyan McDuffie"
       }
     ]
   },
@@ -1848,37 +1845,6 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Robert White"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -2317,9 +2283,9 @@
         "name": "Carlos A. Gimenez",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:28",
-        "overwrite_name": "",
+        "overwrite_name": "Carlos A. Gimenez",
         "phones": [
-          "(202) 225-2778"
+          "(305) 222-0160"
         ]
       }
     ]
@@ -2586,10 +2552,10 @@
     ],
     "officials": [
       {
-        "name": "Delia C. Ramirez",
+        "name": "Delia Ramirez",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/cd:3",
-        "overwrite_name": "Delia C. Ramirez",
+        "overwrite_name": "Delia Ramirez",
         "phones": [
           "202-225-5701"
         ]
@@ -3572,12 +3538,12 @@
     ],
     "officials": [
       {
-        "name": "Ryan Zinke",
+        "name": "Ryan K. Zinke",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mt/cd:1",
-        "overwrite_name": "",
+        "overwrite_name": "Ryan K. Zinke",
         "phones": [
-          "202-225-5628"
+          "(202) 225-5628"
         ]
       }
     ]
@@ -4425,9 +4391,9 @@
         "name": "Jeff Jackson",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:14",
-        "overwrite_name": "",
+        "overwrite_name": "Jeff Jackson",
         "phones": [
-          "202-225-5634"
+          "(202) 225-5634"
         ]
       }
     ]
@@ -4731,9 +4697,9 @@
         "name": "Andrea Salinas",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:or/cd:6",
-        "overwrite_name": "",
+        "overwrite_name": "Andrea Salinas",
         "phones": [
-          "202-225-5643"
+          "(202) 225-5643"
         ]
       }
     ]
@@ -5241,7 +5207,7 @@
         "name": "Lloyd Doggett",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:37",
-        "overwrite_name": "",
+        "overwrite_name": "Lloyd Doggett",
         "phones": [
           "(202) 225-4865"
         ]
@@ -5275,9 +5241,9 @@
         "name": "Wesley Hunt",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:38",
-        "overwrite_name": "",
+        "overwrite_name": "Wesley Hunt",
         "phones": [
-          "202-225-5646"
+          "(202) 225-5646"
         ]
       }
     ]
@@ -5374,10 +5340,10 @@
     ],
     "officials": [
       {
-        "name": "Carol D. Miller",
+        "name": "Carol Miller",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:1",
-        "overwrite_name": "Carol D. Miller",
+        "overwrite_name": "Carol Miller",
         "phones": [
           "202-225-3452"
         ]

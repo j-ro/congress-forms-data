@@ -273,6 +273,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ne": {
+        "name": "Nebraska",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States Senate",
+        "divisionId": "ocd-division/country:us/state:ne",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Pete Ricketts",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ne",
+        "overwrite_name": "Pete Ricketts",
+        "phones": [
+          "(202) 224-4224"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nc": {
         "name": "North Carolina",
         "overwrite": "true",
@@ -2036,6 +2070,37 @@
         "phones": [
           "202-225-2645"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/cd:8": {
+        "name": "Colorado's 8th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives CO-8",
+        "divisionId": "ocd-division/country:us/state:co/cd:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/cd:8",
+        "overwrite_name": "Rhonda Solis"
       }
     ]
   },

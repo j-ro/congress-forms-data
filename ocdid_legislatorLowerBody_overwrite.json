@@ -1633,6 +1633,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:co/cd:8": {
+        "name": "Colorado's 8th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives CO-8",
+        "divisionId": "ocd-division/country:us/state:co/cd:8",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/cd:8",
+        "overwrite_name": "Rhonda Solis"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/district:dc": {
         "name": "District of Columbia",
         "overwrite": "true",

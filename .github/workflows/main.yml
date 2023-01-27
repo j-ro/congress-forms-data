@@ -1,0 +1,32 @@
+name: Check for correct data in files
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  check: syntax
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2  # checks out the repository at the commit to test -- you're in the root directory of the repository after this
+      - name: Check for state_level_overwrite
+        run: |
+          grep sldl ocdid_statelevel_overwrite.json
+          grep sldu ocdid_statelevel_overwrite.json
+      - name: Check for ocdid_congress_overwrite
+        run: |
+          grep cd ocdid_congress_overwrite.json
+          grep Senate ocdid_congress_overwrite.json
+      - name: Check for ocdid_statelevel_lower_overwrite
+        run: |
+          grep sldl ocdid_statelevel_lower_overwrite.json
+      - name: Check for ocdid_statelevel_upper_overwrite
+        run: |
+          grep sldu ocdid_statelevel_upper_overwrite.json
+      - name: Check for ocdid_legislatorLowerBody_overwrite
+        run: |
+          grep cd ocdid_legislatorLowerBody_overwrite.json
+      - name: Check for ocdid_legislatorUpperBody_overwrite
+        run: |
+          grep Senate ocdid_legislatorUpperBody_overwrite.json                

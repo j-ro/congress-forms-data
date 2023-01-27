@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 
 jobs:
-  check: syntax
+  check-syntax:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2  # checks out the repository at the commit to test -- you're in the root directory of the repository after this

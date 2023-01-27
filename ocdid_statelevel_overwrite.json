@@ -21405,15 +21405,15 @@
     ],
     "officials": [
       {
-        "name": "Quang H Nguyen",
-        "party": "Republican Party",
+        "name": "Judy Schwiebert",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:2",
         "overwrite_name": "Judy Schwiebert",
         "emails": [
-          "qnguyen@azleg.gov"
+          "jschwiebert@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3258"
+          "(602) 926-3390"
         ]
       }
     ]
@@ -21442,15 +21442,15 @@
     ],
     "officials": [
       {
-        "name": "Judy Schwiebert",
-        "party": "Democratic Party",
+        "name": "Justin Wilmeth",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:2",
         "overwrite_name": "Justin Wilmeth",
         "emails": [
-          "jschwiebert@azleg.gov"
+          "jwilmeth@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3390"
+          "(602) 926-5044"
         ]
       }
     ]
@@ -21479,15 +21479,15 @@
     ],
     "officials": [
       {
-        "name": "Justin Wilmeth",
+        "name": "Alexander Kolodin",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:3",
         "overwrite_name": "Alexander Kolodin",
         "emails": [
-          "jwilmeth@azleg.gov"
+          "akolodin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-5044"
+          "(602) 926-3560"
         ]
       }
     ]
@@ -21553,15 +21553,15 @@
     ],
     "officials": [
       {
-        "name": "Alexander Kolodin",
-        "party": "Republican Party",
+        "name": "Laura Terech",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:4",
         "overwrite_name": "Laura Terech",
         "emails": [
-          "akolodin@azleg.gov"
+          "lterech@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3560"
+          "(602) 926-3894"
         ]
       }
     ]
@@ -21627,15 +21627,15 @@
     ],
     "officials": [
       {
-        "name": "Laura Terech",
+        "name": "Amish Shah",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:5",
         "overwrite_name": "Amish Shah",
         "emails": [
-          "lterech@azleg.gov"
+          "ashah@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3894"
+          "(602) 926-3280"
         ]
       }
     ]
@@ -21701,15 +21701,15 @@
     ],
     "officials": [
       {
-        "name": "Amish Shah",
+        "name": "Mae Peshlakai",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:6",
         "overwrite_name": "Mae Peshlakai",
         "emails": [
-          "ashah@azleg.gov"
+          "mpeshlakai@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3280"
+          "(602) 926-3708"
         ]
       }
     ]
@@ -21738,47 +21738,10 @@
     ],
     "officials": [
       {
-        "name": "Mae Peshlakai",
+        "name": "Myron Tsosie",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:6",
         "overwrite_name": "Myron Tsosie",
-        "emails": [
-          "mpeshlakai@azleg.gov"
-        ],
-        "phones": [
-          "(602) 926-3708"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az/sldl:7": {
-        "name": "Arizona State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State House District 7",
-        "divisionId": "ocd-division/country:us/state:az/sldl:7",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Myron Tsosie",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
-        "overwrite_name": "David Cook",
         "emails": [
           "mtsosie@azleg.gov"
         ],
@@ -21815,12 +21778,49 @@
         "name": "David L Cook",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
-        "overwrite_name": "David Marshall, Sr.",
+        "overwrite_name": "David Cook",
         "emails": [
           "dcook@azleg.gov"
         ],
         "phones": [
           "(602) 926-5162"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:7": {
+        "name": "Arizona State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 7",
+        "divisionId": "ocd-division/country:us/state:az/sldl:7",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Marshall",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
+        "overwrite_name": "David Marshall, Sr.",
+        "emails": [
+          "dmarshall@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3579"
         ]
       }
     ]
@@ -21849,15 +21849,15 @@
     ],
     "officials": [
       {
-        "name": "David Marshall",
-        "party": "Republican Party",
+        "name": "Athena Salman",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:8",
         "overwrite_name": "Athena Salman",
         "emails": [
-          "dmarshall@azleg.gov"
+          "asalman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3579"
+          "(602) 926-4858"
         ]
       }
     ]
@@ -21923,15 +21923,15 @@
     ],
     "officials": [
       {
-        "name": "Athena Salman",
+        "name": "Lorena Austin",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:9",
         "overwrite_name": "Lorena Austin",
         "emails": [
-          "asalman@azleg.gov"
+          "laustin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-4858"
+          "(602) 926-3968"
         ]
       }
     ]
@@ -21960,15 +21960,15 @@
     ],
     "officials": [
       {
-        "name": "Lorena Austin",
+        "name": "Seth Blattman",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:9",
         "overwrite_name": "Seth Blattman",
         "emails": [
-          "laustin@azleg.gov"
+          "sblattman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3968"
+          "(602) 926-3996"
         ]
       }
     ]
@@ -21997,15 +21997,15 @@
     ],
     "officials": [
       {
-        "name": "Seth Blattman",
-        "party": "Democratic Party",
+        "name": "Barbara Parker",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:10",
         "overwrite_name": "Barbara Rowley Parker",
         "emails": [
-          "sblattman@azleg.gov"
+          "bparker@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3996"
+          "(602) 926-3681"
         ]
       }
     ]
@@ -22071,15 +22071,15 @@
     ],
     "officials": [
       {
-        "name": "Barbara Parker",
-        "party": "Republican Party",
+        "name": "Marcelino Quiñonez",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:11",
         "overwrite_name": "Marcelino Quinonez",
         "emails": [
-          "bparker@azleg.gov"
+          "mquinonez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3681"
+          "(602) 926-3285"
         ]
       }
     ]
@@ -22145,15 +22145,15 @@
     ],
     "officials": [
       {
-        "name": "Marcelino Quiñonez",
+        "name": "Stacey Travers",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:12",
         "overwrite_name": "Anastasia \"Stacey\" Travers",
         "emails": [
-          "mquinonez@azleg.gov"
+          "stravers@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3285"
+          "(602) 926-3917"
         ]
       }
     ]
@@ -22219,15 +22219,15 @@
     ],
     "officials": [
       {
-        "name": "Stacey Travers",
+        "name": "Jennifer Pawlik",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:13",
         "overwrite_name": "Jennifer Pawlik",
         "emails": [
-          "stravers@azleg.gov"
+          "jpawlik@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3917"
+          "(602) 926-3193"
         ]
       }
     ]
@@ -22293,15 +22293,15 @@
     ],
     "officials": [
       {
-        "name": "Jennifer Pawlik",
-        "party": "Democratic Party",
+        "name": "Laurin Hendrix",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:14",
         "overwrite_name": "Laurin Hendrix",
         "emails": [
-          "jpawlik@azleg.gov"
+          "lhendrix@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3193"
+          "(602) 926-4209"
         ]
       }
     ]
@@ -22367,15 +22367,15 @@
     ],
     "officials": [
       {
-        "name": "Laurin Hendrix",
+        "name": "Jacqueline Parker",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:15",
         "overwrite_name": "Jacqueline Parker",
         "emails": [
-          "lhendrix@azleg.gov"
+          "jparker@azleg.gov"
         ],
         "phones": [
-          "(602) 926-4209"
+          "(602) 926-3375"
         ]
       }
     ]
@@ -22441,15 +22441,15 @@
     ],
     "officials": [
       {
-        "name": "Jacqueline Parker",
-        "party": "Republican Party",
+        "name": "Keith Seaman",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:16",
         "overwrite_name": "Keith Seaman",
         "emails": [
-          "jparker@azleg.gov"
+          "kseaman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3375"
+          "(602) 926-3760"
         ]
       }
     ]
@@ -22515,15 +22515,15 @@
     ],
     "officials": [
       {
-        "name": "Keith Seaman",
-        "party": "Democratic Party",
+        "name": "Cory McGarr",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:17",
         "overwrite_name": "Cory McGarr",
         "emails": [
-          "kseaman@azleg.gov"
+          "cmcgarr@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3760"
+          "(602) 926-3630"
         ]
       }
     ]
@@ -22589,15 +22589,15 @@
     ],
     "officials": [
       {
-        "name": "Cory McGarr",
-        "party": "Republican Party",
+        "name": "Chris Mathis",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:18",
         "overwrite_name": "Chris Mathis",
         "emails": [
-          "cmcgarr@azleg.gov"
+          "cmathis@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3630"
+          "(602) 926-3138"
         ]
       }
     ]
@@ -22663,15 +22663,15 @@
     ],
     "officials": [
       {
-        "name": "Chris Mathis",
-        "party": "Democratic Party",
+        "name": "Gail Griffin",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:19",
         "overwrite_name": "Gail Griffin",
         "emails": [
-          "cmathis@azleg.gov"
+          "ggriffin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3138"
+          "(602) 926-5895"
         ]
       }
     ]
@@ -22737,15 +22737,15 @@
     ],
     "officials": [
       {
-        "name": "Gail Griffin",
-        "party": "Republican Party",
+        "name": "Alma Hernandez",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:20",
         "overwrite_name": "Alma Hernandez",
         "emails": [
-          "ggriffin@azleg.gov"
+          "ahernandez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-5895"
+          "(602) 926-3136"
         ]
       }
     ]
@@ -22811,15 +22811,15 @@
     ],
     "officials": [
       {
-        "name": "Alma Hernandez",
+        "name": "Consuelo Hernandez",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:21",
         "overwrite_name": "Consuelo Hernandez",
         "emails": [
-          "ahernandez@azleg.gov"
+          "chernandez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3136"
+          "(602) 926-3523"
         ]
       }
     ]
@@ -22848,15 +22848,15 @@
     ],
     "officials": [
       {
-        "name": "Consuelo Hernandez",
+        "name": "Stephanie Stahl Hamilton",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:21",
         "overwrite_name": "Stephanie Stahl Hamilton",
         "emails": [
-          "chernandez@azleg.gov"
+          "sstahlhamilton@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3523"
+          "(602) 926-3279"
         ]
       }
     ]
@@ -22885,15 +22885,15 @@
     ],
     "officials": [
       {
-        "name": "Stephanie Stahl Hamilton",
+        "name": "Leezah Elsa Sun",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:22",
         "overwrite_name": "Leezah Elsa Sun",
         "emails": [
-          "sstahlhamilton@azleg.gov"
+          "lsun@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3279"
+          "(602) 926-3881"
         ]
       }
     ]
@@ -22959,15 +22959,15 @@
     ],
     "officials": [
       {
-        "name": "Leezah Elsa Sun",
+        "name": "Mariana Sandoval",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:23",
         "overwrite_name": "Mariana Sandoval",
         "emails": [
-          "lsun@azleg.gov"
+          "msandoval@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3881"
+          "(602) 926-3740"
         ]
       }
     ]
@@ -23033,15 +23033,15 @@
     ],
     "officials": [
       {
-        "name": "Mariana Sandoval",
+        "name": "Analise Ortiz",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:24",
         "overwrite_name": "Analise Ortiz",
         "emails": [
-          "msandoval@azleg.gov"
+          "analise.ortiz@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3740"
+          "(602) 926-3633"
         ]
       }
     ]
@@ -23107,15 +23107,15 @@
     ],
     "officials": [
       {
-        "name": "Analise Ortiz",
-        "party": "Democratic Party",
+        "name": "Michael Carbone",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:25",
         "overwrite_name": "Michael Carbone",
         "emails": [
-          "analise.ortiz@azleg.gov"
+          "mcarbone@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3633"
+          "(602) 926-4038"
         ]
       }
     ]
@@ -23144,47 +23144,10 @@
     ],
     "officials": [
       {
-        "name": "Michael Carbone",
+        "name": "Timothy M Dunn",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:25",
         "overwrite_name": "Timothy \"Tim\" Dunn",
-        "emails": [
-          "mcarbone@azleg.gov"
-        ],
-        "phones": [
-          "(602) 926-4038"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az/sldl:26": {
-        "name": "Arizona State House district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State House District 26",
-        "divisionId": "ocd-division/country:us/state:az/sldl:26",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Timothy M Dunn",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
-        "overwrite_name": "Cesar Aguilar",
         "emails": [
           "tdunn@azleg.gov"
         ],
@@ -23221,12 +23184,49 @@
         "name": "Cesar Aguilar",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
-        "overwrite_name": "Flavio Bravo",
+        "overwrite_name": "Cesar Aguilar",
         "emails": [
           "caguilar@azleg.gov"
         ],
         "phones": [
           "(602) 926-3953"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:26": {
+        "name": "Arizona State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 26",
+        "divisionId": "ocd-division/country:us/state:az/sldl:26",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Flavio Bravo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
+        "overwrite_name": "Flavio Bravo",
+        "emails": [
+          "fbravo@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4033"
         ]
       }
     ]
@@ -23255,15 +23255,15 @@
     ],
     "officials": [
       {
-        "name": "Flavio Bravo",
-        "party": "Democratic Party",
+        "name": "Ben Toma",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:27",
         "overwrite_name": "Ben Toma",
         "emails": [
-          "fbravo@azleg.gov"
+          "btoma@azleg.gov"
         ],
         "phones": [
-          "(602) 26-4033"
+          "(602) 926-3298"
         ]
       }
     ]
@@ -23329,15 +23329,15 @@
     ],
     "officials": [
       {
-        "name": "Ben Toma",
+        "name": "Beverly Pingerelli",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:28",
         "overwrite_name": "Beverly Pingerelli",
         "emails": [
-          "btoma@azleg.gov"
+          "bpingerelli@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3298"
+          "(602) 926-3396"
         ]
       }
     ]
@@ -23403,15 +23403,15 @@
     ],
     "officials": [
       {
-        "name": "Beverly Pingerelli",
+        "name": "Austin Smith",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:29",
         "overwrite_name": "Austin Smith",
         "emails": [
-          "bpingerelli@azleg.gov"
+          "austin.smith@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3396"
+          "(602) 926-3831"
         ]
       }
     ]
@@ -23477,15 +23477,15 @@
     ],
     "officials": [
       {
-        "name": "Austin Smith",
+        "name": "John Gillette",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:30",
         "overwrite_name": "John Gillette",
         "emails": [
-          "austin.smith@azleg.gov"
+          "jgillette@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3831"
+          "(602) 926-4100"
         ]
       }
     ]

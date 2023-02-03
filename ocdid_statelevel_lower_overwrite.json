@@ -46909,6 +46909,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:tx/sldl:127": {
+        "name": "Texas State House district 127",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "TX State House District 127",
+        "divisionId": "ocd-division/country:us/state:tx/sldl:127",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles Cunningham",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:127",
+        "overwrite_name": "Charles Cunningham",
+        "emails": [
+          "charles.cunningham@house.texas.gov"
+        ],
+        "phones": [
+          "(512) 463-0520"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:tx/sldl:133": {
         "name": "Texas State House district 133",
         "overwrite": "true",

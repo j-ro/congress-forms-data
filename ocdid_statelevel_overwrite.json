@@ -54314,6 +54314,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:ny/sldl:40": {
+          "name": "New York State House district 40",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "NY State House District 40",
+          "divisionId": "ocd-division/country:us/state:ny/sldl:40",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Axel the Scottie",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:40",
+          "overwrite_name": "Amy Chin-Lai",
+          "emails": [
+            "amy@actionnetwork.org"
+          ],
+          "phones": [
+            "2144938888"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:ny/sldl:43": {
           "name": "New York State House district 43",
           "overwrite": "true",

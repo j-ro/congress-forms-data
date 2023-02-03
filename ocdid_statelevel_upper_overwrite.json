@@ -1908,6 +1908,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:co/sldu:2": {
+        "name": "Colorado State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:co/sldu:2",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Smallwood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:2",
+        "overwrite_name": "Jim Smallwood",
+        "emails": [
+          "senatorsmallwood@gmail.com"
+        ],
+        "phones": [
+          "(303) 866-4869"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:co/sldu:3": {
         "name": "Colorado State Senate district 3",
         "overwrite": "true",
@@ -1976,6 +2013,80 @@
         ],
         "phones": [
           "(303) 866-4877"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:5": {
+        "name": "Colorado State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:co/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Perry Will",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:5",
+        "overwrite_name": "Perry Will",
+        "emails": [
+          "perry.will.senate@coleg.gov"
+        ],
+        "phones": [
+          "303-866-5292"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:6": {
+        "name": "Colorado State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:co/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cleave Simpson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:6",
+        "overwrite_name": "Cleave Simpson",
+        "emails": [
+          "cleave.simpson.senate@coleg.gov"
+        ],
+        "phones": [
+          "(303) 866-4875"
         ]
       }
     ]
@@ -2204,6 +2315,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:co/sldu:13": {
+        "name": "Colorado State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:co/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Priola",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:13",
+        "overwrite_name": "Kevin Priola",
+        "emails": [
+          "kevin.priola.senate@coleg.gov"
+        ],
+        "phones": [
+          "(303) 866-4855"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:co/sldu:14": {
         "name": "Colorado State Senate district 14",
         "overwrite": "true",
@@ -2272,6 +2420,43 @@
         ],
         "phones": [
           "(303) 866-4853"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:co/sldu:16": {
+        "name": "Colorado State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CO State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:co/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chris Kolker",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:co/sldu:16",
+        "overwrite_name": "Chris Kolker",
+        "emails": [
+          "chris.kolker.senate@coleg.gov"
+        ],
+        "phones": [
+          "(303) 866-4883"
         ]
       }
     ]
@@ -3790,37 +3975,6 @@
         "phones": [
           "(302) 744-4298"
         ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Eleanor Holmes Norton"
       }
     ]
   },
@@ -15324,6 +15478,117 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:3": {
+        "name": "New York State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dean Murray",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:3",
+        "overwrite_name": "Alexis Weik",
+        "emails": [
+          "murray@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3411"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:4": {
+        "name": "New York State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Monica Martinez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:4",
+        "overwrite_name": "Phillip M. Boyle",
+        "emails": [
+          "martinez@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2765"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:5": {
+        "name": "New York State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven Rhoads",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:5",
+        "overwrite_name": "James F. Gaughran",
+        "emails": [
+          "rhoads@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3161"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:6": {
         "name": "New York State Senate district 6",
         "overwrite": "true",
@@ -15355,6 +15620,80 @@
         ],
         "phones": [
           "(518) 455-3260"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:7": {
+        "name": "New York State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:7",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jack Martins",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:7",
+        "overwrite_name": "Anna M. Kaplan",
+        "emails": [
+          "martins@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2677"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:8": {
+        "name": "New York State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Alexis Weik",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:8",
+        "overwrite_name": "John E. Brooks",
+        "emails": [
+          "weik@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2950"
         ]
       }
     ]
@@ -15435,6 +15774,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:11": {
+        "name": "New York State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Toby Ann Stavisky",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:11",
+        "overwrite_name": "John Liu",
+        "emails": [
+          "stavisky@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3461"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:12": {
         "name": "New York State Senate district 12",
         "overwrite": "true",
@@ -15503,6 +15879,80 @@
         ],
         "phones": [
           "(518) 455-2529"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:16": {
+        "name": "New York State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Liu",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:16",
+        "overwrite_name": "Toby Ann Stavisky",
+        "emails": [
+          "liu@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2210"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:17": {
+        "name": "New York State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Iwen Chu",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:17",
+        "overwrite_name": "Simcha Felder",
+        "emails": [
+          "iwenchu@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3401"
         ]
       }
     ]
@@ -15583,6 +16033,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:22": {
+        "name": "New York State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Simcha Felder",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:22",
+        "overwrite_name": "Andrew S. Gounardes",
+        "emails": [
+          "felder@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2754"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:23": {
+        "name": "New York State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jessica Scarcella-Spanton",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:23",
+        "overwrite_name": "Diane J. Savino",
+        "emails": [
+          "spanton@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2437"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:24": {
         "name": "New York State Senate district 24",
         "overwrite": "true",
@@ -15651,6 +16175,80 @@
         ],
         "phones": [
           "(518) 455-3451"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:26": {
+        "name": "New York State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew S. Gounardes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:26",
+        "overwrite_name": "Brian P. Kavanagh",
+        "emails": [
+          "gounardes@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3270"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:27": {
+        "name": "New York State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian P. Kavanagh",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:27",
+        "overwrite_name": "Brad Hoylman",
+        "emails": [
+          "kavanagh@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2625"
         ]
       }
     ]
@@ -15805,6 +16403,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:34": {
+        "name": "New York State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nathalia Fernandez",
+        "party": "Democratic Parry",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:34",
+        "overwrite_name": "Alessandra Biaggi",
+        "emails": [
+          "fernandez@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3595"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:35": {
         "name": "New York State Senate district 35",
         "overwrite": "true",
@@ -15953,6 +16588,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:39": {
+        "name": "New York State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:39",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Rolison",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:39",
+        "overwrite_name": "James G. Skoufis",
+        "emails": [
+          "rolison@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2945"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:40": {
         "name": "New York State Senate district 40",
         "overwrite": "true",
@@ -15990,6 +16662,154 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldu:41": {
+        "name": "New York State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:41",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michelle Hinchey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:41",
+        "overwrite_name": "Sue Serino",
+        "emails": [
+          "hinchey@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2350"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:42": {
+        "name": "New York State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James G. Skoufis",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:42",
+        "overwrite_name": "Mike Martucci",
+        "emails": [
+          "skoufis@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3920"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:43": {
+        "name": "New York State Senate district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 43",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:43",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jacob Ashby",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:43",
+        "overwrite_name": "Daphne V. Jordan",
+        "emails": [
+          "ashby@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2381"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:44": {
+        "name": "New York State Senate district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 44",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:44",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James N. Tedisco",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:44",
+        "overwrite_name": "Neil D. Breslin",
+        "emails": [
+          "tedisco@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2181"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldu:45": {
         "name": "New York State Senate district 45",
         "overwrite": "true",
@@ -16021,6 +16841,154 @@
         ],
         "phones": [
           "(518) 455-2811"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:46": {
+        "name": "New York State Senate district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 46",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:46",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Neil D. Breslin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:46",
+        "overwrite_name": "Michelle Hinchey",
+        "emails": [
+          "breslin@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2225"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:47": {
+        "name": "New York State Senate district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 47",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:47",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brad Hoylman-Sigal",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:47",
+        "overwrite_name": "Joseph A. Griffo",
+        "emails": [
+          "hoylman@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2451"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:48": {
+        "name": "New York State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:48",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rachel May",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:48",
+        "overwrite_name": "Patricia A. Ritchie",
+        "emails": [
+          "may@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2838"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:49": {
+        "name": "New York State Senate district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 49",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:49",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Walczyk",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:49",
+        "overwrite_name": "James N. Tedisco",
+        "emails": [
+          "walczyk@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3438"
         ]
       }
     ]
@@ -16095,6 +17063,80 @@
         ],
         "phones": [
           "(518) 455-3131"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:52": {
+        "name": "New York State Senate district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 52",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:52",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lea Webb",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:52",
+        "overwrite_name": "Frederick Akshar",
+        "emails": [
+          "leawebb@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-2170"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:53": {
+        "name": "New York State Senate district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 53",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:53",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph A. Griffo",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:53",
+        "overwrite_name": "Rachel May",
+        "emails": [
+          "griffo@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3334"
         ]
       }
     ]
@@ -16280,6 +17322,117 @@
         ],
         "phones": [
           "(518) 455-2091"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:59": {
+        "name": "New York State Senate district 59",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 59",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:59",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristen Gonzalez",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:59",
+        "overwrite_name": "Patrick M. Gallivan",
+        "emails": [
+          "gonzalez@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3250"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:60": {
+        "name": "New York State Senate district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 60",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:60",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Patrick M. Gallivan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:60",
+        "overwrite_name": "Sean M. Ryan",
+        "emails": [
+          "gallivan@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3471"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ny/sldu:61": {
+        "name": "New York State Senate district 61",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State Senate District 61",
+        "divisionId": "ocd-division/country:us/state:ny/sldu:61",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sean M. Ryan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:61",
+        "overwrite_name": "Edward A. Rath III",
+        "emails": [
+          "ryan@nysenate.gov"
+        ],
+        "phones": [
+          "(518) 455-3240"
         ]
       }
     ]
@@ -17797,6 +18950,43 @@
         ],
         "phones": [
           "(614) 466-5838"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldu:32": {
+        "name": "Ohio State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sandra O'Brien",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:32",
+        "overwrite_name": "Sandra O'Brien",
+        "emails": [
+          "sd32@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-7182"
         ]
       }
     ]

@@ -32664,6 +32664,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ny/sldl:37": {
+        "name": "New York State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NY State House District 37",
+        "divisionId": "ocd-division/country:us/state:ny/sldl:37",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Juan Ardila",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:37",
+        "overwrite_name": "Catherine Nolan",
+        "emails": [
+          "ardilaj@nyassembly.gov"
+        ],
+        "phones": [
+          "(518) 455-4851"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ny/sldl:43": {
         "name": "New York State House district 43",
         "overwrite": "true",

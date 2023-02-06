@@ -273,40 +273,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ne": {
-        "name": "Nebraska",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:ne",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Pete Ricketts",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ne",
-        "overwrite_name": "Pete Ricketts",
-        "phones": [
-          "(202) 224-4224"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nc": {
         "name": "North Carolina",
         "overwrite": "true",

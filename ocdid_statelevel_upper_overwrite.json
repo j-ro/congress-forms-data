@@ -1361,6 +1361,74 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:4": {
+        "name": "California State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marie Alvarado-Gil",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:4",
+        "overwrite_name": "Marie Alvarado-Gil",
+        "phones": [
+          "(916) 651-4004"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:6": {
+        "name": "California State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Roger Niello",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:6",
+        "overwrite_name": "Roger Niello",
+        "phones": [
+          "(916) 651-4006"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:7": {
         "name": "California State Senate district 7",
         "overwrite": "true",
@@ -1389,6 +1457,40 @@
         "overwrite_name": "Steven M. Glazer",
         "phones": [
           "(916) 651-4007"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:8": {
+        "name": "California State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Angelique Ashby",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:8",
+        "overwrite_name": "Angelique Ashby",
+        "phones": [
+          "(916) 651-4008"
         ]
       }
     ]
@@ -1429,6 +1531,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:10": {
+        "name": "California State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Aisha Wahab",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:10",
+        "overwrite_name": "Aisha Wahab",
+        "phones": [
+          "(916) 651-4010"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:11": {
         "name": "California State Senate district 11",
         "overwrite": "true",
@@ -1463,6 +1599,74 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:12": {
+        "name": "California State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shannon Grove",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:12",
+        "overwrite_name": "Shannon Grove",
+        "phones": [
+          "(916) 651-4012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:14": {
+        "name": "California State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:14",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anna Caballero",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:14",
+        "overwrite_name": "Anna Caballero",
+        "phones": [
+          "(916) 651-4014"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:15": {
         "name": "California State Senate district 15",
         "overwrite": "true",
@@ -1491,6 +1695,108 @@
         "overwrite_name": "Dave Cortese",
         "phones": [
           "(916) 651-4015"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:16": {
+        "name": "California State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Melissa Hurtado",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:16",
+        "overwrite_name": "Melissa Hurtado",
+        "phones": [
+          "(916) 651-4016"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:18": {
+        "name": "California State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve Padilla",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:18",
+        "overwrite_name": "Steve Padilla",
+        "phones": [
+          "(916) 651-4018"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:20": {
+        "name": "California State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Caroline Menjivar",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:20",
+        "overwrite_name": "Caroline Menjivar",
+        "phones": [
+          "(916) 651-4020"
         ]
       }
     ]
@@ -1565,6 +1871,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:24": {
+        "name": "California State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ben Allen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:24",
+        "overwrite_name": "Ben Allen",
+        "phones": [
+          "(916) 651-4024"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:25": {
         "name": "California State Senate district 25",
         "overwrite": "true",
@@ -1593,6 +1933,40 @@
         "overwrite_name": "Anthony J. Portantino",
         "phones": [
           "(916) 651-4025"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:26": {
+        "name": "California State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maria Elena Durazo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:26",
+        "overwrite_name": "Maria Elena Durazo",
+        "phones": [
+          "(916) 651-4026"
         ]
       }
     ]
@@ -1633,6 +2007,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:28": {
+        "name": "California State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:28",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lola Smallwood-Cuevas",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:28",
+        "overwrite_name": "Lola Smallwood-Cuevas",
+        "phones": [
+          "(916) 651-4028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:29": {
         "name": "California State Senate district 29",
         "overwrite": "true",
@@ -1667,6 +2075,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:30": {
+        "name": "California State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bob Archuleta",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:30",
+        "overwrite_name": "Bob Archuleta",
+        "phones": [
+          "(916) 651-4030"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:31": {
         "name": "California State Senate district 31",
         "overwrite": "true",
@@ -1695,6 +2137,40 @@
         "overwrite_name": "Richard D. Roth",
         "phones": [
           "(916) 651-4031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:32": {
+        "name": "California State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kelly Seyarto",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:32",
+        "overwrite_name": "Kelly Seyarto",
+        "phones": [
+          "(916) 651-4032"
         ]
       }
     ]
@@ -1803,6 +2279,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:36": {
+        "name": "California State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:36",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Janet Nguyen",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:36",
+        "overwrite_name": "Janet Nguyen",
+        "phones": [
+          "(916) 651-4036"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:37": {
         "name": "California State Senate district 37",
         "overwrite": "true",
@@ -1837,6 +2347,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ca/sldu:38": {
+        "name": "California State Senate district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 38",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:38",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Catherine Blakespear",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:38",
+        "overwrite_name": "Catherine Blakespear",
+        "phones": [
+          "(916) 651-4038"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ca/sldu:39": {
         "name": "California State Senate district 39",
         "overwrite": "true",
@@ -1865,6 +2409,40 @@
         "overwrite_name": "Toni G. Atkins",
         "phones": [
           "(916) 651-4039"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ca/sldu:40": {
+        "name": "California State Senate district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "CA State Senate District 40",
+        "divisionId": "ocd-division/country:us/state:ca/sldu:40",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brian W. Jones",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldu:40",
+        "overwrite_name": "Brian W. Jones",
+        "phones": [
+          "(916) 651-4040"
         ]
       }
     ]
@@ -4011,6 +4589,1375 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:fl/sldu:2": {
+        "name": "Florida State Senate district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:2",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jay Trumbull",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:2",
+        "overwrite_name": "Jay Trumbull",
+        "emails": [
+          "trumbull.jay.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5002"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:3": {
+        "name": "Florida State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Corey Simon",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:3",
+        "overwrite_name": "Corey Simon",
+        "emails": [
+          "simon.corey.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5003"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:4": {
+        "name": "Florida State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clay Yarborough",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:4",
+        "overwrite_name": "Clay Yarborough",
+        "emails": [
+          "yarborough.clay.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5004"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:5": {
+        "name": "Florida State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tracie Davis",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:5",
+        "overwrite_name": "Tracie Davis",
+        "emails": [
+          "davis.tracie.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5005"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:6": {
+        "name": "Florida State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer Bradley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:6",
+        "overwrite_name": "Jennifer Bradley",
+        "emails": [
+          "bradley.jennifer.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5006"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:8": {
+        "name": "Florida State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tommy A. Wright",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:8",
+        "overwrite_name": "Tommy A. Wright",
+        "emails": [
+          "wright.tom.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5008"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:9": {
+        "name": "Florida State Senate district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 9",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:9",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Keith Perry",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:9",
+        "overwrite_name": "Keith Perry",
+        "emails": [
+          "perry.keith.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5009"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:10": {
+        "name": "Florida State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Brodeur",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:10",
+        "overwrite_name": "Jason Brodeur",
+        "emails": [
+          "brodeur.jason.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5010"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:11": {
+        "name": "Florida State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Blaise Ingoglia",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:11",
+        "overwrite_name": "Blaise Ingoglia",
+        "emails": [
+          "ingoglia.blaise.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5011"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:12": {
+        "name": "Florida State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Colleen Burton",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:12",
+        "overwrite_name": "Colleen Burton",
+        "emails": [
+          "burton.colleen.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5012"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:13": {
+        "name": "Florida State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dennis Baxley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:13",
+        "overwrite_name": "Dennis Baxley",
+        "emails": [
+          "baxley.dennis.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5013"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:14": {
+        "name": "Florida State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:14",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jay Collins",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:14",
+        "overwrite_name": "Jay Collins",
+        "emails": [
+          "collins.jay.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5014"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:15": {
+        "name": "Florida State Senate district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:15",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Geraldine F. Thompson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:15",
+        "overwrite_name": "Geraldine F. Thompson",
+        "emails": [
+          "thompson.geraldine.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5015"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:16": {
+        "name": "Florida State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Darryl Ervin Rouson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:16",
+        "overwrite_name": "Darryl Ervin Rouson",
+        "emails": [
+          "rouson.darryl.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5016"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:17": {
+        "name": "Florida State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Stewart",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:17",
+        "overwrite_name": "Linda Stewart",
+        "emails": [
+          "stewart.linda.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5017"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:18": {
+        "name": "Florida State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nick DiCeglie",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:18",
+        "overwrite_name": "Nick DiCeglie",
+        "emails": [
+          "diceglie.nick.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5018"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:19": {
+        "name": "Florida State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Debbie Mayfield",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:19",
+        "overwrite_name": "Debbie Mayfield",
+        "emails": [
+          "mayfield.debbie.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5019"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:20": {
+        "name": "Florida State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Boyd",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:20",
+        "overwrite_name": "Jim Boyd",
+        "emails": [
+          "boyd.jim.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5020"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:21": {
+        "name": "Florida State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ed Hooper",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:21",
+        "overwrite_name": "Ed Hooper",
+        "emails": [
+          "hooper.ed.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5021"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:22": {
+        "name": "Florida State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joe Gruters",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:22",
+        "overwrite_name": "Joe Gruters",
+        "emails": [
+          "gruters.joe.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5022"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:23": {
+        "name": "Florida State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Danny Burgess",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:23",
+        "overwrite_name": "Danny Burgess",
+        "emails": [
+          "burgess.danny.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5023"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:24": {
+        "name": "Florida State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bobby Powell, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:24",
+        "overwrite_name": "Bobby Powell, Jr.",
+        "emails": [
+          "powell.bobby.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5024"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:25": {
+        "name": "Florida State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:25",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Victor M. Torres, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:25",
+        "overwrite_name": "Victor M. Torres, Jr.",
+        "emails": [
+          "torres.victor.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5025"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:26": {
+        "name": "Florida State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lori Berman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:26",
+        "overwrite_name": "Lori Berman",
+        "emails": [
+          "berman.lori.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5026"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:27": {
+        "name": "Florida State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ben Albritton, Jr.",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:27",
+        "overwrite_name": "Ben Albritton, Jr.",
+        "emails": [
+          "albritton.ben.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5027"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:29": {
+        "name": "Florida State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:29",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erin Grall",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:29",
+        "overwrite_name": "Erin Grall",
+        "emails": [
+          "grall.erin.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5029"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:30": {
+        "name": "Florida State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tina Scott Polsky",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:30",
+        "overwrite_name": "Tina Scott Polsky",
+        "emails": [
+          "polsky.tina.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5030"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:31": {
+        "name": "Florida State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:31",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gayle Harrell",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:31",
+        "overwrite_name": "Gayle Harrell",
+        "emails": [
+          "harrell.gayle.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5031"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:32": {
+        "name": "Florida State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rosalind Osgood",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:32",
+        "overwrite_name": "Rosalind Osgood",
+        "emails": [
+          "osgood.roasalind.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5032"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:33": {
+        "name": "Florida State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jonathan Martin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:33",
+        "overwrite_name": "Jonathan Martin",
+        "emails": [
+          "martin.jonathan.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5033"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:34": {
+        "name": "Florida State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shevrin \"Shev\" Jones",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:34",
+        "overwrite_name": "Shevrin \"Shev\" Jones",
+        "emails": [
+          "jones.shevrin.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5034"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:35": {
+        "name": "Florida State Senate district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 35",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:35",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lauren Book",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:35",
+        "overwrite_name": "Lauren Book",
+        "emails": [
+          "book.lauren.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5035"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:36": {
+        "name": "Florida State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:36",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ileana Garcia",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:36",
+        "overwrite_name": "Ileana Garcia",
+        "emails": [
+          "garcia.ileana.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5036"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:37": {
+        "name": "Florida State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:37",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Pizzo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:37",
+        "overwrite_name": "Jason Pizzo",
+        "emails": [
+          "pizzo.jason.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5037"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:38": {
+        "name": "Florida State Senate district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 38",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:38",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Alexis Maria Calatayud",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:38",
+        "overwrite_name": "Alexis Maria Calatayud",
+        "emails": [
+          "calatayud.alexis.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5038"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:39": {
+        "name": "Florida State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:39",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bryan Avila",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:39",
+        "overwrite_name": "Bryan Avila",
+        "emails": [
+          "avila.bryan.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5039"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:fl/sldu:40": {
+        "name": "Florida State Senate district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "FL State Senate District 40",
+        "divisionId": "ocd-division/country:us/state:fl/sldu:40",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ana Maria Rodriguez",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl/sldu:40",
+        "overwrite_name": "Ana Maria Rodriguez",
+        "emails": [
+          "rodriguez.ana.web@flsenate.gov"
+        ],
+        "phones": [
+          "(850) 487-5040"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ga/sldu:13": {
         "name": "Georgia State Senate district 13",
         "overwrite": "true",
@@ -4042,6 +5989,413 @@
         ],
         "phones": [
           "(404) 463-5258"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:1": {
+        "name": "Hawaii State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lorraine Rodero Inouye",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:1",
+        "overwrite_name": "Lorraine Rodero Inouye",
+        "emails": [
+          "seninouye@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-7335"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:4": {
+        "name": "Hawaii State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Herbert \"Tim\" Richards",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:4",
+        "overwrite_name": "Herbert \"Tim\" Richards",
+        "emails": [
+          "senrichards@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6760"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:6": {
+        "name": "Hawaii State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Angus L.K. \"Mac\" McKelvey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:6",
+        "overwrite_name": "Angus L.K. \"Mac\" McKelvey",
+        "emails": [
+          "senmckelvey@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6070"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:11": {
+        "name": "Hawaii State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Carol Fukunaga",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:11",
+        "overwrite_name": "Carol Fukunaga",
+        "emails": [
+          "senfukunaga@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6460"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:16": {
+        "name": "Hawaii State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brandon J.C. Elefante",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:16",
+        "overwrite_name": "Brandon J.C. Elefante",
+        "emails": [
+          "senelefante@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6230"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:17": {
+        "name": "Hawaii State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Donovan Dela Cruz",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:17",
+        "overwrite_name": "Donovan Dela Cruz",
+        "emails": [
+          "sendelacruz@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6090"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:19": {
+        "name": "Hawaii State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Henry J.C. Aquino",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:19",
+        "overwrite_name": "Henry J.C. Aquino",
+        "emails": [
+          "senaquino@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6970"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:20": {
+        "name": "Hawaii State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kurt Fevella",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:20",
+        "overwrite_name": "Kurt Fevella",
+        "emails": [
+          "senfevella@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6360"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:21": {
+        "name": "Hawaii State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Gabbard",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:21",
+        "overwrite_name": "Mike Gabbard",
+        "emails": [
+          "sengabbard@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-6830"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:22": {
+        "name": "Hawaii State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maile S.L. Shimabukuro",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:22",
+        "overwrite_name": "Maile S.L. Shimabukuro",
+        "emails": [
+          "senshimabukuro@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-7793"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:hi/sldu:23": {
+        "name": "Hawaii State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "HI State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:hi/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Brenton Awa",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:hi/sldu:23",
+        "overwrite_name": "Brenton Awa",
+        "emails": [
+          "senawa@capitol.hawaii.gov"
+        ],
+        "phones": [
+          "(808) 586-7330"
         ]
       }
     ]
@@ -13252,43 +15606,6 @@
         ],
         "phones": [
           "(402) 471-2622"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ne/sldu:21": {
-        "name": "Nebraska State Senate district 21",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NE State Senate District 21",
-        "divisionId": "ocd-division/country:us/state:ne/sldu:21",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Beau Ballard",
-        "party": "Nonpartisan",
-        "overwrite_ocdid": "ocd-division/country:us/state:ne/sldu:21",
-        "overwrite_name": "Mike Hilgers",
-        "emails": [
-          "bballard@leg.ne.gov"
-        ],
-        "phones": [
-          "(402) 471-2673"
         ]
       }
     ]

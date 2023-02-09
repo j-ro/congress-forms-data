@@ -5958,8 +5958,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ga/sldu:13": {
-        "name": "Georgia State Senate district 13",
+      "ocd-division/country:us/state:ga/sldu:2": {
+        "name": "Georgia State Senate district 2",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -5968,8 +5968,8 @@
     },
     "offices": [
       {
-        "name": "GA State Senate District 13",
-        "divisionId": "ocd-division/country:us/state:ga/sldu:13",
+        "name": "GA State Senate District 2",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:2",
         "roles": [
           "statelevel_upper"
         ],
@@ -5980,15 +5980,718 @@
     ],
     "officials": [
       {
-        "name": "Carden H. Summers",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:13",
-        "overwrite_name": "Carden H. Summers",
+        "name": "Derek Mallow",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:2",
+        "overwrite_name": "Derek Mallow",
         "emails": [
-          "cardenhs@gmail.com"
+          "derek.mallow@senate.ga.gov"
         ],
         "phones": [
-          "(404) 463-5258"
+          "(404) 463-1371"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:3": {
+        "name": "Georgia State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Hodges",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:3",
+        "overwrite_name": "Mike Hodges",
+        "emails": [
+          "mike.hodges@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-1309"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:5": {
+        "name": "Georgia State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sheikh Rahman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:5",
+        "overwrite_name": "Sheikh Rahman",
+        "emails": [
+          "sheikh.rahman@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-5261"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:6": {
+        "name": "Georgia State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Esteves",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:6",
+        "overwrite_name": "Jason Esteves",
+        "emails": [
+          "jason.esteves@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-1562"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:7": {
+        "name": "Georgia State Senate district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 7",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:7",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nabilah Islam",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:7",
+        "overwrite_name": "Nabilah Islam",
+        "emails": [
+          "nabilah.islam@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-5263"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:8": {
+        "name": "Georgia State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Russ Goodman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:8",
+        "overwrite_name": "Russ Goodman",
+        "emails": [
+          "russ.goodman@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-1318"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:11": {
+        "name": "Georgia State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sam Watson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:11",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "sam.watson@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0065"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:14": {
+        "name": "Georgia State Senate district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:14",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Josh McLaurin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:14",
+        "overwrite_name": "Josh McLaurin",
+        "emails": [
+          "josh.mclaurin@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-4228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:18": {
+        "name": "Georgia State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John F. Kennedy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:18",
+        "overwrite_name": "John F. Kennedy",
+        "emails": [
+          "john.kennedy@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-6578"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:23": {
+        "name": "Georgia State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Max Burns",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:23",
+        "overwrite_name": "Max Burns",
+        "emails": [
+          "max.burns@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-1376"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:25": {
+        "name": "Georgia State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:25",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ricky \"Rick\" Williams",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:25",
+        "overwrite_name": "Ricky \"Rick\" Williams",
+        "emails": [
+          "rick.williams@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0082"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:27": {
+        "name": "Georgia State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Greg Dolezal",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:27",
+        "overwrite_name": "Greg Dolezal",
+        "emails": [
+          "greg.dolezal@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0040"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:28": {
+        "name": "Georgia State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:28",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matt Brass",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:28",
+        "overwrite_name": "Matt Brass",
+        "emails": [
+          "matt.brass@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0057"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:29": {
+        "name": "Georgia State Senate district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 29",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:29",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randy Robertson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:29",
+        "overwrite_name": "Randy Robertson",
+        "emails": [
+          "randy.robertson@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0045"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:37": {
+        "name": "Georgia State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:37",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ed Setzler",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:37",
+        "overwrite_name": "Ed Setzler",
+        "emails": [
+          "ed.setzler@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0256"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:45": {
+        "name": "Georgia State Senate district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 45",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:45",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clint Dixon",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:45",
+        "overwrite_name": "Clint Dixon",
+        "emails": [
+          "clint.dixon@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-6446"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:48": {
+        "name": "Georgia State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:48",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shawn Still",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:48",
+        "overwrite_name": "Shawn Still",
+        "emails": [
+          "shawn.still@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0044"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:49": {
+        "name": "Georgia State Senate district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 49",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:49",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shelly Echols",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:49",
+        "overwrite_name": "Shelly Echols",
+        "emails": [
+          "shelly.echols@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 463-1317"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:50": {
+        "name": "Georgia State Senate district 50",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 50",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:50",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bo Hatchett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:50",
+        "overwrite_name": "Bo Hatchett",
+        "emails": [
+          "bo.hatchett@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-7745"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ga/sldu:53": {
+        "name": "Georgia State Senate district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "GA State Senate District 53",
+        "divisionId": "ocd-division/country:us/state:ga/sldu:53",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Colton Moore",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ga/sldu:53",
+        "overwrite_name": "Colton Moore",
+        "emails": [
+          "colton.moore@senate.ga.gov"
+        ],
+        "phones": [
+          "(404) 656-0256"
         ]
       }
     ]
@@ -7290,6 +7993,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:1": {
+        "name": "Illinois State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:il/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Javier Loera Cervantes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:1",
+        "overwrite_name": "Javier Loera Cervantes",
+        "emails": [
+          "javier@cervantesforilsenate.com"
+        ],
+        "phones": [
+          "(773) 869-9050"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:2": {
         "name": "Illinois State Senate district 2",
         "overwrite": "true",
@@ -7394,7 +8134,7 @@
           "slightfordsoffice@senatedem.ilga.gov"
         ],
         "phones": [
-          "(708) 343-7444"
+          "(708) 632-4500"
         ]
       }
     ]
@@ -7431,7 +8171,7 @@
           "sara@senatorsara.com"
         ],
         "phones": [
-          "(773) 883-0770"
+          "(773) 296-4141"
         ]
       }
     ]
@@ -7572,7 +8312,7 @@
     "officials": [
       {
         "name": "Robert F. Martwick",
-        "party": "Democratic",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:10",
         "overwrite_name": "Robert F. Martwick",
         "emails": [
@@ -7580,6 +8320,80 @@
         ],
         "phones": [
           "(217) 782-1035"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:11": {
+        "name": "Illinois State Senate district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 11",
+        "divisionId": "ocd-division/country:us/state:il/sldu:11",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike Porfirio",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:11",
+        "overwrite_name": "Mike Porfirio",
+        "emails": [
+          "porfirio4thepeople@gmail.com"
+        ],
+        "phones": [
+          "(708) 430-2510"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:12": {
+        "name": "Illinois State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:il/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Celina Villanueva",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:12",
+        "overwrite_name": "Celina Villanueva",
+        "emails": [
+          "district@senatorvillanueva.com"
+        ],
+        "phones": [
+          "(773) 565-4661"
         ]
       }
     ]
@@ -7682,7 +8496,7 @@
     ],
     "officials": [
       {
-        "name": "Napolean B. Harris III",
+        "name": "Napoleon B. Harris III",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:15",
         "overwrite_name": "Napolean B. Harris III",
@@ -7691,6 +8505,43 @@
         ],
         "phones": [
           "(708) 893-0552"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:16": {
+        "name": "Illinois State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:il/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Willie Preston",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:16",
+        "overwrite_name": "Willie Preston",
+        "emails": [
+          "wpreston27@gmail.com"
+        ],
+        "phones": [
+          "(312) 383-4996"
         ]
       }
     ]
@@ -7882,6 +8733,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:23": {
+        "name": "Illinois State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:il/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Suzanne Glowiak \"Suzy\" Hilton",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:23",
+        "overwrite_name": "Suzanne Glowiak \"Suzy\" Hilton",
+        "emails": [
+          "suzy@suzyforsenate.com"
+        ],
+        "phones": [
+          "(630) 785-3177"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:24": {
+        "name": "Illinois State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:il/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Seth Lewis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:24",
+        "overwrite_name": "Seth Lewis",
+        "emails": [
+          "Seth@votesethlewis.com"
+        ],
+        "phones": [
+          "(630) 349-0645"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:25": {
         "name": "Illinois State Senate district 25",
         "overwrite": "true",
@@ -8030,6 +8955,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:30": {
+        "name": "Illinois State Senate district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 30",
+        "divisionId": "ocd-division/country:us/state:il/sldu:30",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adriane Johnson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
+        "overwrite_name": "Adriane Johnson",
+        "emails": [
+          "info@senatoradrianejohnson.com"
+        ],
+        "phones": [
+          "(847) 672-6201"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:31": {
+        "name": "Illinois State Senate district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 31",
+        "divisionId": "ocd-division/country:us/state:il/sldu:31",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary Edly-Allen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:31",
+        "overwrite_name": "Mary Edly-Allen",
+        "emails": [
+          "Info@MaryForIL31.com"
+        ],
+        "phones": [
+          "(847) 548-5631"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:32": {
         "name": "Illinois State Senate district 32",
         "overwrite": "true",
@@ -8135,6 +9134,43 @@
         ],
         "phones": [
           "(815) 987-7557"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:36": {
+        "name": "Illinois State Senate district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 36",
+        "divisionId": "ocd-division/country:us/state:il/sldu:36",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael W. Halpin",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:36",
+        "overwrite_name": "Michael W. Halpin",
+        "emails": [
+          "FriendsofMikeHalpin@gmail.com"
+        ],
+        "phones": [
+          "(309) 558-3612"
         ]
       }
     ]
@@ -8252,6 +9288,80 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:42": {
+        "name": "Illinois State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:il/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Linda Holmes",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:42",
+        "overwrite_name": "Linda Holmes",
+        "emails": [
+          "senatorholmes42@gmail.com"
+        ],
+        "phones": [
+          "(630) 820-8650"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:43": {
+        "name": "Illinois State Senate district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 43",
+        "divisionId": "ocd-division/country:us/state:il/sldu:43",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rachel Ventura",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:43",
+        "overwrite_name": "Rachel Ventura",
+        "emails": [
+          "rachel@electventura.com"
+        ],
+        "phones": [
+          "(331) 290-0443"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:44": {
         "name": "Illinois State Senate district 44",
         "overwrite": "true",
@@ -8289,6 +9399,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:45": {
+        "name": "Illinois State Senate district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 45",
+        "divisionId": "ocd-division/country:us/state:il/sldu:45",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew S. Chesney",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:45",
+        "overwrite_name": "Andrew S. Chesney",
+        "emails": [
+          "info@chesneyforillinois.com"
+        ],
+        "phones": [
+          "(815) 232-0774"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:46": {
         "name": "Illinois State Senate district 46",
         "overwrite": "true",
@@ -8312,7 +9459,7 @@
     "officials": [
       {
         "name": "David Koehler",
-        "party": "Democratic",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:46",
         "overwrite_name": "David Koehler",
         "emails": [
@@ -8320,6 +9467,43 @@
         ],
         "phones": [
           "(309) 677-0120"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:47": {
+        "name": "Illinois State Senate district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 47",
+        "divisionId": "ocd-division/country:us/state:il/sldu:47",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Neil Anderson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:47",
+        "overwrite_name": "Neil Anderson",
+        "emails": [
+          "senatorneilanderson@gmail.com"
+        ],
+        "phones": [
+          "(309) 230-7584"
         ]
       }
     ]
@@ -8394,6 +9578,228 @@
         ],
         "phones": [
           "(217) 782-0052"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:50": {
+        "name": "Illinois State Senate district 50",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 50",
+        "divisionId": "ocd-division/country:us/state:il/sldu:50",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jil Tracy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:50",
+        "overwrite_name": "Jil Tracy",
+        "emails": [
+          "tracy@ilsenategop.org"
+        ],
+        "phones": [
+          "(217) 223-0833"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:52": {
+        "name": "Illinois State Senate district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 52",
+        "divisionId": "ocd-division/country:us/state:il/sldu:52",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Paul Faraci",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:52",
+        "overwrite_name": "Paul Faraci",
+        "emails": [
+          "faraci@senateddem.illinois.gov"
+        ],
+        "phones": [
+          "(217) 355-5252"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:53": {
+        "name": "Illinois State Senate district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 53",
+        "divisionId": "ocd-division/country:us/state:il/sldu:53",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas M. Bennett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:53",
+        "overwrite_name": "Thomas M. Bennett",
+        "emails": [
+          "bennett@ilsenategop.org"
+        ],
+        "phones": [
+          "(815) 432-0106"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:54": {
+        "name": "Illinois State Senate district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 54",
+        "divisionId": "ocd-division/country:us/state:il/sldu:54",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve McClure",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:54",
+        "overwrite_name": "Steve McClure",
+        "emails": [
+          "mcclure@ilsenategop.org"
+        ],
+        "phones": [
+          "(217) 245-7456"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:55": {
+        "name": "Illinois State Senate district 55",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 55",
+        "divisionId": "ocd-division/country:us/state:il/sldu:55",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jason Plummer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:55",
+        "overwrite_name": "Jason Plummer",
+        "emails": [
+          "plummer@ilsenategop.org"
+        ],
+        "phones": [
+          "(618) 283-3000"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:56": {
+        "name": "Illinois State Senate district 56",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 56",
+        "divisionId": "ocd-division/country:us/state:il/sldu:56",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erica Conway Harriss",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:56",
+        "overwrite_name": "Erica Conway Harriss",
+        "emails": [
+          "harriss@ilsenategop.org"
+        ],
+        "phones": [
+          "(618) 205-3242"
         ]
       }
     ]
@@ -9282,6 +10688,339 @@
         ],
         "phones": [
           "(207) 454-0501"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:1": {
+        "name": "Maryland State Senate district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:md/sldu:1",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mike McKay",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:1",
+        "overwrite_name": "Mike McKay",
+        "emails": [
+          "mike.mckay@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3565"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:3": {
+        "name": "Maryland State Senate district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 3",
+        "divisionId": "ocd-division/country:us/state:md/sldu:3",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen Lewis Young",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:3",
+        "overwrite_name": "Karen Lewis Young",
+        "emails": [
+          "karen.young@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3575"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:4": {
+        "name": "Maryland State Senate district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:md/sldu:4",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William \"Bill\" Folden",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:4",
+        "overwrite_name": "William \"Bill\" Folden",
+        "emails": [
+          "william.folden@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3704"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:10": {
+        "name": "Maryland State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:md/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ben Brooks",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:10",
+        "overwrite_name": "Ben Brooks",
+        "emails": [
+          "benjamin.brooks@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3606"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:22": {
+        "name": "Maryland State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:md/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Alonzo T. Washington",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:22",
+        "overwrite_name": "VACANT",
+        "emails": [
+          "alonzo.washington@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3155"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:33": {
+        "name": "Maryland State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:md/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dawn D. Gile",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:33",
+        "overwrite_name": "Dawn D. Gile",
+        "emails": [
+          "dawn.gile@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3568"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:34": {
+        "name": "Maryland State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:md/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary-Dulany James",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:34",
+        "overwrite_name": "Mary-Dulany James",
+        "emails": [
+          "marydulany.james@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3158"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:37": {
+        "name": "Maryland State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:md/sldu:37",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Johnny Mautz",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:37",
+        "overwrite_name": "Johnny Mautz",
+        "emails": [
+          "johnny.mautz@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3590"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:md/sldu:43": {
+        "name": "Maryland State Senate district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MD State Senate District 43",
+        "divisionId": "ocd-division/country:us/state:md/sldu:43",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary Washington",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:md/sldu:43",
+        "overwrite_name": "Mary Washington",
+        "emails": [
+          "mary.washington@senate.state.md.us"
+        ],
+        "phones": [
+          "(410) 841-3145"
         ]
       }
     ]

@@ -534,6 +534,9 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:md",
         "overwrite_name": "Wes Moore",
+        "emails": [
+          "contact@maryland.gov"
+        ],
         "phones": [
           "410-974-3901"
         ]
@@ -786,6 +789,43 @@
         ],
         "phones": [
           "(401) 222-2080"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:va": {
+        "name": "Virginia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:va",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Glenn Youngkin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:va",
+        "overwrite_name": "Glenn Youngkin",
+        "emails": [
+          "glenn.youngkin@governor.virginia.gov"
+        ],
+        "phones": [
+          "(804) 786-2211"
         ]
       }
     ]

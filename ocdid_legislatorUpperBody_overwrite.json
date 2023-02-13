@@ -137,40 +137,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:in": {
-        "name": "Indiana",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:in",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Mike Braun",
-        "party": "Republican",
-        "overwrite_ocdid": "ocd-division/country:us/state:in",
-        "overwrite_name": "Mike Braun",
-        "phones": [
-          "(202) 224-4814"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:md": {
         "name": "Maryland",
         "overwrite": "true",
@@ -301,74 +267,6 @@
         "overwrite_name": "Ted Budd",
         "phones": [
           "202-224-3154"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh": {
-        "name": "Ohio",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:oh",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "JD Vance",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh",
-        "overwrite_name": "JD Vance",
-        "phones": [
-          "202-224-3353"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:pa": {
-        "name": "Pennsylvania",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:pa",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Fetterman",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:pa",
-        "overwrite_name": "John Fetterman",
-        "phones": [
-          "202-224-4254"
         ]
       }
     ]

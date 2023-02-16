@@ -12729,8 +12729,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:me/sldu:3": {
-        "name": "Maine State Senate district 3",
+      "ocd-division/country:us/state:me/sldu:1": {
+        "name": "Maine State Senate district 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -12739,8 +12739,8 @@
     },
     "offices": [
       {
-        "name": "ME State Senate District 3",
-        "divisionId": "ocd-division/country:us/state:me/sldu:3",
+        "name": "ME State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:me/sldu:1",
         "roles": [
           "statelevel_upper"
         ],
@@ -12751,23 +12751,23 @@
     ],
     "officials": [
       {
-        "name": "Bradlee Farrin",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:3",
-        "overwrite_name": "Bradlee Farrin",
+        "name": "Troy Jackson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:1",
+        "overwrite_name": "Troy Jackson",
         "emails": [
-          "bradlee.farrin@legislature.maine.gov"
+          "troy.jackson@legislature.maine.gov"
         ],
         "phones": [
-          "(207) 634-3074"
+          "(207) 287-1500"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:me/sldu:6": {
-        "name": "Maine State Senate district 6",
+      "ocd-division/country:us/state:me/sldu:4": {
+        "name": "Maine State Senate district 4",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -12776,8 +12776,8 @@
     },
     "offices": [
       {
-        "name": "ME State Senate District 6",
-        "divisionId": "ocd-division/country:us/state:me/sldu:6",
+        "name": "ME State Senate District 4",
+        "divisionId": "ocd-division/country:us/state:me/sldu:4",
         "roles": [
           "statelevel_upper"
         ],
@@ -12788,15 +12788,755 @@
     ],
     "officials": [
       {
-        "name": "Marianne Moore",
+        "name": "Stacey K. Guerin",
         "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:6",
-        "overwrite_name": "Marianne Moore",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:4",
+        "overwrite_name": "Stacey K. Guerin",
         "emails": [
-          "marianne.moore@legislature.maine.gov"
+          "Stacey.Guerin@legislature.maine.gov"
         ],
         "phones": [
-          "(207) 454-0501"
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:5": {
+        "name": "Maine State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:me/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Russell J. Black",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:5",
+        "overwrite_name": "Russell J. Black",
+        "emails": [
+          "Russell.Black@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:8": {
+        "name": "Maine State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:me/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Tipping",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:8",
+        "overwrite_name": "Michael Tipping",
+        "emails": [
+          "mike.tipping@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:10": {
+        "name": "Maine State Senate district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 10",
+        "divisionId": "ocd-division/country:us/state:me/sldu:10",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Peter A. Lyford",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:10",
+        "overwrite_name": "Peter A. Lyford",
+        "emails": [
+          "peter.lyford@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:12": {
+        "name": "Maine State Senate district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 12",
+        "divisionId": "ocd-division/country:us/state:me/sldu:12",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anne H. Beebe-Center",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:12",
+        "overwrite_name": "Anne H. Beebe-Center",
+        "emails": [
+          "anne.beebe-center@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:13": {
+        "name": "Maine State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:me/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cameron D. Reny",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:13",
+        "overwrite_name": "Cameron D. Reny",
+        "emails": [
+          "cameron.reny@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:16": {
+        "name": "Maine State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:me/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David P. LaFountain",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:16",
+        "overwrite_name": "David P. LaFountain",
+        "emails": [
+          "david.lafountain@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:17": {
+        "name": "Maine State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:me/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeffrey L. Timberlake",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:17",
+        "overwrite_name": "Jeffrey L. Timberlake",
+        "emails": [
+          "Jeffrey.Timberlake@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:18": {
+        "name": "Maine State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:me/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard A. Bennett",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:18",
+        "overwrite_name": "Richard A. Bennett",
+        "emails": [
+          "Richard.Bennett@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:19": {
+        "name": "Maine State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:me/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lisa M. Keim",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:19",
+        "overwrite_name": "Lisa M. Keim",
+        "emails": [
+          "Lisa.Keim@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:20": {
+        "name": "Maine State Senate district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 20",
+        "divisionId": "ocd-division/country:us/state:me/sldu:20",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eric L. Brakey",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:20",
+        "overwrite_name": "Eric L. Brakey",
+        "emails": [
+          "Eric.Brakey@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:21": {
+        "name": "Maine State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:me/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Margaret R. Rotundo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:21",
+        "overwrite_name": "Margaret R. Rotundo",
+        "emails": [
+          "margaret.rotundo@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:22": {
+        "name": "Maine State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:me/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James D. Libby",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:22",
+        "overwrite_name": "James D. Libby",
+        "emails": [
+          "james.libby@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:23": {
+        "name": "Maine State Senate district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:me/sldu:23",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matthea Elisabeth Daughtry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:23",
+        "overwrite_name": "Matthea Elisabeth Daughtry",
+        "emails": [
+          "Mattie.Daughtry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:24": {
+        "name": "Maine State Senate district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 24",
+        "divisionId": "ocd-division/country:us/state:me/sldu:24",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eloise A. Vitelli",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:24",
+        "overwrite_name": "Eloise A. Vitelli",
+        "emails": [
+          "Eloise.Vitelli@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:25": {
+        "name": "Maine State Senate district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 25",
+        "divisionId": "ocd-division/country:us/state:me/sldu:25",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Teresa S. Pierce",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:25",
+        "overwrite_name": "Teresa S. Pierce",
+        "emails": [
+          "teresa.pierce@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:26": {
+        "name": "Maine State Senate district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 26",
+        "divisionId": "ocd-division/country:us/state:me/sldu:26",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy E. Nangle",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:26",
+        "overwrite_name": "Timothy E. Nangle",
+        "emails": [
+          "timothy.nangle@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:27": {
+        "name": "Maine State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:me/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jill C. Duson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:27",
+        "overwrite_name": "Jill C. Duson",
+        "emails": [
+          "jill.duson@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:28": {
+        "name": "Maine State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:me/sldu:28",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Benjamin M. Chipman",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:28",
+        "overwrite_name": "Benjamin M. Chipman",
+        "emails": [
+          "Ben.Chipman@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:32": {
+        "name": "Maine State Senate district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 32",
+        "divisionId": "ocd-division/country:us/state:me/sldu:32",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Henry L. Ingwersen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:32",
+        "overwrite_name": "Henry L. Ingwersen",
+        "emails": [
+          "henry.ingwersen@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1515"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldu:33": {
+        "name": "Maine State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:me/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matthew A. Harrington",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldu:33",
+        "overwrite_name": "Matthew A. Harrington",
+        "emails": [
+          "matthew.harrington@legislature.maine.gov"
+        ],
+        "phones": [
+          "(207) 287-1505"
         ]
       }
     ]
@@ -29472,15 +30212,15 @@
     ],
     "officials": [
       {
-        "name": "Quang H Nguyen",
-        "party": "Republican Party",
+        "name": "Judy Schwiebert",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:2",
         "overwrite_name": "Judy Schwiebert",
         "emails": [
-          "qnguyen@azleg.gov"
+          "jschwiebert@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3258"
+          "(602) 926-3390"
         ]
       }
     ]
@@ -29509,15 +30249,15 @@
     ],
     "officials": [
       {
-        "name": "Judy Schwiebert",
-        "party": "Democratic Party",
+        "name": "Justin Wilmeth",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:2",
         "overwrite_name": "Justin Wilmeth",
         "emails": [
-          "jschwiebert@azleg.gov"
+          "jwilmeth@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3390"
+          "(602) 926-5044"
         ]
       }
     ]
@@ -29546,15 +30286,15 @@
     ],
     "officials": [
       {
-        "name": "Justin Wilmeth",
+        "name": "Alexander Kolodin",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:3",
         "overwrite_name": "Alexander Kolodin",
         "emails": [
-          "jwilmeth@azleg.gov"
+          "akolodin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-5044"
+          "(602) 926-3560"
         ]
       }
     ]
@@ -29620,15 +30360,15 @@
     ],
     "officials": [
       {
-        "name": "Alexander Kolodin",
-        "party": "Republican Party",
+        "name": "Laura Terech",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:4",
         "overwrite_name": "Laura Terech",
         "emails": [
-          "akolodin@azleg.gov"
+          "lterech@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3560"
+          "(602) 926-3894"
         ]
       }
     ]
@@ -29694,15 +30434,15 @@
     ],
     "officials": [
       {
-        "name": "Laura Terech",
+        "name": "Amish Shah",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:5",
         "overwrite_name": "Amish Shah",
         "emails": [
-          "lterech@azleg.gov"
+          "ashah@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3894"
+          "(602) 926-3280"
         ]
       }
     ]
@@ -29731,7 +30471,7 @@
     ],
     "officials": [
       {
-        "name": "Jennifer Longdon",
+        "name": "Jennifer L Longdon",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:5",
         "overwrite_name": "Jennifer Longdon",
@@ -29768,15 +30508,15 @@
     ],
     "officials": [
       {
-        "name": "Amish Shah",
+        "name": "Mae Peshlakai",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:6",
         "overwrite_name": "Mae Peshlakai",
         "emails": [
-          "ashah@azleg.gov"
+          "mpeshlakai@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3280"
+          "(602) 926-3708"
         ]
       }
     ]
@@ -29805,47 +30545,10 @@
     ],
     "officials": [
       {
-        "name": "Mae Peshlakai",
+        "name": "Myron Tsosie",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:6",
         "overwrite_name": "Myron Tsosie",
-        "emails": [
-          "mpeshlakai@azleg.gov"
-        ],
-        "phones": [
-          "(602) 926-3708"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az/sldl:7": {
-        "name": "Arizona State House district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State House District 7",
-        "divisionId": "ocd-division/country:us/state:az/sldl:7",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "David Cook",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
-        "overwrite_name": "David Cook",
         "emails": [
           "mtsosie@azleg.gov"
         ],
@@ -29879,15 +30582,52 @@
     ],
     "officials": [
       {
-        "name": "Myron Tsosie",
+        "name": "David Cook",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
-        "overwrite_name": "David Marshall, Sr.",
+        "overwrite_name": "David Cook",
         "emails": [
           "dcook@azleg.gov"
         ],
         "phones": [
           "(602) 926-5162"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:7": {
+        "name": "Arizona State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 7",
+        "divisionId": "ocd-division/country:us/state:az/sldl:7",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Myron Tsosie",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:7",
+        "overwrite_name": "David Marshall, Sr.",
+        "emails": [
+          "dmarshall@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-3579"
         ]
       }
     ]
@@ -29916,15 +30656,15 @@
     ],
     "officials": [
       {
-        "name": "David Marshall",
-        "party": "Republican Party",
+        "name": "Athena Salman",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:8",
         "overwrite_name": "Athena Salman",
         "emails": [
-          "dmarshall@azleg.gov"
+          "asalman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3579"
+          "(602) 926-4858"
         ]
       }
     ]
@@ -29990,15 +30730,15 @@
     ],
     "officials": [
       {
-        "name": "Athena Salman",
+        "name": "Lorena Austin",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:9",
         "overwrite_name": "Lorena Austin",
         "emails": [
-          "asalman@azleg.gov"
+          "laustin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-4858"
+          "(602) 926-3968"
         ]
       }
     ]
@@ -30027,15 +30767,15 @@
     ],
     "officials": [
       {
-        "name": "Lorena Austin",
+        "name": "Seth Blattman",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:9",
         "overwrite_name": "Seth Blattman",
         "emails": [
-          "laustin@azleg.gov"
+          "sblattman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3968"
+          "(602) 926-3996"
         ]
       }
     ]
@@ -30064,15 +30804,15 @@
     ],
     "officials": [
       {
-        "name": "Seth Blattman",
-        "party": "Democratic Party",
+        "name": "Barbara Parker",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:10",
         "overwrite_name": "Barbara Rowley Parker",
         "emails": [
-          "sblattman@azleg.gov"
+          "bparker@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3996"
+          "(602) 926-3681"
         ]
       }
     ]
@@ -30138,15 +30878,15 @@
     ],
     "officials": [
       {
-        "name": "Barbara Parker",
-        "party": "Republican Party",
+        "name": "Marcelino Quiñonez",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:11",
         "overwrite_name": "Marcelino Quinonez",
         "emails": [
-          "bparker@azleg.gov"
+          "mquinonez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3681"
+          "(602) 926-3285"
         ]
       }
     ]
@@ -30212,15 +30952,15 @@
     ],
     "officials": [
       {
-        "name": "Marcelino Quiñonez",
+        "name": "Stacey Travers",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:12",
         "overwrite_name": "Anastasia \"Stacey\" Travers",
         "emails": [
-          "mquinonez@azleg.gov"
+          "stravers@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3285"
+          "(602) 926-3917"
         ]
       }
     ]
@@ -30286,15 +31026,15 @@
     ],
     "officials": [
       {
-        "name": "Stacey Travers",
+        "name": "Jennifer Pawlik",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:13",
         "overwrite_name": "Jennifer Pawlik",
         "emails": [
-          "stravers@azleg.gov"
+          "jpawlik@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3917"
+          "(602) 926-3193"
         ]
       }
     ]
@@ -30360,15 +31100,15 @@
     ],
     "officials": [
       {
-        "name": "Jennifer Pawlik",
-        "party": "Democratic Party",
+        "name": "Laurin Hendrix",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:14",
         "overwrite_name": "Laurin Hendrix",
         "emails": [
-          "jpawlik@azleg.gov"
+          "lhendrix@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3193"
+          "(602) 926-4209"
         ]
       }
     ]
@@ -30434,15 +31174,15 @@
     ],
     "officials": [
       {
-        "name": "Laurin Hendrix",
+        "name": "Jacqueline Parker",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:15",
         "overwrite_name": "Jacqueline Parker",
         "emails": [
-          "lhendrix@azleg.gov"
+          "jparker@azleg.gov"
         ],
         "phones": [
-          "(602) 926-4209"
+          "(602) 926-3375"
         ]
       }
     ]
@@ -30508,15 +31248,15 @@
     ],
     "officials": [
       {
-        "name": "Jacqueline Parker",
-        "party": "Republican Party",
+        "name": "Keith Seaman",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:16",
         "overwrite_name": "Keith Seaman",
         "emails": [
-          "jparker@azleg.gov"
+          "kseaman@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3375"
+          "(602) 926-3760"
         ]
       }
     ]
@@ -30582,15 +31322,15 @@
     ],
     "officials": [
       {
-        "name": "Keith Seaman",
-        "party": "Democratic Party",
+        "name": "Cory McGarr",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:17",
         "overwrite_name": "Cory McGarr",
         "emails": [
-          "kseaman@azleg.gov"
+          "cmcgarr@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3760"
+          "(602) 926-3630"
         ]
       }
     ]
@@ -30656,15 +31396,15 @@
     ],
     "officials": [
       {
-        "name": "Cory McGarr",
-        "party": "Republican Party",
+        "name": "Chris Mathis",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:18",
         "overwrite_name": "Chris Mathis",
         "emails": [
-          "cmcgarr@azleg.gov"
+          "cmathis@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3630"
+          "(602) 926-3138"
         ]
       }
     ]
@@ -30730,15 +31470,15 @@
     ],
     "officials": [
       {
-        "name": "Chris Mathis",
-        "party": "Democratic Party",
+        "name": "Gail Griffin",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:19",
         "overwrite_name": "Gail Griffin",
         "emails": [
-          "cmathis@azleg.gov"
+          "ggriffin@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3138"
+          "(602) 926-5895"
         ]
       }
     ]
@@ -30804,15 +31544,15 @@
     ],
     "officials": [
       {
-        "name": "Gail Griffin",
-        "party": "Republican Party",
+        "name": "Alma Hernandez",
+        "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:20",
         "overwrite_name": "Alma Hernandez",
         "emails": [
-          "ggriffin@azleg.gov"
+          "ahernandez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-5895"
+          "(602) 926-3136"
         ]
       }
     ]
@@ -30878,15 +31618,15 @@
     ],
     "officials": [
       {
-        "name": "Alma Hernandez",
+        "name": "Consuelo Hernandez",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:21",
         "overwrite_name": "Consuelo Hernandez",
         "emails": [
-          "ahernandez@azleg.gov"
+          "chernandez@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3136"
+          "(602) 926-3523"
         ]
       }
     ]
@@ -30915,15 +31655,15 @@
     ],
     "officials": [
       {
-        "name": "Consuelo Hernandez",
+        "name": "Stephanie Stahl Hamilton",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:21",
         "overwrite_name": "Stephanie Stahl Hamilton",
         "emails": [
-          "chernandez@azleg.gov"
+          "sstahlhamilton@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3523"
+          "(602) 926-3279"
         ]
       }
     ]
@@ -30952,15 +31692,15 @@
     ],
     "officials": [
       {
-        "name": "Stephanie Stahl Hamilton",
+        "name": "Leezah Elsa Sun",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:22",
         "overwrite_name": "Leezah Elsa Sun",
         "emails": [
-          "sstahlhamilton@azleg.gov"
+          "lsun@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3279"
+          "(602) 926-3881"
         ]
       }
     ]
@@ -31026,15 +31766,15 @@
     ],
     "officials": [
       {
-        "name": "Leezah Elsa Sun",
+        "name": "Mariana Sandoval",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:23",
         "overwrite_name": "Mariana Sandoval",
         "emails": [
-          "lsun@azleg.gov"
+          "msandoval@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3881"
+          "(602) 926-3740"
         ]
       }
     ]
@@ -31100,15 +31840,15 @@
     ],
     "officials": [
       {
-        "name": "Mariana Sandoval",
+        "name": "Analise Ortiz",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:24",
         "overwrite_name": "Analise Ortiz",
         "emails": [
-          "msandoval@azleg.gov"
+          "analise.ortiz@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3740"
+          "(602) 926-3633"
         ]
       }
     ]
@@ -31174,15 +31914,15 @@
     ],
     "officials": [
       {
-        "name": "Analise Ortiz",
-        "party": "Democratic Party",
+        "name": "Michael Carbone",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:25",
         "overwrite_name": "Michael Carbone",
         "emails": [
-          "analise.ortiz@azleg.gov"
+          "mcarbone@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3633"
+          "(602) 926-4038"
         ]
       }
     ]
@@ -31211,47 +31951,10 @@
     ],
     "officials": [
       {
-        "name": "Michael Carbone",
+        "name": "Timothy M Dunn",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:25",
         "overwrite_name": "Timothy \"Tim\" Dunn",
-        "emails": [
-          "mcarbone@azleg.gov"
-        ],
-        "phones": [
-          "(602) 926-4038"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:az/sldl:26": {
-        "name": "Arizona State House district 26",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "AZ State House District 26",
-        "divisionId": "ocd-division/country:us/state:az/sldl:26",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Timothy M Dunn",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
-        "overwrite_name": "Cesar Aguilar",
         "emails": [
           "tdunn@azleg.gov"
         ],
@@ -31288,12 +31991,49 @@
         "name": "Cesar Aguilar",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
-        "overwrite_name": "Flavio Bravo",
+        "overwrite_name": "Cesar Aguilar",
         "emails": [
           "caguilar@azleg.gov"
         ],
         "phones": [
           "(602) 926-3953"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:az/sldl:26": {
+        "name": "Arizona State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "AZ State House District 26",
+        "divisionId": "ocd-division/country:us/state:az/sldl:26",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Flavio Bravo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:26",
+        "overwrite_name": "Flavio Bravo",
+        "emails": [
+          "fbravo@azleg.gov"
+        ],
+        "phones": [
+          "(602) 926-4033"
         ]
       }
     ]
@@ -31322,15 +32062,15 @@
     ],
     "officials": [
       {
-        "name": "Flavio Bravo",
-        "party": "Democratic Party",
+        "name": "Ben Toma",
+        "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:27",
         "overwrite_name": "Ben Toma",
         "emails": [
-          "fbravo@azleg.gov"
+          "btoma@azleg.gov"
         ],
         "phones": [
-          "(602) 26-4033"
+          "(602) 926-3298"
         ]
       }
     ]
@@ -31396,15 +32136,15 @@
     ],
     "officials": [
       {
-        "name": "Ben Toma",
+        "name": "Beverly Pingerelli",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:28",
         "overwrite_name": "Beverly Pingerelli",
         "emails": [
-          "btoma@azleg.gov"
+          "bpingerelli@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3298"
+          "(602) 926-3396"
         ]
       }
     ]
@@ -31470,15 +32210,15 @@
     ],
     "officials": [
       {
-        "name": "Beverly Pingerelli",
+        "name": "Austin Smith",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:29",
         "overwrite_name": "Austin Smith",
         "emails": [
-          "bpingerelli@azleg.gov"
+          "austin.smith@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3396"
+          "(602) 926-3831"
         ]
       }
     ]
@@ -31544,15 +32284,15 @@
     ],
     "officials": [
       {
-        "name": "Austin Smith",
+        "name": "John Gillette",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:az/sldl:30",
         "overwrite_name": "John Gillette",
         "emails": [
-          "austin.smith@azleg.gov"
+          "jgillette@azleg.gov"
         ],
         "phones": [
-          "(602) 926-3831"
+          "(602) 926-4100"
         ]
       }
     ]
@@ -60728,6 +61468,5593 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:me/sldl:1": {
+        "name": "Maine State House district 1",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 1",
+        "divisionId": "ocd-division/country:us/state:me/sldl:1",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Austin L. Theriault",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:1",
+        "overwrite_name": "Austin L. Theriault",
+        "emails": [
+          "Austin.Theriault@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:2": {
+        "name": "Maine State House district 2",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 2",
+        "divisionId": "ocd-division/country:us/state:me/sldl:2",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Roger Clarence Albert",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:2",
+        "overwrite_name": "Roger Clarence Albert",
+        "emails": [
+          "Roger.Albert@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:3": {
+        "name": "Maine State House district 3",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 3",
+        "divisionId": "ocd-division/country:us/state:me/sldl:3",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Michael Babin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:3",
+        "overwrite_name": "Mark Michael Babin",
+        "emails": [
+          "Mark.Babin@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:4": {
+        "name": "Maine State House district 4",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 4",
+        "divisionId": "ocd-division/country:us/state:me/sldl:4",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Timothy C. Guerrette",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:4",
+        "overwrite_name": "Timothy C. Guerrette",
+        "emails": [
+          "Timothy.Guerrette@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:5": {
+        "name": "Maine State House district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 5",
+        "divisionId": "ocd-division/country:us/state:me/sldl:5",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph F. Underwood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:5",
+        "overwrite_name": "Joseph F. Underwood",
+        "emails": [
+          "Joseph.Underwood@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:6": {
+        "name": "Maine State House district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 6",
+        "divisionId": "ocd-division/country:us/state:me/sldl:6",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Donald J. Ardell",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:6",
+        "overwrite_name": "Donald J. Ardell",
+        "emails": [
+          "Donald.Ardell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:7": {
+        "name": "Maine State House district 7",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 7",
+        "divisionId": "ocd-division/country:us/state:me/sldl:7",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gregory L. Swallow",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:7",
+        "overwrite_name": "Gregory L. Swallow",
+        "emails": [
+          "Gregory.Swallow@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:8": {
+        "name": "Maine State House district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 8",
+        "divisionId": "ocd-division/country:us/state:me/sldl:8",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tracy Lynn Quint",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:8",
+        "overwrite_name": "Tracy Lynn Quint",
+        "emails": [
+          "Tracy.Quint@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:9": {
+        "name": "Maine State House district 9",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 9",
+        "divisionId": "ocd-division/country:us/state:me/sldl:9",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anne C. Perry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:9",
+        "overwrite_name": "Anne C. Perry",
+        "emails": [
+          "Anne.Perry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:10": {
+        "name": "Maine State House district 10",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 10",
+        "divisionId": "ocd-division/country:us/state:me/sldl:10",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kenneth Ralph Davis, Jr.",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:10",
+        "overwrite_name": "Kenneth Ralph Davis, Jr.",
+        "emails": [
+          "Kenneth.Davis@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:11": {
+        "name": "Maine State House district 11",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 11",
+        "divisionId": "ocd-division/country:us/state:me/sldl:11",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tiffany Strout",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:11",
+        "overwrite_name": "Tiffany Strout",
+        "emails": [
+          "Tiffany.Strout@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:12": {
+        "name": "Maine State House district 12",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 12",
+        "divisionId": "ocd-division/country:us/state:me/sldl:12",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Billy Bob Faulkingham",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:12",
+        "overwrite_name": "Billy Bob Faulkingham",
+        "emails": [
+          "William.Faulkingham@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:13": {
+        "name": "Maine State House district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 13",
+        "divisionId": "ocd-division/country:us/state:me/sldl:13",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "J. Mark Worth",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:13",
+        "overwrite_name": "J. Mark Worth",
+        "emails": [
+          "James.Worth@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:14": {
+        "name": "Maine State House district 14",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 14",
+        "divisionId": "ocd-division/country:us/state:me/sldl:14",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lynne A. Williams",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:14",
+        "overwrite_name": "Lynne A. Williams",
+        "emails": [
+          "Lynne.Williams@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:15": {
+        "name": "Maine State House district 15",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 15",
+        "divisionId": "ocd-division/country:us/state:me/sldl:15",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Holly Eaton",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:15",
+        "overwrite_name": "Holly Eaton",
+        "emails": [
+          "Holly.Eaton@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:16": {
+        "name": "Maine State House district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 16",
+        "divisionId": "ocd-division/country:us/state:me/sldl:16",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nina Azella Milliken",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:16",
+        "overwrite_name": "Nina Azella Milliken",
+        "emails": [
+          "Nina.Milliken@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:17": {
+        "name": "Maine State House district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 17",
+        "divisionId": "ocd-division/country:us/state:me/sldl:17",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ronald B. Russell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:17",
+        "overwrite_name": "Ronald B. Russell",
+        "emails": [
+          "Ronald.Russell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:18": {
+        "name": "Maine State House district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 18",
+        "divisionId": "ocd-division/country:us/state:me/sldl:18",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Meldon H. Carmichael",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:18",
+        "overwrite_name": "Meldon H. Carmichael",
+        "emails": [
+          "Meldon.Carmichael@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:19": {
+        "name": "Maine State House district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 19",
+        "divisionId": "ocd-division/country:us/state:me/sldl:19",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard H. Campbell",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:19",
+        "overwrite_name": "Richard H. Campbell",
+        "emails": [
+          "Dick.Campbell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:20": {
+        "name": "Maine State House district 20",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 20",
+        "divisionId": "ocd-division/country:us/state:me/sldl:20",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin J.M. O'Connell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:20",
+        "overwrite_name": "Kevin J.M. O'Connell",
+        "emails": [
+          "Kevin.OConnell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:21": {
+        "name": "Maine State House district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 21",
+        "divisionId": "ocd-division/country:us/state:me/sldl:21",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ambureen Rana",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:21",
+        "overwrite_name": "Ambureen Rana",
+        "emails": [
+          "Ambureen.Rana@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:22": {
+        "name": "Maine State House district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 22",
+        "divisionId": "ocd-division/country:us/state:me/sldl:22",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laura D. Supica",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:22",
+        "overwrite_name": "Laura D. Supica",
+        "emails": [
+          "Laura.Supica@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:23": {
+        "name": "Maine State House district 23",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 23",
+        "divisionId": "ocd-division/country:us/state:me/sldl:23",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Amy J. Roeder",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:23",
+        "overwrite_name": "Amy J. Roeder",
+        "emails": [
+          "Amy.Roeder@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:24": {
+        "name": "Maine State House district 24",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 24",
+        "divisionId": "ocd-division/country:us/state:me/sldl:24",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph C. Perry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:24",
+        "overwrite_name": "Joseph C. Perry",
+        "emails": [
+          "Joseph.Perry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:25": {
+        "name": "Maine State House district 25",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 25",
+        "divisionId": "ocd-division/country:us/state:me/sldl:25",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laurie J. Osher",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:25",
+        "overwrite_name": "Laurie J. Osher",
+        "emails": [
+          "Laurie.Osher@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:26": {
+        "name": "Maine State House district 26",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 26",
+        "divisionId": "ocd-division/country:us/state:me/sldl:26",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James F. Dill",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:26",
+        "overwrite_name": "James F. Dill",
+        "emails": [
+          "James.Dill@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:27": {
+        "name": "Maine State House district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 27",
+        "divisionId": "ocd-division/country:us/state:me/sldl:27",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Gary Drinkwater",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:27",
+        "overwrite_name": "Gary Drinkwater",
+        "emails": [
+          "Gary.Drinkwater@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:28": {
+        "name": "Maine State House district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 28",
+        "divisionId": "ocd-division/country:us/state:me/sldl:28",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Irene A. Gifford",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:28",
+        "overwrite_name": "Irene A. Gifford",
+        "emails": [
+          "Irene.Gifford@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:29": {
+        "name": "Maine State House district 29",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 29",
+        "divisionId": "ocd-division/country:us/state:me/sldl:29",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kathy Irene Javner",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:29",
+        "overwrite_name": "Kathy Irene Javner",
+        "emails": [
+          "Kathy.Javner@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:30": {
+        "name": "Maine State House district 30",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 30",
+        "divisionId": "ocd-division/country:us/state:me/sldl:30",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James Lee White",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:30",
+        "overwrite_name": "James Lee White",
+        "emails": [
+          "James.White@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:31": {
+        "name": "Maine State House district 31",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 31",
+        "divisionId": "ocd-division/country:us/state:me/sldl:31",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Chad Richard Perkins",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:31",
+        "overwrite_name": "Chad Richard Perkins",
+        "emails": [
+          "Chad.Perkins@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:32": {
+        "name": "Maine State House district 32",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 32",
+        "divisionId": "ocd-division/country:us/state:me/sldl:32",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steven D. Foster",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:32",
+        "overwrite_name": "Steven D. Foster",
+        "emails": [
+          "Steven.Foster@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:33": {
+        "name": "Maine State House district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 33",
+        "divisionId": "ocd-division/country:us/state:me/sldl:33",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Danny E. Costain",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:33",
+        "overwrite_name": "Danny E. Costain",
+        "emails": [
+          "Dan.Costain@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:34": {
+        "name": "Maine State House district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 34",
+        "divisionId": "ocd-division/country:us/state:me/sldl:34",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Abigail W. Griffin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:34",
+        "overwrite_name": "Abigail W. Griffin",
+        "emails": [
+          "Abigail.Griffin@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:35": {
+        "name": "Maine State House district 35",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 35",
+        "divisionId": "ocd-division/country:us/state:me/sldl:35",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James E. Thorne",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:35",
+        "overwrite_name": "James E. Thorne",
+        "emails": [
+          "Jim.Thorne@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:36": {
+        "name": "Maine State House district 36",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 36",
+        "divisionId": "ocd-division/country:us/state:me/sldl:36",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David G. Haggan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:36",
+        "overwrite_name": "David G. Haggan",
+        "emails": [
+          "David.Haggan@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:37": {
+        "name": "Maine State House district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 37",
+        "divisionId": "ocd-division/country:us/state:me/sldl:37",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Reagan L. Paul",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:37",
+        "overwrite_name": "Reagan L. Paul",
+        "emails": [
+          "Reagan.Paul@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:38": {
+        "name": "Maine State House district 38",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 38",
+        "divisionId": "ocd-division/country:us/state:me/sldl:38",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Benjamin C. Hymes",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:38",
+        "overwrite_name": "Benjamin C. Hymes",
+        "emails": [
+          "Benjamin.Hymes@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:39": {
+        "name": "Maine State House district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 39",
+        "divisionId": "ocd-division/country:us/state:me/sldl:39",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Janice S. Dodge",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:39",
+        "overwrite_name": "Janice S. Dodge",
+        "emails": [
+          "Jan.Dodge@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:40": {
+        "name": "Maine State House district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 40",
+        "divisionId": "ocd-division/country:us/state:me/sldl:40",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stanley Paige Zeigler, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:40",
+        "overwrite_name": "Stanley Paige Zeigler, Jr.",
+        "emails": [
+          "StanleyPaige.Zeigler@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:41": {
+        "name": "Maine State House district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 41",
+        "divisionId": "ocd-division/country:us/state:me/sldl:41",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Victoria W. Doudera",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:41",
+        "overwrite_name": "Victoria W. Doudera",
+        "emails": [
+          "Vicki.Doudera@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:42": {
+        "name": "Maine State House district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 42",
+        "divisionId": "ocd-division/country:us/state:me/sldl:42",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Valli D. Geiger",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:42",
+        "overwrite_name": "Valli D. Geiger",
+        "emails": [
+          "Valli.Geiger@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:43": {
+        "name": "Maine State House district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 43",
+        "divisionId": "ocd-division/country:us/state:me/sldl:43",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ann Higgins Matlack",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:43",
+        "overwrite_name": "Ann Higgins Matlack",
+        "emails": [
+          "Ann.Matlack@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:44": {
+        "name": "Maine State House district 44",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 44",
+        "divisionId": "ocd-division/country:us/state:me/sldl:44",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William Pluecker",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:44",
+        "overwrite_name": "William Pluecker",
+        "emails": [
+          "Bill.Pluecker@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:45": {
+        "name": "Maine State House district 45",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 45",
+        "divisionId": "ocd-division/country:us/state:me/sldl:45",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Clinton E. Collamore",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:45",
+        "overwrite_name": "Clinton E. Collamore",
+        "emails": [
+          "Clinton.Collamore@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:46": {
+        "name": "Maine State House district 46",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 46",
+        "divisionId": "ocd-division/country:us/state:me/sldl:46",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lydia V. Crafts",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:46",
+        "overwrite_name": "Lydia V. Crafts",
+        "emails": [
+          "Lydia.Crafts@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:47": {
+        "name": "Maine State House district 47",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 47",
+        "divisionId": "ocd-division/country:us/state:me/sldl:47",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Edward J. Polewarczyk",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:47",
+        "overwrite_name": "Edward J. Polewarczyk",
+        "emails": [
+          "Edward.Polewarczyk@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:48": {
+        "name": "Maine State House district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 48",
+        "divisionId": "ocd-division/country:us/state:me/sldl:48",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Holly B. Stover",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:48",
+        "overwrite_name": "Holly B. Stover",
+        "emails": [
+          "Holly.Stover@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:49": {
+        "name": "Maine State House district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 49",
+        "divisionId": "ocd-division/country:us/state:me/sldl:49",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Allison L. Hepler",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:49",
+        "overwrite_name": "Allison L. Hepler",
+        "emails": [
+          "Allison.Hepler@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:50": {
+        "name": "Maine State House district 50",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 50",
+        "divisionId": "ocd-division/country:us/state:me/sldl:50",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sean C. Paulhus",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:50",
+        "overwrite_name": "Sean C. Paulhus",
+        "emails": [
+          "Sean.Paulhus@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:51": {
+        "name": "Maine State House district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 51",
+        "divisionId": "ocd-division/country:us/state:me/sldl:51",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca L. Jauch",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:51",
+        "overwrite_name": "Rebecca L. Jauch",
+        "emails": [
+          "Rebecca.Jauch@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:52": {
+        "name": "Maine State House district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 52",
+        "divisionId": "ocd-division/country:us/state:me/sldl:52",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sally Jeane Cluchey",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:52",
+        "overwrite_name": "Sally Jeane Cluchey",
+        "emails": [
+          "Sally.Cluchey@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:53": {
+        "name": "Maine State House district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 53",
+        "divisionId": "ocd-division/country:us/state:me/sldl:53",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Lemelin",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:53",
+        "overwrite_name": "Michael Lemelin",
+        "emails": [
+          "Michael.Lemelin@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:54": {
+        "name": "Maine State House district 54",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 54",
+        "divisionId": "ocd-division/country:us/state:me/sldl:54",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karen L. Montell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:54",
+        "overwrite_name": "Karen L. Montell",
+        "emails": [
+          "Karen.Montell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:55": {
+        "name": "Maine State House district 55",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 55",
+        "divisionId": "ocd-division/country:us/state:me/sldl:55",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel Joseph Shagoury",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:55",
+        "overwrite_name": "Daniel Joseph Shagoury",
+        "emails": [
+          "Daniel.Shagoury@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:56": {
+        "name": "Maine State House district 56",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 56",
+        "divisionId": "ocd-division/country:us/state:me/sldl:56",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randall Adam Greenwood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:56",
+        "overwrite_name": "Randall Adam Greenwood",
+        "emails": [
+          "Randall.Greenwood@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:57": {
+        "name": "Maine State House district 57",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 57",
+        "divisionId": "ocd-division/country:us/state:me/sldl:57",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tavis Rock Hasenfus",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:57",
+        "overwrite_name": "Tavis Rock Hasenfus",
+        "emails": [
+          "Tavis.Hasenfus@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:58": {
+        "name": "Maine State House district 58",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 58",
+        "divisionId": "ocd-division/country:us/state:me/sldl:58",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel J. Newman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:58",
+        "overwrite_name": "Daniel J. Newman",
+        "emails": [
+          "Daniel.Newman@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:59": {
+        "name": "Maine State House district 59",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 59",
+        "divisionId": "ocd-division/country:us/state:me/sldl:59",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Raegan French LaRochelle",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:59",
+        "overwrite_name": "Raegan French LaRochelle",
+        "emails": [
+          "Raegan.LaRochelle@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:60": {
+        "name": "Maine State House district 60",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 60",
+        "divisionId": "ocd-division/country:us/state:me/sldl:60",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "William R. Bridgeo",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:60",
+        "overwrite_name": "William R. Bridgeo",
+        "emails": [
+          "William.Bridgeo@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:61": {
+        "name": "Maine State House district 61",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 61",
+        "divisionId": "ocd-division/country:us/state:me/sldl:61",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard T. Bradstreet",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:61",
+        "overwrite_name": "Richard T. Bradstreet",
+        "emails": [
+          "Dick.Bradstreet@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:62": {
+        "name": "Maine State House district 62",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 62",
+        "divisionId": "ocd-division/country:us/state:me/sldl:62",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Katrina J. Smith",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:62",
+        "overwrite_name": "Katrina J. Smith",
+        "emails": [
+          "Katrina.Smith@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:63": {
+        "name": "Maine State House district 63",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 63",
+        "divisionId": "ocd-division/country:us/state:me/sldl:63",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Scott Wynn Cyrway",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:63",
+        "overwrite_name": "Scott Wynn Cyrway",
+        "emails": [
+          "Scott.Cyrway@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:64": {
+        "name": "Maine State House district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 64",
+        "divisionId": "ocd-division/country:us/state:me/sldl:64",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Colleen M. Madigan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:64",
+        "overwrite_name": "Colleen M. Madigan",
+        "emails": [
+          "Colleen.Madigan@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:65": {
+        "name": "Maine State House district 65",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 65",
+        "divisionId": "ocd-division/country:us/state:me/sldl:65",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bruce A. White",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:65",
+        "overwrite_name": "Bruce A. White",
+        "emails": [
+          "Bruce.White@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:66": {
+        "name": "Maine State House district 66",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 66",
+        "divisionId": "ocd-division/country:us/state:me/sldl:66",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert W. Nutting",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:66",
+        "overwrite_name": "Robert W. Nutting",
+        "emails": [
+          "Robert.Nutting@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:67": {
+        "name": "Maine State House district 67",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 67",
+        "divisionId": "ocd-division/country:us/state:me/sldl:67",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Shelley J. Rudnicki",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:67",
+        "overwrite_name": "Shelley J. Rudnicki",
+        "emails": [
+          "Shelley.Rudnicki@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:68": {
+        "name": "Maine State House district 68",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 68",
+        "divisionId": "ocd-division/country:us/state:me/sldl:68",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Amanda Noelle Collamore",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:68",
+        "overwrite_name": "Amanda Noelle Collamore",
+        "emails": [
+          "Amanda.Collamore@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:69": {
+        "name": "Maine State House district 69",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 69",
+        "divisionId": "ocd-division/country:us/state:me/sldl:69",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Dean A. Cray",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:69",
+        "overwrite_name": "Dean A. Cray",
+        "emails": [
+          "dean.cray@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:70": {
+        "name": "Maine State House district 70",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 70",
+        "divisionId": "ocd-division/country:us/state:me/sldl:70",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer Lynn Poirier",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:70",
+        "overwrite_name": "Jennifer Lynn Poirier",
+        "emails": [
+          "Jennifer.Poirier@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:71": {
+        "name": "Maine State House district 71",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 71",
+        "divisionId": "ocd-division/country:us/state:me/sldl:71",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John E. Ducharme III",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:71",
+        "overwrite_name": "John E. Ducharme III",
+        "emails": [
+          "Jack.Ducharme@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:72": {
+        "name": "Maine State House district 72",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 72",
+        "divisionId": "ocd-division/country:us/state:me/sldl:72",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Larry C. Dunphy",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:72",
+        "overwrite_name": "Larry C. Dunphy",
+        "emails": [
+          "Larry.Dunphy@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:73": {
+        "name": "Maine State House district 73",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 73",
+        "divisionId": "ocd-division/country:us/state:me/sldl:73",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael Soboleski",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:73",
+        "overwrite_name": "Michael Soboleski",
+        "emails": [
+          "Michael.Soboleski@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:74": {
+        "name": "Maine State House district 74",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 74",
+        "divisionId": "ocd-division/country:us/state:me/sldl:74",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Randall C. Hall",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:74",
+        "overwrite_name": "Randall C. Hall",
+        "emails": [
+          "Randall.Hall@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:75": {
+        "name": "Maine State House district 75",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 75",
+        "divisionId": "ocd-division/country:us/state:me/sldl:75",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "H. Scott Landry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:75",
+        "overwrite_name": "H. Scott Landry",
+        "emails": [
+          "Scott.Landry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:76": {
+        "name": "Maine State House district 76",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 76",
+        "divisionId": "ocd-division/country:us/state:me/sldl:76",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sheila A. Lyman",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:76",
+        "overwrite_name": "Sheila A. Lyman",
+        "emails": [
+          "Sheila.Lyman@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:77": {
+        "name": "Maine State House district 77",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 77",
+        "divisionId": "ocd-division/country:us/state:me/sldl:77",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tammy L. Schmersal-Burgess",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:77",
+        "overwrite_name": "Tammy L. Schmersal-Burgess",
+        "emails": [
+          "Tammy.Schmersal-Burgess@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:78": {
+        "name": "Maine State House district 78",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 78",
+        "divisionId": "ocd-division/country:us/state:me/sldl:78",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rachel Ann Henderson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:78",
+        "overwrite_name": "Rachel Ann Henderson",
+        "emails": [
+          "Rachel.Henderson@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:79": {
+        "name": "Maine State House district 79",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 79",
+        "divisionId": "ocd-division/country:us/state:me/sldl:79",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John E. Andrews",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:79",
+        "overwrite_name": "John E. Andrews",
+        "emails": [
+          "John.Andrews@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:80": {
+        "name": "Maine State House district 80",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 80",
+        "divisionId": "ocd-division/country:us/state:me/sldl:80",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Caldwell Jackson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:80",
+        "overwrite_name": "Caldwell Jackson",
+        "emails": [
+          "Caldwell.Jackson@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:81": {
+        "name": "Maine State House district 81",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 81",
+        "divisionId": "ocd-division/country:us/state:me/sldl:81",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "H. Sawin Millett, Jr.",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:81",
+        "overwrite_name": "H. Sawin Millett, Jr.",
+        "emails": [
+          "Sawin.Millett@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:82": {
+        "name": "Maine State House district 82",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 82",
+        "divisionId": "ocd-division/country:us/state:me/sldl:82",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Caleb Joshua Ness",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:82",
+        "overwrite_name": "Caleb Joshua Ness",
+        "emails": [
+          "Caleb.Ness@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:83": {
+        "name": "Maine State House district 83",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 83",
+        "divisionId": "ocd-division/country:us/state:me/sldl:83",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Walter Riseman",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:83",
+        "overwrite_name": "Walter Riseman",
+        "emails": [
+          "Walter.Riseman@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:84": {
+        "name": "Maine State House district 84",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 84",
+        "divisionId": "ocd-division/country:us/state:me/sldl:84",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark Walker",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:84",
+        "overwrite_name": "Mark Walker",
+        "emails": [
+          "Mark.Walker@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:85": {
+        "name": "Maine State House district 85",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 85",
+        "divisionId": "ocd-division/country:us/state:me/sldl:85",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kimberly J. Pomerleau",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:85",
+        "overwrite_name": "Kimberly J. Pomerleau",
+        "emails": [
+          "Kimberly.Pomerleau@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:86": {
+        "name": "Maine State House district 86",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 86",
+        "divisionId": "ocd-division/country:us/state:me/sldl:86",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jessica L. Fay",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:86",
+        "overwrite_name": "Jessica L. Fay",
+        "emails": [
+          "Jessica.Fay@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:87": {
+        "name": "Maine State House district 87",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 87",
+        "divisionId": "ocd-division/country:us/state:me/sldl:87",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David W. Boyer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:87",
+        "overwrite_name": "David W. Boyer",
+        "emails": [
+          "David.Boyer@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:88": {
+        "name": "Maine State House district 88",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 88",
+        "divisionId": "ocd-division/country:us/state:me/sldl:88",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kathleen A. Shaw",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:88",
+        "overwrite_name": "Kathleen A. Shaw",
+        "emails": [
+          "Kathleen.Shaw@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:89": {
+        "name": "Maine State House district 89",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 89",
+        "divisionId": "ocd-division/country:us/state:me/sldl:89",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Adam R. Lee",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:89",
+        "overwrite_name": "Adam R. Lee",
+        "emails": [
+          "Adam.Lee@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:90": {
+        "name": "Maine State House district 90",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 90",
+        "divisionId": "ocd-division/country:us/state:me/sldl:90",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Laurel D. Libby",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:90",
+        "overwrite_name": "Laurel D. Libby",
+        "emails": [
+          "Laurel.Libby@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:91": {
+        "name": "Maine State House district 91",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 91",
+        "divisionId": "ocd-division/country:us/state:me/sldl:91",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joshua K. Morris",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:91",
+        "overwrite_name": "Joshua K. Morris",
+        "emails": [
+          "Joshua.Morris@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:92": {
+        "name": "Maine State House district 92",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 92",
+        "divisionId": "ocd-division/country:us/state:me/sldl:92",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephen J. Wood",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:92",
+        "overwrite_name": "Stephen J. Wood",
+        "emails": [
+          "Stephen.Wood@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:93": {
+        "name": "Maine State House district 93",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 93",
+        "divisionId": "ocd-division/country:us/state:me/sldl:93",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Margaret M. Craven",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:93",
+        "overwrite_name": "Margaret M. Craven",
+        "emails": [
+          "Margaret.Craven@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:94": {
+        "name": "Maine State House district 94",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 94",
+        "divisionId": "ocd-division/country:us/state:me/sldl:94",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristen Sarah Cloutier",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:94",
+        "overwrite_name": "Kristen Sarah Cloutier",
+        "emails": [
+          "Kristen.Cloutier@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:95": {
+        "name": "Maine State House district 95",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 95",
+        "divisionId": "ocd-division/country:us/state:me/sldl:95",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mana H. Abdi",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:95",
+        "overwrite_name": "Mana H. Abdi",
+        "emails": [
+          "Mana.Abdi@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:96": {
+        "name": "Maine State House district 96",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 96",
+        "divisionId": "ocd-division/country:us/state:me/sldl:96",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michel A. Lajoie",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:96",
+        "overwrite_name": "Michel A. Lajoie",
+        "emails": [
+          "Michel.Lajoie@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:97": {
+        "name": "Maine State House district 97",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 97",
+        "divisionId": "ocd-division/country:us/state:me/sldl:97",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard G. Mason",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:97",
+        "overwrite_name": "Richard G. Mason",
+        "emails": [
+          "Richard.Mason@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:98": {
+        "name": "Maine State House district 98",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 98",
+        "divisionId": "ocd-division/country:us/state:me/sldl:98",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Joseph C. Galletta",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:98",
+        "overwrite_name": "Joseph C. Galletta",
+        "emails": [
+          "Joseph.Galletta@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:99": {
+        "name": "Maine State House district 99",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 99",
+        "divisionId": "ocd-division/country:us/state:me/sldl:99",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Cheryl A. Golek",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:99",
+        "overwrite_name": "Cheryl A. Golek",
+        "emails": [
+          "Cheryl.Golek@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:100": {
+        "name": "Maine State House district 100",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 100",
+        "divisionId": "ocd-division/country:us/state:me/sldl:100",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel J. Ankeles",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:100",
+        "overwrite_name": "Daniel J. Ankeles",
+        "emails": [
+          "Daniel.Ankeles@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:101": {
+        "name": "Maine State House district 101",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 101",
+        "divisionId": "ocd-division/country:us/state:me/sldl:101",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Poppy T. Arford",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:101",
+        "overwrite_name": "Poppy T. Arford",
+        "emails": [
+          "Poppy.Arford@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:102": {
+        "name": "Maine State House district 102",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 102",
+        "divisionId": "ocd-division/country:us/state:me/sldl:102",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Melanie F. Sachs",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:102",
+        "overwrite_name": "Melanie F. Sachs",
+        "emails": [
+          "Melanie.Sachs@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:103": {
+        "name": "Maine State House district 103",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 103",
+        "divisionId": "ocd-division/country:us/state:me/sldl:103",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Arthur L. Bell",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:103",
+        "overwrite_name": "Arthur L. Bell",
+        "emails": [
+          "Arthur.Bell@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:104": {
+        "name": "Maine State House district 104",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 104",
+        "divisionId": "ocd-division/country:us/state:me/sldl:104",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Amy Bradstreet Arata",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:104",
+        "overwrite_name": "Amy Bradstreet Arata",
+        "emails": [
+          "Amy.Arata@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:105": {
+        "name": "Maine State House district 105",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 105",
+        "divisionId": "ocd-division/country:us/state:me/sldl:105",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anne Graham",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:105",
+        "overwrite_name": "Anne Graham",
+        "emails": [
+          "Anne.Graham@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:106": {
+        "name": "Maine State House district 106",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 106",
+        "divisionId": "ocd-division/country:us/state:me/sldl:106",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Barbara A. Bagshaw",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:106",
+        "overwrite_name": "Barbara A. Bagshaw",
+        "emails": [
+          "Barbara.Bagshaw@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:107": {
+        "name": "Maine State House district 107",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 107",
+        "divisionId": "ocd-division/country:us/state:me/sldl:107",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jane Pringle",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:107",
+        "overwrite_name": "Jane Pringle",
+        "emails": [
+          "jane.pringle@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:108": {
+        "name": "Maine State House district 108",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 108",
+        "divisionId": "ocd-division/country:us/state:me/sldl:108",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Maureen Fitzgerald Terry",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:108",
+        "overwrite_name": "Maureen Fitzgerald Terry",
+        "emails": [
+          "Maureen.Terry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:109": {
+        "name": "Maine State House district 109",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 109",
+        "divisionId": "ocd-division/country:us/state:me/sldl:109",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "James Allen Boyle",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:109",
+        "overwrite_name": "James Allen Boyle",
+        "emails": [
+          "James.Boyle@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:110": {
+        "name": "Maine State House district 110",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 110",
+        "divisionId": "ocd-division/country:us/state:me/sldl:110",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Stephen W. Moriarty",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:110",
+        "overwrite_name": "Stephen W. Moriarty",
+        "emails": [
+          "Steve.Moriarty@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:111": {
+        "name": "Maine State House district 111",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 111",
+        "divisionId": "ocd-division/country:us/state:me/sldl:111",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Amy D. Kuhn",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:111",
+        "overwrite_name": "Amy D. Kuhn",
+        "emails": [
+          "Amy.Kuhn@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:112": {
+        "name": "Maine State House district 112",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 112",
+        "divisionId": "ocd-division/country:us/state:me/sldl:112",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "W. Edward Crockett",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:112",
+        "overwrite_name": "W. Edward Crockett",
+        "emails": [
+          "Ed.Crockett@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:113": {
+        "name": "Maine State House district 113",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 113",
+        "divisionId": "ocd-division/country:us/state:me/sldl:113",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Grayson B. Lookner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:113",
+        "overwrite_name": "Grayson B. Lookner",
+        "emails": [
+          "Grayson.Lookner@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:114": {
+        "name": "Maine State House district 114",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 114",
+        "divisionId": "ocd-division/country:us/state:me/sldl:114",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Benjamin T. Collings",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:114",
+        "overwrite_name": "Benjamin T. Collings",
+        "emails": [
+          "Benjamin.Collings@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:115": {
+        "name": "Maine State House district 115",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 115",
+        "divisionId": "ocd-division/country:us/state:me/sldl:115",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michael F. Brennan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:115",
+        "overwrite_name": "Michael F. Brennan",
+        "emails": [
+          "Michael.Brennan@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:116": {
+        "name": "Maine State House district 116",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 116",
+        "divisionId": "ocd-division/country:us/state:me/sldl:116",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Samuel Lewis Zager",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:116",
+        "overwrite_name": "Samuel Lewis Zager",
+        "emails": [
+          "Sam.Zager@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:117": {
+        "name": "Maine State House district 117",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 117",
+        "divisionId": "ocd-division/country:us/state:me/sldl:117",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matthew Moonen",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:117",
+        "overwrite_name": "Matthew Moonen",
+        "emails": [
+          "Matt.Moonen@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:118": {
+        "name": "Maine State House district 118",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 118",
+        "divisionId": "ocd-division/country:us/state:me/sldl:118",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rachel Talbot Ross",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:118",
+        "overwrite_name": "Rachel Talbot Ross",
+        "emails": [
+          "Rachel.TalbotRoss@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:119": {
+        "name": "Maine State House district 119",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 119",
+        "divisionId": "ocd-division/country:us/state:me/sldl:119",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Charles A. Skold",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:119",
+        "overwrite_name": "Charles A. Skold",
+        "emails": [
+          "Charles.Skold@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:120": {
+        "name": "Maine State House district 120",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 120",
+        "divisionId": "ocd-division/country:us/state:me/sldl:120",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Deqa Dhalac",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:120",
+        "overwrite_name": "Deqa Dhalac",
+        "emails": [
+          "Deqa.Dhalac@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:121": {
+        "name": "Maine State House district 121",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 121",
+        "divisionId": "ocd-division/country:us/state:me/sldl:121",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christopher J. Kessler",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:121",
+        "overwrite_name": "Christopher J. Kessler",
+        "emails": [
+          "Christopher.Kessler@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:122": {
+        "name": "Maine State House district 122",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 122",
+        "divisionId": "ocd-division/country:us/state:me/sldl:122",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lois Galgay Reckitt",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:122",
+        "overwrite_name": "Lois Galgay Reckitt",
+        "emails": [
+          "Lois.Reckitt@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:123": {
+        "name": "Maine State House district 123",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 123",
+        "divisionId": "ocd-division/country:us/state:me/sldl:123",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca J. Millett",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:123",
+        "overwrite_name": "Rebecca J. Millett",
+        "emails": [
+          "Rebecca.Millett@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:124": {
+        "name": "Maine State House district 124",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 124",
+        "divisionId": "ocd-division/country:us/state:me/sldl:124",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Sophia B. Warren",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:124",
+        "overwrite_name": "Sophia B. Warren",
+        "emails": [
+          "Sophia.Warren@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:125": {
+        "name": "Maine State House district 125",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 125",
+        "divisionId": "ocd-division/country:us/state:me/sldl:125",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kelly Noonan Murphy",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:125",
+        "overwrite_name": "Kelly Noonan Murphy",
+        "emails": [
+          "Kelly.Murphy@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:126": {
+        "name": "Maine State House district 126",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 126",
+        "divisionId": "ocd-division/country:us/state:me/sldl:126",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Gattine",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:126",
+        "overwrite_name": "Andrew Gattine",
+        "emails": [
+          "Andrew.Gattine@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:127": {
+        "name": "Maine State House district 127",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 127",
+        "divisionId": "ocd-division/country:us/state:me/sldl:127",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Morgan J. Rielly",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:127",
+        "overwrite_name": "Morgan J. Rielly",
+        "emails": [
+          "Morgan.Rielly@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:128": {
+        "name": "Maine State House district 128",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 128",
+        "divisionId": "ocd-division/country:us/state:me/sldl:128",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Suzanne M. Salisbury",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:128",
+        "overwrite_name": "Suzanne M. Salisbury",
+        "emails": [
+          "Suzanne.Salisbury@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:129": {
+        "name": "Maine State House district 129",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 129",
+        "divisionId": "ocd-division/country:us/state:me/sldl:129",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Margaret M. O'Neil",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:129",
+        "overwrite_name": "Margaret M. O'Neil",
+        "emails": [
+          "Margaret.ONeil@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:130": {
+        "name": "Maine State House district 130",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 130",
+        "divisionId": "ocd-division/country:us/state:me/sldl:130",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lynn H. Copeland",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:130",
+        "overwrite_name": "Lynn H. Copeland",
+        "emails": [
+          "Lynn.Copeland@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:131": {
+        "name": "Maine State House district 131",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 131",
+        "divisionId": "ocd-division/country:us/state:me/sldl:131",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lori Kathryn Gramlich",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:131",
+        "overwrite_name": "Lori Kathryn Gramlich",
+        "emails": [
+          "Lori.Gramlich@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:132": {
+        "name": "Maine State House district 132",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 132",
+        "divisionId": "ocd-division/country:us/state:me/sldl:132",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erin R. Sheehan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:132",
+        "overwrite_name": "Erin R. Sheehan",
+        "emails": [
+          "Erin.Sheehan@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:133": {
+        "name": "Maine State House district 133",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 133",
+        "divisionId": "ocd-division/country:us/state:me/sldl:133",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Marc G. Malon II",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:133",
+        "overwrite_name": "Marc G. Malon II",
+        "emails": [
+          "Marc.Malon@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:134": {
+        "name": "Maine State House district 134",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 134",
+        "divisionId": "ocd-division/country:us/state:me/sldl:134",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Traci L. Gere",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:134",
+        "overwrite_name": "Traci L. Gere",
+        "emails": [
+          "Traci.Gere@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:135": {
+        "name": "Maine State House district 135",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 135",
+        "divisionId": "ocd-division/country:us/state:me/sldl:135",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel Sayre",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:135",
+        "overwrite_name": "Daniel Sayre",
+        "emails": [
+          "Daniel.Sayre@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:136": {
+        "name": "Maine State House district 136",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 136",
+        "divisionId": "ocd-division/country:us/state:me/sldl:136",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Heidi H. Sampson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:136",
+        "overwrite_name": "Heidi H. Sampson",
+        "emails": [
+          "Heidi.Sampson@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:137": {
+        "name": "Maine State House district 137",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 137",
+        "divisionId": "ocd-division/country:us/state:me/sldl:137",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nathan M. Carlow",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:137",
+        "overwrite_name": "Nathan M. Carlow",
+        "emails": [
+          "Nathan.Carlow@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:138": {
+        "name": "Maine State House district 138",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 138",
+        "divisionId": "ocd-division/country:us/state:me/sldl:138",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark John Blier",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:138",
+        "overwrite_name": "Mark John Blier",
+        "emails": [
+          "Mark.Blier@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:139": {
+        "name": "Maine State House district 139",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 139",
+        "divisionId": "ocd-division/country:us/state:me/sldl:139",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "David Woodsome",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:139",
+        "overwrite_name": "David Woodsome",
+        "emails": [
+          "David.Woodsome@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:140": {
+        "name": "Maine State House district 140",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 140",
+        "divisionId": "ocd-division/country:us/state:me/sldl:140",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Wayne R. Parry",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:140",
+        "overwrite_name": "Wayne R. Parry",
+        "emails": [
+          "Wayne.Parry@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:141": {
+        "name": "Maine State House district 141",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 141",
+        "divisionId": "ocd-division/country:us/state:me/sldl:141",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lucas John Lanigan",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:141",
+        "overwrite_name": "Lucas John Lanigan",
+        "emails": [
+          "Lucas.Lanigan@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:142": {
+        "name": "Maine State House district 142",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 142",
+        "divisionId": "ocd-division/country:us/state:me/sldl:142",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anne-Marie Mastraccio",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:142",
+        "overwrite_name": "Anne-Marie Mastraccio",
+        "emails": [
+          "Anne-Marie.Mastraccio@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:143": {
+        "name": "Maine State House district 143",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 143",
+        "divisionId": "ocd-division/country:us/state:me/sldl:143",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ann Marie Fredericks",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:143",
+        "overwrite_name": "Ann Marie Fredericks",
+        "emails": [
+          "Ann.Fredericks@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:144": {
+        "name": "Maine State House district 144",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 144",
+        "divisionId": "ocd-division/country:us/state:me/sldl:144",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeffrey Sean Adams",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:144",
+        "overwrite_name": "Jeffrey Sean Adams",
+        "emails": [
+          "Jeffrey.Adams@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:145": {
+        "name": "Maine State House district 145",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 145",
+        "divisionId": "ocd-division/country:us/state:me/sldl:145",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Daniel J. Hobbs",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:145",
+        "overwrite_name": "Daniel J. Hobbs",
+        "emails": [
+          "Daniel.Hobbs@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:146": {
+        "name": "Maine State House district 146",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 146",
+        "divisionId": "ocd-division/country:us/state:me/sldl:146",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Walter Gerard Runte, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:146",
+        "overwrite_name": "Walter Gerard Runte, Jr.",
+        "emails": [
+          "Walter.Runte@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:147": {
+        "name": "Maine State House district 147",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 147",
+        "divisionId": "ocd-division/country:us/state:me/sldl:147",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Holly T. Sargent",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:147",
+        "overwrite_name": "Holly T. Sargent",
+        "emails": [
+          "Holly.Sargent@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:148": {
+        "name": "Maine State House district 148",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 148",
+        "divisionId": "ocd-division/country:us/state:me/sldl:148",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas A. Lavigne",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:148",
+        "overwrite_name": "Thomas A. Lavigne",
+        "emails": [
+          "Thomas.Lavigne@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:149": {
+        "name": "Maine State House district 149",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 149",
+        "divisionId": "ocd-division/country:us/state:me/sldl:149",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tiffany Danielle Roberts",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:149",
+        "overwrite_name": "Tiffany Danielle Roberts",
+        "emails": [
+          "Tiffany.Roberts@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:150": {
+        "name": "Maine State House district 150",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 150",
+        "divisionId": "ocd-division/country:us/state:me/sldl:150",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Michele Meyer",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:150",
+        "overwrite_name": "Michele Meyer",
+        "emails": [
+          "Michele.Meyer@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:me/sldl:151": {
+        "name": "Maine State House district 151",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ME State House District 151",
+        "divisionId": "ocd-division/country:us/state:me/sldl:151",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristi Michele Mathieson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:me/sldl:151",
+        "overwrite_name": "Kristi Michele Mathieson",
+        "emails": [
+          "Kristi.Mathieson@legislature.maine.gov"
+        ],
+        "phones": [
+          "(800) 423-2900"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:md/sldl:4": {
         "name": "Maryland State House district 4",
         "overwrite": "true",
@@ -60833,43 +67160,6 @@
         ],
         "phones": [
           "(410) 841-3200"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:md/sldl:7a": {
-        "name": "Maryland State House district 7a",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MD State House District 7A",
-        "divisionId": "ocd-division/country:us/state:md/sldl:7a",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kathy Szeliga",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:7a",
-        "overwrite_name": "",
-        "emails": [
-          "kathy.szeliga@house.state.md.us"
-        ],
-        "phones": [
-          "(410) 841-3698"
         ]
       }
     ]
@@ -61092,43 +67382,6 @@
         ],
         "phones": [
           "(410) 841-3527"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:md/sldl:12a": {
-        "name": "Maryland State House district 12a",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MD State House District 12A",
-        "divisionId": "ocd-division/country:us/state:md/sldl:12a",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jessica Feldmark",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:12a",
-        "overwrite_name": "Jessica Feldmark",
-        "emails": [
-          "jessica.feldmark@house.state.md.us"
-        ],
-        "phones": [
-          "(410) 841-3205"
         ]
       }
     ]

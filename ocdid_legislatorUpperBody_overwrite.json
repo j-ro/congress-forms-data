@@ -1,40 +1,6 @@
 [
   {
     "divisions": {
-      "ocd-division/country:us/state:al": {
-        "name": "Alabama",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:al",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Katie Britt",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:al",
-        "overwrite_name": "Katie Britt",
-        "phones": [
-          "202-224-5744"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:az": {
         "name": "Arizona",
         "overwrite": "true",
@@ -193,80 +159,12 @@
     ],
     "officials": [
       {
-        "name": "Eric Schmitt",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mo",
-        "overwrite_name": "Eric Schmitt",
-        "phones": [
-          "202-224-5721"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mo": {
-        "name": "Missouri",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:mo",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
         "name": "Josh Hawley",
         "party": "Republican",
         "overwrite_ocdid": "ocd-division/country:us/state:mo",
         "overwrite_name": "Josh Hawley",
         "phones": [
           "(202) 224-6154"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:nc": {
-        "name": "North Carolina",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:nc",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ted Budd",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:nc",
-        "overwrite_name": "Ted Budd",
-        "phones": [
-          "202-224-3154"
         ]
       }
     ]

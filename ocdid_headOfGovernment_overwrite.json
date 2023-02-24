@@ -199,6 +199,37 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -292,41 +323,7 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Robert C. White, Jr.",
-        "phones": [
-          "(202) 225-8050"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
+        "overwrite_name": "Robert C. White, Jr."
       }
     ]
   },
@@ -758,6 +755,43 @@
         ],
         "phones": [
           "(401) 222-2080"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:sc": {
+        "name": "South Carolina",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:sc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Henry McMaster",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc",
+        "overwrite_name": "Henry McMaster",
+        "emails": [
+          "governor@govoepp.state.sc.us"
+        ],
+        "phones": [
+          "(803) 734-2100"
         ]
       }
     ]

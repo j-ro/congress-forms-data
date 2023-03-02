@@ -474,40 +474,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma": {
-        "name": "Massachusetts",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:ma",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Maura Healey",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma",
-        "overwrite_name": "Maura Healey",
-        "phones": [
-          "(617) 725-4005"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:md": {
         "name": "Maryland",
         "overwrite": "true",

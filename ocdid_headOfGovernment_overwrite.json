@@ -329,6 +329,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:fl": {
+        "name": "Florida",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:fl",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ron DeSantis",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:fl",
+        "overwrite_name": "Ron DeSantis",
+        "emails": [
+          "governorron.desantis@eog.myflorida.com"
+        ],
+        "phones": [
+          "(850) 488-7146"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ga": {
         "name": "Georgia",
         "overwrite": "true",

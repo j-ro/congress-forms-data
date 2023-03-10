@@ -391,6 +391,37 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -485,37 +516,6 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Robert C. White, Jr."
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -923,6 +923,40 @@
         "overwrite_name": "Ronny Jackson",
         "phones": [
           "(202) 224-3706"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:va/cd:4": {
+        "name": "Virginia's 4th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives VA-4",
+        "divisionId": "ocd-division/country:us/state:va/cd:4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer McClellan",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:va/cd:4",
+        "overwrite_name": "VACANT",
+        "phones": [
+          "(202) 225–6365"
         ]
       }
     ]

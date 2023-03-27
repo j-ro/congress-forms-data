@@ -134,10 +134,7 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Eleanor Holmes Norton",
-        "phones": [
-          "(202) 225-8050"
-        ]
+        "overwrite_name": "Eleanor Holmes Norton"
       }
     ]
   },
@@ -169,37 +166,6 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Brian Schwalb"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
       }
     ]
   },
@@ -329,6 +295,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl": {
         "name": "Florida",
         "overwrite": "true",
@@ -397,40 +394,6 @@
         ],
         "phones": [
           "(614) 644-4357"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:hi": {
-        "name": "Hawaii",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:hi",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Josh Green",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:hi",
-        "overwrite_name": "Josh Green",
-        "phones": [
-          "(808) 586-0034"
         ]
       }
     ]
@@ -650,40 +613,6 @@
         "overwrite_name": "Joe Lombardo",
         "phones": [
           "775-684-5670"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:or": {
-        "name": "Oregon",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "Governor",
-        "divisionId": "ocd-division/country:us/state:or",
-        "roles": [
-          "headOfGovernment"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Tina Kotek",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:or",
-        "overwrite_name": "Tina Kotek",
-        "phones": [
-          "503-378-4582"
         ]
       }
     ]

@@ -1330,43 +1330,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ca/sldl:3": {
-        "name": "California State House district 3",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 3",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:3",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "James Gallagher",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:3",
-        "overwrite_name": "James Gallagher",
-        "emails": [
-          "assemblymember.gallagher@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2003"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ca/sldl:13": {
         "name": "California State House district 13",
         "overwrite": "true",

@@ -1961,6 +1961,259 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Brian Schwalb"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Anita Bonds",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Anita Bonds",
+        "emails": [
+          "abonds@dccouncil.gov"
+        ],
+        "phones": [
+          "(202) 724-8064"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christina Henderson",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Christina Henderson",
+        "emails": [
+          "chenderson@dccouncil.gov"
+        ],
+        "phones": [
+          "(202) 724-8105"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christina Henderson",
+        "party": "Unaffiliated",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Christina Henderson",
+        "emails": [
+          "chenderson@dccouncil.gov"
+        ],
+        "phones": [
+          "(202) 724-8105"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kenyan R. McDuffien",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Kenyan R. McDuffie",
+        "emails": [
+          "kmcduffie@dccouncil.us"
+        ],
+        "phones": [
+          "(202) 724-8028"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert C. White, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Robert C. White, Jr.",
+        "emails": [
+          "rwhite@dccouncil.gov"
+        ],
+        "phones": [
+          "(202) 724-8174"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/district:dc/cd:at-large": {
+        "name": "District of Columbia Delegate District (at Large)",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia Delegate District (at Large)",
+        "divisionId": "ocd-division/country:us/district:dc/cd:at-large",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Phil Mendelson",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc/cd:at-large",
+        "overwrite_name": "Phil Mendelson",
+        "emails": [
+          "pmendelson@dccouncil.gov"
+        ],
+        "phones": [
+          "(202) 724-8032"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/sldu:32": {
         "name": "Florida State Senate district 32",
         "overwrite": "true",

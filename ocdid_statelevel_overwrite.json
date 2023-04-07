@@ -16445,6 +16445,9 @@
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:2",
         "overwrite_name": "Jim Wood",
+        "emails": [
+          "assemblymember.wood@assembly.ca.gov"
+        ],
         "phones": [
           "(916) 319-2002"
         ]
@@ -26857,6 +26860,43 @@
         ],
         "phones": [
           "(617) 722-2080"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldl:2nd_essex": {
+        "name": "Massachusetts State House district 2nd Essex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State House District 2ND_ESSEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldl:2nd_essex",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kristen Kassner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:2nd_essex",
+        "overwrite_name": "Leonard Mirra",
+        "emails": [
+          "Kristin.Kassner@mahouse.gov"
+        ],
+        "phones": [
+          "(617) 722-2000"
         ]
       }
     ]

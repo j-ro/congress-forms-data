@@ -4662,35 +4662,6 @@
         "officeIndices": [
           0
         ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IN State Senate District 47",
-        "divisionId": "ocd-division/country:us/state:in/sldu:47",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Gary Byrne",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:in/sldu:47",
-        "overwrite_name": "Gary Byrne",
-        "emails": [
-          "Senator.Byrne@iga.in.gov"
-        ],
-        "phones": [
-          "(800) 382-9467"
-        ]
-      }
-    ]
-  },
   {
     "divisions": {
       "ocd-division/country:us/state:ia/sldu:16": {
@@ -6136,8 +6107,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:mn/sldu:2": {
-        "name": "Minnesota State Senate district 2",
+      "ocd-division/country:us/state:mn/sldu:1": {
+        "name": "Minnesota State Senate district 1",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -6146,8 +6117,8 @@
     },
     "offices": [
       {
-        "name": "MN State Senate District 2",
-        "divisionId": "ocd-division/country:us/state:mn/sldu:2",
+        "name": "MN State Senate District 1",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:1",
         "roles": [
           "statelevel_upper"
         ],
@@ -6158,15 +6129,15 @@
     ],
     "officials": [
       {
-        "name": "Steve Green",
-        "party": "Democratic-Farmer-Labor Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:2",
-        "overwrite_name": "Steve Green",
+        "name": "Mark T. Johnson",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:1",
+        "overwrite_name": "Mark T. Johnson",
         "emails": [
-          "sen.steve.green@senate.mn"
+          "sen.mark.johnson@senate.mn"
         ],
         "phones": [
-          "(651) 297-8063"
+          "(651) 296-5782"
         ]
       }
     ]
@@ -6232,15 +6203,52 @@
     ],
     "officials": [
       {
-        "name": "Rob Kupec",
+        "name": "Robert J. Kupec",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:4",
-        "overwrite_name": "Rob Kupec",
+        "overwrite_name": "Robert J. Kupec",
         "emails": [
           "sen.robert.kupec@senate.mn"
         ],
         "phones": [
           "(651) 296-3205"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:6": {
+        "name": "Minnesota State Senate district 6",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 6",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:6",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Justin D. Eichorn",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:6",
+        "overwrite_name": "Justin D. Eichorn",
+        "emails": [
+          "sen.justin.eichorn@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-7079"
         ]
       }
     ]
@@ -6269,15 +6277,52 @@
     ],
     "officials": [
       {
-        "name": "Robert Farnsworth",
+        "name": "Robert D. Farnsworth",
         "party": "Democratic-Farmer-Labor Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:7",
-        "overwrite_name": "Robert Farnsworth",
+        "overwrite_name": "Robert D. Farnsworth",
         "emails": [
           "sen.robert.farnsworth@senate.mn"
         ],
         "phones": [
           "(651) 296-8436"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:8": {
+        "name": "Minnesota State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jennifer A. McEwen",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:8",
+        "overwrite_name": "Jennifer A. McEwen",
+        "emails": [
+          "sen.jennifer.mcewen@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4188"
         ]
       }
     ]
@@ -6321,8 +6366,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:mn/sldu:10": {
-        "name": "Minnesota State Senate district 10",
+      "ocd-division/country:us/state:mn/sldu:13": {
+        "name": "Minnesota State Senate district 13",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -6331,8 +6376,8 @@
     },
     "offices": [
       {
-        "name": "MN State Senate District 10",
-        "divisionId": "ocd-division/country:us/state:mn/sldu:10",
+        "name": "MN State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:13",
         "roles": [
           "statelevel_upper"
         ],
@@ -6343,23 +6388,23 @@
     ],
     "officials": [
       {
-        "name": "Nathan Wesenberg",
+        "name": "Jeff R. Howe",
         "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:10",
-        "overwrite_name": "Nathan Wesenberg",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:13",
+        "overwrite_name": "Jeff R. Howe",
         "emails": [
-          "sen.nathan.wesenberg@senate.mn"
+          "sen.jeff.howe@senate.mn"
         ],
         "phones": [
-          "(651) 296-4913"
+          "(651) 296-2084"
         ]
       }
     ]
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:mn/sldu:17": {
-        "name": "Minnesota State Senate district 17",
+      "ocd-division/country:us/state:mn/sldu:14": {
+        "name": "Minnesota State Senate district 14",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -6368,8 +6413,8 @@
     },
     "offices": [
       {
-        "name": "MN State Senate District 17",
-        "divisionId": "ocd-division/country:us/state:mn/sldu:17",
+        "name": "MN State Senate District 14",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:14",
         "roles": [
           "statelevel_upper"
         ],
@@ -6380,15 +6425,126 @@
     ],
     "officials": [
       {
-        "name": "Glenn Gruenhagen",
+        "name": "Aric Putnam",
         "party": "Democratic-Farmer-Labor Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:17",
-        "overwrite_name": "Glenn Gruenhagen",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:14",
+        "overwrite_name": "Aric Putnam",
         "emails": [
-          "sen.glenn.gruenhagen@senate.mn"
+          "sen.aric.putnam@senate.mn"
         ],
         "phones": [
-          "(651) 296-4131"
+          "(651) 296-6455"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:16": {
+        "name": "Minnesota State Senate district 16",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 16",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:16",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew R. Lang",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:16",
+        "overwrite_name": "Andrew R. Lang",
+        "emails": [
+          "sen.andrew.lang@senate.mn."
+        ],
+        "phones": [
+          "(651) 296-4918"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:18": {
+        "name": "Minnesota State Senate district 18",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 18",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:18",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Nick A. Frentz",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:18",
+        "overwrite_name": "Nick A. Frentz",
+        "emails": [
+          "sen.nick.frentz@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-6153"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:19": {
+        "name": "Minnesota State Senate district 19",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 19",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:19",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John R. Jasinski",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:19",
+        "overwrite_name": "John R. Jasinski",
+        "emails": [
+          "sen.john.jasinski@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-0284"
         ]
       }
     ]
@@ -6432,6 +6588,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/sldu:21": {
+        "name": "Minnesota State Senate district 21",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 21",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:21",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bill Weber",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:21",
+        "overwrite_name": "Bill Weber",
+        "emails": [
+          "sen.bill.weber@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-5650"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mn/sldu:25": {
         "name": "Minnesota State Senate district 25",
         "overwrite": "true",
@@ -6463,6 +6656,80 @@
         ],
         "phones": [
           "(651) 296-3903"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:27": {
+        "name": "Minnesota State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Andrew Mathews",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:27",
+        "overwrite_name": "Andrew Mathews",
+        "emails": [
+          "sen.andrew.mathews@senate.mn."
+        ],
+        "phones": [
+          "(651) 296-8075"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:28": {
+        "name": "Minnesota State Senate district 28",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 28",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:28",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark W. Koran",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:28",
+        "overwrite_name": "Mark W. Koran",
+        "emails": [
+          "sen.mark.koran@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-5419"
         ]
       }
     ]
@@ -6565,10 +6832,10 @@
     ],
     "officials": [
       {
-        "name": "Cal K. Bahr",
+        "name": "Calvin K. Bahr",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:31",
-        "overwrite_name": "Cal K. Bahr",
+        "overwrite_name": "Calvin K. Bahr",
         "emails": [
           "sen.calvin.bahr@senate.mn"
         ],
@@ -6602,15 +6869,89 @@
     ],
     "officials": [
       {
-        "name": "Michael Kreun",
+        "name": "Michael E. Kreun",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:32",
-        "overwrite_name": "Michael Kreun",
+        "overwrite_name": "Michael E. Kreun",
         "emails": [
           "sen.michael.kreun@senate.mn"
         ],
         "phones": [
           "(651) 296-1282"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:33": {
+        "name": "Minnesota State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Karin Housley",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:33",
+        "overwrite_name": "Karin Housley",
+        "emails": [
+          "sen.karin.housley@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4351"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:34": {
+        "name": "Minnesota State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John A. Hoffman",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:34",
+        "overwrite_name": "John A. Hoffman",
+        "emails": [
+          "sen.john.hoffman@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4154"
         ]
       }
     ]
@@ -6691,6 +7032,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/sldu:37": {
+        "name": "Minnesota State Senate district 37",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 37",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:37",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Warren Limmer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:37",
+        "overwrite_name": "Warren Limmer",
+        "emails": [
+          "sen.warren.limmer@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-2159"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mn/sldu:38": {
         "name": "Minnesota State Senate district 38",
         "overwrite": "true",
@@ -6722,6 +7100,80 @@
         ],
         "phones": [
           "(651) 296-2556"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:39": {
+        "name": "Minnesota State Senate district 39",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 39",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:39",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mary K. Kunesh",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:39",
+        "overwrite_name": "Mary K. Kunesh",
+        "emails": [
+          "sen.mary.kunesh@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4334"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:40": {
+        "name": "Minnesota State Senate district 40",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 40",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:40",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John Marty",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:40",
+        "overwrite_name": "John Marty",
+        "emails": [
+          "johnm@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-5645"
         ]
       }
     ]
@@ -6787,15 +7239,52 @@
     ],
     "officials": [
       {
-        "name": "Bonnie Westlin",
+        "name": "Bonnie S. Westlin",
         "party": "Democratic-Farmer-Labor Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:42",
-        "overwrite_name": "Bonnie Westlin",
+        "overwrite_name": "Bonnie S. Westlin",
         "emails": [
           "sen.bonnie.westlin@senate.mn"
         ],
         "phones": [
           "(651) 296-8869"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:43": {
+        "name": "Minnesota State Senate district 43",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 43",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:43",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ann H. Rest",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:43",
+        "overwrite_name": "Ann H. Rest",
+        "emails": [
+          "sen.ann.rest@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-2889"
         ]
       }
     ]
@@ -6861,10 +7350,10 @@
     ],
     "officials": [
       {
-        "name": "Kelly Morrison",
+        "name": "Kelly L. Morrison",
         "party": "Democratic-Farmer-Labor Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:45",
-        "overwrite_name": "Kelly Morrison",
+        "overwrite_name": "Kelly L. Morrison",
         "emails": [
           "sen.kelly.morrison@senate.mn"
         ],
@@ -6935,15 +7424,52 @@
     ],
     "officials": [
       {
-        "name": "Nicole Mitchell",
+        "name": "Nicole L. Mitchell",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:47",
-        "overwrite_name": "Nicole Mitchell",
+        "overwrite_name": "Nicole L. Mitchell",
         "emails": [
           "sen.nicole.mitchell@senate.mn"
         ],
         "phones": [
           "(651) 296-5537"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:49": {
+        "name": "Minnesota State Senate district 49",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 49",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:49",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve A. Cwodzinski",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:49",
+        "overwrite_name": "Steve A. Cwodzinski",
+        "emails": [
+          "stevec@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-1314"
         ]
       }
     ]
@@ -6987,6 +7513,154 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/sldu:51": {
+        "name": "Minnesota State Senate district 51",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 51",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:51",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Melissa H. Wiklund",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:51",
+        "overwrite_name": "Melissa H. Wiklund",
+        "emails": [
+          "sen.melissa.wiklund@senate"
+        ],
+        "phones": [
+          "(651) 297-8061"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:52": {
+        "name": "Minnesota State Senate district 52",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 52",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:52",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jim Carlson",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:52",
+        "overwrite_name": "Jim Carlson",
+        "emails": [
+          "sen.jim.carlson@senate.mn."
+        ],
+        "phones": [
+          "(651) 297-8073"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:53": {
+        "name": "Minnesota State Senate district 53",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 53",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:53",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Matt D. Klein",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:53",
+        "overwrite_name": "Matt D. Klein",
+        "emails": [
+          "sen.matt.klein@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4370"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:55": {
+        "name": "Minnesota State Senate district 55",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 55",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:55",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lindsey Port",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:55",
+        "overwrite_name": "Lindsey Port",
+        "emails": [
+          "sen.lindsey.port@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-5975"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mn/sldu:56": {
         "name": "Minnesota State Senate district 56",
         "overwrite": "true",
@@ -7009,15 +7683,52 @@
     ],
     "officials": [
       {
-        "name": "Erin Maye Quade",
+        "name": "Erin K. Maye Quade",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:56",
-        "overwrite_name": "Erin Maye Quade",
+        "overwrite_name": "Erin K. Maye Quade",
         "emails": [
           "sen.erin.mayequade@senate.mn"
         ],
         "phones": [
           "(651) 296-4120"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:57": {
+        "name": "Minnesota State Senate district 57",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 57",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:57",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Zach Duckworth",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:57",
+        "overwrite_name": "Zach Duckworth",
+        "emails": [
+          "sen.zach.duckworth@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-7633"
         ]
       }
     ]
@@ -7061,6 +7772,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:mn/sldu:62": {
+        "name": "Minnesota State Senate district 62",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 62",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:62",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Omar Fateh",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:62",
+        "overwrite_name": "Omar Fateh",
+        "emails": [
+          "sen.omar.fateh@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-4261"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:mn/sldu:63": {
         "name": "Minnesota State Senate district 63",
         "overwrite": "true",
@@ -7092,6 +7840,43 @@
         ],
         "phones": [
           "(651) 296-4274"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:mn/sldu:64": {
+        "name": "Minnesota State Senate district 64",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MN State Senate District 64",
+        "divisionId": "ocd-division/country:us/state:mn/sldu:64",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Erin P. Murphy",
+        "party": "Democratic-Farmer-Labor Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:64",
+        "overwrite_name": "Erin P. Murphy",
+        "emails": [
+          "sen.erin.murphy@senate.mn"
+        ],
+        "phones": [
+          "(651) 296-5931"
         ]
       }
     ]
@@ -14859,43 +15644,6 @@
         ],
         "phones": [
           "(802) 863-1067"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:va/sldu:7": {
-        "name": "Virginia State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "VA State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:va/sldu:7",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Aaron R. Rouse",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:va/sldu:7",
-        "overwrite_name": "Aaron R. Rouse",
-        "emails": [
-          "district07@senate.virginia.gov"
-        ],
-        "phones": [
-          "(804) 698-7507"
         ]
       }
     ]

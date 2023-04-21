@@ -10892,8 +10892,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldl:3rd_berkshire": {
-        "name": "Massachusetts State House district 3rd Berkshire",
+      "ocd-division/country:us/state:ma/sldl:4th_berkshire": {
+        "name": "Massachusetts State House district 4th Berkshire",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -10902,8 +10902,8 @@
     },
     "offices": [
       {
-        "name": "MA State House District 3RD_BERKSHIRE",
-        "divisionId": "ocd-division/country:us/state:ma/sldl:3rd_berkshire",
+        "name": "MA State House District 4TH_BERKSHIRE",
+        "divisionId": "ocd-division/country:us/state:ma/sldl:4th_berkshire",
         "roles": [
           "statelevel_lower"
         ],
@@ -10914,16 +10914,10 @@
     ],
     "officials": [
       {
-        "name": "William \"Smitty\" Pignatelli",
-        "party": "Democrat",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:3rd_berkshire",
-        "overwrite_name": "Smitty Pignatelli",
-        "emails": [
-          "Rep.Smitty@mahouse.gov"
-        ],
-        "phones": [
-          "(617) 722-2017"
-        ]
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:4th_berkshire",
+        "overwrite_name": "William (Smitty) Pignatelli"
       }
     ]
   },
@@ -35775,7 +35769,7 @@
         "name": "Justin J. Pearson",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:86",
-        "overwrite_name": "Barbara Cooper",
+        "overwrite_name": "Justin J. Pearson",
         "emails": [
           "rep.justin.j.pearson@capitol.tn.gov"
         ],

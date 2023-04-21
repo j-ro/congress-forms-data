@@ -5692,6 +5692,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex": {
+        "name": "Massachusetts State Senate district norfolk_bristol_and_middlesex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District NORFOLK_BRISTOL_AND_MIDDLESEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex",
+        "overwrite_name": "Richard J. Ross"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex": {
         "name": "Massachusetts State Senate district suffolk_and_middlesex",
         "overwrite": "true",
@@ -5835,6 +5866,68 @@
         "phones": [
           "(617) 722-1643"
         ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk": {
+        "name": "Massachusetts State Senate district plymouth_and_norfolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District PLYMOUTH_AND_NORFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk",
+        "overwrite_name": "Patrick M. O'Connor"
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol": {
+        "name": "Massachusetts State Senate district 2nd_plymouth_and_bristol",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District 2ND_PLYMOUTH_AND_BRISTOL",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol",
+        "overwrite_name": "Michael D. Brady"
       }
     ]
   },
@@ -26607,8 +26700,8 @@
     },
     {
       "divisions": {
-        "ocd-division/country:us/state:ma/sldl:3rd_berkshire": {
-          "name": "Massachusetts State House district 3rd Berkshire",
+        "ocd-division/country:us/state:ma/sldl:4th_berkshire": {
+          "name": "Massachusetts State House district 4th Berkshire",
           "overwrite": "true",
           "officeIndices": [
             0
@@ -26617,8 +26710,8 @@
       },
       "offices": [
         {
-          "name": "MA State House District 3RD_BERKSHIRE",
-          "divisionId": "ocd-division/country:us/state:ma/sldl:3rd_berkshire",
+          "name": "MA State House District 4TH_BERKSHIRE",
+          "divisionId": "ocd-division/country:us/state:ma/sldl:4th_berkshire",
           "roles": [
             "statelevel_lower"
           ],
@@ -26629,16 +26722,10 @@
       ],
       "officials": [
         {
-          "name": "William \"Smitty\" Pignatelli",
-          "party": "Democrat",
-          "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:3rd_berkshire",
-          "overwrite_name": "Smitty Pignatelli",
-          "emails": [
-            "Rep.Smitty@mahouse.gov"
-          ],
-          "phones": [
-            "(617) 722-2017"
-          ]
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:4th_berkshire",
+          "overwrite_name": "William (Smitty) Pignatelli"
         }
       ]
     },
@@ -51490,7 +51577,7 @@
           "name": "Justin J. Pearson",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:tn/sldl:86",
-          "overwrite_name": "Barbara Cooper",
+          "overwrite_name": "Justin J. Pearson",
           "emails": [
             "rep.justin.j.pearson@capitol.tn.gov"
           ],

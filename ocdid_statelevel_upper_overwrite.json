@@ -15550,8 +15550,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:vt/sldu:grand_isle-chittenden": {
-        "name": "Vermont State Senate district grand_isle-chittenden",
+      "ocd-division/country:us/state:vt/sldu:chittenden_central": {
+        "name": "Vermont State Senate district chittenden_central",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -15560,8 +15560,8 @@
     },
     "offices": [
       {
-        "name": "VT State Senate District GRAND_ISLE-CHITTENDEN",
-        "divisionId": "ocd-division/country:us/state:vt/sldu:grand_isle-chittenden",
+        "name": "VT State Senate District CHITTENDEN_CENTRAL",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_central",
         "roles": [
           "statelevel_upper"
         ],
@@ -15572,15 +15572,348 @@
     ],
     "officials": [
       {
-        "name": "Dick T Mazza",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:grand_isle-chittenden",
-        "overwrite_name": "Dick T Mazza",
+        "name": "Philip Baruth",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_central",
+        "overwrite_name": "",
         "emails": [
-          "dmazza@leg.state.vt.us"
+          "pbaruth@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 503-5266"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_central": {
+        "name": "Vermont State Senate district chittenden_central",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_CENTRAL",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_central",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Martine Gulick",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_central",
+        "overwrite_name": "",
+        "emails": [
+          "mgulick@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_central": {
+        "name": "Vermont State Senate district chittenden_central",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_CENTRAL",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_central",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Tanya Vyhovsky",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_central",
+        "overwrite_name": "",
+        "emails": [
+          "tvyhovsky@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_north": {
+        "name": "Vermont State Senate district chittenden_north",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_NORTH",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_north",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Irene Wrenner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_north",
+        "overwrite_name": "",
+        "emails": [
+          "iwrenner@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_southeast": {
+        "name": "Vermont State Senate district chittenden_southeast",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_SOUTHEAST",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Thomas Chittenden",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "overwrite_name": "",
+        "emails": [
+          "tchittenden@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_southeast": {
+        "name": "Vermont State Senate district chittenden_southeast",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_SOUTHEAST",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Virginia \"Ginny\" Lyons",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "overwrite_name": "",
+        "emails": [
+          "vlyons@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:chittenden_southeast": {
+        "name": "Vermont State Senate district chittenden_southeast",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District CHITTENDEN_SOUTHEAST",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kesha Ram Hinsdale",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
+        "overwrite_name": "",
+        "emails": [
+          "kramhinsdale@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:essex": {
+        "name": "Vermont State Senate district essex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District ESSEX",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:essex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Russ Ingalls",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:essex",
+        "overwrite_name": "",
+        "emails": [
+          "ringalls@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 828-2228"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:grand_isle": {
+        "name": "Vermont State Senate district grand_isle",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District GRAND_ISLE",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:grand_isle",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Richard \"Dick\" Mazza",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:grand_isle",
+        "overwrite_name": "Richard \"Dick\" Mazza",
+        "emails": [
+          "rmazza@leg.state.vt.us"
         ],
         "phones": [
           "(802) 863-1067"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:vt/sldu:orleans": {
+        "name": "Vermont State Senate district orleans",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District ORLEANS",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:orleans",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Starr",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:orleans",
+        "overwrite_name": "",
+        "emails": [
+          "rstarr@leg.state.vt.us"
+        ],
+        "phones": [
+          "802-309-3354"
         ]
       }
     ]

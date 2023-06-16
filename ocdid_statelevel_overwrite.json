@@ -17426,9 +17426,6 @@
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:13",
           "overwrite_name": "Carlos Villapudua",
-          "emails": [
-            "assemblymember.villapudua@assembly.ca.gov"
-          ],
           "phones": [
             "(916) 319-2013"
           ]
@@ -41158,6 +41155,43 @@
           ],
           "phones": [
             "(614) 644-6011"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:oh/sldl:90": {
+          "name": "Ohio State House district 90",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "OH State House District 90",
+          "divisionId": "ocd-division/country:us/state:oh/sldl:90",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Justin Pizzulli",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:90",
+          "overwrite_name": "Justin Pizzulli",
+          "emails": [
+            "rep90@ohiohouse.gov"
+          ],
+          "phones": [
+            "(614) 466-2124"
           ]
         }
       ]

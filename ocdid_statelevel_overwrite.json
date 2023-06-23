@@ -2979,7 +2979,7 @@
         "name": "Cristina H. Pacione-Zayas",
         "party": "Democratic Party",
         "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:20",
-        "overwrite_name": "Cristina H. Pacione-Zayas",
+        "overwrite_name": "Vacant",
         "emails": [
           "senatedistrict20@outlook.com"
         ],
@@ -27064,6 +27064,43 @@
           ],
           "phones": [
             "(410) 841-3833"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ma/sldl:10th_suffolk": {
+          "name": "Massachusetts State House district 10th Suffolk",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "MA State House District 10TH_SUFFOLK",
+          "divisionId": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Bill MacGregor",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+          "overwrite_name": "Bill MacGregor",
+          "emails": [
+            "bill.macgregor@mahouse.gov"
+          ],
+          "phones": [
+            "(617) 722-2460"
           ]
         }
       ]

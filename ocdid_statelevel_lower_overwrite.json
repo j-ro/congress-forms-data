@@ -10929,6 +10929,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ma/sldl:10th_suffolk": {
+        "name": "Massachusetts State House district 10th Suffolk",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State House District 10TH_SUFFOLK",
+        "divisionId": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Bill MacGregor",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+        "overwrite_name": "Bill MacGregor",
+        "emails": [
+          "bill.macgregor@mahouse.gov"
+        ],
+        "phones": [
+          "(617) 722-2460"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ma/sldl:2nd_barnstable": {
         "name": "Massachusetts State House district 2nd Barnstable",
         "overwrite": "true",

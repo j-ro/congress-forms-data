@@ -861,40 +861,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ri/cd:1": {
-        "name": "Rhode Island's 1st congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives RI-1",
-        "divisionId": "ocd-division/country:us/state:ri/cd:1",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "David Cicilline",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ri/cd:1",
-        "overwrite_name": "David Cicilline",
-        "phones": [
-          "(202) 225-4911"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:tx/cd:13": {
         "name": "Texas's 13th congressional district",
         "overwrite": "true",

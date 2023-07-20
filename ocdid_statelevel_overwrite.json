@@ -7107,7 +7107,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:mn/sldu:40",
         "overwrite_name": "John Marty",
         "emails": [
-          "johnm@senate.mn"
+          "sen.john.marty@senate.mn"
         ],
         "phones": [
           "(651) 296-5645"
@@ -27070,43 +27070,6 @@
     },
     {
       "divisions": {
-        "ocd-division/country:us/state:ma/sldl:10th_suffolk": {
-          "name": "Massachusetts State House district 10th Suffolk",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MA State House District 10TH_SUFFOLK",
-          "divisionId": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Bill MacGregor",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
-          "overwrite_name": "Bill MacGregor",
-          "emails": [
-            "bill.macgregor@mahouse.gov"
-          ],
-          "phones": [
-            "(617) 722-2460"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
         "ocd-division/country:us/state:ma/sldl:2nd_barnstable": {
           "name": "Massachusetts State House district 2nd Barnstable",
           "overwrite": "true",
@@ -29648,6 +29611,43 @@
           ],
           "phones": [
             "(617) 722-2575"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ma/sldl:10th_suffolk": {
+          "name": "Massachusetts State House district 10th Suffolk",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "MA State House District 10TH_SUFFOLK",
+          "divisionId": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Bill MacGregor",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+          "overwrite_name": "Bill MacGregor",
+          "emails": [
+            "bill.macgregor@mahouse.gov"
+          ],
+          "phones": [
+            "(617) 722-2460"
           ]
         }
       ]
@@ -35235,43 +35235,6 @@
           ],
           "phones": [
             "(603) 271-3125"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:nh/sldl:rockingham_1": {
-          "name": "New Hampshire State House district Rockingham 1",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "NH State House District ROCKINGHAM_1",
-          "divisionId": "ocd-division/country:us/state:nh/sldl:rockingham_1",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Benjamin Bartlett",
-          "party": "Republican Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:nh/sldl:rockingham_1",
-          "overwrite_name": "Benjamin Bartlett",
-          "emails": [
-            "Benjamin.Bartlett@leg.state.nh.us"
-          ],
-          "phones": [
-            "(603) 271-3661"
           ]
         }
       ]

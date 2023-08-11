@@ -2658,6 +2658,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:8": {
+        "name": "Illinois State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:il/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ram Villivalam",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:8",
+        "overwrite_name": "Ram Villivalam",
+        "emails": [
+          "info@senatorram.com"
+        ],
+        "phones": [
+          "(872) 208-5188."
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:9": {
         "name": "Illinois State Senate district 9",
         "overwrite": "true",
@@ -2806,6 +2843,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:13": {
+        "name": "Illinois State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:il/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Peters",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:13",
+        "overwrite_name": "Robert Peters",
+        "emails": [
+          "info@senatorrobertpeters.com"
+        ],
+        "phones": [
+          "(773) 363-1996"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:14": {
         "name": "Illinois State Senate district 14",
         "overwrite": "true",
@@ -2911,6 +2985,43 @@
         ],
         "phones": [
           "(312) 383-4996"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:17": {
+        "name": "Illinois State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:il/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elgie R. Sims, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:17",
+        "overwrite_name": "Elgie R. Sims, Jr.",
+        "emails": [
+          "info@senatorelgiesims.com"
+        ],
+        "phones": [
+          "(773) 933-7715"
         ]
       }
     ]
@@ -3583,6 +3694,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:41": {
+        "name": "Illinois State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:il/sldu:41",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John F. Curran",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:41",
+        "overwrite_name": "John F. Curran",
+        "emails": [
+          "senatorcurran@gmail.com"
+        ],
+        "phones": [
+          "(630) 914-5733"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:42": {
         "name": "Illinois State Senate district 42",
         "overwrite": "true",
@@ -3799,6 +3947,43 @@
         ],
         "phones": [
           "(309) 230-7584"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:48": {
+        "name": "Illinois State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:il/sldu:48",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Doris Turner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:48",
+        "overwrite_name": "Doris Turner",
+        "emails": [
+          "senatorturnermac@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-0228"
         ]
       }
     ]
@@ -13737,43 +13922,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ok/sldu:32": {
-        "name": "Oklahoma State Senate district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OK State Senate District 32",
-        "divisionId": "ocd-division/country:us/state:ok/sldu:32",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Michael Montgomery",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:32",
-        "overwrite_name": "John Michael Montgomery",
-        "emails": [
-          "montgomery@oksenate.gov"
-        ],
-        "phones": [
-          "(405) 521-5567"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ok/sldu:34": {
         "name": "Oklahoma State Senate district 34",
         "overwrite": "true",
@@ -23407,43 +23555,6 @@
     },
     {
       "divisions": {
-        "ocd-division/country:us/state:fl/sldl:118": {
-          "name": "Florida State House district 118",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "FL State House District 118",
-          "divisionId": "ocd-division/country:us/state:fl/sldl:118",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Juan Alfonso Fernandez-Barquin",
-          "party": "Republican Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:fl/sldl:118",
-          "overwrite_name": "Juan Alfonso Fernandez-Barquin",
-          "emails": [
-            "Juan.Fernandez-Barquin@myfloridahouse.gov"
-          ],
-          "phones": [
-            "(850) 717-5118"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
         "ocd-division/country:us/state:fl/sldl:119": {
           "name": "Florida State House district 119",
           "overwrite": "true",
@@ -23888,6 +23999,117 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:1": {
+          "name": "Illinois State House district 1",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 1",
+          "divisionId": "ocd-division/country:us/state:il/sldl:1",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Aaron M. Ortiz",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:1",
+          "overwrite_name": "Aaron M. Ortiz",
+          "emails": [
+            "district@repaaronortiz.com"
+          ],
+          "phones": [
+            "(773) 236-0117"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:2": {
+          "name": "Illinois State House district 2",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 2",
+          "divisionId": "ocd-division/country:us/state:il/sldl:2",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Elizabeth \"Lisa\" Hernandez",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:2",
+          "overwrite_name": "Elizabeth \"Lisa\" Hernandez",
+          "emails": [
+            "office@repehernandez.com"
+          ],
+          "phones": [
+            "(217) 782-8173"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:3": {
+          "name": "Illinois State House district 3",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 3",
+          "divisionId": "ocd-division/country:us/state:il/sldl:3",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Eva-Dina Delgado",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:3",
+          "overwrite_name": "Eva-Dina Delgado",
+          "emails": [
+            "evadina@staterepdelgado.com"
+          ],
+          "phones": [
+            "(217) 782-0480"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:4": {
           "name": "Illinois State House district 4",
           "overwrite": "true",
@@ -24147,6 +24369,80 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:15": {
+          "name": "Illinois State House district 15",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 15",
+          "divisionId": "ocd-division/country:us/state:il/sldl:15",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Michael J. \"Mike\" Kelly",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:15",
+          "overwrite_name": "Michael J. \"Mike\" Kelly",
+          "emails": [
+            "district@repkelly.com"
+          ],
+          "phones": [
+            "(217) 782-8198"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:16": {
+          "name": "Illinois State House district 16",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 16",
+          "divisionId": "ocd-division/country:us/state:il/sldl:16",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Kevin J. Olickal",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:16",
+          "overwrite_name": "Kevin J. Olickal",
+          "emails": [
+            "kevin@repkevinolickal.com"
+          ],
+          "phones": [
+            "(847) 673-1131"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:17": {
           "name": "Illinois State House district 17",
           "overwrite": "true",
@@ -24295,6 +24591,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:22": {
+          "name": "Illinois State House district 22",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 22",
+          "divisionId": "ocd-division/country:us/state:il/sldl:22",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Angelica Guerrero-Cuellar",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:22",
+          "overwrite_name": "Angelica Guerrero-Cuellar",
+          "emails": [
+            "angieguerrerocuellar22@gmail.com"
+          ],
+          "phones": [
+            "(217) 782-0584"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:23": {
           "name": "Illinois State House district 23",
           "overwrite": "true",
@@ -24363,6 +24696,80 @@
           ],
           "phones": [
             "(872) 281-5775"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:25": {
+          "name": "Illinois State House district 25",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 25",
+          "divisionId": "ocd-division/country:us/state:il/sldl:25",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Curtis J. Tarver II",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:25",
+          "overwrite_name": "Curtis J. Tarver II",
+          "emails": [
+            "rep25th@gmail.com"
+          ],
+          "phones": [
+            "(872) 281-5775"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:26": {
+          "name": "Illinois State House district 26",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 26",
+          "divisionId": "ocd-division/country:us/state:il/sldl:26",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Kambium \"Kam\" Buckner",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:26",
+          "overwrite_name": "Kambium \"Kam\" Buckner",
+          "emails": [
+            "buckner@illinois26.com"
+          ],
+          "phones": [
+            "(217) 782-2023"
           ]
         }
       ]
@@ -24480,6 +24887,80 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:34": {
+          "name": "Illinois State House district 34",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 34",
+          "divisionId": "ocd-division/country:us/state:il/sldl:34",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Nicholas K. Smith",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:34",
+          "overwrite_name": "Nicholas K. Smith",
+          "emails": [
+            "repsmith34@gmail.com"
+          ],
+          "phones": [
+            "(217) 782-6476"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:35": {
+          "name": "Illinois State House district 35",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 35",
+          "divisionId": "ocd-division/country:us/state:il/sldl:35",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mary Gill",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:35",
+          "overwrite_name": "Mary Gill",
+          "emails": [
+            "repmarygill@gmail.com"
+          ],
+          "phones": [
+            "(773) 445-8128"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:37": {
           "name": "Illinois State House district 37",
           "overwrite": "true",
@@ -24511,6 +24992,43 @@
           ],
           "phones": [
             "(708) 694-2032"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:38": {
+          "name": "Illinois State House district 38",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 38",
+          "divisionId": "ocd-division/country:us/state:il/sldl:38",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Debbie Meyers-Martin",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:38",
+          "overwrite_name": "Debbie Meyers-Martin",
+          "emails": [
+            "staterepdebbiemm@gmail.com"
+          ],
+          "phones": [
+            "(708) 833-7010"
           ]
         }
       ]
@@ -24998,6 +25516,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:53": {
+          "name": "Illinois State House district 53",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 53",
+          "divisionId": "ocd-division/country:us/state:il/sldl:53",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mark L. Walker",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:53",
+          "overwrite_name": "Mark L. Walker",
+          "emails": [
+            "contact@staterepwalker53.com"
+          ],
+          "phones": [
+            "(847) 749-1137"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:54": {
           "name": "Illinois State House district 54",
           "overwrite": "true",
@@ -25029,6 +25584,117 @@
           ],
           "phones": [
             "(224) 248-8187"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:57": {
+          "name": "Illinois State House district 57",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 57",
+          "divisionId": "ocd-division/country:us/state:il/sldl:57",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Jonathan Carroll",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:57",
+          "overwrite_name": "Jonathan Carroll",
+          "emails": [
+            "jc@repcarroll.com"
+          ],
+          "phones": [
+            "(217) 558-1004"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:58": {
+          "name": "Illinois State House district 58",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 58",
+          "divisionId": "ocd-division/country:us/state:il/sldl:58",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Bob Morgan",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:58",
+          "overwrite_name": "Bob Morgan",
+          "emails": [
+            "info@repbobmorgan.com"
+          ],
+          "phones": [
+            "(847) 780-8471"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:59": {
+          "name": "Illinois State House district 59",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 59",
+          "divisionId": "ocd-division/country:us/state:il/sldl:59",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Daniel Didech",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:59",
+          "overwrite_name": "Daniel Didech",
+          "emails": [
+            "info@repdidech.com"
+          ],
+          "phones": [
+            "(847) 478-9909"
           ]
         }
       ]
@@ -25146,6 +25812,80 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:64": {
+          "name": "Illinois State House district 64",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 64",
+          "divisionId": "ocd-division/country:us/state:il/sldl:64",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Tom Weber",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:64",
+          "overwrite_name": "Tom Weber",
+          "emails": [
+            "weber@ilhousegop.org"
+          ],
+          "phones": [
+            "(847) 629-5439"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:65": {
+          "name": "Illinois State House district 65",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 65",
+          "divisionId": "ocd-division/country:us/state:il/sldl:65",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Dan Ugaste",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:65",
+          "overwrite_name": "Dan Ugaste",
+          "emails": [
+            "ugaste@ilhousegop.org"
+          ],
+          "phones": [
+            "(847) 595-0522"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:66": {
           "name": "Illinois State House district 66",
           "overwrite": "true",
@@ -25183,6 +25923,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:67": {
+          "name": "Illinois State House district 67",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 67",
+          "divisionId": "ocd-division/country:us/state:il/sldl:67",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Maurice A. West II",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:67",
+          "overwrite_name": "Maurice A. West II",
+          "emails": [
+            "assistance@staterepwest.com"
+          ],
+          "phones": [
+            "(815) 329-6741"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:68": {
           "name": "Illinois State House district 68",
           "overwrite": "true",
@@ -25213,7 +25990,7 @@
             "repdavevella@gmail.com"
           ],
           "phones": [
-            "(815) 329-6741"
+            "(217) 782-3167"
           ]
         }
       ]
@@ -25405,6 +26182,80 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:76": {
+          "name": "Illinois State House district 76",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 76",
+          "divisionId": "ocd-division/country:us/state:il/sldl:76",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Lance Yednock",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:76",
+          "overwrite_name": "Lance Yednock",
+          "emails": [
+            "staterepyednock@gmail.com"
+          ],
+          "phones": [
+            "(217) 782-3374"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:77": {
+          "name": "Illinois State House district 77",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 77",
+          "divisionId": "ocd-division/country:us/state:il/sldl:77",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Norma Hernandez",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:77",
+          "overwrite_name": "Norma Hernandez",
+          "emails": [
+            "district@repnormahernandez.com"
+          ],
+          "phones": [
+            "(815) 324-5055"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:78": {
           "name": "Illinois State House district 78",
           "overwrite": "true",
@@ -25479,6 +26330,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:81": {
+          "name": "Illinois State House district 81",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 81",
+          "divisionId": "ocd-division/country:us/state:il/sldl:81",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Anne M. Stava-Murray",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:81",
+          "overwrite_name": "Anne M. Stava-Murray",
+          "emails": [
+            "office@repstavamurray.com"
+          ],
+          "phones": [
+            "(217) 782-6578"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:82": {
           "name": "Illinois State House district 82",
           "overwrite": "true",
@@ -25547,6 +26435,80 @@
           ],
           "phones": [
             "(217) 782-1486"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:85": {
+          "name": "Illinois State House district 85",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 85",
+          "divisionId": "ocd-division/country:us/state:il/sldl:85",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Dagmara Avelar",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:85",
+          "overwrite_name": "Dagmara Avelar",
+          "emails": [
+            "info@repdagmara.org"
+          ],
+          "phones": [
+            "815-372-0085"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:86": {
+          "name": "Illinois State House district 86",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 86",
+          "divisionId": "ocd-division/country:us/state:il/sldl:86",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Lawrence \"Larry\" Walsh, Jr.",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:86",
+          "overwrite_name": "Lawrence \"Larry\" Walsh, Jr.",
+          "emails": [
+            "statereplarrywalshjr@gmail.com"
+          ],
+          "phones": [
+            "(217) 782-8090"
           ]
         }
       ]
@@ -25812,6 +26774,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:95": {
+          "name": "Illinois State House district 95",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 95",
+          "divisionId": "ocd-division/country:us/state:il/sldl:95",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Michael J. Coffey, Jr.",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:95",
+          "overwrite_name": "Michael J. Coffey, Jr.",
+          "emails": [
+            "coffey@ilhousegop.org"
+          ],
+          "phones": [
+            "(217) 782-0053"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:97": {
           "name": "Illinois State House district 97",
           "overwrite": "true",
@@ -25960,6 +26959,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:104": {
+          "name": "Illinois State House district 104",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 104",
+          "divisionId": "ocd-division/country:us/state:il/sldl:104",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mike Marron",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:104",
+          "overwrite_name": "Mike Marron",
+          "emails": [
+            "mike@repmikemarron.com"
+          ],
+          "phones": [
+            "(217) 477-0104"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:105": {
           "name": "Illinois State House district 105",
           "overwrite": "true",
@@ -26065,6 +27101,43 @@
           ],
           "phones": [
             "(217) 774-1306"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:il/sldl:108": {
+          "name": "Illinois State House district 108",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 108",
+          "divisionId": "ocd-division/country:us/state:il/sldl:108",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Wayne A. Rosenthal",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:108",
+          "overwrite_name": "Wayne A. Rosenthal",
+          "emails": [
+            "rosenthal@ilhousegop.org"
+          ],
+          "phones": [
+            "(217) 782-8071"
           ]
         }
       ]
@@ -26805,43 +27878,6 @@
           ],
           "phones": [
             "(410) 841-3527"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:25": {
-          "name": "Maryland State House district 25",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 25",
-          "divisionId": "ocd-division/country:us/state:md/sldl:25",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Kent Roberson",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
-          "overwrite_name": "Kent Roberson",
-          "emails": [
-            "kent.roberson@house.state.md.us"
-          ],
-          "phones": [
-            "410-841-3557"
           ]
         }
       ]
@@ -36536,6 +37572,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:nj/sldl:28": {
+          "name": "New Jersey State House district 28",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "NJ State House District 28",
+          "divisionId": "ocd-division/country:us/state:nj/sldl:28",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Jacqueline S. Yustein",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:nj/sldl:28",
+          "overwrite_name": "Jacqueline S. Yustein",
+          "emails": [
+            "aswyustein@njleg.org"
+          ],
+          "phones": [
+            "(973) 450-0484"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:nj/sldl:29": {
           "name": "New Jersey State House district 29",
           "overwrite": "true",
@@ -44485,43 +45558,6 @@
           ],
           "phones": [
             "(717) 787-5470"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:pa/sldl:21": {
-          "name": "Pennsylvania State House district 21",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "PA State House District 21",
-          "divisionId": "ocd-division/country:us/state:pa/sldl:21",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Sara Innamorato",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:21",
-          "overwrite_name": "Sara Innamorato",
-          "emails": [
-            "sInnamorato@pahouse.net"
-          ],
-          "phones": [
-            "(717) 783-9114"
           ]
         }
       ]

@@ -2658,6 +2658,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:8": {
+        "name": "Illinois State Senate district 8",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 8",
+        "divisionId": "ocd-division/country:us/state:il/sldu:8",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Ram Villivalam",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:8",
+        "overwrite_name": "Ram Villivalam",
+        "emails": [
+          "info@senatorram.com"
+        ],
+        "phones": [
+          "(872) 208-5188."
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:9": {
         "name": "Illinois State Senate district 9",
         "overwrite": "true",
@@ -2806,6 +2843,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:13": {
+        "name": "Illinois State Senate district 13",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 13",
+        "divisionId": "ocd-division/country:us/state:il/sldu:13",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Peters",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:13",
+        "overwrite_name": "Robert Peters",
+        "emails": [
+          "info@senatorrobertpeters.com"
+        ],
+        "phones": [
+          "(773) 363-1996"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:14": {
         "name": "Illinois State Senate district 14",
         "overwrite": "true",
@@ -2911,6 +2985,43 @@
         ],
         "phones": [
           "(312) 383-4996"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:17": {
+        "name": "Illinois State Senate district 17",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 17",
+        "divisionId": "ocd-division/country:us/state:il/sldu:17",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Elgie R. Sims, Jr.",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:17",
+        "overwrite_name": "Elgie R. Sims, Jr.",
+        "emails": [
+          "info@senatorelgiesims.com"
+        ],
+        "phones": [
+          "(773) 933-7715"
         ]
       }
     ]
@@ -3583,6 +3694,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:41": {
+        "name": "Illinois State Senate district 41",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 41",
+        "divisionId": "ocd-division/country:us/state:il/sldu:41",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "John F. Curran",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:41",
+        "overwrite_name": "John F. Curran",
+        "emails": [
+          "senatorcurran@gmail.com"
+        ],
+        "phones": [
+          "(630) 914-5733"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:42": {
         "name": "Illinois State Senate district 42",
         "overwrite": "true",
@@ -3799,6 +3947,43 @@
         ],
         "phones": [
           "(309) 230-7584"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:il/sldu:48": {
+        "name": "Illinois State Senate district 48",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 48",
+        "divisionId": "ocd-division/country:us/state:il/sldu:48",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Doris Turner",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:48",
+        "overwrite_name": "Doris Turner",
+        "emails": [
+          "senatorturnermac@gmail.com"
+        ],
+        "phones": [
+          "(217) 782-0228"
         ]
       }
     ]
@@ -13731,43 +13916,6 @@
         ],
         "phones": [
           "(405) 521-5636"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ok/sldu:32": {
-        "name": "Oklahoma State Senate district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OK State Senate District 32",
-        "divisionId": "ocd-division/country:us/state:ok/sldu:32",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Michael Montgomery",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ok/sldu:32",
-        "overwrite_name": "John Michael Montgomery",
-        "emails": [
-          "montgomery@oksenate.gov"
-        ],
-        "phones": [
-          "(405) 521-5567"
         ]
       }
     ]

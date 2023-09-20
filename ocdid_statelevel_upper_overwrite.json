@@ -2584,6 +2584,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:5": {
+        "name": "Illinois State Senate district 5",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 5",
+        "divisionId": "ocd-division/country:us/state:il/sldu:5",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Lakesia Collins",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:5",
+        "overwrite_name": "Lakesia Collins",
+        "emails": [
+          "office@lakesiacollins.com"
+        ],
+        "phones": [
+          "(312) 298-9181"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:6": {
         "name": "Illinois State Senate district 6",
         "overwrite": "true",
@@ -2652,43 +2689,6 @@
         ],
         "phones": [
           "(773) 769-1717"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:8": {
-        "name": "Illinois State Senate district 8",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 8",
-        "divisionId": "ocd-division/country:us/state:il/sldu:8",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ram Villivalam",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:8",
-        "overwrite_name": "Ram Villivalam",
-        "emails": [
-          "info@senatorram.com"
-        ],
-        "phones": [
-          "(872) 208-5188."
         ]
       }
     ]
@@ -2837,43 +2837,6 @@
         ],
         "phones": [
           "(773) 565-4661"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:13": {
-        "name": "Illinois State Senate district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 13",
-        "divisionId": "ocd-division/country:us/state:il/sldu:13",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Robert Peters",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:13",
-        "overwrite_name": "Robert Peters",
-        "emails": [
-          "info@senatorrobertpeters.com"
-        ],
-        "phones": [
-          "(773) 363-1996"
         ]
       }
     ]
@@ -3324,43 +3287,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:il/sldu:27": {
-        "name": "Illinois State Senate district 27",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 27",
-        "divisionId": "ocd-division/country:us/state:il/sldu:27",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ann Gillespie",
-        "party": "Democratic",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:27",
-        "overwrite_name": "Ann Gillespie",
-        "emails": [
-          "info@senatoranngillespie.org"
-        ],
-        "phones": [
-          "(847) 749-1880"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/sldu:29": {
         "name": "Illinois State Senate district 29",
         "overwrite": "true",
@@ -3398,43 +3324,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:il/sldu:30": {
-        "name": "Illinois State Senate district 30",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 30",
-        "divisionId": "ocd-division/country:us/state:il/sldu:30",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Adriane Johnson",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:30",
-        "overwrite_name": "Adriane Johnson",
-        "emails": [
-          "info@senatoradrianejohnson.com"
-        ],
-        "phones": [
-          "(847) 672-6201"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/sldu:31": {
         "name": "Illinois State Senate district 31",
         "overwrite": "true",
@@ -3466,43 +3355,6 @@
         ],
         "phones": [
           "(847) 548-5631"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:32": {
-        "name": "Illinois State Senate district 32",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 32",
-        "divisionId": "ocd-division/country:us/state:il/sldu:32",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Craig Wilcox",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:32",
-        "overwrite_name": "Craig Wilcox",
-        "emails": [
-          "senatorwilcox@gmail.com"
-        ],
-        "phones": [
-          "(815) 455-6330"
         ]
       }
     ]
@@ -3947,43 +3799,6 @@
         ],
         "phones": [
           "(309) 230-7584"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/sldu:48": {
-        "name": "Illinois State Senate district 48",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "IL State Senate District 48",
-        "divisionId": "ocd-division/country:us/state:il/sldu:48",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Doris Turner",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:48",
-        "overwrite_name": "Doris Turner",
-        "emails": [
-          "senatorturnermac@gmail.com"
-        ],
-        "phones": [
-          "(217) 782-0228"
         ]
       }
     ]
@@ -5618,43 +5433,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldu:3rd_suffolk": {
-        "name": "Massachusetts State Senate district 3rd_suffolk",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District 3RD_SUFFOLK",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:3rd_suffolk",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Lydia Edwards",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:3rd_suffolk",
-        "overwrite_name": "",
-        "emails": [
-          "Lydia.Edwards@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1634"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire": {
         "name": "Massachusetts State Senate district berkshire_hampden_franklin_and_hampshire",
         "overwrite": "true",
@@ -5692,191 +5470,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire": {
-        "name": "Massachusetts State Senate district hampden_and_hampshire",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District HAMPDEN_AND_HAMPSHIRE",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John Velis",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:hampden_and_hampshire",
-        "overwrite_name": "",
-        "emails": [
-          "john.velis@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1415"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester": {
-        "name": "Massachusetts State Senate district hampden_hampshire_and_worcester",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District HAMPDEN_HAMPSHIRE_AND_WORCESTER",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jacob Oliveira",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester",
-        "overwrite_name": "",
-        "emails": [
-          "Jacob.Oliveira@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1291"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire": {
-        "name": "Massachusetts State Senate district worcester_and_hampshire",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District WORCESTER_AND_HAMPSHIRE",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Anne Gobi",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_hampshire",
-        "overwrite_name": "",
-        "emails": [
-          "anne.gobi@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1540"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:worcester_and_hampden": {
-        "name": "Massachusetts State Senate district worcester_and_hampden",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District WORCESTER_AND_HAMPDEN",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:worcester_and_hampden",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Ryan Fattman",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:worcester_and_hampden",
-        "overwrite_name": "",
-        "emails": [
-          "Ryan.Fattman@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1420"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex": {
-        "name": "Massachusetts State Senate district norfolk_worcester_and_middlesex",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District NORFOLK_WORCESTER_AND_MIDDLESEX",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rebecca Rausch",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
-        "overwrite_name": "",
-        "emails": [
-          "Becca.Rausch@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1555"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex": {
         "name": "Massachusetts State Senate district norfolk_bristol_and_middlesex",
         "overwrite": "true",
@@ -5903,154 +5496,6 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex",
         "overwrite_name": "Richard J. Ross"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex": {
-        "name": "Massachusetts State Senate district suffolk_and_middlesex",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District SUFFOLK_AND_MIDDLESEX",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "William Brownsberger",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex",
-        "overwrite_name": "",
-        "emails": [
-          "William.Brownsberger@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1280"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex": {
-        "name": "Massachusetts State Senate district norfolk_and_middlesex",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District NORFOLK_AND_MIDDLESEX",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Cynthia Creem",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex",
-        "overwrite_name": "",
-        "emails": [
-          "Cynthia.Creem@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1639"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk": {
-        "name": "Massachusetts State Senate district middlesex_and_norfolk",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District MIDDLESEX_AND_NORFOLK",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Karen Spilka",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:middlesex_and_norfolk",
-        "overwrite_name": "",
-        "emails": [
-          "Karen.Spilka@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1500"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol": {
-        "name": "Massachusetts State Senate district norfolk_plymouth_and_bristol",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District NORFOLK_PLYMOUTH_AND_BRISTOL",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Walter Timilty",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_plymouth_and_bristol",
-        "overwrite_name": "",
-        "emails": [
-          "Walter.Timilty@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1643"
-        ]
       }
     ]
   },
@@ -6113,117 +5558,6 @@
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol",
         "overwrite_name": "Michael D. Brady"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth": {
-        "name": "Massachusetts State Senate district 3rd_bristol_and_plymouth",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District 3RD_BRISTOL_AND_PLYMOUTH",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Marc Pacheco",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth",
-        "overwrite_name": "",
-        "emails": [
-          "Marc.Pacheco@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1551"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk": {
-        "name": "Massachusetts State Senate district 1st_plymouth_and_norfolk",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District 1ST_PLYMOUTH_AND_NORFOLK",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Patrick O'Connor",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk",
-        "overwrite_name": "",
-        "emails": [
-          "Patrick.OConnor@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1646"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk": {
-        "name": "Massachusetts State Senate district 2nd_plymouth_and_norfolk",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District 2ND_PLYMOUTH_AND_NORFOLK",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Michael Brady",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk",
-        "overwrite_name": "",
-        "emails": [
-          "Michael.Brady@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1200"
-        ]
       }
     ]
   },
@@ -16041,8 +15375,8 @@
     },
     "offices": [
       {
-        "name": "VT State Senate District ORLEANS",
-        "divisionId": "ocd-division/country:us/state:vt/sldu:orleans",
+        "name": "WA State Senate District 23",
+        "divisionId": "ocd-division/country:us/state:wa/sldu:23",
         "roles": [
           "statelevel_upper"
         ],
@@ -16053,15 +15387,15 @@
     ],
     "officials": [
       {
-        "name": "Robert Starr",
+        "name": "Drew Hansen",
         "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:orleans",
-        "overwrite_name": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:wa/sldu:23",
+        "overwrite_name": "Drew Hansen",
         "emails": [
-          "rstarr@leg.state.vt.us"
+          "drew.hansen@leg.wa.gov."
         ],
         "phones": [
-          "802-309-3354"
+          "(380) 786-7644"
         ]
       }
     ]
@@ -16247,43 +15581,6 @@
         ],
         "phones": [
           "(307) 472-0233"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:wy/sldu:31": {
-        "name": "Wyoming State Senate district 31",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "WY State Senate District 31",
-        "divisionId": "ocd-division/country:us/state:wy/sldu:31",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Evie Brennan",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:wy/sldu:31",
-        "overwrite_name": "",
-        "emails": [
-          "Evie.Brennan@wyoleg.gov"
-        ],
-        "phones": [
-          "(307) 630-0887"
         ]
       }
     ]

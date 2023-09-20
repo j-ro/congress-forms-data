@@ -187,37 +187,6 @@
         "name": "Vacant",
         "party": "",
         "overwrite_ocdid": "ocd-division/country:us/district:dc",
-        "overwrite_name": "Phil Mendelson"
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/district:dc": {
-        "name": "District of Columbia",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "District of Columbia",
-        "divisionId": "ocd-division/country:us/district:dc",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Vacant",
-        "party": "",
-        "overwrite_ocdid": "ocd-division/country:us/district:dc",
         "overwrite_name": "Anita Bonds"
       }
     ]
@@ -317,6 +286,37 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/district:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/district:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Vacant",
+        "party": "",
+        "overwrite_ocdid": "ocd-division/country:us/district:dc",
+        "overwrite_name": "Phil Mendelson"
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:fl/cd:28": {
         "name": "Florida's 28th congressional district",
         "overwrite": "true",
@@ -379,142 +379,6 @@
         "overwrite_name": "Barry Loudermilk",
         "phones": [
           "(202) 225-2931"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:1": {
-        "name": "Illinois's 1st congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-1",
-        "divisionId": "ocd-division/country:us/state:il/cd:1",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jonathan L. Jackson",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:1",
-        "overwrite_name": "Jonathan L. Jackson",
-        "phones": [
-          "(202) 225-4372"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:3": {
-        "name": "Illinois's 3rd congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-3",
-        "divisionId": "ocd-division/country:us/state:il/cd:3",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Delia Ramirez",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:3",
-        "overwrite_name": "Delia Ramirez",
-        "phones": [
-          "202-225-5701"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:4": {
-        "name": "Illinois's 4th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-4",
-        "divisionId": "ocd-division/country:us/state:il/cd:4",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jesús \"Chuy\" García",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:4",
-        "overwrite_name": "Jesús \"Chuy\" García",
-        "phones": [
-          "(202) 225-8203"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:6": {
-        "name": "Illinois's 6th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-6",
-        "divisionId": "ocd-division/country:us/state:il/cd:6",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Sean Casten",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:6",
-        "overwrite_name": "Sean Casten",
-        "phones": [
-          "(202) 225-4561"
         ]
       }
     ]
@@ -589,74 +453,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:il/cd:13": {
-        "name": "Illinois's 13th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-13",
-        "divisionId": "ocd-division/country:us/state:il/cd:13",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Nikki Budzinski",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:13",
-        "overwrite_name": "Nikki Budzinski",
-        "phones": [
-          "(202) 225-2371"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:14": {
-        "name": "Illinois's 14th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-14",
-        "divisionId": "ocd-division/country:us/state:il/cd:14",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Lauren Underwood",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:14",
-        "overwrite_name": "Lauren Underwood",
-        "phones": [
-          "(202) 225-2976"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/cd:16": {
         "name": "Illinois's 16th congressional district",
         "overwrite": "true",
@@ -685,40 +481,6 @@
         "overwrite_name": "Darin LaHood",
         "phones": [
           "(202) 225-6201"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:il/cd:17": {
-        "name": "Illinois's 17th congressional district",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States House of Representatives IL-17",
-        "divisionId": "ocd-division/country:us/state:il/cd:17",
-        "roles": [
-          "legislatorLowerBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Eric Sorensen",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:il/cd:17",
-        "overwrite_name": "Eric Sorensen",
-        "phones": [
-          "(202) 225-5905"
         ]
       }
     ]

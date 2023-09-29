@@ -7916,10 +7916,10 @@
     ],
     "officials": [
       {
-        "name": "Holly Rehder",
+        "name": "Holly Thompson Rehder",
         "party": "Republican Party",
         "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:27",
-        "overwrite_name": "Holly Rehder",
+        "overwrite_name": "Holly Thompson Rehder",
         "emails": [
           "Holly.Rehder@senate.mo.gov"
         ],
@@ -10364,6 +10364,43 @@
         ],
         "phones": [
           "(505) 986-4278"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:nm/sldu:42": {
+        "name": "New Mexico State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "NM State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:nm/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Steve McCutcheon II",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nm/sldu:42",
+        "overwrite_name": "Steve McCutcheon II",
+        "emails": [
+          "steve.mccutcheon@nmlegis.gov"
+        ],
+        "phones": [
+          "505-986-4714"
         ]
       }
     ]
@@ -15367,6 +15404,43 @@
     "divisions": {
       "ocd-division/country:us/state:vt/sldu:orleans": {
         "name": "Vermont State Senate district orleans",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "VT State Senate District ORLEANS",
+        "divisionId": "ocd-division/country:us/state:vt/sldu:orleans",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Robert Starr",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:orleans",
+        "overwrite_name": "Robert Starr",
+        "emails": [
+          "rstarr@leg.state.vt.us"
+        ],
+        "phones": [
+          "(802) 988-2877"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wa/sldu:23": {
+        "name": "Washington State Senate district 23",
         "overwrite": "true",
         "officeIndices": [
           0

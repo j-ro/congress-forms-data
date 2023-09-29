@@ -1222,80 +1222,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ca/sldl:13": {
-        "name": "California State House district 13",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 13",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:13",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Carlos Villapudua",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:13",
-        "overwrite_name": "Carlos Villapudua",
-        "emails": [
-          "assemblymember.villapudua@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2013"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ca/sldl:16": {
-        "name": "California State House district 16",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "CA State House District 16",
-        "divisionId": "ocd-division/country:us/state:ca/sldl:16",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rebecca Bauer-Kahan",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ca/sldl:16",
-        "overwrite_name": "Rebecca Bauer-Kahan",
-        "emails": [
-          "assemblymember.bauer-kahan@assembly.ca.gov"
-        ],
-        "phones": [
-          "(916) 319-2016"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ca/sldl:31": {
         "name": "California State House district 31",
         "overwrite": "true",
@@ -38631,6 +38557,40 @@
         ],
         "phones": [
           "(360) 786-7800"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:wv/sldl:57": {
+        "name": "West Virginia State House district 57",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "WV State House District 57",
+        "divisionId": "ocd-division/country:us/state:wv/sldl:57",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Hollis Lewis",
+        "party": "Hollis Lewis",
+        "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:57",
+        "overwrite_name": "Hollis Lewis",
+        "emails": [
+          "Democratic Party"
         ]
       }
     ]

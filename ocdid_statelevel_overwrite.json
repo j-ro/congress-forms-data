@@ -11480,6 +11480,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nd/sldu:34": {
+        "name": "North Dakota State Senate district 34",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "ND State Senate District 34",
+        "divisionId": "ocd-division/country:us/state:nd/sldu:34",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Justin Gerhardt",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd/sldu:34",
+        "overwrite_name": "Justin Gerhardt",
+        "emails": [
+          "jgerhardt@ndlegis.gov"
+        ],
+        "phones": [
+          "(701) 328-2916"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:oh/sldu:1": {
         "name": "Ohio State Senate district 1",
         "overwrite": "true",
@@ -14921,6 +14958,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:sc/sldu:42": {
+        "name": "South Carolina State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Deon T. Tedder",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:42",
+        "overwrite_name": "Deon T. Tedder",
+        "emails": [
+          "deontedder@schouse.gov"
+        ],
+        "phones": [
+          "803-212-6132"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:sc/sldu:44": {
         "name": "South Carolina State Senate district 44",
         "overwrite": "true",
@@ -15026,6 +15100,43 @@
         ],
         "phones": [
           "605-209-0555"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ut/sldu:22": {
+        "name": "Utah State Senate district 22",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "UT State Senate District 22",
+        "divisionId": "ocd-division/country:us/state:ut/sldu:22",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Heidi Balderree",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ut/sldu:22",
+        "overwrite_name": "Heidi Balderree",
+        "emails": [
+          "hbalderree@le.utah.gov"
+        ],
+        "phones": [
+          "385-910-3237"
         ]
       }
     ]
@@ -16845,6 +16956,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:ak/sldl:40": {
+          "name": "Alaska State House district 40",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "AK State House District 40",
+          "divisionId": "ocd-division/country:us/state:ak/sldl:40",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Thomas Baker",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ak/sldl:40",
+          "overwrite_name": "Thomas Baker",
+          "emails": [
+            "representative.thomas.baker@akleg.gov"
+          ],
+          "phones": [
+            "907-465-3473"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:ca/sldl:31": {
           "name": "California State House district 31",
           "overwrite": "true",
@@ -17080,6 +17228,43 @@
           ],
           "phones": [
             "Democratic Party"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/sldl:32": {
+          "name": "Colorado State House district 32",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "CO State House District 32",
+          "divisionId": "ocd-division/country:us/state:co/sldl:32",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Manny Rutinel",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/sldl:32",
+          "overwrite_name": "Manny Rutinel",
+          "emails": [
+            "manny.rutinel.house@coleg.gov"
+          ],
+          "phones": [
+            "(303) 866-2945"
           ]
         }
       ]
@@ -25664,6 +25849,43 @@
           ],
           "phones": [
             "(913-735-0304"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ks/sldl:50": {
+          "name": "Kansas State House district 50",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "KS State House District 50",
+          "divisionId": "ocd-division/country:us/state:ks/sldl:50",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Kyle McNorton",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ks/sldl:50",
+          "overwrite_name": "Kyle McNorton",
+          "emails": [
+            "Kyle.McNorton@house.ks.gov"
+          ],
+          "phones": [
+            "(785) 296-7460"
           ]
         }
       ]
@@ -46818,7 +47040,7 @@
           "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:163",
           "overwrite_name": "Heather Boyd",
           "emails": [
-            "heatherboyd163@gmail.com"
+            "RepBoyd@Pahouse.net"
           ],
           "phones": [
             "(717) 783-8099"
@@ -53816,6 +54038,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:wv/sldl:15": {
+          "name": "West Virginia State House district 15",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "WV State House District 15",
+          "divisionId": "ocd-division/country:us/state:wv/sldl:15",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Erica Moore",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:wv/sldl:15",
+          "overwrite_name": "Erica Moore",
+          "emails": [
+            "erica.moore@wvhouse.gov"
+          ],
+          "phones": [
+            "(304) 340-3185"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:wv/sldl:57": {
           "name": "West Virginia State House district 57",
           "overwrite": "true",
@@ -53844,6 +54103,9 @@
           "overwrite_name": "Hollis Lewis",
           "emails": [
             "hollis.lewis@wvhouse.gov"
+          ],
+          "phones": [
+            "(304) 340-3240"
           ]
         }
       ]
@@ -54700,4 +54962,3 @@
       ]
     }
   ]
-  

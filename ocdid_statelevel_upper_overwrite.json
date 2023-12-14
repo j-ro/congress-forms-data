@@ -14958,6 +14958,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:sc/sldu:42": {
+        "name": "South Carolina State Senate district 42",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "SC State Senate District 42",
+        "divisionId": "ocd-division/country:us/state:sc/sldu:42",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Deon T. Tedder",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:sc/sldu:42",
+        "overwrite_name": "Deon T. Tedder",
+        "emails": [
+          "deontedder@schouse.gov"
+        ],
+        "phones": [
+          "803-212-6132"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:sc/sldu:44": {
         "name": "South Carolina State Senate district 44",
         "overwrite": "true",

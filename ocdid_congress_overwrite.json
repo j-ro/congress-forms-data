@@ -861,40 +861,6 @@
     },
     {
       "divisions": {
-        "ocd-division/country:us/state:oh/cd:6": {
-          "name": "Ohio's 6th congressional district",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "United States House of Representatives OH-6",
-          "divisionId": "ocd-division/country:us/state:oh/cd:6",
-          "roles": [
-            "legislatorLowerBody"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Bill Johnson",
-          "party": "Republican Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:oh/cd:6",
-          "overwrite_name": "Bill Johnson",
-          "phones": [
-            "(202) 225-5705"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
         "ocd-division/country:us/state:oh/cd:8": {
           "name": "Ohio's 8th congressional district",
           "overwrite": "true",

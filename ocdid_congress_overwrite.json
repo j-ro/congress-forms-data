@@ -304,6 +304,40 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/state:dc",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Eleanor Holmes Norton",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:dc",
+        "overwrite_name": "Eleanor Holmes Norton",
+        "phones": [
+          "(202) 225-8050"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/district:dc": {
         "name": "District of Columbia",
         "overwrite": "true",

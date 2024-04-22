@@ -575,7 +575,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:mn",
         "overwrite_name": "Tim Walz",
         "emails": [
-          "gov.contact@state.mn.us"
+          "tim.walz@state.mn.us"
         ],
         "phones": [
           "(651) 201-3400"
@@ -622,6 +622,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:nd": {
+        "name": "North Dakota",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:nd",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Doug Burgum",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:nd",
+        "overwrite_name": "Doug Burgum",
+        "emails": [
+          "governor@nd.gov"
+        ],
+        "phones": [
+          "(701) 328-2200"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:nv": {
         "name": "Nevada",
         "overwrite": "true",
@@ -650,6 +687,43 @@
         "overwrite_name": "Joe Lombardo",
         "phones": [
           "775-684-5670"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ok": {
+        "name": "Oklahoma",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "Governor",
+        "divisionId": "ocd-division/country:us/state:ok",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Kevin Stitt",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ok",
+        "overwrite_name": "Kevin Stitt",
+        "emails": [
+          "Kevin Stitt"
+        ],
+        "phones": [
+          "(405) 521-2342"
         ]
       }
     ]

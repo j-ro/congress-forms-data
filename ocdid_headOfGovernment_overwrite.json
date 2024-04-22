@@ -202,6 +202,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:dc": {
+        "name": "District of Columbia",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "District of Columbia",
+        "divisionId": "ocd-division/country:us/state:dc",
+        "roles": [
+          "headOfGovernment"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Muriel Bowser",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:dc",
+        "overwrite_name": "Muriel Bowser",
+        "emails": [
+          "eom@dc.gov"
+        ],
+        "phones": [
+          "(202) 727-2643"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/district:dc": {
         "name": "District of Columbia",
         "overwrite": "true",

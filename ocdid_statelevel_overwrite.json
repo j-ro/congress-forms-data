@@ -26506,80 +26506,6 @@
       ],
       "officials": [
         {
-          "name": "Kym Taylor",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:23",
-          "overwrite_name": "",
-          "emails": [
-            "kym.taylor@house.state.md.us"
-          ],
-          "phones": [
-            "(410) 841-3331"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:23": {
-          "name": "Maryland State House district 23",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 23",
-          "divisionId": "ocd-division/country:us/state:md/sldl:23",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Adrian Boafo",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:23",
-          "overwrite_name": "",
-          "emails": [
-            "adrian.boafo@house.state.md.us"
-          ],
-          "phones": [
-            "(410) 841-3047"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:23": {
-          "name": "Maryland State House district 23",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 23",
-          "divisionId": "ocd-division/country:us/state:md/sldl:23",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
           "name": "Marvin E. Holmes, Jr.",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:23",
@@ -42783,7 +42709,7 @@
           "name": "Gerrid Kendrix",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ok/sldl:52",
-          "overwrite_name": "",
+          "overwrite_name": "Gerrid Kendrix",
           "emails": [
             "gerrid.kendrix@okhouse.gov"
           ],
@@ -46226,7 +46152,7 @@
           "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:84",
           "overwrite_name": "Joe Hamm",
           "emails": [
-            "jhamm@pahousegop.com"
+            "jrigby@pahousegop.com"
           ],
           "phones": [
             "(717) 787-5270"

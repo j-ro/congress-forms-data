@@ -7568,43 +7568,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:id/sldl:17": {
-        "name": "Idaho State House district 17",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "ID State House District 17",
-        "divisionId": "ocd-division/country:us/state:id/sldl:17",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Sue Chew",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:id/sldl:17",
-        "overwrite_name": "Sue Chew",
-        "emails": [
-          "SChew@house.idaho.gov"
-        ],
-        "phones": [
-          "(208) 332-1049"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:il/sldl:1": {
         "name": "Illinois State House district 1",
         "overwrite": "true",
@@ -13365,43 +13328,6 @@
         ],
         "phones": [
           "(617) 722-2014"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:ma/sldl:6th_worcester": {
-        "name": "Massachusetts State House district 6th Worcester",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State House District 6TH_WORCESTER",
-        "divisionId": "ocd-division/country:us/state:ma/sldl:6th_worcester",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "John J. Marsi",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldl:6th_worcester",
-        "overwrite_name": "John J. Marsi",
-        "emails": [
-          "john.marsi@mahouse.gov"
-        ],
-        "phones": [
-          "(617) 722-2060"
         ]
       }
     ]
@@ -22880,43 +22806,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:oh/sldl:28": {
-        "name": "Ohio State House district 28",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State House District 28",
-        "divisionId": "ocd-division/country:us/state:oh/sldl:28",
-        "roles": [
-          "statelevel_lower"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Jessica E. Miranda",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:28",
-        "overwrite_name": "Jessica E. Miranda",
-        "emails": [
-          "rep28@ohiohouse.gov"
-        ],
-        "phones": [
-          "(614) 466-8120"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:oh/sldl:29": {
         "name": "Ohio State House district 29",
         "overwrite": "true",
@@ -23055,7 +22944,7 @@
         "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:33",
         "overwrite_name": "Veronica Sims",
         "emails": [
-          "ep33@ohiohouse.gov"
+          "rep33@ohiohouse.gov"
         ],
         "phones": [
           "(614) 644-6037"
@@ -25279,6 +25168,43 @@
         ],
         "phones": [
           "(614) 466-1366"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldl:94": {
+        "name": "Ohio State House district 94",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State House District 94",
+        "divisionId": "ocd-division/country:us/state:oh/sldl:94",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jay Edwards",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:94",
+        "overwrite_name": "Jay Edwards",
+        "emails": [
+          "rep94@ohiohouse.gov"
+        ],
+        "phones": [
+          "(614) 466-2158"
         ]
       }
     ]
@@ -31347,6 +31273,43 @@
         ],
         "phones": [
           "(717) 783-8573"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:pa/sldl:139": {
+        "name": "Pennsylvania State House district 139",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "PA State House District 139",
+        "divisionId": "ocd-division/country:us/state:pa/sldl:139",
+        "roles": [
+          "statelevel_lower"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Jeff Olsommer",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:139",
+        "overwrite_name": "Jeff Olsommer",
+        "emails": [
+          "info@JeffOlsommer139th"
+        ],
+        "phones": [
+          "717-783-2037"
         ]
       }
     ]

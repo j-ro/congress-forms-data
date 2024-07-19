@@ -3139,6 +3139,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:il/sldu:27": {
+        "name": "Illinois State Senate district 27",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "IL State Senate District 27",
+        "divisionId": "ocd-division/country:us/state:il/sldu:27",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Mark L. Walker",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:il/sldu:27",
+        "overwrite_name": "Mark L. Walker",
+        "emails": [
+          "contact@senatorwalker@info.com"
+        ],
+        "phones": [
+          "(217) 782-4471"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:il/sldu:29": {
         "name": "Illinois State Senate district 29",
         "overwrite": "true",
@@ -5433,6 +5470,43 @@
   },
   {
     "divisions": {
+      "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex": {
+        "name": "Massachusetts State Senate district norfolk_worcester_and_middlesex",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "MA State Senate District NORFOLK_WORCESTER_AND_MIDDLESEX",
+        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Rebecca L. Rausch",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
+        "overwrite_name": "",
+        "emails": [
+          "rebecca.Rausch@masenate.gov"
+        ],
+        "phones": [
+          "(617) 722-1555"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
       "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire": {
         "name": "Massachusetts State Senate district berkshire_hampden_franklin_and_hampshire",
         "overwrite": "true",
@@ -7666,43 +7740,6 @@
         ],
         "phones": [
           "(573) 751-4415"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mo/sldu:7": {
-        "name": "Missouri State Senate district 7",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MO State Senate District 7",
-        "divisionId": "ocd-division/country:us/state:mo/sldu:7",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Greg Razer",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:7",
-        "overwrite_name": "Greg Razer",
-        "emails": [
-          "Greg.Razer@senate.mo.gov"
-        ],
-        "phones": [
-          "(573) 751-6607"
         ]
       }
     ]
@@ -11776,43 +11813,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ny/sldu:63": {
-        "name": "New York State Senate district 63",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "NY State Senate District 63",
-        "divisionId": "ocd-division/country:us/state:ny/sldu:63",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Timothy M. Kennedy",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ny/sldu:63",
-        "overwrite_name": "Timothy M. Kennedy",
-        "emails": [
-          "kennedy@nysenate.gov"
-        ],
-        "phones": [
-          "(518) 455-2426"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:nd/sldu:12": {
         "name": "North Dakota State Senate district 12",
         "overwrite": "true",
@@ -12954,43 +12954,6 @@
         ],
         "phones": [
           "(614) 466-7182"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:oh/sldu:33": {
-        "name": "Ohio State Senate district 33",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "OH State Senate District 33",
-        "divisionId": "ocd-division/country:us/state:oh/sldu:33",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Michael A. Rulli",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:33",
-        "overwrite_name": "Michael A. Rulli",
-        "emails": [
-          "sd33@ohiosenate.gov"
-        ],
-        "phones": [
-          "(614) 466-8285"
         ]
       }
     ]
@@ -15550,8 +15513,8 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:vt/sldu:chittenden_north": {
-        "name": "Vermont State Senate district chittenden_north",
+      "ocd-division/country:us/state:tx/sldu:15": {
+        "name": "Texas State Senate district 15",
         "overwrite": "true",
         "officeIndices": [
           0
@@ -15560,8 +15523,8 @@
     },
     "offices": [
       {
-        "name": "VT State Senate District CHITTENDEN_NORTH",
-        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_north",
+        "name": "TX State Senate District 15",
+        "divisionId": "ocd-division/country:us/state:tx/sldu:15",
         "roles": [
           "statelevel_upper"
         ],
@@ -15572,89 +15535,15 @@
     ],
     "officials": [
       {
-        "name": "Irene Wrenner",
+        "name": "Molly Cook",
         "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_north",
-        "overwrite_name": "",
+        "overwrite_ocdid": "ocd-division/country:us/state:tx/sldu:15",
+        "overwrite_name": "Molly Cook",
         "emails": [
-          "iwrenner@leg.state.vt.us"
+          "molly.cook@senate.texas.gov"
         ],
         "phones": [
-          "(802) 828-2228"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:vt/sldu:chittenden_central": {
-        "name": "Vermont State Senate district chittenden_central",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "VT State Senate District CHITTENDEN_CENTRAL",
-        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_central",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Philip Baruth",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_central",
-        "overwrite_name": "",
-        "emails": [
-          "pbaruth@leg.state.vt.us"
-        ],
-        "phones": [
-          "(802) 503-5266"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:vt/sldu:chittenden_southeast": {
-        "name": "Vermont State Senate district chittenden_southeast",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "VT State Senate District CHITTENDEN_SOUTHEAST",
-        "divisionId": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Virginia \"Ginny\" Lyons",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:vt/sldu:chittenden_southeast",
-        "overwrite_name": "",
-        "emails": [
-          "vlyons@leg.state.vt.us"
-        ],
-        "phones": [
-          "(802) 828-2228"
+          "(512) 463-0115"
         ]
       }
     ]

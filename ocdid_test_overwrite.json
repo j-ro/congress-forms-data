@@ -1,0 +1,36 @@
+[
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/cd:8": {
+        "name": "Arkansas' 4th congressional district",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States House of Representatives AR-4",
+        "divisionId": "ocd-division/country:us/state:ar/cd:4",
+        "roles": [
+          "legislatorLowerBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "BruceYYYOW WestermanYYYOW",
+        "party": "Republican",
+        "overwrite_ocdid": "ocd-division/country:us/state:ar/cd:4",
+        "overwrite_name": "Bruce Westerman",
+        "phones": [
+          "(202) 225-6205"
+        ]
+      }
+    ]
+  }
+ ]

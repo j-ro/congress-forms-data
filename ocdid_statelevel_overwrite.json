@@ -5470,43 +5470,6 @@
   },
   {
     "divisions": {
-      "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex": {
-        "name": "Massachusetts State Senate district norfolk_worcester_and_middlesex",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MA State Senate District NORFOLK_WORCESTER_AND_MIDDLESEX",
-        "divisionId": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Rebecca L. Rausch",
-        "party": "Democratic Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex",
-        "overwrite_name": "",
-        "emails": [
-          "rebecca.Rausch@masenate.gov"
-        ],
-        "phones": [
-          "(617) 722-1555"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:ma/sldu:berkshire_hampden_franklin_and_hampshire": {
         "name": "Massachusetts State Senate district berkshire_hampden_franklin_and_hampshire",
         "overwrite": "true",
@@ -8181,43 +8144,6 @@
         ],
         "phones": [
           "(573) 751-2173"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
-      "ocd-division/country:us/state:mo/sldu:33": {
-        "name": "Missouri State Senate district 33",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "MO State Senate District 33",
-        "divisionId": "ocd-division/country:us/state:mo/sldu:33",
-        "roles": [
-          "statelevel_upper"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Karla Eslinger",
-        "party": "Republican Party",
-        "overwrite_ocdid": "ocd-division/country:us/state:mo/sldu:33",
-        "overwrite_name": "Karla Eslinger",
-        "emails": [
-          "Karla.Eslinger@senate.mo.gov"
-        ],
-        "phones": [
-          "(573) 751-1882"
         ]
       }
     ]
@@ -12954,6 +12880,43 @@
         ],
         "phones": [
           "(614) 466-7182"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:oh/sldu:33": {
+        "name": "Ohio State Senate district 33",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "OH State Senate District 33",
+        "divisionId": "ocd-division/country:us/state:oh/sldu:33",
+        "roles": [
+          "statelevel_upper"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Al Cutrona",
+        "party": "Republican Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:oh/sldu:33",
+        "overwrite_name": "Al Cutrona",
+        "emails": [
+          "sd33@ohiosenate.gov"
+        ],
+        "phones": [
+          "(614) 466-8285"
         ]
       }
     ]
@@ -20453,6 +20416,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:il/sldl:53": {
+          "name": "Illinois State House district 53",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "IL State House District 53",
+          "divisionId": "ocd-division/country:us/state:il/sldl:53",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Nicolle Grasse",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:il/sldl:53",
+          "overwrite_name": "Nicolle Grasse",
+          "emails": [
+            "contact@staterepgrasse.com"
+          ],
+          "phones": [
+            "(217) 782-3739"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:il/sldl:54": {
           "name": "Illinois State House district 54",
           "overwrite": "true",
@@ -22482,117 +22482,6 @@
           ],
           "phones": [
             "(410) 841-3436"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:23": {
-          "name": "Maryland State House district 23",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 23",
-          "divisionId": "ocd-division/country:us/state:md/sldl:23",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Marvin E. Holmes, Jr.",
-          "party": "Democratic Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:23",
-          "overwrite_name": "",
-          "emails": [
-            "marvin.holmes@house.state.md.us"
-          ],
-          "phones": [
-            "(410) 841-3310"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:25": {
-          "name": "Maryland State House district 25",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 25",
-          "divisionId": "ocd-division/country:us/state:md/sldl:25",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Kym Taylor",
-          "party": "Kym Taylor",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:25",
-          "overwrite_name": "",
-          "emails": [
-            "kym.taylor@house.state.md.us"
-          ],
-          "phones": [
-            "(410) 841-3331"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:md/sldl:24": {
-          "name": "Maryland State House district 24",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "MD State House District 24",
-          "divisionId": "ocd-division/country:us/state:md/sldl:24",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Adrian A. Boafo",
-          "party": "Adrian A. Boafo",
-          "overwrite_ocdid": "ocd-division/country:us/state:md/sldl:24",
-          "overwrite_name": "",
-          "emails": [
-            "adrian.boafo@house.state.md.us"
-          ],
-          "phones": [
-            "(410) 841-3047"
           ]
         }
       ]
@@ -28646,12 +28535,12 @@
       ],
       "officials": [
         {
-          "name": "Scot Kerns",
+          "name": "Eric Tilleman",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mt/sldl:23",
-          "overwrite_name": "Scot Kerns",
+          "overwrite_name": "Eric Tilleman",
           "emails": [
-            "Scot.Kerns@legmt.gov"
+            "eric.tilleman@legmt.gov"
           ],
           "phones": [
             "(406) 351-0154"
@@ -33360,6 +33249,43 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:ny/sldl:77": {
+          "name": "New York State House district 77",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "NY State House District 77",
+          "divisionId": "ocd-division/country:us/state:ny/sldl:77",
+          "roles": [
+            "statelevel_lower"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Landon Dais",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ny/sldl:77",
+          "overwrite_name": "Landon Dais",
+          "emails": [
+            "daisl@nyassembly.gov"
+          ],
+          "phones": [
+            "(518) 455-5671"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:ny/sldl:86": {
           "name": "New York State House district 86",
           "overwrite": "true",
@@ -33752,15 +33678,15 @@
       ],
       "officials": [
         {
-          "name": "Randy A. Schobinger",
+          "name": "Clara Sue Price",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nd/sldl:40",
-          "overwrite_name": "Randy A. Schobinger",
+          "overwrite_name": "Clara Sue Price",
           "emails": [
-            "rschobinger@nd.gov"
+            "mischatz@ndlegis.gov"
           ],
           "phones": [
-            "(701) 328-3375"
+            "(701) 328-2916"
           ]
         }
       ]
@@ -35935,15 +35861,15 @@
       ],
       "officials": [
         {
-          "name": "Al Cutrona",
+          "name": "Tex Fischer",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:oh/sldl:58",
-          "overwrite_name": "Al Cutrona",
+          "overwrite_name": "Tex Fischer",
           "emails": [
             "rep58@ohiohouse.gov"
           ],
           "phones": [
-            "(614) 466-6107"
+            "(614) 466-9435"
           ]
         }
       ]
@@ -42415,7 +42341,7 @@
           "overwrite_ocdid": "ocd-division/country:us/state:pa/sldl:94",
           "overwrite_name": "Wendy Fink",
           "emails": [
-            "wfink@pahousegop.com"
+            "jrigby@pahousegop.com"
           ],
           "phones": [
             "(717) 783-6426"
@@ -46495,43 +46421,6 @@
     },
     {
       "divisions": {
-        "ocd-division/country:us/state:sc/sldl:52": {
-          "name": "South Carolina State House district 52",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "SC State House District 52",
-          "divisionId": "ocd-division/country:us/state:sc/sldl:52",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "J. Benjamin \"Ben\" Connell",
-          "party": "Republican Party",
-          "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:52",
-          "overwrite_name": "J. Benjamin \"Ben\" Connell",
-          "emails": [
-            "benconnell@schouse.gov"
-          ],
-          "phones": [
-            "(803) 212-6819"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
         "ocd-division/country:us/state:sc/sldl:56": {
           "name": "South Carolina State House district 56",
           "overwrite": "true",
@@ -47562,43 +47451,6 @@
           ],
           "phones": [
             "(843) 822-6363"
-          ]
-        }
-      ]
-    },
-    {
-      "divisions": {
-        "ocd-division/country:us/state:sc/sldl:113": {
-          "name": "South Carolina State House district 113",
-          "overwrite": "true",
-          "officeIndices": [
-            0
-          ]
-        }
-      },
-      "offices": [
-        {
-          "name": "SC State House District 113",
-          "divisionId": "ocd-division/country:us/state:sc/sldl:113",
-          "roles": [
-            "statelevel_lower"
-          ],
-          "officialIndices": [
-            0
-          ]
-        }
-      ],
-      "officials": [
-        {
-          "name": "Marvin R. Pendarvis",
-          "party": "Democratic",
-          "overwrite_ocdid": "ocd-division/country:us/state:sc/sldl:113",
-          "overwrite_name": "Marvin R. Pendarvis",
-          "emails": [
-            "MarvinPendarvis@schouse.gov"
-          ],
-          "phones": [
-            "(803) 734-3191"
           ]
         }
       ]

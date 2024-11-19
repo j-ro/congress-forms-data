@@ -839,6 +839,43 @@
       }
     ]
   },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:va": {
+          "name": "Virginia",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "Governor",
+          "divisionId": "ocd-division/country:us/state:va",
+          "roles": [
+            "headOfGovernment"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Glenn Youngkin",
+          "party": "Republican",
+          "overwrite_ocdid": "ocd-division/country:us/state:va",
+          "overwrite_name": "Glenn Youngkin",
+          "emails": [
+            "glenn.youngkin@governor.virginia.gov"
+          ],
+          "phones": [
+            "804-786-2211"
+          ]
+        }
+      ]
+    },
   {
     "divisions": {
       "ocd-division/country:us/state:vt": {

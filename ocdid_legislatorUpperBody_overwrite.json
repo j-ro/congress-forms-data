@@ -1,40 +1,6 @@
 [
   {
     "divisions": {
-      "ocd-division/country:us/state:az": {
-        "name": "Arizona",
-        "overwrite": "true",
-        "officeIndices": [
-          0
-        ]
-      }
-    },
-    "offices": [
-      {
-        "name": "United States Senate",
-        "divisionId": "ocd-division/country:us/state:az",
-        "roles": [
-          "legislatorUpperBody"
-        ],
-        "officialIndices": [
-          0
-        ]
-      }
-    ],
-    "officials": [
-      {
-        "name": "Kyrsten Sinema",
-        "party": "Independent",
-        "overwrite_ocdid": "ocd-division/country:us/state:az",
-        "overwrite_name": "Kyrsten Sinema",
-        "phones": [
-          "(202) 224-4521"
-        ]
-      }
-    ]
-  },
-  {
-    "divisions": {
       "ocd-division/country:us/state:co": {
         "name": "Colorado",
         "overwrite": "true",
@@ -63,6 +29,40 @@
         "overwrite_name": "Michael F. Bennet",
         "phones": [
           "(303) 455-7600"
+        ]
+      }
+    ]
+  },
+  {
+    "divisions": {
+      "ocd-division/country:us/state:ct": {
+        "name": "Connecticut",
+        "overwrite": "true",
+        "officeIndices": [
+          0
+        ]
+      }
+    },
+    "offices": [
+      {
+        "name": "United States Senate",
+        "divisionId": "ocd-division/country:us/state:ct",
+        "roles": [
+          "legislatorUpperBody"
+        ],
+        "officialIndices": [
+          0
+        ]
+      }
+    ],
+    "officials": [
+      {
+        "name": "Christopher S. Murphy",
+        "party": "Democratic Party",
+        "overwrite_ocdid": "ocd-division/country:us/state:ct",
+        "overwrite_name": "Christopher S. Murphy",
+        "phones": [
+          "(202) 224-4041"
         ]
       }
     ]

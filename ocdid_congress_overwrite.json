@@ -239,6 +239,346 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:al/cd:2": {
+          "name": "Alabama's 2nd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives AL-2",
+          "divisionId": "ocd-division/country:us/state:al/cd:2",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Shomari Figures",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:al/cd:2",
+          "overwrite_name": "Shomari Figures",
+          "phones": [
+            "202 225-4931"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:az/cd:3": {
+          "name": "Arizona's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives AZ-3",
+          "divisionId": "ocd-division/country:us/state:az/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Yassamin Ansari",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:az/cd:3",
+          "overwrite_name": "Yassamin Ansari",
+          "phones": [
+            "(202) 225-4065"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:az/cd:8": {
+          "name": "Arizona's 8th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives AZ-8",
+          "divisionId": "ocd-division/country:us/state:az/cd:8",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Abraham Hamadeh",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:az/cd:8",
+          "overwrite_name": "Abraham Hamadeh",
+          "phones": [
+            "(202) 225-4576"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:12": {
+          "name": "California's 12th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-12",
+          "divisionId": "ocd-division/country:us/state:ca/cd:12",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Lateefah Simon",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:12",
+          "overwrite_name": "Lateefah Simon",
+          "phones": [
+            "202-225-2661"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:13": {
+          "name": "California's 13th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-13",
+          "divisionId": "ocd-division/country:us/state:ca/cd:13",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Adam Gray",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:13",
+          "overwrite_name": "Adam Gray",
+          "phones": [
+            "202-225-1947"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:16": {
+          "name": "California's 16th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-16",
+          "divisionId": "ocd-division/country:us/state:ca/cd:16",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Sam Liccardo",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:16",
+          "overwrite_name": "Sam Liccardo",
+          "phones": [
+            "202-225-8104"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:27": {
+          "name": "California's 27th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-27",
+          "divisionId": "ocd-division/country:us/state:ca/cd:27",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "George Whitesides",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:27",
+          "overwrite_name": "George Whitesides",
+          "phones": [
+            "202-225-1956"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:29": {
+          "name": "California's 29th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-29",
+          "divisionId": "ocd-division/country:us/state:ca/cd:29",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Luz Maria Rivas",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:29",
+          "overwrite_name": "Luz Maria Rivas",
+          "phones": [
+            "202-225-6131"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:30": {
+          "name": "California's 30th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-30",
+          "divisionId": "ocd-division/country:us/state:ca/cd:30",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Laura Friedman",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:30",
+          "overwrite_name": "Laura Friedman",
+          "phones": [
+            "202-225-4176"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:31": {
+          "name": "California's 31st congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-31",
+          "divisionId": "ocd-division/country:us/state:ca/cd:31",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Gil Cisneros",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:31",
+          "overwrite_name": "Gil Cisneros",
+          "phones": [
+            "202-255-5256"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:ca/cd:32": {
           "name": "California's 32nd congressional district",
           "overwrite": "true",
@@ -307,6 +647,170 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:ca/cd:45": {
+          "name": "California's 45th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-45",
+          "divisionId": "ocd-division/country:us/state:ca/cd:45",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Derek Tran",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:45",
+          "overwrite_name": "Derek Tran",
+          "phones": [
+            "202-225-2415"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ca/cd:47": {
+          "name": "California's 47th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CA-47",
+          "divisionId": "ocd-division/country:us/state:ca/cd:47",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Dave Min",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ca/cd:47",
+          "overwrite_name": "Dave Min",
+          "phones": [
+            "202-225-5611"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:2": {
+          "name": "Colorado's 2nd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-2",
+          "divisionId": "ocd-division/country:us/state:co/cd:2",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:2",
+          "overwrite_name": "Angelika Schroeder"
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:3": {
+          "name": "Colorado's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-3",
+          "divisionId": "ocd-division/country:us/state:co/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Jeff Hurd",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:3",
+          "overwrite_name": "Jeff Hurd",
+          "phones": [
+            "202-225-4676"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:3": {
+          "name": "Colorado's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-3",
+          "divisionId": "ocd-division/country:us/state:co/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:3",
+          "overwrite_name": "Sherri Wright"
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:co/cd:4": {
           "name": "Colorado's 4th congressional district",
           "overwrite": "true",
@@ -335,6 +839,167 @@
           "overwrite_name": "Lauren Boebert",
           "phones": [
             "(202) 225-4761"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:4": {
+          "name": "Colorado's 4th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-4",
+          "divisionId": "ocd-division/country:us/state:co/cd:4",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:4",
+          "overwrite_name": "Debora Scheffel"
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:5": {
+          "name": "Colorado's 5th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-5",
+          "divisionId": "ocd-division/country:us/state:co/cd:5",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Jeff Crank",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:5",
+          "overwrite_name": "Jeff Crank",
+          "phones": [
+            "202-225-4422"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:5": {
+          "name": "Colorado's 5th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-5",
+          "divisionId": "ocd-division/country:us/state:co/cd:5",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:5",
+          "overwrite_name": "Steven Durham"
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:7": {
+          "name": "Colorado's 7th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-7",
+          "divisionId": "ocd-division/country:us/state:co/cd:7",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Vacant",
+          "party": "",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:7",
+          "overwrite_name": "Karla Esser"
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:co/cd:8": {
+          "name": "Colorado's 8th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives CO-8",
+          "divisionId": "ocd-division/country:us/state:co/cd:8",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Gabe Evans",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:co/cd:8",
+          "overwrite_name": "Gabe Evans",
+          "phones": [
+            "202-225-5625"
           ]
         }
       ]
@@ -589,6 +1254,40 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:fl/cd:8": {
+          "name": "Florida's 8th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives FL-8",
+          "divisionId": "ocd-division/country:us/state:fl/cd:8",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mike Haridopolos",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:fl/cd:8",
+          "overwrite_name": "Mike Haridopolos",
+          "phones": [
+            "202-225-3671"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:fl/cd:28": {
           "name": "Florida's 28th congressional district",
           "overwrite": "true",
@@ -617,6 +1316,40 @@
           "overwrite_name": "Carlos A. Gimenez",
           "phones": [
             "(305) 222-0160"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ga/cd:3": {
+          "name": "Georgia's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives GA-3",
+          "divisionId": "ocd-division/country:us/state:ga/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Brian Jack",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ga/cd:3",
+          "overwrite_name": "Brian Jack",
+          "phones": [
+            "202-225-5901"
           ]
         }
       ]
@@ -827,6 +1560,74 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:in/cd:3": {
+          "name": "Indiana's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives IN-3",
+          "divisionId": "ocd-division/country:us/state:in/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Marlin A. Stutzman",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:in/cd:3",
+          "overwrite_name": "Marlin A. Stutzman",
+          "phones": [
+            "202-225-4436"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:in/cd:6": {
+          "name": "Indiana's 6th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives IN-6",
+          "divisionId": "ocd-division/country:us/state:in/cd:6",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Jefferson Shreve",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:in/cd:6",
+          "overwrite_name": "Jefferson Shreve",
+          "phones": [
+            "202-225-3021"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:in/cd:7": {
           "name": "Indiana's 7th congressional district",
           "overwrite": "true",
@@ -855,6 +1656,40 @@
           "overwrite_name": "André Carson",
           "phones": [
             "(202) 225-4011"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:in/cd:8": {
+          "name": "Indiana's 8th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives IN-8",
+          "divisionId": "ocd-division/country:us/state:in/cd:8",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mark Messmer",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:in/cd:8",
+          "overwrite_name": "Mark Messmer",
+          "phones": [
+            "202-225-4636"
           ]
         }
       ]
@@ -991,6 +1826,40 @@
           "overwrite_name": "",
           "phones": [
             "(202) 225-4426"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ks/cd:2": {
+          "name": "Kansas's 2nd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives KS-2",
+          "divisionId": "ocd-division/country:us/state:ks/cd:2",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Derek Schmidt",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ks/cd:2",
+          "overwrite_name": "",
+          "phones": [
+            "202-225-6601"
           ]
         }
       ]
@@ -1257,8 +2126,8 @@
       ],
       "officials": [
         {
-          "name": "Garret Graves",
-          "party": "Republican Party",
+          "name": "Cleo Fields",
+          "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:la/cd:6",
           "overwrite_name": "",
           "phones": [
@@ -1359,7 +2228,7 @@
       ],
       "officials": [
         {
-          "name": "C. A. Dutch Ruppersberger",
+          "name": "Jonny Olszewski",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:md/cd:2",
           "overwrite_name": "",
@@ -1393,7 +2262,7 @@
       ],
       "officials": [
         {
-          "name": "John Sarbanes",
+          "name": "Sarah Elfreth",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:md/cd:3",
           "overwrite_name": "",
@@ -1495,7 +2364,7 @@
       ],
       "officials": [
         {
-          "name": "David Trone",
+          "name": "April McClain-Delaney",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:md/cd:6",
           "overwrite_name": "",
@@ -1983,6 +2852,40 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:mi/cd:7": {
+          "name": "Michigan's 7th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives MI-7",
+          "divisionId": "ocd-division/country:us/state:mi/cd:7",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Tom Barrett",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:mi/cd:7",
+          "overwrite_name": "Tom Barrett",
+          "phones": [
+            "202 225-4872"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:mi/cd:8": {
           "name": "Michigan's 8th congressional district",
           "overwrite": "true",
@@ -2005,7 +2908,7 @@
       ],
       "officials": [
         {
-          "name": "Daniel T. Kildee",
+          "name": "Kristen McDonald Rivet ",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mi/cd:8",
           "overwrite_name": "",
@@ -2277,7 +3180,7 @@
       ],
       "officials": [
         {
-          "name": "Dean Phillips",
+          "name": "Kelly Morrison",
           "party": "Democratic-Farmer-Labor Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mn/cd:3",
           "overwrite_name": "",
@@ -2617,7 +3520,7 @@
       ],
       "officials": [
         {
-          "name": "Cori Bush",
+          "name": "Wesley Bell",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mo/cd:1",
           "overwrite_name": "",
@@ -2685,7 +3588,7 @@
       ],
       "officials": [
         {
-          "name": "Blaine Luetkemeyer",
+          "name": "Bob Onder",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mo/cd:3",
           "overwrite_name": "",
@@ -2923,7 +3826,7 @@
       ],
       "officials": [
         {
-          "name": "Matt Rosendale",
+          "name": "Troy Downing",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:mt/cd:2",
           "overwrite_name": "",
@@ -3195,7 +4098,7 @@
       ],
       "officials": [
         {
-          "name": "Ann Kuster",
+          "name": "Maggie Goodlander",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nh/cd:2",
           "overwrite_name": "",
@@ -3297,7 +4200,7 @@
       ],
       "officials": [
         {
-          "name": "Andy Kim",
+          "name": "Herb Conoway",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:3",
           "overwrite_name": "",
@@ -3501,8 +4404,8 @@
       ],
       "officials": [
         {
-          "name": "VACANT",
-          "party": "Unaffiliated",
+          "name": "Nellie Pou",
+          "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nj/cd:9",
           "overwrite_name": "",
           "phones": [
@@ -3841,7 +4744,7 @@
       ],
       "officials": [
         {
-          "name": "Anthony P. D'Esposito",
+          "name": "Lauren Gillen",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:4",
           "overwrite_name": "",
@@ -4249,7 +5152,7 @@
       ],
       "officials": [
         {
-          "name": "Jamaal Bowman",
+          "name": "George Latimer",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:16",
           "overwrite_name": "",
@@ -4351,8 +5254,8 @@
       ],
       "officials": [
         {
-          "name": "Marcus Molinaro",
-          "party": "Republican Party",
+          "name": "Josh Riley",
+          "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:19",
           "overwrite_name": "",
           "phones": [
@@ -4453,8 +5356,8 @@
       ],
       "officials": [
         {
-          "name": "Brandon M. Williams",
-          "party": "Republican Party",
+          "name": "John Mannion",
+          "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:ny/cd:22",
           "overwrite_name": "",
           "phones": [
@@ -4793,7 +5696,7 @@
       ],
       "officials": [
         {
-          "name": "Kathy Manning",
+          "name": "Addison McDowell",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:6",
           "overwrite_name": "",
@@ -4861,7 +5764,7 @@
       ],
       "officials": [
         {
-          "name": "Dan Bishop",
+          "name": "Mark Harris",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:8",
           "overwrite_name": "",
@@ -4929,7 +5832,7 @@
       ],
       "officials": [
         {
-          "name": "Patrick McHenry",
+          "name": "Pat Harrigan",
           "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:10",
           "overwrite_name": "",
@@ -5031,8 +5934,8 @@
       ],
       "officials": [
         {
-          "name": "Wiley Nickel",
-          "party": "Democratic Party",
+          "name": "Brad Knott",
+          "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:13",
           "overwrite_name": "",
           "phones": [
@@ -5065,8 +5968,8 @@
       ],
       "officials": [
         {
-          "name": "Jeff Jackson",
-          "party": "Democratic Party",
+          "name": "Tim Moore",
+          "party": "Republican Party",
           "overwrite_ocdid": "ocd-division/country:us/state:nc/cd:14",
           "overwrite_name": "",
           "phones": [
@@ -5575,7 +6478,7 @@
       ],
       "officials": [
         {
-          "name": "Earl Blumenauer",
+          "name": "Maxine Dexter",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:or/cd:3",
           "overwrite_name": "",
@@ -5609,8 +6512,8 @@
       ],
       "officials": [
         {
-          "name": "Lori Chavez-DeRemer",
-          "party": "Republican Party",
+          "name": "Janelle Bynum",
+          "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:or/cd:5",
           "overwrite_name": "",
           "phones": [
@@ -5711,12 +6614,46 @@
       ],
       "officials": [
         {
-          "name": "Susan Wild",
+          "name": "Ryan Mackenzie",
           "party": "Democratic Party",
           "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:7",
           "overwrite_name": "",
           "phones": [
             "(202) 225-6411"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:pa/cd:8": {
+          "name": "Pennsylvania's 8th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives PA-8",
+          "divisionId": "ocd-division/country:us/state:pa/cd:8",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Rob Bresnahan, Jr.",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:pa/cd:8",
+          "overwrite_name": "Rob Bresnahan, Jr.",
+          "phones": [
+            "202-225-5546"
           ]
         }
       ]
@@ -5825,6 +6762,40 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:sc/cd:3": {
+          "name": "South Carolina's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives SC-3",
+          "divisionId": "ocd-division/country:us/state:sc/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Sheri Biggs",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:sc/cd:3",
+          "overwrite_name": "Sheri Biggs",
+          "phones": [
+            "202-225-5307"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:tn/cd:7": {
           "name": "Tennessee's 7th congressional district",
           "overwrite": "true",
@@ -5893,6 +6864,40 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:tx/cd:12": {
+          "name": "Texas's 12th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives TX-12",
+          "divisionId": "ocd-division/country:us/state:tx/cd:12",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Craig Goldman",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:12",
+          "overwrite_name": "Craig Goldman",
+          "phones": [
+            "202-225-5071"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:tx/cd:13": {
           "name": "Texas's 13th congressional district",
           "overwrite": "true",
@@ -5927,6 +6932,77 @@
     },
     {
       "divisions": {
+        "ocd-division/country:us/state:tx/cd:18": {
+          "name": "Texas's 18th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives TX-18",
+          "divisionId": "ocd-division/country:us/state:tx/cd:18",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Sylvester Turner",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:18",
+          "overwrite_name": "Sylvester Turner",
+          "phones": [
+            "202-225-6465"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:tx/cd:26": {
+          "name": "Texas's 26th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives TX-26",
+          "divisionId": "ocd-division/country:us/state:tx/cd:26",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Brandon Gill",
+          "party": "Brandon Gill",
+          "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:26",
+          "overwrite_name": "Brandon Gill",
+          "emails": [
+            "Republican Party"
+          ],
+          "phones": [
+            "202-257-7772"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
         "ocd-division/country:us/state:tx/cd:27": {
           "name": "Texas's 27th congressional district",
           "overwrite": "true",
@@ -5955,6 +7031,278 @@
           "overwrite_name": "",
           "phones": [
             "(202) 225-7742"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:tx/cd:32": {
+          "name": "Texas's 32nd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives TX-32",
+          "divisionId": "ocd-division/country:us/state:tx/cd:32",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Julie Johnson",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:tx/cd:32",
+          "overwrite_name": "Julie Johnson",
+          "phones": [
+            "202-225-2231"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ut/cd:3": {
+          "name": "Utah's 3rd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives UT-3",
+          "divisionId": "ocd-division/country:us/state:ut/cd:3",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Mike Kennedy",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ut/cd:3",
+          "overwrite_name": "Mike Kennedy",
+          "phones": [
+            "202-225-7751"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:va/cd:5": {
+          "name": "Virginia's 5th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives VA-5",
+          "divisionId": "ocd-division/country:us/state:va/cd:5",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "John J. McGuire III",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:va/cd:5",
+          "overwrite_name": "John J. McGuire III",
+          "phones": [
+            "202-225-4711"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:va/cd:7": {
+          "name": "Virginia's 7th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives VA-7",
+          "divisionId": "ocd-division/country:us/state:va/cd:7",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Eugene S. Vindman",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:va/cd:7",
+          "overwrite_name": "Eugene S. Vindman",
+          "phones": [
+            "202-225-2815"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:va/cd:10": {
+          "name": "Virginia's 10th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives VA-10",
+          "divisionId": "ocd-division/country:us/state:va/cd:10",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Suhas Subramanyam",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:va/cd:10",
+          "overwrite_name": "Suhas Subramanyam",
+          "phones": [
+            "202-225-5136"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:wa/cd:5": {
+          "name": "Washington's 5th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives WA-5",
+          "divisionId": "ocd-division/country:us/state:wa/cd:5",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Michael Baumgartner",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:wa/cd:5",
+          "overwrite_name": "Michael Baumgartner",
+          "phones": [
+            "202-225-2006"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:wa/cd:6": {
+          "name": "Washington's 6th congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives WA-6",
+          "divisionId": "ocd-division/country:us/state:wa/cd:6",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Emily Randall",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:wa/cd:6",
+          "overwrite_name": "Emily Randall",
+          "phones": [
+            "202-225-5916"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:wv/cd:2": {
+          "name": "West Virginia's 2nd congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives WV-2",
+          "divisionId": "ocd-division/country:us/state:wv/cd:2",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Riley Moore",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:wv/cd:2",
+          "overwrite_name": "Riley Moore",
+          "phones": [
+            "202-225-2901"
           ]
         }
       ]

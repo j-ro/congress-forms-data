@@ -7306,5 +7306,107 @@
           ]
         }
       ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:ak": {
+          "name": "Alaska's At-Large congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives Alaska At-Large",
+          "divisionId": "ocd-division/country:us/state:ak",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Nick Begich",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:ak",
+          "overwrite_name": "Nick Begich",
+          "phones": [
+            "202-225-5765"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:de": {
+          "name": "Delaware's At-Large congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives Delaware At-Large",
+          "divisionId": "ocd-division/country:us/state:de",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Sarah McBride",
+          "party": "Democratic Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:de",
+          "overwrite_name": "Sarah McBride",
+          "phones": [
+            "202-225-4165"
+          ]
+        }
+      ]
+    },
+    {
+      "divisions": {
+        "ocd-division/country:us/state:nd": {
+          "name": "North Dakota's At-Large congressional district",
+          "overwrite": "true",
+          "officeIndices": [
+            0
+          ]
+        }
+      },
+      "offices": [
+        {
+          "name": "United States House of Representatives North Dakota At-Large",
+          "divisionId": "ocd-division/country:us/state:nd",
+          "roles": [
+            "legislatorLowerBody"
+          ],
+          "officialIndices": [
+            0
+          ]
+        }
+      ],
+      "officials": [
+        {
+          "name": "Julie Fedorchak",
+          "party": "Republican Party",
+          "overwrite_ocdid": "ocd-division/country:us/state:nd",
+          "overwrite_name": "Julie Fedorchak",
+          "phones": [
+            "202-225-2611"
+          ]
+        }
+      ]
     }
   ]

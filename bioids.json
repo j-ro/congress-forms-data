@@ -4471,7 +4471,7 @@
     "api_uri": "https://api.propublica.org/congress/v1/members/G000596.json",
     "at_large": false
   },
-  "L000604": {
+  "B000825": {
     "example_address": "109 South 3rd Street",
     "address": "109 South 3rd Street",
     "example_city": "Sterling",
@@ -4484,15 +4484,15 @@
     "district": "4",
     "type": "Rep",
     "mark": "true",
-    "name": "Greg Lopez",
+    "name": "Lauren Boebert",
     "ocd_id": "ocd-division/country:us/state:co/cd:4",
-    "id": "L000604",
-    "first_name": "Greg",
+    "id": "B000825",
+    "first_name": "Lauren",
     "middle_name": null,
-    "last_name": "Lopez",
+    "last_name": "Boebert",
     "suffix": null,
     "role": "Representative",
-    "gender": "M",
+    "gender": "F",
     "party": "R",
     "times_topics_url": null,
     "twitter_id": "LopezforCO",
@@ -4500,7 +4500,7 @@
     "youtube_id": null,
     "seniority": "431",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/L000604.json",
+    "api_uri": "https://api.propublica.org/congress/v1/members/B000825.json",
     "at_large": false
   },
   "M001222": {
@@ -13876,7 +13876,7 @@
     "next_election": "2028",
     "api_uri": "https://api.propublica.org/congress/v1/members/P000145.json"
   },
-  "B000944": {
+  "M001242": {
     "example_address": "1301 East Ninth St.",
     "address": "1301 East Ninth St.",
     "example_city": "Cleveland",
@@ -13890,16 +13890,16 @@
     "example_county": "Crawford",
     "type": "Sen",
     "mark": "true",
-    "name": "Sherrod Brown",
+    "name": "Bernie Moreno",
     "ocd_id": "ocd-division/country:us/state:oh",
     "id": "B000944",
-    "first_name": "Sherrod",
+    "first_name": "Bernie",
     "middle_name": "",
-    "last_name": "Brown",
+    "last_name": "Moreno",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
-    "party": "D",
+    "party": "R",
     "times_topics_url": "",
     "twitter_id": "SenSherrodBrown",
     "facebook_account": "SenatorSherrodBrown",
@@ -14187,7 +14187,7 @@
     "next_election": "2024",
     "api_uri": "https://api.propublica.org/congress/v1/members/C000127.json"
   },
-  "C000141": {
+  "A000382": {
     "example_address": "100 S. Charles Street",
     "address": "100 S. Charles Street",
     "example_city": "Baltimore",
@@ -14200,15 +14200,15 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Ben Cardin",
+    "name": "Angela Alsobrooks",
     "ocd_id": "ocd-division/country:us/state:md",
-    "id": "C000141",
-    "first_name": "Benjamin",
-    "middle_name": "L.",
-    "last_name": "Cardin",
+    "id": "A000382",
+    "first_name": "Angela",
+    "middle_name": null,
+    "last_name": "Alsobrooks",
     "suffix": null,
     "role": "Senator, 1st Class",
-    "gender": "M",
+    "gender": "F",
     "party": "D",
     "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/c/benjamin_l_cardin/index.html",
     "twitter_id": "SenatorCardin",
@@ -14216,9 +14216,9 @@
     "youtube_id": "senatorcardin",
     "seniority": "17",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/C000141.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/A000382.json"
   },
-  "C000174": {
+  "B001303": {
     "example_address": "301 North Walnut Street",
     "address": "301 North Walnut Street",
     "example_city": "Wilmington",
@@ -14231,15 +14231,15 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Thomas R. Carper",
+    "name": "Lisa Blunt Rochester",
     "ocd_id": "ocd-division/country:us/state:de",
-    "id": "C000174",
-    "first_name": "Thomas",
-    "middle_name": "R.",
-    "last_name": "Carper",
+    "id": "B001303",
+    "first_name": "Lisa",
+    "middle_name": null,
+    "last_name": "Blunt Rochester",
     "suffix": null,
     "role": "Senator, 1st Class",
-    "gender": "M",
+    "gender": "F",
     "party": "D",
     "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/c/thomas_r_carper/index.html",
     "twitter_id": "SenatorCarper",
@@ -14247,7 +14247,7 @@
     "youtube_id": "senatorcarper",
     "seniority": "23",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/C000174.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/B001303.json"
   },
   "W000790": {
     "example_address": "100 Galleria Parkway",
@@ -14435,7 +14435,7 @@
     "next_election": "2026",
     "api_uri": "https://api.propublica.org/congress/v1/members/C001056.json"
   },
-  "C001070": {
+  "M001243": {
     "example_address": "22 S. Third Street",
     "address": "22 S. Third Street",
     "example_city": "Harrisburg",
@@ -14448,23 +14448,23 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Bob Casey",
+    "name": "David McCormick",
     "ocd_id": "ocd-division/country:us/state:pa",
-    "id": "C001070",
-    "first_name": "Bob",
+    "id": "M001243",
+    "first_name": "David",
     "middle_name": null,
-    "last_name": "Casey",
+    "last_name": "McCormick",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
-    "party": "D",
+    "party": "R",
     "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/c/robert_p_jr_casey/index.html",
     "twitter_id": "SenBobCasey",
     "facebook_account": "SenatorBobCasey",
     "youtube_id": "SenatorBobCasey",
     "seniority": "17",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/C001070.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/M001243.json"
   },
   "B001243": {
     "example_address": "900 Georgia Avenue",
@@ -14590,7 +14590,7 @@
     "next_election": "2026",
     "api_uri": "https://api.propublica.org/congress/v1/members/D000563.json"
   },
-  "B001310": {
+  "B001299": {
     "example_address": "10 West Market Street",
     "address": "10 West Market Street",
     "example_city": "Indianapolis",
@@ -14603,12 +14603,12 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Mike Braun",
+    "name": "Jim Banks",
     "ocd_id": "ocd-division/country:us/state:in",
-    "id": "B001310",
-    "first_name": "Mike",
+    "id": "B001299",
+    "first_name": "Jim",
     "middle_name": null,
-    "last_name": "Braun",
+    "last_name": "Banks",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
@@ -14619,7 +14619,7 @@
     "youtube_id": null,
     "seniority": "1",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/B001310.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/B001299.json"
   },
   "L000571": {
     "example_address": "100 East B Street",
@@ -14652,7 +14652,7 @@
     "next_election": "2026",
     "api_uri": "https://api.propublica.org/congress/v1/members/L000571.json"
   },
-  "B001320": {
+  "S001150": {
     "example_address": "4322 Wilshire Boulevard",
     "address": "4322 Wilshire Boulevard",
     "example_city": "Los Angeles",
@@ -14665,15 +14665,15 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Laphonza R. Butler",
+    "name": "Adam Schiff",
     "ocd_id": "ocd-division/country:us/state:ca",
-    "id": "B001320",
-    "first_name": "Laphonza",
+    "id": "S001150",
+    "first_name": "Adam",
     "middle_name": null,
-    "last_name": "Butler",
+    "last_name": "Schiff",
     "suffix": null,
     "role": "Senator, 1st Class",
-    "gender": "F",
+    "gender": "M",
     "party": "D",
     "times_topics_url": "",
     "twitter_id": null,
@@ -14681,9 +14681,9 @@
     "youtube_id": null,
     "seniority": "1",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/B001320.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/S001150.json"
   },
-  "S001191": {
+  "G000574": {
     "example_address": "2200 East Camelback Road",
     "address": "2200 East Camelback Road",
     "example_city": "Phoenix",
@@ -14696,23 +14696,23 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Kyrsten Sinema",
+    "name": "Ruben Gallego",
     "ocd_id": "ocd-division/country:us/state:az",
-    "id": "S001191",
-    "first_name": "Kyrsten",
+    "id": "G000574",
+    "first_name": "Ruben",
     "middle_name": null,
-    "last_name": "Sinema",
+    "last_name": "Gallego",
     "suffix": null,
     "role": "Senator, 1st Class",
-    "gender": "F",
-    "party": "ID",
+    "gender": "M",
+    "party": "D",
     "times_topics_url": null,
     "twitter_id": "SenatorSinema",
     "facebook_account": "CongresswomanSinema",
     "youtube_id": "repsinema",
     "seniority": "5",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/S001191.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/G000574.json"
   },
   "F000463": {
     "example_address": "20 West 23rd Street",
@@ -14901,7 +14901,7 @@
     "next_election": "2026",
     "api_uri": "https://api.propublica.org/congress/v1/members/E000295.json"
   },
-  "R000615": {
+  "C001114": {
     "example_address": "125 South State Street",
     "address": "125 South State Street",
     "example_city": "Salt Lake City",
@@ -14914,12 +14914,12 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Mitt Romney",
+    "name": "John Curtis",
     "ocd_id": "ocd-division/country:us/state:ut",
-    "id": "R000615",
-    "first_name": "Mitt",
+    "id": "C001114",
+    "first_name": "John",
     "middle_name": null,
-    "last_name": "Romney",
+    "last_name": "Curtis",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
@@ -14930,7 +14930,7 @@
     "youtube_id": null,
     "seniority": "1",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/R000615.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/C001114.json"
   },
   "R000608": {
     "example_address": "8930 West Sunset Road",
@@ -15583,7 +15583,7 @@
     "next_election": "2026",
     "api_uri": "https://api.propublica.org/congress/v1/members/M000355.json"
   },
-  "H001097": {
+  "K000394": {
     "example_address": "108 Lacey Road",
     "address": "108 Lacey Road",
     "example_city": "Lacey Township",
@@ -15596,12 +15596,12 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "George Helmy",
+    "name": "Andy Kim",
     "ocd_id": "ocd-division/country:us/state:nj",
-    "id": "H001097",
-    "first_name": "George",
+    "id": "K000394",
+    "first_name": "Andy",
     "middle_name": null,
-    "last_name": "Helmy",
+    "last_name": "Kim",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
@@ -15612,7 +15612,7 @@
     "youtube_id": null,
     "seniority": "100",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/H001097.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/K000394.json"
   },
   "V000128": {
     "example_address": "100 S. Charles Street",
@@ -16265,7 +16265,7 @@
     "next_election": "2028",
     "api_uri": "https://api.propublica.org/congress/v1/members/B001319.json"
   },
-  "S000770": {
+  "S001208": {
     "example_address": "477 Michigan Avenue",
     "address": "477 Michigan Avenue",
     "example_city": "Detroit",
@@ -16278,12 +16278,12 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Debbie Stabenow",
+    "name": "Elissa Slotkin",
     "ocd_id": "ocd-division/country:us/state:mi",
-    "id": "S000770",
-    "first_name": "Debbie",
+    "id": "S001208",
+    "first_name": "Elissa",
     "middle_name": null,
-    "last_name": "Stabenow",
+    "last_name": "Slotkin",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "F",
@@ -16294,7 +16294,7 @@
     "youtube_id": "senatorstabenow",
     "seniority": "23",
     "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/S000770.json"
+    "api_uri": "https://api.propublica.org/congress/v1/members/S001208.json"
   },
   "S001181": {
     "example_address": "1200 Elm Street",
@@ -16451,7 +16451,7 @@
     "next_election": "2028",
     "api_uri": "https://api.propublica.org/congress/v1/members/F000479.json"
   },
-  "T000464": {
+  "S001232": {
     "example_address": "2900 4th Ave N",
     "address": "2900 4th Ave N",
     "example_city": "Billings",
@@ -16464,16 +16464,16 @@
     "district": "",
     "type": "Sen",
     "mark": "true",
-    "name": "Jon Tester",
+    "name": "Tim Sheehy",
     "ocd_id": "ocd-division/country:us/state:mt",
     "id": "T000464",
-    "first_name": "Jon",
+    "first_name": "Tim",
     "middle_name": null,
-    "last_name": "Tester",
+    "last_name": "Sheehy",
     "suffix": null,
     "role": "Senator, 1st Class",
     "gender": "M",
-    "party": "D",
+    "party": "R",
     "times_topics_url": null,
     "twitter_id": "SenatorTester",
     "facebook_account": "senatortester",
